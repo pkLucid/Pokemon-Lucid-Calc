@@ -1,1 +1,12587 @@
-var SETDEX_SV = {"Oshawott": {"RivalRoute103": {"level": 10, "ability": "Torrent", "moves": ["Chilling Water", "Razor Shell", "Grass Knot"], "nature": "Hasty", "item": "Oran Berry", "index": 0}, "Root Academy 3": {"level": 22, "ability": "Shell Armor", "moves": ["Aqua Cutter", "Night Slash", "Water Sport", "Aqua Jet"], "nature": "Adamant", "item": "Scope Lens", "index": 209}}, "Litten": {"RivalRoute103": {"level": 10, "ability": "Intimidate", "moves": ["Fake Out", "Flame Charge", "Trailblaze"], "nature": "Adamant", "item": "Oran Berry", "index": 1}, "Root Academy 3": {"level": 23, "ability": "Intimidate", "moves": ["Parting Shot", "Fake Out", "Flamethrower", "U-turn"], "nature": "Modest", "item": "Rocky Helmet", "index": 260}}, "Riolu": {"RivalRoute103": {"level": 11, "ability": "Inner Focus", "moves": ["Mach Punch", "Metal Claw"], "nature": "Jolly", "item": "Berry Juice", "index": 2}, "Root Academy 2": {"level": 17, "ability": "Steadfast", "moves": ["Copycat", "Blaze Kick", "Brick Break", "Trailblaze"], "nature": "Adamant", "item": "Expert Belt", "index": 121}}, "Sunkern": {"Root Academy 1": {"level": 10, "ability": "Chlorophyll", "moves": ["Sunny Day", "Growth", "Grass Knot", "Earth Power"], "nature": "Modest", "item": "Heat Rock", "index": 3}}, "Blipbug": {"Root Academy 1": {"level": 10, "ability": "Swarm", "moves": ["Sticky Web", "Recover", "Infestation", "Supersonic"], "nature": "Bold", "item": "Binding Band", "index": 4}}, "Snom": {"Root Academy 1": {"level": 10, "ability": "Ice Scales", "moves": ["Bug Buzz", "Mirror Coat", "Icy Wind"], "nature": "Modest", "item": "Occa Berry", "index": 5}}, "Azurill": {"Root Academy 1": {"level": 10, "ability": "Huge Power", "moves": ["Covet", "Aqua Jet", "Bounce", "Soak"], "nature": "Adamant", "item": "Water Gem", "index": 6}}, "Kricketot": {"Root Academy 1": {"level": 10, "ability": "Shed Skin", "moves": ["Fury Cutter"], "nature": "Adamant", "item": "Metronome", "index": 7}}, "Caterpie": {"Root Academy 1": {"level": 10, "ability": "Shield Dust", "moves": ["Electroweb", "Bug Bite"], "nature": "Hasty", "item": "Life Orb", "index": 8}}, "Weedle": {"Root Academy 1": {"level": 10, "ability": "Shield Dust", "moves": ["Bug Bite", "Electroweb", "Poison Sting"], "nature": "Jolly", "item": "Life Orb", "index": 9}}, "Wurmple": {"Root Academy 1": {"level": 10, "ability": "Shield Dust", "moves": ["Bug Bite", "Electroweb", "Poison Sting"], "nature": "Adamant", "item": "Life Orb", "index": 10}}, "Ralts": {"Root Academy 1": {"level": 10, "ability": "Trace", "moves": ["Dazzling Gleam", "Expanding Force", "Fire Punch", "Destiny Bond"], "nature": "Hasty", "item": "Adrenaline Orb", "index": 11}, "WallyMauville": {"level": 60, "ability": "Trace", "moves": ["Toxic", "Protect", "Moonblast"], "nature": "Jolly", "item": "Everstone", "index": 661}}, "Magikarp": {"Root Academy 1": {"level": 10, "ability": "Rattled", "moves": ["Flail", "Hydro Pump"], "nature": "Lax", "item": "Focus Sash", "index": 12}}, "Feebas": {"Root Academy 1": {"level": 10, "ability": "Adaptability", "moves": ["Ice Beam", "Scald", "Toxic", "Protect"], "nature": "Modest", "item": "Lum Berry", "index": 13}}, "Scatterbug": {"Root Academy 1": {"level": 10, "ability": "Shield Dust", "moves": ["Pounce", "Stun Spore", "Struggle Bug"], "nature": "Adamant", "item": "Lum Berry", "index": 14}}, "Cosmog": {"Root Academy 1": {"level": 10, "ability": "Unaware", "moves": ["Confusion", "Teleport", "Fairy Wind"], "nature": "Bold", "item": "Leftovers", "index": 15}}, "Metapod": {"Root Academy 1": {"level": 10, "ability": "Shed Skin", "moves": ["Iron Defense", "Body Press"], "nature": "Impish", "item": "Leftovers", "index": 16}}, "Kakuna": {"Root Academy 1": {"level": 10, "ability": "Shed Skin", "moves": ["Iron Defense", "Body Press", "Poison Sting"], "nature": "Impish", "item": "Leftovers", "index": 17}}, "Pichu": {"Root Academy 1": {"level": 10, "ability": "Lightning Rod", "moves": ["Thunder", "Grass Knot", "Fake Out", "Nuzzle"], "nature": "Modest", "item": "Electric Gem", "index": 18}}, "Silcoon": {"Root Academy 1": {"level": 10, "ability": "Shed Skin", "moves": ["Iron Defense", "Body Press", "Poison Sting"], "nature": "Impish", "item": "Leftovers", "index": 19}}, "Cascoon": {"Root Academy 1": {"level": 10, "ability": "Shed Skin", "moves": ["Iron Defense", "Poison Sting", "Body Press"], "nature": "Impish", "item": "Leftovers", "index": 20}}, "Igglybuff": {"Root Academy 1": {"level": 10, "ability": "Competitive", "moves": ["Draining Kiss", "Flamethrower", "Seismic Toss", "Encore"], "nature": "Bold", "item": "Lum Berry", "index": 21}}, "Wooper": {"Root Academy 1": {"level": 10, "ability": "Water Absorb", "moves": ["Recover", "Liquidation", "Toxic", "Protect"], "nature": "Impish", "item": "Leftovers", "index": 22}}, "Wooper-Paldea": {"Root Academy 1": {"level": 10, "ability": "Water Absorb", "moves": ["Toxic", "Protect", "Poison Jab", "Recover"], "nature": "Impish", "item": "Leftovers", "index": 23}}, "Tyrogue": {"Root Academy 1": {"level": 10, "ability": "Guts", "moves": ["Fake Out", "Brick Break", "Bulk Up", "Bullet Punch"], "nature": "Adamant", "item": "Flame Orb", "index": 24}}, "Bounsweet": {"Root Academy 1": {"level": 10, "ability": "Leaf Guard", "moves": ["Leaf Storm", "Synthesis"], "nature": "Timid", "item": "Eject Pack", "index": 25}}, "Tarountula": {"Root Academy 1": {"level": 10, "ability": "Stakeout", "moves": ["First Impression", "Sucker Punch", "Sticky Web", "Circle Throw"], "nature": "Adamant", "item": "Charti Berry", "index": 26}}, "Nymble": {"Root Academy 1": {"level": 10, "ability": "Tinted Lens", "moves": ["First Impression", "Sucker Punch", "U-turn", "Pounce"], "nature": "Adamant", "item": "Oran Berry", "index": 27}}, "Spewpa": {"Root Academy 1": {"level": 11, "ability": "Shed Skin", "moves": ["Iron Defense", "Body Press"], "nature": "Impish", "item": "Eviolite", "index": 28}}, "Sentret": {"Root Academy 1": {"level": 11, "ability": "Run Away", "moves": ["Retaliate"], "nature": "Jolly", "item": "Oran Berry", "index": 29}}, "Cleffa": {"Root Academy 1": {"level": 11, "ability": "Magic Guard", "moves": ["Draining Kiss", "Mystical Fire", "Thunder Wave"], "nature": "Modest", "item": "Life Orb", "index": 30}}, "Poochyena": {"Root Academy 1": {"level": 11, "ability": "Rattled", "moves": ["Bite", "Ice Fang", "Fire Fang", "Thunder Fang"], "nature": "Jolly", "item": "Liechi Berry", "index": 31}}, "Lotad": {"Root Academy 1": {"level": 11, "ability": "Swift Swim", "moves": ["Rain Dance", "Giga Drain", "Scald", "Ice Beam"], "nature": "Modest", "item": "Damp Rock", "index": 32}}, "Seedot": {"Root Academy 1": {"level": 11, "ability": "Chlorophyll", "moves": ["Explosion", "Giga Drain", "Solar Beam", "Sunny Day"], "nature": "Modest", "item": "Heat Rock", "index": 33}}, "Happiny": {"Root Academy 1": {"level": 11, "ability": "Serene Grace", "moves": ["Drain Punch", "Ice Punch", "Fire Punch", "Thunder Punch"], "nature": "Adamant", "item": "Punching Glove", "index": 34}}, "Burmy": {"Root Academy 1": {"level": 11, "ability": "Shed Skin", "moves": ["Electroweb", "Bug Bite"], "nature": "Relaxed", "item": "Eviolite", "index": 35}}, "Wimpod": {"Root Academy 1": {"level": 11, "ability": "Wimp Out", "moves": ["Aqua Jet", "Leech Life", "Waterfall", "Spikes"], "nature": "Adamant", "item": "Sitrus Berry", "index": 36}}, "Makuhita": {"Root Academy 1": {"level": 11, "ability": "Guts", "moves": ["Fake Out", "Drain Punch", "Ice Punch", "Bullet Punch"], "nature": "Adamant", "item": "Flame Orb", "index": 37}}, "Bunnelby": {"Root Academy 1": {"level": 11, "ability": "Huge Power", "moves": ["Tackle", "Quick Attack", "Mud-Slap", "Power-Up Punch"], "nature": "Jolly", "item": "Ability Shield", "index": 38}}, "Zigzagoon": {"Root Academy 1": {"level": 11, "ability": "Gluttony", "moves": ["Belly Drum", "Tackle"], "nature": "Adamant", "item": "Sitrus Berry", "index": 39}}, "Zigzagoon-Galar": {"Root Academy 1": {"level": 11, "ability": "Gluttony", "moves": ["Work Up", "Lash Out", "Hyper Voice"], "nature": "Hasty", "item": "Sitrus Berry", "index": 40}}, "Whismur": {"Root Academy 1": {"level": 11, "ability": "Soundproof", "moves": ["Uproar"], "nature": "Modest", "item": "Choice Specs", "index": 41}}, "Rolycoly": {"Root Academy 1": {"level": 11, "ability": "Steam Engine", "moves": ["Stealth Rock", "Incinerate", "Rock Tomb", "Will-O-Wisp"], "nature": "Impish", "item": "Passho Berry", "index": 42}}, "Pawmi": {"Root Academy 1": {"level": 11, "ability": "Iron Fist", "moves": ["Thunder Punch", "Fake Out", "Mach Punch", "Encore"], "nature": "Jolly", "item": "Punching Glove", "index": 43}}, "Toxel": {"Root Academy 1": {"level": 11, "ability": "Rattled", "moves": ["Nuzzle", "Acid", "Belch"], "nature": "Mild", "item": "Sitrus Berry", "index": 44}}, "Combee": {"Root Academy 1": {"level": 11, "ability": "Hustle", "moves": ["Bug Bite", "Energy Ball", "Gust", "Bug Buzz"], "nature": "Mild", "item": "Charti Berry", "index": 45}}, "Zubat": {"Root Academy 1": {"level": 11, "ability": "Inner Focus", "moves": ["Acrobatics", "Poison Fang", "Giga Drain"], "nature": "Jolly", "item": "Flying Gem", "index": 46}}, "Togepi": {"Root Academy 1": {"level": 11, "ability": "Serene Grace", "moves": ["Thunder Wave", "Headbutt"], "nature": "Jolly", "item": "Leftovers", "index": 47}}, "Starly": {"Root Academy 1": {"level": 11, "ability": "Reckless", "moves": ["Take Down", "Brave Bird", "Steel Wing"], "nature": "Adamant", "item": "Adrenaline Orb", "index": 48}}, "Noibat": {"Root Academy 1": {"level": 10, "ability": "Infiltrator", "moves": ["Draco Meteor"], "nature": "Timid", "item": "White Herb", "index": 49}}, "Rookidee": {"Root Academy 1": {"level": 11, "ability": "Unnerve", "moves": ["Nasty Plot", "Air Slash", "Swift"], "nature": "Timid", "item": "Sitrus Berry", "index": 50}}, "Nickit": {"Root Academy 1": {"level": 11, "ability": "Stakeout", "moves": ["Snarl", "Mud Shot"], "nature": "Modest", "item": "Red Card", "index": 51}}, "Wiglett": {"Root Academy 1": {"level": 11, "ability": "Rattled", "moves": ["Aqua Jet", "Liquidation", "Throat Chop", "Foul Play"], "nature": "Adamant", "item": "Chilan Berry", "index": 52}}, "Spinarak": {"Root Academy 1": {"level": 11, "ability": "Sniper", "moves": ["Sticky Web", "Curse", "Baton Pass", "Leech Life"], "nature": "Adamant", "item": "Occa Berry", "index": 53}}, "Marill": {"Root Academy 1": {"level": 11, "ability": "Huge Power", "moves": ["Aqua Jet", "Tickle", "Covet", "Seismic Toss"], "nature": "Adamant", "item": "Ability Shield", "index": 54}}, "Hoppip": {"Root Academy 1": {"level": 11, "ability": "Leaf Guard", "moves": ["Sleep Powder", "Acrobatics", "Giga Drain"], "nature": "Mild", "item": "Flying Gem", "index": 55}}, "Slugma": {"Root Academy 1": {"level": 11, "ability": "Magma Armor", "moves": ["Ancient Power", "Flamethrower", "Flame Charge"], "nature": "Modest", "item": "Leftovers", "index": 56}}, "Swinub": {"Root Academy 1": {"level": 11, "ability": "Thick Fat", "moves": ["Stealth Rock", "Ice Shard", "Bulldoze", "Roar"], "nature": "Jolly", "item": "Sitrus Berry", "index": 57}}, "Bidoof": {"Root Academy 1": {"level": 11, "ability": "Moody", "moves": ["Swords Dance", "Quick Attack", "Last Resort", "Superpower"], "nature": "Adamant", "item": "Adrenaline Orb", "index": 58}}, "Fomantis": {"Root Academy 1": {"level": 11, "ability": "Contrary", "moves": ["Leaf Storm"], "nature": "Timid", "item": "Grass Gem", "index": 59}}, "Gossifleur": {"Root Academy 1": {"level": 11, "ability": "Cotton Down", "moves": ["Leech Seed", "Substitute", "Synthesis", "Toxic"], "nature": "Bold", "item": "Eviolite", "index": 60}}, "Pidgey": {"Root Academy 1": {"level": 12, "ability": "Keen Eye", "moves": ["Air Cutter"], "nature": "Modest", "item": "Flying Gem", "index": 61}}, "Rattata": {"Root Academy 1": {"level": 12, "ability": "Guts", "moves": ["Tackle", "Quick Attack"], "nature": "Jolly", "item": "Flame Orb", "index": 62}}, "Rattata-Alola": {"Root Academy 1": {"level": 12, "ability": "Hustle", "moves": ["Tackle", "Quick Attack"], "nature": "Jolly", "item": "Silk Scarf", "index": 63}}, "Yungoos": {"Root Academy 1": {"level": 12, "ability": "Adaptability", "moves": ["Tackle"], "nature": "Jolly", "item": "Silk Scarf", "index": 64}}, "Lechonk": {"Root Academy 1": {"level": 12, "ability": "Aroma Veil", "moves": ["Stuff Cheeks", "Tackle"], "nature": "Adamant", "item": "Liechi Berry", "index": 65}}, "Patrat": {"Root Academy 1": {"level": 12, "ability": "Analytic", "moves": ["Tackle"], "nature": "Adamant", "item": "Silk Scarf", "index": 66}}, "Charcadet": {"Root Academy 1": {"level": 12, "ability": "Flash Fire", "moves": ["Destiny Bond", "Flame Charge", "Fire Spin", "Night Shade"], "nature": "Adamant", "item": "Charcoal", "index": 67}}, "Flittle": {"Root Academy 1": {"level": 12, "ability": "Speed Boost", "moves": ["Protect", "Stored Power", "Calm Mind", "U-turn"], "nature": "Hasty", "item": "Clear Amulet", "index": 68}}, "Skitty": {"Root Academy 1": {"level": 12, "ability": "Normalize", "moves": ["Fake Out", "Last Resort", "Hold Back", "False Swipe"], "nature": "Adamant", "item": "Silk Scarf", "index": 69}}, "Wynaut": {"Root Academy 1": {"level": 12, "ability": "Telepathy", "moves": ["Mean Look", "Destiny Bond"], "nature": "Impish", "item": "Iapapa Berry", "index": 70}}, "Venipede": {"Root Academy 1": {"level": 12, "ability": "Speed Boost", "moves": ["Poison Jab", "Spikes", "Toxic Spikes", "Iron Defense"], "nature": "Adamant", "item": "Black Sludge", "index": 71}}, "Applin": {"Root Academy 1": {"level": 12, "ability": "Ripen", "moves": ["Sucker Punch", "Grassy Glide", "Pounce", "Recycle"], "nature": "Careful", "item": "Starf Berry", "index": 72}}, "Smoliv": {"Root Academy 1": {"level": 12, "ability": "Harvest", "moves": ["Mega Drain", "Earth Power", "Memento", "Strength Sap"], "nature": "Modest", "item": "Sitrus Berry", "index": 73}}, "Spearow": {"Root Academy 1": {"level": 12, "ability": "Sniper", "moves": ["Facade", "Drill Run", "Air Cutter", "Focus Energy"], "nature": "Jolly", "item": "Scope Lens", "index": 74}}, "Hoothoot": {"Root Academy 1": {"level": 12, "ability": "Insomnia", "moves": ["Hypnosis", "Air Cutter", "Psychic", "Night Shade"], "nature": "Bold", "item": "Leftovers", "index": 75}}, "Shinx": {"Root Academy 1": {"level": 12, "ability": "Intimidate", "moves": ["Charge", "Spark", "Fire Fang", "Ice Fang"], "nature": "Jolly", "item": "Electric Gem", "index": 76}}, "Pidove": {"Root Academy 1": {"level": 12, "ability": "Super Luck", "moves": ["Air Cutter", "Night Slash", "Morning Sun", "Taunt"], "nature": "Mild", "item": "Scope Lens", "index": 77}}, "Diglett": {"Root Academy 1": {"level": 12, "ability": "Sand Force", "moves": ["Bulldoze", "Rock Tomb", "Sandstorm", "Memento"], "nature": "Adamant", "item": "Passho Berry", "index": 78}}, "Diglett-Alola": {"Root Academy 1": {"level": 12, "ability": "Sand Force", "moves": ["Sandstorm", "Steel Beam", "Bulldoze", "Foul Play"], "nature": "Mild", "item": "Passho Berry", "index": 79}}, "Ledyba": {"Root Academy 1": {"level": 12, "ability": "Swarm", "moves": ["Swords Dance", "Drain Punch", "Knock Off", "Aerial Ace"], "nature": "Adamant", "item": "Muscle Band", "index": 80}}, "Pikipek": {"Root Academy 1": {"level": 12, "ability": "Skill Link", "moves": ["Bullet Seed", "Rock Smash", "Flame Charge", "Drill Peck"], "nature": "Jolly", "item": "Clear Amulet", "index": 81}}, "Hatenna": {"Root Academy 1": {"level": 11, "ability": "Healer", "moves": ["Trick Room", "Expanding Force", "Psychic Terrain", "Dazzling Gleam"], "nature": "Quiet", "item": "Terrain Extender", "index": 82}}, "Impidimp": {"Root Academy 1": {"level": 12, "ability": "Prankster", "moves": ["Thunder Wave", "Lash Out", "Fake Out", "Draining Kiss"], "nature": "Relaxed", "item": "Leftovers", "index": 83}}, "Nincada": {"Root Academy 1": {"level": 12, "ability": "Compound Eyes", "moves": ["Leech Life", "Dig", "Night Slash", "Rest"], "nature": "Adamant", "item": "Scope Lens", "index": 84}}, "Surskit": {"Root Academy 1": {"level": 12, "ability": "Swift Swim", "moves": ["Rain Dance", "Surf", "Bug Buzz", "Giga Drain"], "nature": "Modest", "item": "Damp Rock", "index": 85}}, "Dewpider": {"Root Academy 1": {"level": 11, "ability": "Water Bubble", "moves": ["Liquidation", "Leech Life"], "nature": "Adamant", "item": "Choice Band", "index": 86}}, "Jigglypuff": {"Root Academy 1": {"level": 12, "ability": "Competitive", "moves": ["Dazzling Gleam", "Draining Kiss", "Calm Mind", "Baton Pass"], "nature": "Timid", "item": "Leftovers", "index": 87}}, "Taillow": {"Root Academy 1": {"level": 12, "ability": "Guts", "moves": ["Facade", "Brave Bird"], "nature": "Adamant", "item": "Flame Orb", "index": 88}}, "Wingull": {"Root Academy 1": {"level": 12, "ability": "Hydration", "moves": ["Scald", "Roost", "Agility", "Tailwind"], "nature": "Modest", "item": "Wacan Berry", "index": 89}}, "Wooloo": {"Root Academy 1": {"level": 12, "ability": "Fluffy", "moves": ["Iron Defense", "Body Press", "Facade", "Substitute"], "nature": "Impish", "item": "Leftovers", "index": 90}}, "Yamper": {"Root Academy 1": {"level": 12, "ability": "Rattled", "moves": ["Thunder Fang", "Flame Charge", "Play Rough", "Fire Fang"], "nature": "Adamant", "item": "Fire Gem", "index": 91}}, "Milcery": {"Root Academy 1": {"level": 12, "ability": "Sweet Veil", "moves": ["Acid Armor", "Draining Kiss", "Stored Power", "Substitute"], "nature": "Bold", "item": "Leftovers", "index": 92}}, "Dreepy": {"Root Academy 1": {"level": 12, "ability": "Infiltrator", "moves": ["Dragon Tail", "Curse", "Sucker Punch", "Infestation"], "nature": "Adamant", "item": "Clear Amulet", "index": 93}}, "Rellor": {"Root Academy 1": {"level": 12, "ability": "Compound Eyes", "moves": ["Lunge", "Gunk Shot", "Memento", "Rock Tomb"], "nature": "Adamant", "item": "Occa Berry", "index": 94}}, "Tadbulb": {"Root Academy 2": {"level": 17, "ability": "Own Tempo", "moves": ["Sucker Punch", "Chilling Water", "Thunder Wave", "Volt Switch"], "nature": "Modest", "item": "Lum Berry", "index": 95}}, "Nidoran-M": {"Root Academy 2": {"level": 17, "ability": "Hustle", "moves": ["Poison Jab", "Sucker Punch", "Super Fang"], "nature": "Adamant", "item": "Black Sludge", "index": 96}}, "Nidoran-F": {"Root Academy 2": {"level": 17, "ability": "Hustle", "moves": ["Poison Jab", "Sucker Punch", "Super Fang"], "nature": "Adamant", "item": "Black Sludge", "index": 97}}, "Cherubi": {"Root Academy 2": {"level": 17, "ability": "Chlorophyll", "moves": ["Sunny Day", "Growth", "Solar Beam", "Weather Ball"], "nature": "Modest", "item": "Heat Rock", "index": 98}}, "Lillipup": {"Root Academy 2": {"level": 17, "ability": "Vital Spirit", "moves": ["Psychic Fangs", "Ice Fang", "Thunder Fang", "Fire Fang"], "nature": "Adamant", "item": "Expert Belt", "index": 99}}, "Tynamo": {"Root Academy 2": {"level": 17, "ability": "Levitate", "moves": ["Spark", "Thunder Wave", "Charge Beam", "Magnet Rise"], "nature": "Lonely", "item": "Air Balloon", "index": 100}}, "Litwick": {"Root Academy 2": {"level": 17, "ability": "Flash Fire", "moves": ["Trick Room", "Hex", "Flame Burst", "Memento"], "nature": "Modest", "item": "Luminous Moss", "index": 101}}, "Skwovet": {"Root Academy 2": {"level": 17, "ability": "Gluttony", "moves": ["Quick Attack", "Body Slam", "Stuff Cheeks", "Seed Bomb"], "nature": "Adamant", "item": "Liechi Berry", "index": 102}}, "Bramblin": {"Root Academy 2": {"level": 17, "ability": "Wind Rider", "moves": ["Phantom Force", "Seed Bomb", "Shadow Sneak", "Spikes"], "nature": "Adamant", "item": "Sitrus Berry", "index": 103}}, "Kirlia": {"Root Academy 2": {"level": 17, "ability": "Trace", "moves": ["Calm Mind", "Draining Kiss", "Encore", "Psyshock"], "nature": "Timid", "item": "Fairy Gem", "index": 104}}, "Fletchling": {"Root Academy 2": {"level": 17, "ability": "Gale Wings", "moves": ["Acrobatics", "Heat Wave"], "nature": "Adamant", "item": "Flying Gem", "index": 105}}, "Mareep": {"Root Academy 2": {"level": 17, "ability": "Static", "moves": ["Charge", "Charge Beam", "Agility", "Power Gem"], "nature": "Modest", "item": "Rock Gem", "index": 106}}, "Slakoth": {"Root Academy 2": {"level": 17, "ability": "Truant", "moves": ["Facade", "Brick Break", "Focus Punch"], "nature": "Adamant", "item": "Leftovers", "index": 107}}, "Meditite": {"Root Academy 2": {"level": 17, "ability": "Pure Power", "moves": ["Rock Smash", "Fake Out", "Fire Punch", "Recover"], "nature": "Jolly", "item": "Leftovers", "index": 108}}, "Budew": {"Root Academy 2": {"level": 17, "ability": "Leaf Guard", "moves": ["Leaf Storm", "Sludge", "Synthesis", "Spikes"], "nature": "Modest", "item": "Black Sludge", "index": 109}}, "Roggenrola": {"Root Academy 2": {"level": 17, "ability": "Sturdy", "moves": ["Stealth Rock", "Rock Blast", "Body Press", "Toxic"], "nature": "Impish", "item": "Leftovers", "index": 110}}, "Cottonee": {"Root Academy 2": {"level": 17, "ability": "Prankster", "moves": ["Leech Seed", "Substitute", "Stun Spore", "Fairy Wind"], "nature": "Timid", "item": "Leftovers", "index": 111}}, "Petilil": {"Root Academy 2": {"level": 17, "ability": "Leaf Guard", "moves": ["Encore", "Energy Ball", "Synthesis", "Stun Spore"], "nature": "Modest", "item": "Focus Sash", "index": 112}}, "Rockruff": {"Root Academy 2": {"level": 17, "ability": "Vital Spirit", "moves": ["Trailblaze", "Rock Slide", "Crunch", "Psychic Fangs"], "nature": "Adamant", "item": "Clear Amulet", "index": 113}}, "Arrokuda": {"Root Academy 2": {"level": 17, "ability": "Swift Swim", "moves": ["Rain Dance", "Liquidation", "Ice Fang", "Close Combat"], "nature": "Adamant", "item": "Damp Rock", "index": 114}}, "Nacli": {"Root Academy 2": {"level": 17, "ability": "Purifying Salt", "moves": ["Stealth Rock", "Salt Cure", "Recover", "Power Gem"], "nature": "Relaxed", "item": "Leftovers", "index": 115}}, "Wattrel": {"Root Academy 2": {"level": 17, "ability": "Wind Power", "moves": ["Tailwind", "Discharge", "Air Slash", "U-turn"], "nature": "Modest", "item": "Heavy-Duty Boots", "index": 116}}, "Purrloin": {"Root Academy 2": {"level": 17, "ability": "Prankster", "moves": ["Assist"], "nature": "Hasty", "item": "Focus Band", "index": 117}}, "Chewtle": {"Root Academy 2": {"level": 17, "ability": "Strong Jaw", "moves": ["Jaw Lock", "Ice Fang", "Liquidation", "Chilling Water"], "nature": "Brave", "item": "Muscle Band", "index": 118}}, "Paras": {"Root Academy 2": {"level": 17, "ability": "Dry Skin", "moves": ["Spore", "Brick Break", "Giga Drain", "Leech Life"], "nature": "Brave", "item": "Occa Berry", "index": 119}}, "Chingling": {"Root Academy 2": {"level": 17, "ability": "Levitate", "moves": ["Future Sight", "Dazzling Gleam", "Grass Knot", "Recover"], "nature": "Modest", "item": "Shell Bell", "index": 120}}, "Morelull": {"Root Academy 2": {"level": 17, "ability": "Illuminate", "moves": ["Spore", "Draining Kiss", "Giga Drain", "Wonder Room"], "nature": "Bold", "item": "Kebia Berry", "index": 122}}, "Ekans": {"Root Academy 2": {"level": 17, "ability": "Intimidate", "moves": ["Coil", "Crunch", "Aqua Tail", "Disable"], "nature": "Adamant", "item": "Black Sludge", "index": 123}}, "Ditto": {"Root Academy 2": {"level": 17, "ability": "Imposter", "moves": ["Transform"], "nature": "Bold", "item": "Lagging Tail", "index": 124}, "Confusion Room - Alexia": {"level": 64, "ability": "Imposter", "moves": ["Transform", "Explosion"], "nature": "Bold", "item": "Metal Powder", "index": 838}}, "Barboach": {"Root Academy 2": {"level": 17, "ability": "Adaptability", "moves": ["Earthquake", "Stealth Rock", "Surf", "Toxic"], "nature": "Hasty", "item": "Ground Gem", "index": 125}}, "Inkay": {"Root Academy 2": {"level": 17, "ability": "Contrary", "moves": ["Superpower", "Thief", "Taunt", "Trick Room"], "nature": "Adamant", "item": "Ability Shield", "index": 126}}, "Helioptile": {"Root Academy 2": {"level": 17, "ability": "Dry Skin", "moves": ["Volt Switch", "Round", "Quick Attack", "Dragon Tail"], "nature": "Hasty", "item": "Shuca Berry", "index": 127}}, "Meowth": {"Root Academy 2": {"level": 17, "ability": "Technician", "moves": ["Fake Out", "Aerial Ace", "Chilling Water", "Trailblaze"], "nature": "Adamant", "item": "Muscle Band", "index": 128}}, "Meowth-Alola": {"Root Academy 2": {"level": 17, "ability": "Technician", "moves": ["Fake Out", "Aerial Ace", "Chilling Water", "Trailblaze"], "nature": "Adamant", "item": "Muscle Band", "index": 129}}, "Meowth-Galar": {"Root Academy 2": {"level": 17, "ability": "Tough Claws", "moves": ["Fake Out", "Aerial Ace", "Trailblaze", "Smart Strike"], "nature": "Jolly", "item": "Muscle Band", "index": 130}}, "Pineco": {"Root Academy 2": {"level": 17, "ability": "Sturdy", "moves": ["Stealth Rock", "Spikes", "Toxic Spikes", "Bug Bite"], "nature": "Impish", "item": "Berry Juice", "index": 131}}, "Trapinch": {"Root Academy 2": {"level": 17, "ability": "Hyper Cutter", "moves": ["Bulldoze", "Rock Tomb", "Rock Smash", "First Impression"], "nature": "Adamant", "item": "Bug Gem", "index": 132}}, "Spheal": {"Root Academy 2": {"level": 17, "ability": "Thick Fat", "moves": ["Freeze-Dry", "Encore", "Brine", "Ice Ball"], "nature": "Mild", "item": "Leftovers", "index": 133}}, "Bonsly": {"Root Academy 2": {"level": 17, "ability": "Sturdy", "moves": ["Stealth Rock", "Spikes", "Foul Play", "Rock Tomb"], "nature": "Impish", "item": "Red Card", "index": 134}}, "Gothita": {"Root Academy 2": {"level": 17, "ability": "Competitive", "moves": ["Grass Knot", "Fake Out", "Psyshock", "Dark Pulse"], "nature": "Hasty", "item": "Petaya Berry", "index": 135}}, "Solosis": {"Root Academy 2": {"level": 17, "ability": "Magic Guard", "moves": ["Trick Room", "Psyshock", "Energy Ball", "Flash Cannon"], "nature": "Modest", "item": "Life Orb", "index": 136}}, "Steenee": {"Root Academy 2": {"level": 17, "ability": "Leaf Guard", "moves": ["Energy Ball", "Play Rough", "Endeavor", "Triple Axel"], "nature": "Hasty", "item": "Expert Belt", "index": 137}}, "Shroodle": {"Root Academy 2": {"level": 17, "ability": "Prankster", "moves": ["Foul Play", "Poison Jab", "Parting Shot", "Encore"], "nature": "Impish", "item": "Mental Herb", "index": 138}}, "Greavard": {"Root Academy 2": {"level": 17, "ability": "Fluffy", "moves": ["Last Respects", "Destiny Bond", "Fire Fang", "Shadow Sneak"], "nature": "Adamant", "item": "Spell Tag", "index": 139}}, "Munna": {"Root Academy 2": {"level": 17, "ability": "Forewarn", "moves": ["Calm Mind", "Charge Beam", "Moonlight", "Psyshock"], "nature": "Modest", "item": "Leftovers", "index": 140}}, "Sandile": {"Root Academy 2": {"level": 17, "ability": "Intimidate", "moves": ["Bulldoze", "Crunch", "Brick Break", "Hone Claws"], "nature": "Adamant", "item": "Berry Juice", "index": 141}}, "Tympole": {"Root Academy 2": {"level": 17, "ability": "Swift Swim", "moves": ["Hydro Pump", "Toxic", "Bounce"], "nature": "Mild", "item": "Blunder Policy", "index": 142}}, "Foongus": {"Root Academy 2": {"level": 17, "ability": "Effect Spore", "moves": ["Spore", "Giga Drain", "Foul Play", "Toxic"], "nature": "Bold", "item": "Black Sludge", "index": 143}}, "Horsea": {"Root Academy 2": {"level": 17, "ability": "Sniper", "moves": ["Brine", "Dragon Breath", "Agility", "Focus Energy"], "nature": "Modest", "item": "Scope Lens", "index": 144}}, "Shroomish": {"Root Academy 2": {"level": 17, "ability": "Effect Spore", "moves": ["Spore", "Seed Bomb", "Drain Punch", "Leech Seed"], "nature": "Adamant", "item": "Leftovers", "index": 145}}, "Electrike": {"Root Academy 2": {"level": 17, "ability": "Static", "moves": ["Shock Wave"], "nature": "Timid", "item": "Choice Specs", "index": 146}}, "Shuppet": {"Root Academy 2": {"level": 17, "ability": "Cursed Body", "moves": ["Will-O-Wisp", "Destiny Bond", "Shadow Sneak", "Sucker Punch"], "nature": "Adamant", "item": "Wide Lens", "index": 147}}, "Duskull": {"Root Academy 2": {"level": 17, "ability": "Levitate", "moves": ["Shadow Sneak", "Night Shade", "Will-O-Wisp", "Pain Split"], "nature": "Impish", "item": "Oran Berry", "index": 148}}, "Blitzle": {"Root Academy 2": {"level": 17, "ability": "Lightning Rod", "moves": ["Wild Charge", "Flame Charge", "Low Kick", "Volt Switch"], "nature": "Jolly", "item": "Expert Belt", "index": 149}}, "Tinkatink": {"Root Academy 2": {"level": 17, "ability": "Mold Breaker", "moves": ["Stealth Rock", "Fake Out", "Play Rough", "Foul Play"], "nature": "Impish", "item": "Leftovers", "index": 150}}, "Vulpix": {"Root Academy 2": {"level": 17, "ability": "Drought", "moves": ["Incinerate", "Memento"], "nature": "Timid", "item": "Heat Rock", "index": 151}}, "Vulpix-Alola": {"Root Academy 2": {"level": 17, "ability": "Snow Warning", "moves": ["Freeze-Dry", "Memento"], "nature": "Timid", "item": "Icy Rock", "index": 152}}, "Sandshrew": {"Root Academy 2": {"level": 17, "ability": "Sand Rush", "moves": ["Bulldoze", "Rock Tomb", "Brick Break", "Detect"], "nature": "Adamant", "item": "Oran Berry", "index": 153}}, "Sandshrew-Alola": {"Root Academy 2": {"level": 17, "ability": "Slush Rush", "moves": ["Bulldoze", "Rock Tomb", "Ice Ball", "Defense Curl"], "nature": "Adamant", "item": "Oran Berry", "index": 154}}, "Poliwag": {"Root Academy 2": {"level": 17, "ability": "Swift Swim", "moves": ["Rain Dance", "Scald", "Encore", "Earth Power"], "nature": "Modest", "item": "Damp Rock", "index": 155}}, "Bellsprout": {"Root Academy 2": {"level": 17, "ability": "Chlorophyll", "moves": ["Sunny Day", "Solar Beam", "Growth"], "nature": "Modest", "item": "Heat Rock", "index": 156}}, "Geodude": {"Root Academy 2": {"level": 17, "ability": "Sturdy", "moves": ["Stealth Rock", "Rock Tomb", "Flamethrower", "Seismic Toss"], "nature": "Impish", "item": "Oran Berry", "index": 157}}, "Geodude-Alola": {"Root Academy 2": {"level": 17, "ability": "Sturdy", "moves": ["Stealth Rock", "Rock Tomb", "Flamethrower", "Seismic Toss"], "nature": "Impish", "item": "Oran Berry", "index": 158}}, "Dratini": {"Root Academy 2": {"level": 17, "ability": "Shed Skin", "moves": ["Dragon Dance", "Extreme Speed", "Dragon Tail", "Thunder Wave"], "nature": "Adamant", "item": "Clear Amulet", "index": 159}}, "Snubbull": {"Root Academy 2": {"level": 17, "ability": "Intimidate", "moves": ["Play Rough", "Brick Break", "Bulk Up", "Power-Up Punch"], "nature": "Adamant", "item": "Clear Amulet", "index": 160}}, "Remoraid": {"Root Academy 2": {"level": 17, "ability": "Sniper", "moves": ["Focus Energy", "Water Spout", "Flamethrower", "Ice Beam"], "nature": "Timid", "item": "Scope Lens", "index": 161}}, "Larvitar": {"Root Academy 2": {"level": 17, "ability": "Guts", "moves": ["Stealth Rock", "Earthquake", "Stone Edge", "Facade"], "nature": "Adamant", "item": "Flame Orb", "index": 162}}, "Baltoy": {"Root Academy 2": {"level": 17, "ability": "Levitate", "moves": ["Stealth Rock", "Skill Swap", "Power Swap", "Extrasensory"], "nature": "Impish", "item": "Berry Juice", "index": 163}}, "Snorunt": {"Root Academy 2": {"level": 17, "ability": "Moody", "moves": ["Protect", "Substitute", "Ice Spinner", "Mimic"], "nature": "Jolly", "item": "Clear Amulet", "index": 164}}, "Bagon": {"Root Academy 2": {"level": 17, "ability": "Sheer Force", "moves": ["Dragon Tail", "Brick Break", "Fire Fang", "Shadow Claw"], "nature": "Jolly", "item": "Life Orb", "index": 165}}, "Beldum": {"Root Academy 2": {"level": 17, "ability": "Clear Body", "moves": ["Iron Head", "Zen Headbutt", "Steel Beam", "Iron Defense"], "nature": "Adamant", "item": "Leftovers", "index": 166}}, "Bronzor": {"Root Academy 2": {"level": 17, "ability": "Levitate", "moves": ["Psywave", "Gyro Ball", "Rest", "Trick Room"], "nature": "Relaxed", "item": "Chesto Berry", "index": 167}}, "Gible": {"Root Academy 2": {"level": 17, "ability": "Rough Skin", "moves": ["Bulldoze", "Dragon Tail", "Rock Throw", "Stealth Rock"], "nature": "Jolly", "item": "Rocky Helmet", "index": 168}}, "Croagunk": {"Root Academy 2": {"level": 17, "ability": "Dry Skin", "moves": ["Fake Out", "Belch", "Drain Punch", "Sucker Punch"], "nature": "Adamant", "item": "Sitrus Berry", "index": 169}}, "Minccino": {"Root Academy 2": {"level": 17, "ability": "Skill Link", "moves": ["Double Slap", "Triple Axel", "U-turn"], "nature": "Jolly", "item": "Silk Scarf", "index": 170}}, "Klink": {"Root Academy 2": {"level": 17, "ability": "Clear Body", "moves": ["Shift Gear", "Gear Grind", "Rock Smash"], "nature": "Adamant", "item": "Leftovers", "index": 171}}, "Deino": {"Root Academy 2": {"level": 17, "ability": "Hustle", "moves": ["Feint Attack", "Breaking Swipe", "Fire Fang", "Taunt"], "nature": "Hasty", "item": "Wide Lens", "index": 172}}, "Goomy": {"Root Academy 2": {"level": 17, "ability": "Sap Sipper", "moves": ["Draco Meteor"], "nature": "Modest", "item": "Ability Shield", "index": 173}}, "Grubbin": {"Root Academy 2": {"level": 17, "ability": "Swarm", "moves": ["Sticky Web", "X-Scissor", "Volt Switch", "Toxic"], "nature": "Adamant", "item": "Adrenaline Orb", "index": 174}}, "Jangmo-o": {"Root Academy 2": {"level": 17, "ability": "Bulletproof", "moves": ["Dragon Breath", "Focus Punch", "Counter", "Dragon Tail"], "nature": "Hasty", "item": "Assault Vest", "index": 175}}, "Meltan": {"Root Academy 2": {"level": 17, "ability": "Magnet Pull", "moves": ["Steel Beam", "Acid Armor", "Rest", "Thunderbolt"], "nature": "Hasty", "item": "Chesto Berry", "index": 176}}, "Varoom": {"Root Academy 2": {"level": 17, "ability": "Overcoat", "moves": ["Toxic Spikes", "Acid Spray", "Gyro Ball", "Parting Shot"], "nature": "Impish", "item": "Black Sludge", "index": 177}}, "Gimmighoul": {"Root Academy 2": {"level": 17, "ability": "Rattled", "moves": ["Night Shade", "Hex", "Reflect", "Light Screen"], "nature": "Modest", "item": "Light Clay", "index": 178}}, "Gimmighoul-Roaming": {"Root Academy 2": {"level": 17, "ability": "Run Away", "moves": ["Reflect", "Light Screen", "Hex", "Power Gem"], "nature": "Hasty", "item": "Light Clay", "index": 179}}, "Gulpin": {"Root Academy 2": {"level": 17, "ability": "Liquid Ooze", "moves": ["Toxic Spikes", "Encore", "Acid Spray", "Sludge"], "nature": "Timid", "item": "Black Sludge", "index": 180}}, "Yamask": {"Root Academy 2": {"level": 17, "ability": "Mummy", "moves": ["Toxic Spikes", "Spite", "Will-O-Wisp", "Night Shade"], "nature": "Bold", "item": "Berry Juice", "index": 181}}, "Yamask-Galar": {"Root Academy 2": {"level": 17, "ability": "Wandering Spirit", "moves": ["Toxic Spikes", "Disable", "Will-O-Wisp", "Night Shade"], "nature": "Bold", "item": "Berry Juice", "index": 182}}, "Golett": {"Root Academy 2": {"level": 17, "ability": "Iron Fist", "moves": ["Drain Punch", "Fire Punch", "Ice Punch", "Shadow Punch"], "nature": "Adamant", "item": "Salac Berry", "index": 183}}, "Flabe\u0301be\u0301": {"Root Academy 2": {"level": 17, "ability": "Flower Veil", "moves": ["Calm Mind", "Draining Kiss", "Chilling Water", "Giga Drain"], "nature": "Bold", "item": "Leftovers", "index": 184}}, "Bergmite": {"Root Academy 2": {"level": 17, "ability": "Ice Body", "moves": ["Icicle Spear", "Aurora Veil", "Hail", "Rock Smash"], "nature": "Careful", "item": "Icy Rock", "index": 185}}, "Cutiefly": {"Root Academy 2": {"level": 17, "ability": "Shield Dust", "moves": ["Sticky Web", "Tailwind", "U-turn", "Dual Wingbeat"], "nature": "Adamant", "item": "Jaboca Berry", "index": 186}}, "Capsakid": {"Root Academy 2": {"level": 17, "ability": "Chlorophyll", "moves": ["Grass Knot", "Leech Seed", "Protect", "Stomping Tantrum"], "nature": "Modest", "item": "Leftovers", "index": 187}}, "Venonat": {"Root Academy 2": {"level": 17, "ability": "Run Away", "moves": ["Skill Swap", "Disable", "Agility", "Baton Pass"], "nature": "Jolly", "item": "Berry Juice", "index": 188}}, "Mankey": {"Root Academy 2": {"level": 17, "ability": "Anger Point", "moves": ["U-turn", "Focus Punch", "Substitute"], "nature": "Adamant", "item": "Adrenaline Orb", "index": 189}}, "Machop": {"Root Academy 2": {"level": 17, "ability": "No Guard", "moves": ["Focus Blast", "Fire Blast", "Fissure"], "nature": "Modest", "item": "Expert Belt", "index": 190}}, "Shellder": {"Root Academy 2": {"level": 17, "ability": "Skill Link", "moves": ["Spikes", "Rock Blast", "Icicle Spear", "Chilling Water"], "nature": "Hasty", "item": "Metronome", "index": 191}}, "Smoochum": {"Root Academy 2": {"level": 17, "ability": "Oblivious", "moves": ["Icy Wind", "Seismic Toss", "Confusion", "Fake Out"], "nature": "Timid", "item": "Focus Sash", "index": 192}}, "Carvanha": {"Root Academy 2": {"level": 17, "ability": "Rough Skin", "moves": ["Rest", "Sleep Talk", "Super Fang", "Aqua Jet"], "nature": "Impish", "item": "Rocky Helmet", "index": 193}}, "Numel": {"Root Academy 2": {"level": 17, "ability": "Oblivious", "moves": ["Trailblaze", "Flame Charge", "Will-O-Wisp", "Bulldoze"], "nature": "Adamant", "item": "Lum Berry", "index": 194}}, "Timburr": {"Root Academy 2": {"level": 17, "ability": "Iron Fist", "moves": ["Drain Punch", "Mach Punch", "Power-Up Punch", "Fire Punch"], "nature": "Jolly", "item": "Punching Glove", "index": 195}}, "Ducklett": {"Root Academy 2": {"level": 17, "ability": "Keen Eye", "moves": ["Tailwind", "Scald", "Ice Beam"], "nature": "Timid", "item": "Lum Berry", "index": 196}}, "Vanillite": {"Root Academy 2": {"level": 17, "ability": "Ice Body", "moves": ["Hail", "Aurora Veil", "Icy Wind", "Taunt"], "nature": "Timid", "item": "Icy Rock", "index": 197}}, "Ferroseed": {"Root Academy 2": {"level": 17, "ability": "Iron Barbs", "moves": ["Stealth Rock", "Leech Seed", "Protect", "Gyro Ball"], "nature": "Sassy", "item": "Berry Juice", "index": 198}}, "Cubchoo": {"Root Academy 2": {"level": 17, "ability": "Slush Rush", "moves": ["Hail", "Power-Up Punch", "Ice Fang", "Rock Tomb"], "nature": "Adamant", "item": "Icy Rock", "index": 199}}, "Shelmet": {"Root Academy 2": {"level": 17, "ability": "Shell Armor", "moves": ["Spikes", "Leech Life", "Toxic Spikes", "Yawn"], "nature": "Relaxed", "item": "Berry Juice", "index": 200}}, "Mareanie": {"Root Academy 2": {"level": 17, "ability": "Merciless", "moves": ["Toxic Spikes", "Toxic", "Venoshock"], "nature": "Calm", "item": "Black Sludge", "index": 201}, "Marcster": {"level": 37, "ability": "Merciless", "moves": ["Toxic Spikes", "Venoshock", "Toxic", "Hydro Pump"], "nature": "Modest", "item": "Black Sludge", "index": 498}}, "Sizzlipede": {"Root Academy 2": {"level": 17, "ability": "Flash Fire", "moves": ["Flame Wheel", "Coil", "Rollout", "Defense Curl"], "nature": "Adamant", "item": "Heavy-Duty Boots", "index": 202}}, "Tandemaus": {"Root Academy 2": {"level": 17, "ability": "Own Tempo", "moves": ["Population Bomb", "Taunt", "Encore", "Super Fang"], "nature": "Jolly", "item": "Berry Juice", "index": 203}}, "Binacle": {"Root Academy 3": {"level": 22, "ability": "Sniper", "moves": ["Clamp", "Rock Smash", "Rock Tomb", "Toxic"], "nature": "Impish", "item": "Binding Band", "index": 204}}, "Fennekin": {"Root Academy 3": {"level": 22, "ability": "Magic Guard", "moves": ["Hypnosis", "Dream Eater", "Incinerate", "Psychic Terrain"], "nature": "Timid", "item": "Berry Juice", "index": 205}}, "Corphish": {"Root Academy 3": {"level": 22, "ability": "Adaptability", "moves": ["Aqua Jet", "Bubble Beam", "Metal Claw", "Payback"], "nature": "Lonely", "item": "Berry Juice", "index": 206}}, "Snivy": {"Root Academy 3": {"level": 22, "ability": "Contrary", "moves": ["Leaf Storm"], "nature": "Modest", "item": "Adrenaline Orb", "index": 207}}, "Tepig": {"Root Academy 3": {"level": 22, "ability": "Blaze", "moves": ["Heat Crash", "Will-O-Wisp", "Grass Knot", "Gyro Ball"], "nature": "Adamant", "item": "Iron Ball", "index": 208}}, "Sinistea": {"Root Academy 3": {"level": 22, "ability": "Weak Armor", "moves": ["Memento", "Giga Drain", "Hex", "Foul Play"], "nature": "Timid", "item": "Focus Sash", "index": 210}}, "Charmander": {"Root Academy 3": {"level": 22, "ability": "Blaze", "moves": ["Wing Attack", "Dragon Claw", "Mimic", "Celebrate"], "nature": "Brave", "item": "Ring Target", "index": 211}}, "Cyndaquil": {"Root Academy 3": {"level": 22, "ability": "Flash Fire", "moves": ["Play Rough", "Flame Charge", "Iron Head", "Submission"], "nature": "Adamant", "item": "Charcoal", "index": 212}}, "Chimchar": {"Root Academy 3": {"level": 22, "ability": "Blaze", "moves": ["Stealth Rock", "Slack Off", "Will-O-Wisp", "Fire Punch"], "nature": "Jolly", "item": "Leftovers", "index": 213}}, "Phantump": {"Root Academy 3": {"level": 22, "ability": "Natural Cure", "moves": ["Forests Curse", "Phantom Force", "Will-O-Wisp", "Horn Leech"], "nature": "Impish", "item": "Leftovers", "index": 214}}, "Abra": {"Root Academy 3": {"level": 22, "ability": "Magic Guard", "moves": ["Psybeam", "Dazzling Gleam", "Guard Split", "Wonder Room"], "nature": "Timid", "item": "Twisted Spoon", "index": 215}}, "Doduo": {"Root Academy 3": {"level": 22, "ability": "Tangled Feet", "moves": ["Thrash"], "nature": "Jolly", "item": "Silk Scarf", "index": 216}}, "Gastly": {"Root Academy 3": {"level": 22, "ability": "Levitate", "moves": ["Hex", "Sludge", "Mimic", "Mean Look"], "nature": "Timid", "item": "Wise Glasses", "index": 217}}, "Treecko": {"Root Academy 3": {"level": 22, "ability": "Unburden", "moves": ["Leaf Storm", "Mimic", "Acrobatics", "Worry Seed"], "nature": "Mild", "item": "White Herb", "index": 218}}, "Torchic": {"Root Academy 3": {"level": 22, "ability": "Speed Boost", "moves": ["Protect", "Flare Blitz", "Mirror Move", "Baton Pass"], "nature": "Adamant", "item": "Berry Juice", "index": 219}}, "Mudkip": {"Root Academy 3": {"level": 22, "ability": "Torrent", "moves": ["Mimic", "Surf", "Ancient Power", "Earth Power"], "nature": "Modest", "item": "Leftovers", "index": 220}}, "Swablu": {"Root Academy 3": {"level": 22, "ability": "Natural Cure", "moves": ["Mirror Move", "Play Rough", "Mud-Slap", "Acrobatics"], "nature": "Impish", "item": "Berry Juice", "index": 221}}, "Glameow": {"Root Academy 3": {"level": 22, "ability": "Limber", "moves": ["Fake Out", "Last Resort", "Fury Swipes"], "nature": "Adamant", "item": "Silk Scarf", "index": 222}}, "Mime Jr.": {"Root Academy 3": {"level": 22, "ability": "Soundproof", "moves": ["Fake Out", "Psyshock", "Dazzling Gleam", "Grass Knot"], "nature": "Modest", "item": "Life Orb", "index": 223}}, "Sewaddle": {"Root Academy 3": {"level": 22, "ability": "Swarm", "moves": ["Sticky Web", "Seed Bomb", "Bug Bite", "Safeguard"], "nature": "Adamant", "item": "Occa Berry", "index": 224}}, "Grookey": {"Root Academy 3": {"level": 22, "ability": "Grassy Surge", "moves": ["Grassy Glide", "Drain Punch", "Fake Out", "Leech Seed"], "nature": "Adamant", "item": "Terrain Extender", "index": 225}, "GinaAndMia1": {"level": 35, "ability": "Grassy Surge", "moves": ["Fake Out", "Wood Hammer"], "nature": "Brave", "item": "Grass Gem", "index": 481}}, "Scorbunny": {"Root Academy 3": {"level": 22, "ability": "Libero", "moves": ["Sucker Punch", "U-turn", "Fire Pledge", "Bounce"], "nature": "Hasty", "item": "Expert Belt", "index": 226}}, "Sobble": {"Root Academy 3": {"level": 22, "ability": "Sniper", "moves": ["Chilling Water", "U-turn", "Sucker Punch", "Water Pledge"], "nature": "Timid", "item": "Scope Lens", "index": 227}}, "Clobbopus": {"Root Academy 3": {"level": 22, "ability": "Technician", "moves": ["Revenge", "Bulk Up", "Liquidation", "Pain Split"], "nature": "Adamant", "item": "Red Card", "index": 228}}, "Sprigatito": {"Root Academy 3": {"level": 22, "ability": "Protean", "moves": ["Petal Blizzard", "Acrobatics", "Sucker Punch", "U-turn"], "nature": "Adamant", "item": "Expert Belt", "index": 229}}, "Fuecoco": {"Root Academy 3": {"level": 22, "ability": "Unaware", "moves": ["Slack Off", "Will-O-Wisp", "Fire Pledge", "Belch"], "nature": "Calm", "item": "Sitrus Berry", "index": 230}}, "Quaxly": {"Root Academy 3": {"level": 22, "ability": "Moxie", "moves": ["Liquidation", "Acrobatics", "Rapid Spin", "Wing Attack"], "nature": "Jolly", "item": "Sitrus Berry", "index": 231}}, "Fidough": {"Root Academy 3": {"level": 22, "ability": "Own Tempo", "moves": ["Fire Fang", "Ice Fang", "Play Rough", "Stomping Tantrum"], "nature": "Careful", "item": "Expert Belt", "index": 232}}, "Chespin": {"Root Academy 3": {"level": 22, "ability": "Bulletproof", "moves": ["Spikes", "Rock Tomb", "Drain Punch", "Seed Bomb"], "nature": "Careful", "item": "Leftovers", "index": 233}}, "Squirtle": {"Root Academy 3": {"level": 22, "ability": "Torrent", "moves": ["Water Pledge", "Rapid Spin", "Seismic Toss", "Aqua Ring"], "nature": "Bold", "item": "Leftovers", "index": 234}}, "Totodile": {"Root Academy 3": {"level": 22, "ability": "Sheer Force", "moves": ["Rock Slide", "Shadow Claw", "Crunch", "Ice Punch"], "nature": "Adamant", "item": "Expert Belt", "index": 235}}, "Piplup": {"Root Academy 3": {"level": 22, "ability": "Defiant", "moves": ["Scald", "Stealth Rock", "Yawn", "Power Trip"], "nature": "Hasty", "item": "Starf Berry", "index": 236}}, "Froakie": {"Root Academy 3": {"level": 22, "ability": "Protean", "moves": ["Water Pledge", "Grass Knot", "Toxic Spikes", "Ice Beam"], "nature": "Hasty", "item": "Expert Belt", "index": 237}}, "Slowpoke": {"Root Academy 3": {"level": 22, "ability": "Oblivious", "moves": ["Slack Off", "Waterfall", "Zen Headbutt", "Flamethrower"], "nature": "Impish", "item": "Leftovers", "index": 238}}, "Slowpoke-Galar": {"Root Academy 3": {"level": 22, "ability": "Gluttony", "moves": ["Slack Off", "Zen Headbutt", "Flamethrower", "Grass Knot"], "nature": "Impish", "item": "Wiki Berry", "index": 239}}, "Darumaka": {"Root Academy 3": {"level": 22, "ability": "Inner Focus", "moves": ["Fire Punch", "Brick Break", "Encore", "Endeavor"], "nature": "Jolly", "item": "Air Balloon", "index": 240}}, "Darumaka-Galar": {"Root Academy 3": {"level": 22, "ability": "Inner Focus", "moves": ["Ice Punch", "Brick Break", "Encore", "Endeavor"], "nature": "Jolly", "item": "Chople Berry", "index": 241}}, "Karrablast": {"Root Academy 3": {"level": 23, "ability": "Swarm", "moves": ["X-Scissor", "Drill Run", "Encore", "Acid Spray"], "nature": "Adamant", "item": "Focus Sash", "index": 242}}, "Silicobra": {"Root Academy 3": {"level": 23, "ability": "Sand Spit", "moves": ["Stealth Rock", "Drill Run", "Rock Slide", "Dragon Rush"], "nature": "Adamant", "item": "Smooth Rock", "index": 243}}, "Finizen": {"Root Academy 3": {"level": 23, "ability": "Water Veil", "moves": ["Wave Crash", "Aqua Jet", "Draining Kiss", "Icy Wind"], "nature": "Adamant", "item": "Rindo Berry", "index": 244}}, "Pansage": {"Root Academy 3": {"level": 23, "ability": "Gluttony", "moves": ["Energy Ball", "Focus Blast", "Spiky Shield", "Taunt"], "nature": "Modest", "item": "Petaya Berry", "index": 245}}, "Pansear": {"Root Academy 3": {"level": 23, "ability": "Gluttony", "moves": ["Fire Pledge", "Focus Blast", "Grass Knot", "Taunt"], "nature": "Modest", "item": "Petaya Berry", "index": 246}}, "Panpour": {"Root Academy 3": {"level": 23, "ability": "Gluttony", "moves": ["Scald", "Focus Blast", "Nasty Plot", "Taunt"], "nature": "Modest", "item": "Petaya Berry", "index": 247}}, "Bulbasaur": {"Root Academy 3": {"level": 23, "ability": "Overgrow", "moves": ["Leech Seed", "Sleep Powder", "Giga Drain", "Sludge"], "nature": "Modest", "item": "Leftovers", "index": 248}}, "Chikorita": {"Root Academy 3": {"level": 23, "ability": "Overgrow", "moves": ["Leech Seed", "Sleep Powder", "Giga Drain", "Ancient Power"], "nature": "Bold", "item": "Leftovers", "index": 249}}, "Turtwig": {"Root Academy 3": {"level": 23, "ability": "Overgrow", "moves": ["Seed Bomb", "Stealth Rock", "Superpower", "Swords Dance"], "nature": "Adamant", "item": "Lum Berry", "index": 250}}, "Joltik": {"Root Academy 3": {"level": 23, "ability": "Compound Eyes", "moves": ["Volt Switch", "Bug Buzz", "Sucker Punch", "Thunder Wave"], "nature": "Timid", "item": "Lum Berry", "index": 251}}, "Pikachu": {"Root Academy 3": {"level": 23, "ability": "Static", "moves": ["Fly", "Surf", "Fake Out", "Thunderbolt"], "nature": "Hasty", "item": "Power Herb", "index": 252}}, "Oddish": {"Root Academy 3": {"level": 23, "ability": "Intimidate", "moves": ["Dazzling Gleam", "Giga Drain", "Moonlight", "Sleep Powder"], "nature": "Modest", "item": "Zoom Lens", "index": 253}}, "Psyduck": {"Root Academy 3": {"level": 23, "ability": "Damp", "moves": ["Hydro Pump", "Blizzard", "Cross Chop", "Hypnosis"], "nature": "Hasty", "item": "Blunder Policy", "index": 254}}, "Cubone": {"Root Academy 3": {"level": 23, "ability": "Rock Head", "moves": ["Bonemerang", "Rock Slide", "Curse", "Stealth Rock"], "nature": "Adamant", "item": "Thick Club", "index": 255}}, "Goldeen": {"Root Academy 3": {"level": 23, "ability": "Lightning Rod", "moves": ["Aqua Tail", "Aqua Ring", "Drill Run", "Flip Turn"], "nature": "Adamant", "item": "Leftovers", "index": 256}}, "Natu": {"Root Academy 3": {"level": 23, "ability": "Magic Bounce", "moves": ["Lucky Chant", "Psycho Shift", "Roost", "Psyshock"], "nature": "Modest", "item": "Flame Orb", "index": 257}}, "Axew": {"Root Academy 3": {"level": 23, "ability": "Mold Breaker", "moves": ["Dragon Dance", "Breaking Swipe", "Brick Break", "Trailblaze"], "nature": "Adamant", "item": "Lum Berry", "index": 258}}, "Skrelp": {"Root Academy 3": {"level": 23, "ability": "Adaptability", "moves": ["Scald", "Flip Turn", "Sludge", "Toxic Spikes"], "nature": "Quiet", "item": "Leftovers", "index": 259}}, "Popplio": {"Root Academy 3": {"level": 23, "ability": "Torrent", "moves": ["Perish Song", "Whirlpool", "Life Dew", "Draining Kiss"], "nature": "Bold", "item": "Leftovers", "index": 261}}, "Salandit": {"Root Academy 3": {"level": 23, "ability": "Corrosion", "moves": ["Toxic", "Protect", "Toxic Spikes", "Venoshock"], "nature": "Modest", "item": "Shuca Berry", "index": 262}}, "Sandygast": {"Root Academy 3": {"level": 23, "ability": "Water Compaction", "moves": ["Shore Up", "Earth Power", "Hex", "Chilling Water"], "nature": "Modest", "item": "Leftovers", "index": 263}}, "Frigibax": {"Root Academy 3": {"level": 23, "ability": "Thermal Exchange", "moves": ["Avalanche", "Dragon Claw", "Dig", "Icy Wind"], "nature": "Adamant", "item": "Lum Berry", "index": 264}}, "Clefairy": {"Root Academy 3": {"level": 23, "ability": "Magic Guard", "moves": ["Draining Kiss", "Drain Punch", "Wish", "Protect"], "nature": "Relaxed", "item": "Life Orb", "index": 265}}, "Woobat": {"Root Academy 3": {"level": 23, "ability": "Simple", "moves": ["Calm Mind", "Air Cutter", "Expanding Force", "Shock Wave"], "nature": "Timid", "item": "Scope Lens", "index": 266}}, "Magnemite": {"Root Academy 3": {"level": 23, "ability": "Analytic", "moves": ["Thunder Wave", "Magnet Bomb", "Shock Wave", "Electric Terrain"], "nature": "Quiet", "item": "Terrain Extender", "index": 267}}, "Seel": {"Root Academy 3": {"level": 23, "ability": "Thick Fat", "moves": ["Perish Song", "Whirlpool", "Protect", "Waterfall"], "nature": "Impish", "item": "Binding Band", "index": 268}}, "Grimer": {"Root Academy 3": {"level": 23, "ability": "Stench", "moves": ["Toxic", "Drain Punch", "Poison Jab", "Memento"], "nature": "Impish", "item": "Leftovers", "index": 269}}, "Grimer-Alola": {"Root Academy 3": {"level": 23, "ability": "Poison Touch", "moves": ["Toxic", "Drain Punch", "Poison Jab", "Memento"], "nature": "Impish", "item": "Leftovers", "index": 270}}, "Krabby": {"Root Academy 3": {"level": 23, "ability": "Sheer Force", "moves": ["Crabhammer"], "nature": "Adamant", "item": "Choice Band", "index": 271}}, "Exeggcute": {"Root Academy 3": {"level": 23, "ability": "Harvest", "moves": ["Giga Drain", "Hypnosis", "Leech Seed", "Grassy Terrain"], "nature": "Bold", "item": "Blunder Policy", "index": 272}}, "Eevee": {"Root Academy 3": {"level": 23, "ability": "Adaptability", "moves": ["Last Resort"], "nature": "Adamant", "item": "Normal Gem", "index": 273}}, "Shellos": {"Root Academy 3": {"level": 23, "ability": "Sticky Hold", "moves": ["Recover", "Scald", "Earth Power", "Counter"], "nature": "Bold", "item": "Lum Berry", "index": 274}}, "Dwebble": {"Root Academy 3": {"level": 23, "ability": "Sturdy", "moves": ["Stealth Rock", "X-Scissor", "Rock Blast", "Sand Tomb"], "nature": "Impish", "item": "Binding Band", "index": 275}}, "Honedge": {"Root Academy 3": {"level": 23, "ability": "No Guard", "moves": ["Swords Dance", "Shadow Sneak", "Gyro Ball", "Brick Break"], "nature": "Adamant", "item": "Eviolite", "index": 276}}, "Drowzee": {"Root Academy 3": {"level": 23, "ability": "Insomnia", "moves": ["Hypnosis", "Dream Eater", "Seismic Toss", "Calm Mind"], "nature": "Impish", "item": "Leftovers", "index": 277}}, "Drilbur": {"Root Academy 3": {"level": 23, "ability": "Sand Rush", "moves": ["Drill Run", "Rapid Spin", "Stealth Rock", "Rock Tomb"], "nature": "Adamant", "item": "Soft Sand", "index": 278}}, "Stunky": {"Root Academy 3": {"level": 23, "ability": "Stench", "moves": ["Defog", "Flamethrower", "Bite", "Memento"], "nature": "Jolly", "item": "Black Glasses", "index": 279}}, "Trubbish": {"Root Academy 3": {"level": 23, "ability": "Stench", "moves": ["Toxic Spikes", "Acid Spray", "Sludge Wave", "Giga Drain"], "nature": "Bold", "item": "Rocky Helmet", "index": 280}}, "Voltorb": {"Root Academy 3": {"level": 23, "ability": "Soundproof", "moves": ["Electro Ball", "Electric Terrain", "Sonic Boom", "Self Destruct"], "nature": "Timid", "item": "Terrain Extender", "index": 281}}, "Voltorb-Hisui": {"Root Academy 3": {"level": 23, "ability": "Soundproof", "moves": ["Electro Ball", "Electric Terrain", "Energy Ball", "Self Destruct"], "nature": "Timid", "item": "Terrain Extender", "index": 282}}, "Chinchou": {"Root Academy 3": {"level": 24, "ability": "Illuminate", "moves": ["Thunder Wave", "Electro Ball", "Scald", "Icy Wind"], "nature": "Bold", "item": "Leftovers", "index": 283}}, "Teddiursa": {"Root Academy 3": {"level": 24, "ability": "Quick Feet", "moves": ["Chip Away", "Rock Smash", "Play Rough", "Seismic Toss"], "nature": "Adamant", "item": "Toxic Orb", "index": 284}}, "Delibird": {"Root Academy 3": {"level": 24, "ability": "Hustle", "moves": ["Ice Shard", "Spikes", "Dual Wingbeat", "Destiny Bond"], "nature": "Jolly", "item": "Muscle Band", "index": 285}, "Anthony": {"level": 62, "ability": "Insomnia", "moves": ["Spikes", "Rapid Spin", "Ice Beam", "Destiny Bond"], "nature": "Timid", "item": "Occa Berry", "index": 727}}, "Houndour": {"Root Academy 3": {"level": 24, "ability": "Flash Fire", "moves": ["Nasty Plot", "Incinerate", "Dark Pulse", "Shadow Ball"], "nature": "Timid", "item": "Focus Sash", "index": 286}}, "Phanpy": {"Root Academy 3": {"level": 24, "ability": "Pickup", "moves": ["Stealth Rock", "Earthquake", "Trailblaze", "Mimic"], "nature": "Adamant", "item": "Leftovers", "index": 287}}, "Aron": {"Root Academy 3": {"level": 1, "ability": "Sturdy", "moves": ["Endeavor", "Sandstorm"], "nature": "Adamant", "item": "Berry Juice", "index": 288}}, "Spoink": {"Root Academy 3": {"level": 24, "ability": "Thick Fat", "moves": ["Future Sight", "Chilling Water", "Calm Mind", "Night Shade"], "nature": "Modest", "item": "Colbur Berry", "index": 289}}, "Luvdisc": {"Root Academy 3": {"level": 24, "ability": "Swift Swim", "moves": ["Sweet Kiss", "Hydro Pump", "Ice Beam", "Mimic"], "nature": "Timid", "item": "Ice Gem", "index": 290}, "Darian": {"level": 38, "ability": "Swift Swim", "moves": ["Sweet Kiss", "Hydro Pump", "Heart Stamp", "Whirlpool"], "nature": "Timid", "item": "Sitrus Berry", "index": 460}}, "Buizel": {"Root Academy 3": {"level": 24, "ability": "Swift Swim", "moves": ["Sonic Boom", "Aqua Jet", "Wave Crash", "Flip Turn"], "nature": "Adamant", "item": "Absorb Bulb", "index": 291}}, "Hippopotas": {"Root Academy 3": {"level": 24, "ability": "Sand Stream", "moves": ["Slack Off", "Stealth Rock", "Bulldoze", "Rock Tomb"], "nature": "Impish", "item": "Smooth Rock", "index": 292}}, "Skorupi": {"Root Academy 3": {"level": 24, "ability": "Sniper", "moves": ["Toxic Spikes", "Cross Poison", "X-Scissor", "Whirlwind"], "nature": "Adamant", "item": "Heavy-Duty Boots", "index": 293}}, "Finneon": {"Root Academy 3": {"level": 24, "ability": "Swift Swim", "moves": ["Hydro Pump", "Sweet Kiss", "Whirlpool", "U-turn"], "nature": "Timid", "item": "Berry Juice", "index": 294}}, "Zorua": {"Root Academy 3": {"level": 24, "ability": "Illusion", "moves": ["Snarl", "Grass Knot", "Memento", "U-turn"], "nature": "Hasty", "item": "Life Orb", "index": 295}}, "Zorua-Hisui": {"Root Academy 3": {"level": 24, "ability": "Illusion", "moves": ["Hex", "Memento", "U-turn", "Snarl"], "nature": "Hasty", "item": "Life Orb", "index": 296}}, "Clauncher": {"Root Academy 3": {"level": 24, "ability": "Mega Launcher", "moves": ["Water Pulse", "Dark Pulse", "Aura Sphere", "U-turn"], "nature": "Quiet", "item": "Wise Glasses", "index": 297}}, "Cufant": {"Root Academy 3": {"level": 24, "ability": "Sheer Force", "moves": ["Iron Head", "Play Rough", "Rock Slide", "Stealth Rock"], "nature": "Adamant", "item": "Expert Belt", "index": 298}}, "Snover": {"Root Academy 3": {"level": 24, "ability": "Snow Warning", "moves": ["Ice Punch", "Giga Drain", "Ice Shard", "Water Pulse"], "nature": "Mild", "item": "Icy Rock", "index": 299}}, "Cetoddle": {"Root Academy 3": {"level": 24, "ability": "Sheer Force", "moves": ["Ice Fang", "Ice Shard", "Play Rough", "Superpower"], "nature": "Adamant", "item": "Leftovers", "index": 300}}, "Tentacool": {"Root Academy 3": {"level": 24, "ability": "Liquid Ooze", "moves": ["Acid Spray", "Sludge Bomb", "Toxic Spikes", "Mimic"], "nature": "Bold", "item": "Berry Juice", "index": 301}}, "Cacnea": {"Root Academy 3": {"level": 24, "ability": "Sand Veil", "moves": ["Spikes", "Toxic", "Destiny Bond", "Giga Drain"], "nature": "Modest", "item": "Focus Sash", "index": 302}}, "Deerling": {"Root Academy 3": {"level": 24, "ability": "Sap Sipper", "moves": ["Seed Bomb", "Return", "Wild Charge", "Thunder Wave"], "nature": "Adamant", "item": "Berry Juice", "index": 303}}, "Frillish": {"Root Academy 3": {"level": 24, "ability": "Water Absorb", "moves": ["Scald", "Recover", "Acid Armor", "Hex"], "nature": "Calm", "item": "Lum Berry", "index": 304}}, "Elgyem": {"Root Academy 3": {"level": 24, "ability": "Analytic", "moves": ["Confusion", "Shadow Ball", "Recover", "Substitute"], "nature": "Modest", "item": "Leftovers", "index": 305}}, "Pumpkaboo-Super": {"Root Academy 3": {"level": 24, "ability": "Insomnia", "moves": ["Synthesis", "Will-O-Wisp", "Shadow Ball", "Leech Seed"], "nature": "Bold", "item": "Leftovers", "index": 306}}, "Dottler": {"Root Academy 3": {"level": 24, "ability": "Swarm", "moves": ["Body Press", "Iron Defense", "Sticky Web"], "nature": "Impish", "item": "Occa Berry", "index": 307}}, "Toedscool": {"Root Academy 3": {"level": 24, "ability": "Mycelium Might", "moves": ["Spore", "Earth Power", "Energy Ball", "Foul Play"], "nature": "Bold", "item": "Berry Juice", "index": 308}}, "Unown": {"Root Academy 3": {"level": 24, "ability": "Levitate", "moves": ["Psycho Boost"], "nature": "Modest", "item": "Choice Specs", "index": 309}}, "Crabrawler": {"Root Academy 3": {"level": 24, "ability": "Hyper Cutter", "moves": ["Close Combat", "Drain Punch", "Crabhammer", "Earthquake"], "nature": "Adamant", "item": "Life Orb", "index": 310}}, "Koffing": {"Root Academy 3": {"level": 24, "ability": "Levitate", "moves": ["Will-O-Wisp", "Pain Split", "Sludge Bomb", "Flamethrower"], "nature": "Calm", "item": "Leftovers", "index": 311}}, "Staryu": {"Root Academy 3": {"level": 24, "ability": "Illuminate", "moves": ["Thunderbolt", "Hydro Pump", "Psywave", "Reflect Type"], "nature": "Timid", "item": "Leftovers", "index": 312}}, "Skiploom": {"Root Academy 3": {"level": 24, "ability": "Chlorophyll", "moves": ["Sleep Powder", "Acrobatics", "Substitute", "Leech Seed"], "nature": "Jolly", "item": "Sitrus Berry", "index": 313}}, "Lombre": {"Root Academy 3": {"level": 24, "ability": "Swift Swim", "moves": ["Fake Out", "Energy Ball", "Scald", "Ice Beam"], "nature": "Hasty", "item": "Berry Juice", "index": 314}}, "Nuzleaf": {"Root Academy 3": {"level": 24, "ability": "Chlorophyll", "moves": ["Fake Out", "Sucker Punch", "Seed Bomb", "Power-Up Punch"], "nature": "Adamant", "item": "Life Orb", "index": 315}}, "Vibrava": {"Root Academy 3": {"level": 24, "ability": "Levitate", "moves": ["Earthquake", "Rock Slide", "Dragon Tail", "Steel Wing"], "nature": "Adamant", "item": "Yache Berry", "index": 316}}, "Staravia": {"Root Academy 3": {"level": 24, "ability": "Reckless", "moves": ["Dual Wingbeat", "Take Down", "Steel Wing", "U-turn"], "nature": "Adamant", "item": "Charti Berry", "index": 317}}, "Pawniard": {"Root Academy 3": {"level": 24, "ability": "Defiant", "moves": ["Sucker Punch", "Iron Head", "Grass Knot", "Stealth Rock"], "nature": "Adamant", "item": "Chople Berry", "index": 318}}, "Stufful": {"Root Academy 3": {"level": 24, "ability": "Fluffy", "moves": ["Power-Up Punch", "Brick Break", "Earthquake", "Aerial Ace"], "nature": "Adamant", "item": "Berry Juice", "index": 319}}, "Maschiff": {"Root Academy 3": {"level": 24, "ability": "Intimidate", "moves": ["Crunch", "Play Rough", "Destiny Bond", "Charm"], "nature": "Adamant", "item": "Lum Berry", "index": 320}}, "Spritzee": {"Root Academy 3": {"level": 24, "ability": "Healer", "moves": ["Calm Mind", "Draining Kiss", "Protect", "Fake Tears"], "nature": "Modest", "item": "Leftovers", "index": 321}}, "Swirlix": {"Root Academy 3": {"level": 24, "ability": "Unburden", "moves": ["Sticky Web", "Belly Drum", "Covet", "Thief"], "nature": "Adamant", "item": "Berry Juice", "index": 322}}, "Rhyhorn": {"Root Academy 3": {"level": 24, "ability": "Rock Head", "moves": ["Stealth Rock", "Earthquake", "Rock Slide", "Megahorn"], "nature": "Adamant", "item": "Passho Berry", "index": 323}}, "Clamperl": {"Root Academy 4": {"level": 27, "ability": "Shell Armor", "moves": ["Surf", "Ice Beam", "Aqua Ring", "Iron Defense"], "nature": "Calm", "item": "Deep Sea Tooth", "index": 324}}, "Mantyke": {"Root Academy 4": {"level": 27, "ability": "Water Absorb", "moves": ["Scald", "Air Slash", "Ice Beam", "Aqua Ring"], "nature": "Calm", "item": "Leftovers", "index": 325}}, "Drifloon": {"Root Academy 4": {"level": 27, "ability": "Flare Boost", "moves": ["Protect", "Shadow Ball", "Air Cutter", "Thunderbolt"], "nature": "Timid", "item": "Flame Orb", "index": 326}}, "Scraggy": {"Root Academy 4": {"level": 27, "ability": "Moxie", "moves": ["Power-Up Punch", "Feint Attack", "Rock Tomb", "Rest"], "nature": "Adamant", "item": "Berry Juice", "index": 327}}, "Pancham": {"Root Academy 4": {"level": 27, "ability": "Iron Fist", "moves": ["Power-Up Punch", "Power Trip", "Bulk Up", "Rock Tomb"], "nature": "Adamant", "item": "Berry Juice", "index": 328}}, "Pidgeotto": {"Root Academy 4": {"level": 27, "ability": "Keen Eye", "moves": ["Brave Bird", "Frustration", "Curse", "U-turn"], "nature": "Adamant", "item": "White Herb", "index": 329}}, "Growlithe": {"Root Academy 4": {"level": 27, "ability": "Intimidate", "moves": ["Raging Fury", "Outrage", "Morning Sun", "Will-O-Wisp"], "nature": "Adamant", "item": "Persim Berry", "index": 330}}, "Cranidos": {"Root Academy 4": {"level": 27, "ability": "Mold Breaker", "moves": ["Fire Punch", "Ancient Power", "Rock Slide", "Power-Up Punch"], "nature": "Naive", "item": "Life Orb", "index": 331}}, "Shieldon": {"Root Academy 4": {"level": 27, "ability": "Sturdy", "moves": ["Stealth Rock", "Ancient Power", "Rock Slide", "Iron Defense"], "nature": "Sassy", "item": "Leftovers", "index": 332}}, "Buneary": {"Root Academy 4": {"level": 27, "ability": "Limber", "moves": ["Triple Axel", "High Jump Kick", "U-turn", "Healing Wish"], "nature": "Jolly", "item": "Muscle Band", "index": 333}}, "Mienfoo": {"Root Academy 4": {"level": 27, "ability": "Inner Focus", "moves": ["Fake Out", "Drain Punch", "Grass Knot", "Agility"], "nature": "Lonely", "item": "Expert Belt", "index": 334}}, "Rufflet": {"Root Academy 4": {"level": 27, "ability": "Sheer Force", "moves": ["Body Slam", "Roost", "Rock Slide", "Zen Headbutt"], "nature": "Adamant", "item": "Berry Juice", "index": 335}}, "Skiddo": {"Root Academy 4": {"level": 27, "ability": "Sap Sipper", "moves": ["Leech Seed", "Synthesis", "Horn Leech", "Bulldoze"], "nature": "Adamant", "item": "Berry Juice", "index": 336}}, "Krokorok": {"Root Academy 4": {"level": 27, "ability": "Intimidate", "moves": ["Crunch", "Earthquake", "Taunt", "Counter"], "nature": "Adamant", "item": "Berry Juice", "index": 337}}, "Omanyte": {"Root Academy 4": {"level": 27, "ability": "Swift Swim", "moves": ["Rain Dance", "Surf", "Ancient Power", "Icy Wind"], "nature": "Modest", "item": "Damp Rock", "index": 338}}, "Kabuto": {"Root Academy 4": {"level": 27, "ability": "Swift Swim", "moves": ["Rain Dance", "Waterfall", "Rock Throw", "Leech Life"], "nature": "Adamant", "item": "Damp Rock", "index": 339}}, "Lileep": {"Root Academy 4": {"level": 27, "ability": "Storm Drain", "moves": ["Recover", "Giga Drain", "Rock Tomb", "Gastro Acid"], "nature": "Bold", "item": "Leftovers", "index": 340}}, "Anorith": {"Root Academy 4": {"level": 27, "ability": "Swift Swim", "moves": ["Aqua Jet", "Rain Dance", "X-Scissor", "Rock Throw"], "nature": "Adamant", "item": "Damp Rock", "index": 341}}, "Tirtouga": {"Root Academy 4": {"level": 27, "ability": "Swift Swim", "moves": ["Rain Dance", "Aqua Jet", "Rock Slide", "Aqua Tail"], "nature": "Adamant", "item": "Damp Rock", "index": 342}}, "Espurr": {"Root Academy 4": {"level": 27, "ability": "Infiltrator", "moves": ["Reflect", "Light Screen", "Trick Room", "Psyshock"], "nature": "Timid", "item": "Light Clay", "index": 343}}, "Trumbeak": {"Root Academy 4": {"level": 27, "ability": "Skill Link", "moves": ["Bullet Seed", "Rock Blast", "Sky Attack", "Flame Charge"], "nature": "Adamant", "item": "Power Herb", "index": 344}}, "Tranquill": {"Root Academy 4": {"level": 27, "ability": "Super Luck", "moves": ["Night Slash", "Air Cutter", "Roost", "Agility"], "nature": "Hasty", "item": "Scope Lens", "index": 345}}, "Aipom": {"Root Academy 4": {"level": 27, "ability": "Technician", "moves": ["Fake Out", "Double Hit", "Focus Punch", "U-turn"], "nature": "Adamant", "item": "Berry Juice", "index": 346}}, "Elekid": {"Root Academy 4": {"level": 27, "ability": "Vital Spirit", "moves": ["Cross Chop", "Thunder Punch", "Light Screen", "Volt Switch"], "nature": "Hasty", "item": "Berry Juice", "index": 347}}, "Spinda": {"Root Academy 4": {"level": 27, "ability": "Contrary", "moves": ["Disable", "Trick Room", "Dizzy Punch", "Fake Out"], "nature": "Adamant", "item": "Berry Juice", "index": 348}, "Confusion Room - Alexia": {"level": 64, "ability": "Contrary", "moves": ["Superpower", "Psycho Cut", "Return", "Swagger"], "nature": "Adamant", "item": "Chople Berry", "index": 834}}, "Whirlipede": {"Root Academy 4": {"level": 27, "ability": "Poison Point", "moves": ["Poison Jab", "X-Scissor", "Rock Smash", "Endeavor"], "nature": "Adamant", "item": "Rocky Helmet", "index": 349}}, "Larvesta": {"Root Academy 4": {"level": 27, "ability": "Flame Body", "moves": ["Flame Charge", "Leech Life", "Light Screen", "Morning Sun"], "nature": "Adamant", "item": "Berry Juice", "index": 350}}, "Tyrunt": {"Root Academy 4": {"level": 27, "ability": "Strong Jaw", "moves": ["Crunch", "Thunder Fang", "Rock Polish", "Roar"], "nature": "Adamant", "item": "Lum Berry", "index": 351}}, "Amaura": {"Root Academy 4": {"level": 27, "ability": "Refrigerate", "moves": ["Hyper Beam"], "nature": "Modest", "item": "Berry Juice", "index": 352}}, "Luxio": {"Root Academy 4": {"level": 27, "ability": "Intimidate", "moves": ["Thunder Fang", "Crunch", "Light Screen", "Rest"], "nature": "Adamant", "item": "Lum Berry", "index": 353}}, "Nidorina": {"Root Academy 4": {"level": 27, "ability": "Poison Point", "moves": ["Earth Power", "Sludge Bomb", "Reflect", "Sucker Punch"], "nature": "Hasty", "item": "Berry Juice", "index": 354}}, "Nidorino": {"Root Academy 4": {"level": 27, "ability": "Poison Point", "moves": ["Earth Power", "Sludge Bomb", "Reflect", "Sucker Punch"], "nature": "Hasty", "item": "Berry Juice", "index": 355}}, "Flaaffy": {"Root Academy 4": {"level": 27, "ability": "Static", "moves": ["Thunder Wave", "Thunderbolt", "Reflect", "Light Screen"], "nature": "Modest", "item": "Light Ball", "index": 356}}, "Magby": {"Root Academy 4": {"level": 27, "ability": "Vital Spirit", "moves": ["Fire Punch", "Cross Chop", "Mimic", "Belch"], "nature": "Naive", "item": "Sitrus Berry", "index": 357}}, "Litleo": {"Root Academy 4": {"level": 27, "ability": "Unnerve", "moves": ["Work Up", "Noble Roar", "Flame Charge", "Hyper Voice"], "nature": "Timid", "item": "Berry Juice", "index": 358}}, "Herdier": {"Root Academy 4": {"level": 27, "ability": "Intimidate", "moves": ["Surf", "Thunderbolt", "Hyper Voice", "Shadow Ball"], "nature": "Modest", "item": "Choice Specs", "index": 359}}, "Duosion": {"Root Academy 4": {"level": 27, "ability": "Regenerator", "moves": ["Trick Room", "Psyshock", "Teleport", "Recover"], "nature": "Modest", "item": "Berry Juice", "index": 360}}, "Lampent": {"Root Academy 4": {"level": 27, "ability": "Flash Fire", "moves": ["Trick Room", "Shadow Ball", "Flamethrower"], "nature": "Modest", "item": "Berry Juice", "index": 361}}, "Vullaby": {"Root Academy 4": {"level": 27, "ability": "Big Pecks", "moves": ["Foul Play", "Toxic", "Roost", "Torment"], "nature": "Calm", "item": "Berry Juice", "index": 362}}, "Floette": {"Root Academy 4": {"level": 27, "ability": "Flower Veil", "moves": ["Draining Kiss", "Giga Drain", "Calm Mind", "Synthesis"], "nature": "Bold", "item": "Big Root", "index": 363}}, "Nosepass": {"Root Academy 4": {"level": 28, "ability": "Sturdy", "moves": ["Stealth Rock", "Ancient Power", "Volt Switch", "Gravity"], "nature": "Calm", "item": "Berry Juice", "index": 364}}, "Swadloon": {"Root Academy 4": {"level": 28, "ability": "Leaf Guard", "moves": ["Sticky Web", "Synthesis", "Seed Bomb", "Bug Bite"], "nature": "Adamant", "item": "Occa Berry", "index": 365}}, "Fletchinder": {"Root Academy 4": {"level": 28, "ability": "Flame Body", "moves": ["Will-O-Wisp", "Roost", "Overheat", "Dual Wingbeat"], "nature": "Adamant", "item": "Berry Juice", "index": 366}}, "Palpitoad": {"Root Academy 4": {"level": 28, "ability": "Swift Swim", "moves": ["Earth Power", "Liquidation", "Rain Dance", "Stealth Rock"], "nature": "Hasty", "item": "Berry Juice", "index": 367}}, "Poliwhirl": {"Root Academy 4": {"level": 28, "ability": "Swift Swim", "moves": ["Waterfall", "Encore", "Seismic Toss", "Low Kick"], "nature": "Adamant", "item": "Berry Juice", "index": 368}}, "Onix": {"Root Academy 4": {"level": 28, "ability": "Rock Head", "moves": ["Stealth Rock", "Bind", "Sand Tomb"], "nature": "Relaxed", "item": "Binding Band", "index": 369}}, "Lickitung": {"Root Academy 4": {"level": 28, "ability": "Own Tempo", "moves": ["Body Press", "Seismic Toss", "Toxic", "Wish"], "nature": "Impish", "item": "Berry Juice", "index": 370}}, "Mudbray": {"Root Academy 4": {"level": 28, "ability": "Stamina", "moves": ["Body Press", "High Horsepower", "Stealth Rock", "Roar"], "nature": "Impish", "item": "Berry Juice", "index": 371}}, "Weepinbell": {"Root Academy 4": {"level": 28, "ability": "Gluttony", "moves": ["Solar Beam", "Strength Sap", "Swords Dance", "Sucker Punch"], "nature": "Adamant", "item": "Power Herb", "index": 372}}, "Graveler": {"Root Academy 4": {"level": 28, "ability": "Sturdy", "moves": ["Stealth Rock", "Rock Blast", "Stomping Tantrum", "Mimic"], "nature": "Careful", "item": "Loaded Dice", "index": 373}}, "Graveler-Alola": {"Root Academy 4": {"level": 28, "ability": "Sturdy", "moves": ["Stealth Rock", "Rock Blast", "Thunder Punch", "Mimic"], "nature": "Careful", "item": "Loaded Dice", "index": 374}}, "Yanma": {"Root Academy 4": {"level": 28, "ability": "Speed Boost", "moves": ["Bug Buzz", "Ancient Power", "Air Slash", "U-turn"], "nature": "Timid", "item": "Berry Juice", "index": 375}}, "Munchlax": {"Root Academy 4": {"level": 28, "ability": "Gluttony", "moves": ["Body Slam", "Belly Drum", "Happy Hour", "Metronome"], "nature": "Impish", "item": "Salac Berry", "index": 376}}, "Gothorita": {"Root Academy 4": {"level": 28, "ability": "Competitive", "moves": ["Fake Out", "Hypnosis", "Psybeam", "Psychic Terrain"], "nature": "Modest", "item": "Terrain Extender", "index": 377}}, "Gloom": {"Root Academy 4": {"level": 28, "ability": "Intimidate", "moves": ["Moonblast", "Moonblast", "Giga Drain", "Sleep Powder"], "nature": "Bold", "item": "Berry Juice", "index": 378}}, "Porygon": {"Root Academy 4": {"level": 28, "ability": "Trace", "moves": ["Tri Attack", "Foul Play", "Thunder Wave", "Teleport"], "nature": "Modest", "item": "Berry Juice", "index": 379}}, "Vanillish": {"Root Academy 4": {"level": 28, "ability": "Weak Armor", "moves": ["Frost Breath", "Flash Cannon", "Acid Armor", "Taunt"], "nature": "Modest", "item": "Berry Juice", "index": 380}}, "Kadabra": {"Root Academy 4": {"level": 28, "ability": "Magic Guard", "moves": ["Expanding Force", "Seismic Toss"], "nature": "Timid", "item": "Ability Shield", "index": 381}}, "Gligar": {"Root Academy 4": {"level": 28, "ability": "Immunity", "moves": ["Roost", "Bulldoze", "Stealth Rock", "Tailwind"], "nature": "Impish", "item": "Berry Juice", "index": 382}}, "Lairon": {"Root Academy 4": {"level": 28, "ability": "Heavy Metal", "moves": ["Heavy Slam", "Rock Tomb", "Stealth Rock", "Spite"], "nature": "Careful", "item": "Luminous Moss", "index": 383}}, "Sneasel": {"Root Academy 4": {"level": 28, "ability": "Inner Focus", "moves": ["Beat Up", "Ice Shard", "Fake Out", "Surf"], "nature": "Hasty", "item": "Lum Berry", "index": 384}, "Marcos (Permanent Hail)": {"level": 50, "ability": "Inner Focus", "moves": ["Swords Dance", "Ice Shard", "Knock Off", "Icicle Crash"], "nature": "Jolly", "item": "Focus Sash", "index": 614}}, "Tangela": {"Root Academy 4": {"level": 28, "ability": "Regenerator", "moves": ["Giga Drain", "Ancient Power"], "nature": "Calm", "item": "Assault Vest", "index": 385}}, "Misdreavus": {"Root Academy 4": {"level": 28, "ability": "Levitate", "moves": ["Will-O-Wisp", "Hex", "Draining Kiss", "Torment"], "nature": "Timid", "item": "Berry Juice", "index": 386}}, "Vigoroth": {"Root Academy 4": {"level": 28, "ability": "Vital Spirit", "moves": ["Chip Away", "Counter", "Flail", "Fling"], "nature": "Jolly", "item": "Flame Orb", "index": 387}, "Vicky": {"level": 67, "ability": "Vital Spirit", "moves": ["Retaliate"], "nature": "Jolly", "item": "Choice Band", "index": 875}}, "Klang": {"Root Academy 4": {"level": 28, "ability": "Plus", "moves": ["Gear Grind", "Flash Cannon", "Recycle", "Charge Beam"], "nature": "Mild", "item": "Sitrus Berry", "index": 388}}, "Archen": {"Root Academy 4": {"level": 28, "ability": "Defeatist", "moves": ["Aerial Ace", "Stealth Rock", "U-turn", "Rock Throw"], "nature": "Hasty", "item": "Berry Juice", "index": 389}}, "Roselia": {"Root Academy 4": {"level": 28, "ability": "Natural Cure", "moves": ["Grass Knot", "Growth", "Sleep Powder", "Nightmare"], "nature": "Timid", "item": "Lum Berry", "index": 390}, "Lyle": {"level": 35, "ability": "Natural Cure", "moves": ["Grass Knot", "Sludge Bomb", "Dazzling Gleam", "Shadow Ball"], "nature": "Timid", "item": "Miracle Seed", "index": 466}}, "Wailmer": {"Root Academy 4": {"level": 28, "ability": "Pressure", "moves": ["Body Press", "Water Spout", "Bulldoze", "Curse"], "nature": "Relaxed", "item": "Leftovers", "index": 391}}, "Charjabug": {"Root Academy 4": {"level": 28, "ability": "Battery", "moves": ["Spark", "Acrobatics", "Volt Switch", "Skitter Smack"], "nature": "Adamant", "item": "Eviolite", "index": 392}}, "Machoke": {"Root Academy 4": {"level": 28, "ability": "Guts", "moves": ["Fling", "Protect", "Karate Chop", "Bulldoze"], "nature": "Adamant", "item": "Flame Orb", "index": 393}}, "Haunter": {"Root Academy 4": {"level": 28, "ability": "Levitate", "moves": ["Will-O-Wisp", "Hex", "Toxic", "Venoshock"], "nature": "Timid", "item": "Lum Berry", "index": 394}}, "Ponyta": {"Root Academy 4": {"level": 28, "ability": "Flash Fire", "moves": ["Bounce", "Flamethrower", "Low Kick", "Morning Sun"], "nature": "Hasty", "item": "Lum Berry", "index": 395}}, "Sealeo": {"Root Academy 4": {"level": 28, "ability": "Thick Fat", "moves": ["Frost Breath", "Brine", "Super Fang", "Mimic"], "nature": "Bold", "item": "Leftovers", "index": 396}}, "Gurdurr": {"Root Academy 4": {"level": 28, "ability": "Guts", "moves": ["Mach Punch", "Fling", "Protect", "Bulldoze"], "nature": "Adamant", "item": "Flame Orb", "index": 397}}, "Eelektrik": {"Root Academy 4": {"level": 28, "ability": "Levitate", "moves": ["Super Fang", "Acrobatics", "Volt Switch", "Magnet Rise"], "nature": "Relaxed", "item": "Air Balloon", "index": 398}}, "Sliggoo": {"Root Academy 4": {"level": 28, "ability": "Sap Sipper", "moves": ["Dragon Pulse", "Acid Spray", "Toxic", "Protect"], "nature": "Relaxed", "item": "Leftovers", "index": 399}}, "Sliggoo-Hisui": {"Root Academy 4": {"level": 28, "ability": "Shell Armor", "moves": ["Dragon Pulse", "Acid Spray", "Toxic", "Protect"], "nature": "Relaxed", "item": "Leftovers", "index": 400}}, "Drakloak": {"Root Academy 4": {"level": 28, "ability": "Clear Body", "moves": ["Curse", "Will-O-Wisp", "Rest", "Shadow Ball"], "nature": "Timid", "item": "Chesto Berry", "index": 401}}, "Hakamo-o": {"Root Academy 4": {"level": 28, "ability": "Skill Link", "moves": ["Scale Shot", "Focus Punch", "Taunt", "Noble Roar"], "nature": "Adamant", "item": "Berry Juice", "index": 402}}, "Shelgon": {"Root Academy 4": {"level": 28, "ability": "Rock Head", "moves": ["Breaking Swipe", "Dragon Dance", "Aerial Ace", "Wish"], "nature": "Careful", "item": "Adrenaline Orb", "index": 403}}, "Metang": {"Root Academy 4": {"level": 28, "ability": "Clear Body", "moves": ["Iron Head", "Agility", "Psycho Cut", "Gravity"], "nature": "Adamant", "item": "Berry Juice", "index": 404}}, "Zweilous": {"Root Academy 4": {"level": 28, "ability": "Hustle", "moves": ["Beat Up", "Dragon Tail", "Thunder Wave", "Torment"], "nature": "Adamant", "item": "Wide Lens", "index": 405}}, "Dragonair": {"Root Academy 4": {"level": 28, "ability": "Shed Skin", "moves": ["Rest", "Thunder Wave", "Dragon Tail", "Extreme Speed"], "nature": "Impish", "item": "Leftovers", "index": 406}}, "Pupitar": {"Root Academy 4": {"level": 28, "ability": "Shed Skin", "moves": ["Rest", "Ancient Power", "Dark Pulse", "Earth Power"], "nature": "Modest", "item": "Leftovers", "index": 407}}, "Gabite": {"Root Academy 4": {"level": 28, "ability": "Rough Skin", "moves": ["Bulldoze", "Dragon Tail", "Roar", "Stealth Rock"], "nature": "Jolly", "item": "Jaboca Berry", "index": 408}}, "Fraxure": {"Root Academy 4": {"level": 28, "ability": "Unnerve", "moves": ["First Impression", "Draco Meteor", "Stomping Tantrum", "Incinerate"], "nature": "Hasty", "item": "White Herb", "index": 409}}, "Cosmoem": {"Root Academy 4": {"level": 28, "ability": "Sturdy", "moves": ["Cosmic Power", "Stored Power"], "nature": "Impish", "item": "Berry Juice", "index": 410}}, "Poipole": {"Root Academy 4": {"level": 28, "ability": "Beast Boost", "moves": ["Dragon Pulse", "Venoshock", "Toxic", "Toxic Spikes"], "nature": "Modest", "item": "Poison Barb", "index": 411}, "GinaAndMia1": {"level": 38, "ability": "Beast Boost", "moves": ["Sludge Wave", "Flamethrower"], "nature": "Modest", "item": "Covert Cloak", "index": 480}}, "Ivysaur": {"Root Academy 4": {"level": 28, "ability": "Overgrow", "moves": ["Frenzy Plant"], "nature": "Modest", "item": "Berry Juice", "index": 412}}, "Charmeleon": {"Root Academy 4": {"level": 28, "ability": "Blaze", "moves": ["Blast Burn"], "nature": "Modest", "item": "Berry Juice", "index": 413}}, "Wartortle": {"Root Academy 4": {"level": 28, "ability": "Torrent", "moves": ["Hydro Cannon"], "nature": "Modest", "item": "Berry Juice", "index": 414}}, "Quilladin": {"Root Academy 4": {"level": 28, "ability": "Overgrow", "moves": ["Spikes", "Spiky Shield", "Leech Seed", "Drain Punch"], "nature": "Impish", "item": "Leftovers", "index": 415}}, "Frogadier": {"Root Academy 4": {"level": 28, "ability": "Protean", "moves": ["Work Up", "Dive", "Smack Down", "Bounce"], "nature": "Jolly", "item": "Power Herb", "index": 416}}, "Braixen": {"Root Academy 4": {"level": 28, "ability": "Magic Guard", "moves": ["Calm Mind", "Overheat", "Lucky Chant", "Laser Focus"], "nature": "Timid", "item": "White Herb", "index": 417}}, "Grotle": {"Root Academy 4": {"level": 28, "ability": "Overgrow", "moves": ["Stealth Rock", "Seed Bomb", "Crunch", "Heavy Slam"], "nature": "Adamant", "item": "Leftovers", "index": 418}}, "Monferno": {"Root Academy 4": {"level": 28, "ability": "Iron Fist", "moves": ["Mach Punch", "Fire Punch", "Fake Out", "Assist"], "nature": "Jolly", "item": "Muscle Band", "index": 419}}, "Prinplup": {"Root Academy 4": {"level": 28, "ability": "Torrent", "moves": ["Stealth Rock", "Scald", "Life Dew", "Grass Knot"], "nature": "Modest", "item": "Leftovers", "index": 420}}, "Servine": {"Root Academy 4": {"level": 28, "ability": "Contrary", "moves": ["Leaf Storm"], "nature": "Modest", "item": "Expert Belt", "index": 421}}, "Dewott": {"Root Academy 4": {"level": 28, "ability": "Shell Armor", "moves": ["Razor Shell", "Sacred Sword", "Grass Knot", "Chilling Water"], "nature": "Hasty", "item": "Berry Juice", "index": 422}}, "Pignite": {"Root Academy 4": {"level": 28, "ability": "Blaze", "moves": ["Heat Crash", "Heavy Slam", "Low Sweep"], "nature": "Adamant", "item": "Lum Berry", "index": 423}}, "Dartrix": {"Root Academy 4": {"level": 28, "ability": "Overgrow", "moves": ["Curse", "Dual Wingbeat", "Seed Bomb", "Shadow Sneak"], "nature": "Adamant", "item": "White Herb", "index": 424}}, "Torracat": {"Root Academy 4": {"level": 28, "ability": "Blaze", "moves": ["Fake Out", "Flamethrower", "U-turn", "Torment"], "nature": "Hasty", "item": "Berry Juice", "index": 425}}, "Brionne": {"Root Academy 4": {"level": 28, "ability": "Liquid Voice", "moves": ["Echoed Voice"], "nature": "Modest", "item": "Metronome", "index": 426}}, "Grovyle": {"Root Academy 4": {"level": 28, "ability": "Unburden", "moves": ["Drain Punch", "Seed Bomb", "Seismic Toss", "Grass Whistle"], "nature": "Jolly", "item": "Lum Berry", "index": 427}}, "Combusken": {"Root Academy 4": {"level": 28, "ability": "Speed Boost", "moves": ["Double Kick", "Incinerate", "Seismic Toss", "Will-O-Wisp"], "nature": "Adamant", "item": "Lum Berry", "index": 428}}, "Marshtomp": {"Root Academy 4": {"level": 28, "ability": "Torrent", "moves": ["Stealth Rock", "Sand Tomb", "Whirlpool", "Brine"], "nature": "Careful", "item": "Binding Band", "index": 429}}, "Bayleef": {"Root Academy 4": {"level": 28, "ability": "Leaf Guard", "moves": ["Ancient Power", "Seed Bomb", "Leech Seed", "Protect"], "nature": "Relaxed", "item": "Leftovers", "index": 430}}, "Quilava": {"Root Academy 4": {"level": 28, "ability": "Blaze", "moves": ["Flame Charge", "Incinerate", "Rest", "Snore"], "nature": "Hasty", "item": "Luminous Moss", "index": 431}}, "Croconaw": {"Root Academy 4": {"level": 28, "ability": "Sheer Force", "moves": ["Aqua Jet", "Focus Punch", "Substitute", "Scald"], "nature": "Hasty", "item": "Lum Berry", "index": 432}}, "Bibarel": {"Aqua Grunt Littleroot Town": {"level": 31, "ability": "Simple", "moves": ["Swords Dance", "Aqua Jet", "Quick Attack", "Hyper Fang"], "nature": "Adamant", "item": "Water Gem", "index": 433}}, "Sableye": {"Aqua Grunt Littleroot Town": {"level": 31, "ability": "Prankster", "moves": ["Psychic", "Will-O-Wisp", "Recover", "Taunt"], "nature": "Bold", "item": "Berry Juice", "index": 434}}, "Dustox": {"Aqua Grunt Littleroot Town": {"level": 33, "ability": "Shield Dust", "moves": ["Bug Buzz", "Giga Drain", "Sludge Bomb", "Tailwind"], "nature": "Modest", "item": "Berry Juice", "index": 435}}, "Quagsire": {"Aqua Grunt Littleroot Town": {"level": 32, "ability": "Water Absorb", "moves": ["Curse", "Aqua Tail", "Ice Punch", "Bulldoze"], "nature": "Impish", "item": "Rindo Berry", "index": 436}}, "Oinkologne": {"Calvin1": {"level": 32, "ability": "Lingering Aroma", "moves": ["Stuff Cheeks", "Headbutt", "Body Press"], "nature": "Impish", "item": "Liechi Berry", "index": 437}}, "Gumshoos": {"Calvin1": {"level": 33, "ability": "Stakeout", "moves": ["Facade", "Ice Fang", "Trailblaze"], "nature": "Jolly", "item": "Red Card", "index": 438}}, "Talonflame": {"Calvin1": {"level": 33, "ability": "Flame Body", "moves": ["Flame Charge", "Acrobatics", "Steel Wing", "Flail"], "nature": "Jolly", "item": "Berry Juice", "index": 439}}, "Lumineon": {"Rick": {"level": 33, "ability": "Swift Swim", "moves": ["Icy Wind", "Chilling Water", "Natural Gift", "Hidden Power Grass"], "nature": "Hasty", "item": "Hondew Berry", "ivs": {"hp": "31", "at": "30", "df": "31", "sa": "30", "sd": "31", "sp": "31"}, "index": 440}}, "Spidops": {"Rick": {"level": 33, "ability": "Stakeout", "moves": ["First Impression", "Leech Life", "Silk Trap", "Circle Throw"], "nature": "Adamant", "item": "Coba Berry", "index": 441}}, "Butterfree": {"Rick": {"level": 33, "ability": "Tinted Lens", "moves": ["Acrobatics", "U-turn", "Curse", "Baton Pass"], "nature": "Adamant", "item": "Flying Gem", "index": 442}}, "Ledian": {"Rick": {"level": 33, "ability": "Iron Fist", "moves": ["Mach Punch", "Swords Dance"], "nature": "Adamant", "item": "Black Belt", "index": 443}}, "Arboliva": {"Allen": {"level": 32, "ability": "Triage", "moves": ["Giga Drain", "Synthesis", "Earth Power", "Trailblaze"], "nature": "Bold", "item": "Leftovers", "index": 444}, "RivalRoute110Fennekin": {"level": 63, "ability": "Triage", "moves": ["Hyper Voice", "Earth Power", "Giga Drain", "Strength Sap"], "nature": "Modest", "item": "Miracle Seed", "index": 754}, "Grassy Room - Jody": {"level": 64, "ability": "Triage", "moves": ["Terrain Pulse", "Giga Drain", "Earth Power", "Draining Kiss"], "nature": "Modest", "item": "Big Root", "index": 847}}, "Heliolisk": {"Allen": {"level": 33, "ability": "Dry Skin", "moves": ["Parabolic Charge", "Swift", "Grass Knot", "Electro Ball"], "nature": "Timid", "item": "Electric Gem", "index": 445}, "Psychic Room - Berke": {"level": 66, "ability": "Dry Skin", "moves": ["Terrain Pulse", "Parabolic Charge", "Substitute", "Glare"], "nature": "Timid", "item": "Psychic Gem", "index": 853}, "Dusty1": {"level": 67, "ability": "Sand Veil", "moves": ["Mud-Slap", "Thunderbolt", "Grass Knot", "Thunder Wave"], "nature": "Timid", "item": "Bright Powder", "index": 890}}, "Clodsire": {"Allen": {"level": 33, "ability": "Water Absorb", "moves": ["Poison Tail", "Bulldoze", "Recover", "Low Kick"], "nature": "Impish", "item": "Clear Amulet", "index": 446}}, "Comfey": {"Allen": {"level": 33, "ability": "Triage", "moves": ["Draining Kiss", "Giga Drain", "Synthesis"], "nature": "Modest", "item": "Leftovers", "index": 447}, "Huey (Double Battle, Gauntlet End)": {"level": 48, "ability": "Flower Veil", "moves": ["Petal Blizzard", "Follow Me", "Synthesis", "Encore"], "nature": "Jolly", "item": "Mental Herb", "index": 595}}, "Bombirdier": {"Tiana": {"level": 33, "ability": "Rocky Payload", "moves": ["Stealth Rock", "Rock Tomb", "Aerial Ace", "Parting Shot"], "nature": "Jolly", "item": "Rocky Helmet", "index": 448}}, "Orthworm": {"Tiana": {"level": 34, "ability": "Earth Eater", "moves": ["Spikes", "Earthquake", "Rock Tomb", "Steel Beam"], "nature": "Relaxed", "item": "Steel Gem", "index": 449}, "Ben": {"level": 56, "ability": "Earth Eater", "moves": ["Shed Tail", "Earthquake", "Spikes", "Heavy Slam"], "nature": "Sassy", "item": "Sitrus Berry", "index": 672}, "Timmy": {"level": 63, "ability": "Earth Eater", "moves": ["Heavy Slam", "Shed Tail", "Stealth Rock", "Earthquake"], "nature": "Careful", "item": "Sitrus Berry", "index": 790}}, "Ariados": {"Tiana": {"level": 33, "ability": "Sniper", "moves": ["Sticky Web", "Poison Jab", "Pin Missile", "Toxic Thread"], "nature": "Jolly", "item": "Scope Lens", "index": 450}}, "Beautifly": {"Tiana": {"level": 33, "ability": "Swarm", "moves": ["Bug Buzz", "Air Cutter", "Morning Sun", "Protect"], "nature": "Timid", "item": "Sitrus Berry", "index": 451}}, "Hypno": {"Tiana": {"level": 34, "ability": "Insomnia", "moves": ["Hypnosis", "Draining Kiss", "Drain Punch", "Dream Eater"], "nature": "Relaxed", "item": "Big Root", "index": 452}}, "Raticate-Alola": {"Billy (Gauntlet Start)": {"level": 34, "ability": "Hustle", "moves": ["Sucker Punch", "Last Resort"], "nature": "Adamant", "item": "Dark Gem", "index": 453}}, "Raticate": {"Billy (Gauntlet Start)": {"level": 34, "ability": "Guts", "moves": ["Retaliate", "Last Resort"], "nature": "Jolly", "item": "Chople Berry", "index": 454}}, "Furret": {"Billy (Gauntlet Start)": {"level": 34, "ability": "Keen Eye", "moves": ["Fire Punch", "Ice Punch", "Thunder Punch", "Power-Up Punch"], "nature": "Jolly", "item": "Salac Berry", "index": 455}}, "Pyukumuku": {"Darian": {"level": 36, "ability": "Innards Out", "moves": ["Counter", "Pain Split", "Curse", "Baton Pass"], "nature": "Bold", "item": "Leftovers", "index": 456}}, "Azumarill": {"Darian": {"level": 34, "ability": "Thick Fat", "moves": ["Scald", "Draining Kiss", "Whirlpool", "Perish Song"], "nature": "Calm", "item": "Rindo Berry", "index": 457}, "Vivi": {"level": 66, "ability": "Huge Power", "moves": ["Aqua Tail", "Play Rough", "Superpower", "Ice Spinner"], "nature": "Jolly", "item": "Shell Bell", "index": 872}}, "Pincurchin": {"Darian": {"level": 34, "ability": "Lightning Rod", "moves": ["Zing Zap", "Recover", "Sucker Punch", "Pin Missile"], "nature": "Brave", "item": "Shuca Berry", "index": 458}, "Ricky1": {"level": 47, "ability": "Electric Surge", "moves": ["Spikes", "Toxic Spikes", "Memento", "Liquidation"], "nature": "Sassy", "item": "Mental Herb", "index": 577}}, "Gyarados": {"Darian": {"level": 34, "ability": "Intimidate", "moves": ["Dragon Rage", "Iron Tail"], "nature": "Jolly", "item": "Adrenaline Orb", "index": 459}}, "Delcatty": {"Cindy1 (Gauntlet End)": {"level": 34, "ability": "Normalize", "moves": ["Thunder Wave", "Headbutt"], "nature": "Jolly", "item": "Lum Berry", "index": 461}}, "Togetic": {"Cindy1 (Gauntlet End)": {"level": 35, "ability": "Serene Grace", "moves": ["Thunder Wave", "Air Slash", "Attract", "Metronome"], "nature": "Timid", "item": "Metronome", "index": 462}}, "Kricketune": {"Cindy1 (Gauntlet End)": {"level": 35, "ability": "Technician", "moves": ["Trailblaze", "Fury Cutter", "Power-Up Punch"], "nature": "Adamant", "item": "Clear Amulet", "index": 463}}, "Clefable": {"Cindy1 (Gauntlet End)": {"level": 34, "ability": "Cute Charm", "moves": ["Thunder Wave", "Sweet Kiss", "Alluring Voice", "Psychic"], "nature": "Bold", "item": "Leftovers", "index": 464}, "Tyron": {"level": 64, "ability": "Magic Guard", "moves": ["Cosmic Power", "Moonblast", "Moonlight", "Stored Power"], "nature": "Bold", "item": "Leftovers", "index": 805}}, "Vivillon": {"Lyle": {"level": 35, "ability": "Shield Dust", "moves": ["Bug Buzz", "Air Slash", "Draining Kiss", "Powder"], "nature": "Timid", "item": "Charti Berry", "index": 465}, "Vivi": {"level": 67, "ability": "Shield Dust", "moves": ["Powder", "Sleep Powder", "Bug Buzz", "Tailwind"], "nature": "Timid", "item": "Wacan Berry", "index": 871}}, "Dunsparce": {"Lyle": {"level": 35, "ability": "Serene Grace", "moves": ["Glare", "Headbutt", "Zen Headbutt", "Air Slash"], "nature": "Hasty", "item": "Leftovers", "index": 467}}, "Watchog": {"Lyle": {"level": 35, "ability": "Analytic", "moves": ["Hypnosis", "Retaliate", "Low Kick", "Seed Bomb"], "nature": "Adamant", "item": "Chople Berry", "index": 468}}, "Beedrill": {"James1": {"level": 35, "ability": "Sniper", "moves": ["Cross Poison", "Knock Off", "Bug Bite", "Drill Run"], "nature": "Jolly", "item": "Scope Lens", "index": 469}}, "Farfetch\u2019d": {"James1": {"level": 35, "ability": "Defiant", "moves": ["Night Slash", "Leaf Blade", "Slash", "Swords Dance"], "nature": "Hasty", "item": "Leek", "index": 470}}, "Chansey": {"James1": {"level": 35, "ability": "Natural Cure", "moves": ["Egg Bomb", "Drain Punch", "Earthquake", "Wild Charge"], "nature": "Adamant", "item": "Lucky Punch", "index": 471}}, "Parasect": {"James1": {"level": 35, "ability": "Effect Spore", "moves": ["Knock Off", "Leech Life", "Spore", "Leech Seed"], "nature": "Adamant", "item": "Rocky Helmet", "index": 472}}, "Wishiwashi": {"GruntPetalburgWoods": {"level": 36, "ability": "Schooling", "moves": ["Flip Turn", "Earthquake", "Ice Beam"], "nature": "Mild", "item": "Lum Berry", "index": 473}}, "Chatot": {"GruntPetalburgWoods": {"level": 35, "ability": "Big Pecks", "moves": ["Chatter", "Hyper Voice", "Heat Wave", "Night Shade"], "nature": "Timid", "item": "Clear Amulet", "index": 474}}, "Toedscruel": {"GruntPetalburgWoods": {"level": 35, "ability": "Mycelium Might", "moves": ["Grass Knot", "Earth Power", "Spore", "Sludge Bomb"], "nature": "Timid", "item": "Coba Berry", "index": 475}}, "Girafarig": {"GruntPetalburgWoods": {"level": 35, "ability": "Inner Focus", "moves": ["Twin Beam", "Foul Play", "Hypnosis", "Double Kick"], "nature": "Hasty", "item": "Sitrus Berry", "index": 476}}, "Magcargo": {"Winston1": {"level": 36, "ability": "Magma Armor", "moves": ["Sunny Day", "Ancient Power", "Lava Plume", "Recover"], "nature": "Timid", "item": "Focus Sash", "index": 477}}, "Sunflora": {"Winston1": {"level": 37, "ability": "Chlorophyll", "moves": ["Growth", "Weather Ball", "Solar Beam", "Earth Power"], "nature": "Timid", "item": "Wise Glasses", "index": 478}}, "Diggersby": {"Winston1": {"level": 35, "ability": "Cheek Pouch", "moves": ["Fire Punch", "Take Down", "Bulldoze", "Power-Up Punch"], "nature": "Adamant", "item": "Sitrus Berry", "index": 479}}, "Shiinotic": {"GinaAndMia1": {"level": 35, "ability": "Illuminate", "moves": ["Helping Hand", "Moonblast", "Energy Ball", "Spore"], "nature": "Bold", "item": "Ring Target", "index": 482}}, "Leafeon": {"GinaAndMia1": {"level": 35, "ability": "Leaf Guard", "moves": ["Grassy Glide"], "nature": "Adamant", "item": "Choice Band", "index": 483}}, "Pelipper": {"Ivan": {"level": 35, "ability": "Drizzle", "moves": ["Scald", "U-turn", "Hurricane", "Seed Bomb"], "nature": "Mild", "item": "Lum Berry", "index": 484}}, "Castform": {"Ivan": {"level": 35, "ability": "Forecast", "moves": ["Weather Ball", "Energy Ball", "Reflect Type"], "nature": "Modest", "item": "Wacan Berry", "index": 485}}, "Qwilfish": {"Ivan": {"level": 35, "ability": "Swift Swim", "moves": ["Sludge Bomb", "Aqua Jet", "Flip Turn", "Thunder Wave"], "nature": "Adamant", "item": "Black Sludge", "index": 486}}, "Seadra": {"Ivan": {"level": 35, "ability": "Sniper", "moves": ["Focus Energy", "Octazooka", "Ice Beam", "Agility"], "nature": "Modest", "item": "Scope Lens", "index": 487}}, "Klawf": {"Josh": {"level": 36, "ability": "Anger Shell", "moves": ["Crabhammer", "Rock Slide", "Stealth Rock", "Knock Off"], "nature": "Jolly", "item": "Salac Berry", "index": 488}}, "Mawile": {"Josh": {"level": 35, "ability": "Intimidate", "moves": ["Stockpile", "Swallow", "Baton Pass", "Play Rough"], "nature": "Impish", "item": "Leftovers", "index": 489}}, "Corsola": {"Josh": {"level": 36, "ability": "Regenerator", "moves": ["Ancient Power", "Scald", "Recover", "Blizzard"], "nature": "Modest", "item": "Rindo Berry", "index": 490}}, "Armaldo": {"Josh": {"level": 36, "ability": "Battle Armor", "moves": ["Aqua Jet", "Bug Bite", "Rock Tomb", "Seismic Toss"], "nature": "Adamant", "item": "Sitrus Berry", "index": 491}}, "Carbink": {"Tommy": {"level": 35, "ability": "Sturdy", "moves": ["Trick Room", "Teleport"], "nature": "Impish", "item": "Covert Cloak", "index": 492}, "Miguel1": {"level": 66, "ability": "Sturdy", "moves": ["Iron Defense", "Body Press", "Ancient Power", "Trick Room"], "nature": "Relaxed", "item": "Leftovers", "index": 816}}, "Shuckle": {"Tommy": {"level": 36, "ability": "Gluttony", "moves": ["Power Trick", "Rock Slide", "Leech Life", "Earthquake"], "nature": "Relaxed", "item": "Liechi Berry", "index": 493}}, "Golem-Alola": {"Tommy": {"level": 37, "ability": "Galvanize", "moves": ["Take Down", "Rock Blast", "Earthquake", "Gyro Ball"], "nature": "Brave", "item": "Assault Vest", "index": 494}, "Angelo": {"level": 57, "ability": "Galvanize", "moves": ["Explosion", "Head Smash", "Double-Edge", "Endure"], "nature": "Adamant", "item": "Custap Berry", "index": 669}}, "Sudowoodo": {"Tommy": {"level": 37, "ability": "Rock Head", "moves": ["Head Smash", "Wood Hammer", "Double-Edge", "Seismic Toss"], "nature": "Adamant", "item": "Life Orb", "index": 495}}, "Glimmet": {"Marcster": {"level": 35, "ability": "Toxic Debris", "moves": ["Toxic Spikes", "Stealth Rock", "Spikes", "Sticky Web"], "nature": "Calm", "item": "Sticky Barb", "index": 496}}, "Minior": {"Marcster": {"level": 37, "ability": "Shields Down", "moves": ["Shell Smash", "Power Gem", "Dazzling Gleam", "Acrobatics"], "nature": "Hasty", "item": "Flying Gem", "index": 497}, "Tyron": {"level": 65, "ability": "Shields Down", "moves": ["Meteor Beam", "Aeroblast", "Charge Beam", "Earth Power"], "nature": "Timid", "item": "Power Herb", "index": 807}}, "Corsola-Galar": {"Marcster": {"level": 36, "ability": "Cursed Body", "moves": ["Strength Sap", "Will-O-Wisp", "Ancient Power", "Calm Mind"], "nature": "Modest", "item": "Eviolite", "index": 499}}, "Lunatone": {"Marcster": {"level": 37, "ability": "Levitate", "moves": ["Iron Defense", "Moonlight", "Ancient Power", "Stored Power"], "nature": "Timid", "item": "Absorb Bulb", "index": 500}}, "Tyranitar": {"Roxanne1": {"level": 37, "ability": "Sand Stream", "moves": ["Stealth Rock", "Crunch", "Rock Tomb", "Sand Tomb"], "nature": "Relaxed", "item": "Leftovers", "index": 501}, "Camper Beau & Branden": {"level": 68, "ability": "Intimidate", "moves": ["Heavy Slam", "Payback", "Low Kick", "Sand Tomb"], "nature": "Adamant", "item": "Chople Berry", "index": 909}}, "Solrock": {"Roxanne1": {"level": 38, "ability": "Levitate", "moves": ["Psycho Cut", "Ancient Power", "Morning Sun", "Bulldoze"], "nature": "Quiet", "item": "Weakness Policy", "index": 502}, "Drew": {"level": 69, "ability": "Levitate", "moves": ["Flare Blitz", "Explosion", "Rock Slide", "Morning Sun"], "nature": "Jolly", "item": "Rindo Berry", "index": 916}}, "Zygarde": {"Roxanne1": {"level": 37, "ability": "Power Construct", "moves": ["Land's Wrath", "Breaking Swipe", "Skitter Smack", "Extreme Speed"], "nature": "Lonely", "item": "Sticky Barb", "index": 503}}, "Cradily": {"Roxanne1": {"level": 37, "ability": "Storm Drain", "moves": ["Recover", "Stockpile", "Sand Tomb", "Ancient Power"], "nature": "Bold", "item": "Leftovers", "index": 504}}, "Omastar": {"Roxanne1": {"level": 37, "ability": "Swift Swim", "moves": ["Ancient Power", "Scald", "Ice Beam", "Seismic Toss"], "nature": "Quiet", "item": "Assault Vest", "index": 505}}, "Aerodactyl": {"Roxanne1": {"level": 38, "ability": "Unnerve", "moves": ["Rock Tomb", "Wing Attack", "Earthquake", "Ancient Power"], "nature": "Timid", "item": "Aerodactylite", "index": 506}, "Timmy": {"level": 63, "ability": "Unnerve", "moves": ["Roost", "Meteor Beam", "Hurricane", "Flamethrower"], "nature": "Timid", "item": "Power Herb", "index": 792}}, "Aerodactyl-Mega": {"Roxanne1": {"level": 38, "ability": "Tough Claws", "moves": ["Rock Tomb", "Wing Attack", "Earthquake", "Ancient Power"], "nature": "Timid", "item": "Aerodactylite", "index": 507}}, "Pidgeot": {"Joey": {"level": 39, "ability": "Keen Eye", "moves": ["Agility", "Air Slash", "Heat Wave", "Steel Wing"], "nature": "Hasty", "item": "Wacan Berry", "index": 508}, "GruntTerraCave5": {"level": 62, "ability": "Big Pecks", "moves": ["Hurricane", "Heat Wave", "Roost", "Hidden Power Water"], "nature": "Timid", "item": "Pidgeotite", "ivs": {"hp": "31", "at": "31", "df": "31", "sa": "30", "sd": "31", "sp": "30"}, "index": 711}}, "Linoone": {"Joey": {"level": 41, "ability": "Gluttony", "moves": ["Belly Drum", "Extreme Speed", "Seed Bomb", "Stomping Tantrum"], "nature": "Adamant", "item": "Iapapa Berry", "index": 509}, "Victor": {"level": 66, "ability": "Quick Feet", "moves": ["Protect", "Facade", "Belly Drum", "Extreme Speed"], "nature": "Adamant", "item": "Toxic Orb", "index": 866}}, "Wigglytuff": {"Joey": {"level": 40, "ability": "Competitive", "moves": ["Dazzling Gleam", "Ice Beam", "Thunderbolt", "Flamethrower"], "nature": "Modest", "item": "Life Orb", "index": 510}}, "Venomoth": {"Jose": {"level": 40, "ability": "Tinted Lens", "moves": ["Sludge Bomb", "Bug Buzz", "Sleep Powder", "Quiver Dance"], "nature": "Modest", "item": "Lum Berry", "index": 511}}, "Wormadam-Sandy": {"Jose": {"level": 40, "ability": "Anticipation", "moves": ["Earthquake", "Stealth Rock", "Sucker Punch", "Rock Tomb"], "nature": "Adamant", "item": "Occa Berry", "index": 512}}, "Gastrodon": {"Jose": {"level": 41, "ability": "Sticky Hold", "moves": ["Earth Power", "Scald", "Recover", "Ice Beam"], "nature": "Modest", "item": "Rindo Berry", "index": 513}, "Irene": {"level": 67, "ability": "Sand Force", "moves": ["Ice Beam", "Ancient Power", "Earthquake", "Recover"], "nature": "Quiet", "item": "Rindo Berry", "index": 883}}, "Kleavor": {"Jose": {"level": 42, "ability": "Sheer Force", "moves": ["Stone Axe", "Stone Edge", "Lunge", "Brick Break"], "nature": "Jolly", "item": "Rock Gem", "index": 514}}, "Primeape": {"Karen1": {"level": 40, "ability": "Defiant", "moves": ["Drain Punch", "Substitute", "Rage Fist", "Bulk Up"], "nature": "Adamant", "item": "Leftovers", "index": 515}}, "Throh": {"Karen1": {"level": 41, "ability": "Guts", "moves": ["Protect", "Stone Edge", "Superpower", "Knock Off"], "nature": "Adamant", "item": "Flame Orb", "index": 516}}, "Magneton": {"Karen1": {"level": 41, "ability": "Analytic", "moves": ["Thunderbolt", "Flash Cannon", "Hidden Power Grass", "Magnet Rise"], "nature": "Modest", "item": "Sitrus Berry", "ivs": {"hp": "31", "at": "30", "df": "31", "sa": "30", "sd": "31", "sp": "31"}, "index": 517}}, "Golem": {"Hiker Clark & Youngster Johnson": {"level": 42, "ability": "Sturdy", "moves": ["Stealth Rock", "Rock Slide", "Earthquake", "Body Press"], "nature": "Impish", "item": "Lum Berry", "index": 518}}, "Sandslash": {"Hiker Clark & Youngster Johnson": {"level": 41, "ability": "Sand Rush", "moves": ["Swords Dance", "Sandstorm", "X-Scissor", "High Horsepower"], "nature": "Adamant", "item": "Sitrus Berry", "index": 519}, "Dusty1": {"level": 68, "ability": "Sand Rush", "moves": ["Swords Dance", "Earthquake", "X-Scissor", "Endeavor"], "nature": "Jolly", "item": "Soft Sand", "index": 891}}, "Persian": {"Hiker Clark & Youngster Johnson": {"level": 41, "ability": "Technician", "moves": ["Fake Out", "Fury Swipes", "Trailblaze", "Snarl"], "nature": "Adamant", "item": "Clear Amulet", "index": 520}, "Confusion Room - Alexia": {"level": 64, "ability": "Unnerve", "moves": ["Swagger", "Body Slam", "Baton Pass", "Mean Look"], "nature": "Jolly", "item": "Mirror Herb", "index": 835}}, "Chimecho": {"Hiker Clark & Youngster Johnson": {"level": 41, "ability": "Levitate", "moves": ["Hypnosis", "Dream Eater", "Nightmare", "Dazzling Gleam"], "nature": "Modest", "item": "Blunder Policy", "index": 521}}, "Dugtrio-Alola": {"Devan (Intermediate)": {"level": 42, "ability": "Tangling Hair", "moves": ["Iron Head", "Stomping Tantrum", "Memento", "Metal Sound"], "nature": "Jolly", "item": "Rocky Helmet", "index": 522}}, "Stunfisk": {"Devan (Intermediate)": {"level": 42, "ability": "Static", "moves": ["Earth Power", "Discharge", "Surf", "Thunder Wave"], "nature": "Modest", "item": "Leftovers", "index": 523}}, "Mightyena": {"GruntRusturfTunnel": {"level": 42, "ability": "Intimidate", "moves": ["Crunch", "Howl", "Play Rough", "Poison Fang"], "nature": "Adamant", "item": "Expert Belt", "index": 524}}, "Slowbro-Galar": {"GruntRusturfTunnel": {"level": 42, "ability": "Quick Draw", "moves": ["Zen Headbutt", "Slack Off", "Headbutt", "Razor Shell"], "nature": "Brave", "item": "Quick Claw", "index": 525}}, "Wormadam": {"GruntRusturfTunnel": {"level": 43, "ability": "Overcoat", "moves": ["Quiver Dance", "Energy Ball", "Bug Buzz", "Shadow Ball"], "nature": "Modest", "item": "Bright Powder", "index": 526}, "Travis": {"level": 67, "ability": "Overcoat", "moves": ["Leaf Storm", "Weather Ball", "Sleep Powder", "Shadow Ball"], "nature": "Modest", "item": "Grass Gem", "index": 888}}, "Phione": {"GruntRusturfTunnel": {"level": 45, "ability": "Hydration", "moves": ["Tail Glow", "Scald", "Energy Ball", "Ice Beam"], "nature": "Modest", "item": "Leftovers", "index": 527}}, "Bellibolt": {"RivalRustboroChespin": {"level": 43, "ability": "Electromorphosis", "moves": ["Volt Switch", "Muddy Water", "Slack Off", "Soak"], "nature": "Bold", "item": "Magnet", "index": 528}}, "Cinderace": {"RivalRustboroChespin": {"level": 44, "ability": "Protean", "moves": ["Blaze Kick", "Iron Head", "Sucker Punch", "Low Kick"], "nature": "Jolly", "item": "Muscle Band", "index": 529}, "RivalRoute110Chespin": {"level": 64, "ability": "Protean", "moves": ["Pyro Ball", "Low Kick", "Zen Headbutt", "Gunk Shot"], "nature": "Jolly", "item": "Life Orb", "index": 747}}, "Lucario": {"RivalRustboroChespin": {"level": 44, "ability": "Inner Focus", "moves": ["Aura Sphere", "Flash Cannon", "Vacuum Wave", "Trailblaze"], "nature": "Timid", "item": "Ability Shield", "index": 530}, "RivalRustboroFennekin": {"level": 44, "ability": "Inner Focus", "moves": ["Iron Head", "Brick Break", "Bullet Punch", "Fire Punch"], "nature": "Jolly", "item": "Ability Shield", "index": 536}, "RivalRustboroFroakie": {"level": 44, "ability": "Steadfast", "moves": ["Aura Sphere", "Flash Cannon", "Vacuum Wave", "Water Pulse"], "nature": "Timid", "item": "Ability Shield", "index": 542}, "RivalRoute110Froakie": {"level": 64, "ability": "Steadfast", "moves": ["Aura Sphere", "Meteor Mash", "Vacuum Wave", "Thunder Punch"], "nature": "Hasty", "item": "Lum Berry", "index": 740}, "RivalRoute110Chespin": {"level": 64, "ability": "Steadfast", "moves": ["Aura Sphere", "Meteor Mash", "Vacuum Wave", "Ice Punch"], "nature": "Hasty", "item": "Lum Berry", "index": 746}, "RivalRoute110Fennekin": {"level": 64, "ability": "Steadfast", "moves": ["Aura Sphere", "Meteor Mash", "Vacuum Wave", "Rock Slide"], "nature": "Hasty", "item": "Lum Berry", "index": 752}}, "Alomomola": {"RivalRustboroChespin": {"level": 43, "ability": "Regenerator", "moves": ["Wish", "Toxic", "Flip Turn", "Protect"], "nature": "Careful", "item": "Leftovers", "index": 531}, "RivalRustboroFroakie": {"level": 43, "ability": "Regenerator", "moves": ["Wish", "Toxic", "Flip Turn", "Protect"], "nature": "Careful", "item": "Leftovers", "index": 543}}, "Cacturne": {"RivalRustboroChespin": {"level": 43, "ability": "Water Absorb", "moves": ["Sucker Punch", "Needle Arm", "Spikes", "Spiky Shield"], "nature": "Quiet", "item": "Tanga Berry", "index": 532}, "RivalRustboroFennekin": {"level": 43, "ability": "Water Absorb", "moves": ["Sucker Punch", "Needle Arm", "Spikes", "Spiky Shield"], "nature": "Quiet", "item": "Tanga Berry", "index": 537}, "Irene": {"level": 67, "ability": "Sand Veil", "moves": ["Knock Off", "Giga Drain", "Leech Seed", "Spiky Shield"], "nature": "Brave", "item": "Bright Powder", "index": 881}}, "Type: Null": {"RivalRustboroChespin": {"level": 43, "ability": "Battle Armor", "moves": ["Shadow Claw", "Work Up", "Frustration", "Scary Face"], "nature": "Adamant", "item": "Soothe Bell", "index": 533}, "RivalRustboroFennekin": {"level": 43, "ability": "Battle Armor", "moves": ["Shadow Claw", "Work Up", "Frustration", "Scary Face"], "nature": "Adamant", "item": "Soothe Bell", "index": 539}, "RivalRustboroFroakie": {"level": 43, "ability": "Battle Armor", "moves": ["Shadow Claw", "Work Up", "Frustration", "Scary Face"], "nature": "Adamant", "item": "Soothe Bell", "index": 545}, "RivalRoute110Froakie": {"level": 64, "ability": "Battle Armor", "moves": ["Return", "Wood Hammer", "Swords Dance", "High Horsepower"], "nature": "Adamant", "item": "Eviolite", "index": 744}, "RivalRoute110Chespin": {"level": 64, "ability": "Battle Armor", "moves": ["Return", "Flare Blitz", "Swords Dance", "High Horsepower"], "nature": "Adamant", "item": "Eviolite", "index": 750}, "RivalRoute110Fennekin": {"level": 64, "ability": "Battle Armor", "moves": ["Return", "Wave Crash", "Swords Dance", "High Horsepower"], "nature": "Adamant", "item": "Eviolite", "index": 756}}, "Electrode-Hisui": {"RivalRustboroFennekin": {"level": 43, "ability": "Soundproof", "moves": ["Volt Switch", "Energy Ball", "Foul Play", "Leech Seed"], "nature": "Modest", "item": "Magnet", "index": 534}}, "Greninja": {"RivalRustboroFennekin": {"level": 44, "ability": "Protean", "moves": ["Scald", "Ice Beam", "Grass Knot", "Dark Pulse"], "nature": "Timid", "item": "Wise Glasses", "index": 535}, "RivalRoute110Fennekin": {"level": 64, "ability": "Protean", "moves": ["Hydro Pump", "Dark Pulse", "Grass Knot", "Ice Beam"], "nature": "Hasty", "item": "Life Orb", "index": 753}, "Andrew": {"level": 63, "ability": "Libero", "moves": ["Dark Pulse", "Water Shuriken", "Mud Sport", "Toxic Spikes"], "nature": "Timid", "item": "Mystic Water", "index": 771}}, "Salazzle": {"RivalRustboroFennekin": {"level": 43, "ability": "Corrosion", "moves": ["Flamethrower", "Toxic", "Venoshock", "Endeavor"], "nature": "Timid", "item": "Shuca Berry", "index": 538}, "RivalRustboroFroakie": {"level": 43, "ability": "Corrosion", "moves": ["Flamethrower", "Toxic", "Venoshock", "Endeavor"], "nature": "Timid", "item": "Shuca Berry", "index": 544}, "Isabel1": {"level": 63, "ability": "Corrosion", "moves": ["Nasty Plot", "Fire Blast", "Sludge Wave", "Hidden Power Grass"], "nature": "Timid", "item": "Air Balloon", "ivs": {"hp": "31", "at": "30", "df": "31", "sa": "30", "sd": "31", "sp": "31"}, "index": 759}}, "Raichu": {"RivalRustboroFroakie": {"level": 43, "ability": "Static", "moves": ["Volt Switch", "Surf", "Grass Knot", "Magnet Rise"], "nature": "Timid", "item": "Magnet", "index": 540}, "Triathlete Benjamin & Alyssa": {"level": 62, "ability": "Lightning Rod", "moves": ["Fake Out", "Thunderbolt", "Grass Knot", "Draining Kiss"], "nature": "Timid", "item": "Life Orb", "index": 734}}, "Meowscarada": {"RivalRustboroFroakie": {"level": 44, "ability": "Protean", "moves": ["Seed Bomb", "Throat Chop", "Brick Break", "Sucker Punch"], "nature": "Jolly", "item": "Muscle Band", "index": 541}, "RivalRoute110Froakie": {"level": 64, "ability": "Protean", "moves": ["Flower Trick", "Play Rough", "Throat Chop", "Triple Axel"], "nature": "Jolly", "item": "Life Orb", "index": 741}, "Celina": {"level": 64, "ability": "Libero", "moves": ["Knock Off", "U-turn"], "nature": "Jolly", "item": "Choice Band", "index": 802}}, "Seaking": {"Elliot1": {"level": 43, "ability": "Lightning Rod", "moves": ["Surf", "Signal Beam", "Ice Beam", "Flip Turn"], "nature": "Timid", "item": "Rindo Berry", "index": 546}}, "Lanturn": {"Elliot1": {"level": 44, "ability": "Volt Absorb", "moves": ["Surf", "Thunderbolt", "Volt Switch", "Ice Beam"], "nature": "Modest", "item": "Luminous Moss", "index": 547}, "Ned": {"level": 45, "ability": "Water Absorb", "moves": ["Discharge", "Parabolic Charge", "Bubble Beam", "Ice Beam"], "nature": "Timid", "item": "Wiki Berry", "index": 549}}, "Lapras": {"Ned": {"level": 44, "ability": "Water Absorb", "moves": ["Discharge"], "nature": "Timid", "item": "Choice Scarf", "index": 548}}, "Hitmonlee": {"Takao": {"level": 45, "ability": "Unburden", "moves": ["Fake Out", "High Jump Kick", "Knock Off", "Bulk Up"], "nature": "Adamant", "item": "Normal Gem", "index": 550}}, "Togedemaru": {"Takao": {"level": 44, "ability": "Iron Barbs", "moves": ["U-turn", "Nuzzle", "Zing Zap", "Iron Head"], "nature": "Jolly", "item": "Rocky Helmet", "index": 551}}, "Breloom": {"Takao": {"level": 44, "ability": "Technician", "moves": ["Spore", "Bullet Seed", "Mach Punch", "Rock Tomb"], "nature": "Jolly", "item": "Lum Berry", "index": 552}, "Vivi": {"level": 66, "ability": "Poison Heal", "moves": ["Drain Punch", "Spore", "Rock Slide", "Substitute"], "nature": "Jolly", "item": "Toxic Orb", "index": 873}}, "Hitmonchan": {"Laura": {"level": 45, "ability": "Iron Fist", "moves": ["Power-Up Punch", "Mach Punch", "Ice Punch", "Shadow Punch"], "nature": "Adamant", "item": "Expert Belt", "index": 553}}, "Sneasel-Hisui": {"Laura": {"level": 44, "ability": "Inner Focus", "moves": ["Poison Jab", "Rock Slide", "Close Combat", "Pursuit"], "nature": "Adamant", "item": "Eviolite", "index": 554}}, "Sawk": {"Laura": {"level": 43, "ability": "Sturdy", "moves": ["Reversal", "Brick Break", "Stone Edge", "Counter"], "nature": "Jolly", "item": "Black Belt", "index": 555}}, "Dedenne": {"Laura": {"level": 44, "ability": "Cheek Pouch", "moves": ["Thunder", "Grass Knot", "Signal Beam", "Stuff Cheeks"], "nature": "Timid", "item": "Petaya Berry", "index": 556}}, "Passimian": {"Cristian": {"level": 44, "ability": "Defiant", "moves": ["Circle Throw", "Earthquake", "Power Trip", "U-turn"], "nature": "Adamant", "item": "Adrenaline Orb", "index": 557}}, "Mimikyu": {"Cristian": {"level": 44, "ability": "Disguise", "moves": ["Shadow Sneak", "Drain Punch", "Play Rough", "Destiny Bond"], "nature": "Jolly", "item": "Lum Berry", "index": 558}}, "Toxicroak": {"Cristian": {"level": 43, "ability": "Dry Skin", "moves": ["Sucker Punch", "Poison Jab", "Cross Chop", "Swords Dance"], "nature": "Jolly", "item": "Dark Gem", "index": 559}}, "Scrafty": {"Cristian": {"level": 45, "ability": "Shed Skin", "moves": ["Rest", "Power-Up Punch", "Crunch", "Rock Tomb"], "nature": "Adamant", "item": "Leftovers", "index": 560}}, "Poliwrath": {"Jocelyn": {"level": 44, "ability": "Water Absorb", "moves": ["Dynamic Punch", "Hydro Pump", "Blizzard", "Jet Punch"], "nature": "Lonely", "item": "Blunder Policy", "index": 561}, "RivalRoute110Chespin": {"level": 63, "ability": "Water Absorb", "moves": ["Hypnosis", "Drain Punch", "Bulk Up", "Jet Punch"], "nature": "Adamant", "item": "Mystic Water", "index": 748}}, "Lopunny": {"Jocelyn": {"level": 44, "ability": "Cute Charm", "moves": ["Retaliate", "Return", "High Jump Kick", "Triple Axel"], "nature": "Jolly", "item": "Eject Button", "index": 562}}, "Morpeko": {"Jocelyn": {"level": 44, "ability": "Hunger Switch", "moves": ["Aura Wheel", "Obstruct", "Seed Bomb", "Stomping Tantrum"], "nature": "Jolly", "item": "Life Orb", "index": 563}}, "Tauros-Paldea-Blaze": {"Jocelyn": {"level": 44, "ability": "Cud Chew", "moves": ["Raging Bull", "Lash Out", "Low Kick", "Endure"], "nature": "Jolly", "item": "Liechi Berry", "index": 564}}, "Medicham": {"Jocelyn": {"level": 45, "ability": "Pure Power", "moves": ["Fake Out", "Psycho Cut", "Brick Break", "Rock Slide"], "nature": "Jolly", "item": "Focus Sash", "index": 565}, "Vicky": {"level": 68, "ability": "Pure Power", "moves": ["Fake Out", "High Jump Kick", "Psycho Cut", "Poison Jab"], "nature": "Jolly", "item": "Medichamite", "index": 879}}, "Hariyama": {"Brawly1": {"level": 45, "ability": "Guts", "moves": ["Fake Out", "Bullet Punch", "Close Combat", "Knock Off"], "nature": "Adamant", "item": "Flame Orb", "index": 566}}, "Hitmontop": {"Brawly1": {"level": 44, "ability": "Intimidate", "moves": ["Fake Out", "Triple Kick", "Triple Axel", "Mach Punch"], "nature": "Jolly", "item": "Eject Button", "index": 567}}, "Doublade": {"Brawly1": {"level": 44, "ability": "No Guard", "moves": ["Pursuit", "Shadow Claw", "Iron Head", "Swords Dance"], "nature": "Adamant", "item": "Eviolite", "index": 568}}, "Pawmot": {"Brawly1": {"level": 43, "ability": "Iron Fist", "moves": ["Thunder Punch", "Drain Punch", "Mach Punch", "Revival Blessing"], "nature": "Jolly", "item": "Punching Glove", "index": 569}, "Angelo": {"level": 56, "ability": "Volt Absorb", "moves": ["Revival Blessing", "Rest", "Sleep Talk", "Seed Bomb"], "nature": "Jolly", "item": "Leppa Berry", "index": 668}}, "Zamazenta-Crowned": {"Brawly1": {"level": 43, "ability": "Dauntless Shield", "moves": ["Body Press", "Smart Strike", "Agility", "Trailblaze"], "nature": "Brave", "item": "Rusted Shield", "index": 570}}, "Heracross": {"Brawly1": {"level": 44, "ability": "Swarm", "moves": ["Brick Break", "Curse", "Pin Missile", "Rock Blast"], "nature": "Brave", "item": "Heracronite", "index": 571}, "Offense Room - Randall": {"level": 64, "ability": "Moxie", "moves": ["Megahorn", "Close Combat", "Stone Edge", "Substitute"], "nature": "Jolly", "item": "Liechi Berry", "index": 822}}, "Heracross-Mega": {"Brawly1": {"level": 44, "ability": "Skill Link", "moves": ["Brick Break", "Curse", "Pin Missile", "Rock Blast"], "nature": "Brave", "item": "Heracronite", "index": 572}}, "Stunfisk-Galar": {"Hailey (Gauntlet Start)": {"level": 47, "ability": "Mimicry", "moves": ["Stealth Rock", "Snap Trap", "Thunder Wave", "Earthquake"], "nature": "Sassy", "item": "Chople Berry", "index": 573}}, "Carnivine": {"Hailey (Gauntlet Start)": {"level": 47, "ability": "Levitate", "moves": ["Snap Trap", "Sleep Powder", "Stun Spore", "Crunch"], "nature": "Adamant", "item": "Binding Band", "index": 574}}, "Mothim": {"Hailey (Gauntlet Start)": {"level": 47, "ability": "Swarm", "moves": ["Sleep Powder", "Quiver Dance", "Air Slash", "Bug Buzz"], "nature": "Timid", "item": "Focus Sash", "index": 575}}, "Wugtrio": {"Hailey (Gauntlet Start)": {"level": 47, "ability": "Arena Trap", "moves": ["Liquidation", "Final Gambit", "Foul Play", "Aqua Jet"], "nature": "Adamant", "item": "Water Gem", "index": 576}}, "Simisage": {"Ricky1": {"level": 47, "ability": "Gluttony", "moves": ["Nature Power", "Leaf Storm", "Focus Blast", "Grass Knot"], "nature": "Timid", "item": "Eject Pack", "index": 578}}, "Raichu-Alola": {"Ricky1": {"level": 47, "ability": "Surge Surfer", "moves": ["Fake Tears", "Rising Voltage", "Surf", "Volt Switch"], "nature": "Modest", "item": "Water Gem", "index": 579}}, "Clawitzer": {"Ricky1": {"level": 47, "ability": "Mega Launcher", "moves": ["Water Pulse", "Terrain Pulse", "Dark Pulse", "Aura Sphere"], "nature": "Calm", "item": "Electric Seed", "index": 580}}, "Aromatisse": {"Lola1": {"level": 48, "ability": "Aroma Veil", "moves": ["Trick Room", "Nasty Plot", "Moonblast", "Mystical Fire"], "nature": "Quiet", "item": "Kebia Berry", "index": 581}}, "Marowak": {"Lola1": {"level": 47, "ability": "Battle Armor", "moves": ["Bone Rush", "Rock Slide", "Power-Up Punch", "Thunder Punch"], "nature": "Brave", "item": "Thick Club", "index": 582}}, "Veluza": {"Lola1": {"level": 47, "ability": "Sharpness", "moves": ["Trick Room", "Psycho Cut", "Aqua Cutter", "Fillet Away"], "nature": "Brave", "item": "Sitrus Berry", "index": 583}}, "Machamp": {"Lola1": {"level": 48, "ability": "No Guard", "moves": ["Dynamic Punch", "Rock Slide", "Ice Punch", "Throat Chop"], "nature": "Brave", "item": "Ability Shield", "index": 584}}, "Masquerain": {"Edmond": {"level": 47, "ability": "Intimidate", "moves": ["Quiver Dance", "Bug Buzz", "Sticky Web", "Hydro Pump"], "nature": "Timid", "item": "Charti Berry", "index": 585}}, "Dachsbun": {"Edmond": {"level": 47, "ability": "Well Baked Body", "moves": ["Yawn", "Play Rough", "Fire Fang", "Stomping Tantrum"], "nature": "Adamant", "item": "Lum Berry", "index": 586}}, "Purugly": {"Edmond": {"level": 47, "ability": "Defiant", "moves": ["Hypnosis", "Return", "Iron Tail", "Roar"], "nature": "Adamant", "item": "Adrenaline Orb", "index": 587}}, "Druddigon": {"Edmond": {"level": 48, "ability": "Sheer Force", "moves": ["Dragon Rush", "Glare", "Fire Punch", "Thunder Punch"], "nature": "Adamant", "item": "Life Orb", "index": 588}}, "Kingler": {"Chandler": {"level": 48, "ability": "Hyper Cutter", "moves": ["Crabhammer", "Curse", "X-Scissor", "Hammer Arm"], "nature": "Careful", "item": "Mystic Water", "index": 589}}, "Palossand": {"Chandler": {"level": 47, "ability": "Water Compaction", "moves": ["Shore Up", "Energy Ball", "Shadow Ball", "Sludge Bomb"], "nature": "Calm", "item": "Rindo Berry", "index": 590}}, "Sawsbuck": {"Chandler": {"level": 48, "ability": "Serene Grace", "moves": ["Headbutt", "Swords Dance", "Zen Headbutt", "Horn Leech"], "nature": "Jolly", "item": "Protective Pads", "index": 591}}, "Meganium": {"Huey (Double Battle, Gauntlet End)": {"level": 48, "ability": "Overgrow", "moves": ["Petal Blizzard", "Light Screen", "Reflect", "Endure"], "nature": "Jolly", "item": "Custap Berry", "index": 592}}, "Wyrdeer": {"Huey (Double Battle, Gauntlet End)": {"level": 48, "ability": "Sap Sipper", "moves": ["High Jump Kick", "High Horsepower", "Psyshield Bash", "Agility"], "nature": "Adamant", "item": "Tanga Berry", "index": 593}}, "Zebstrika": {"Huey (Double Battle, Gauntlet End)": {"level": 48, "ability": "Sap Sipper", "moves": ["Wild Charge", "Low Kick", "Protect", "Magnet Rise"], "nature": "Jolly", "item": "Electric Gem", "index": 594}}, "Basculin": {"GruntMuseum1": {"level": 48, "ability": "Reckless", "moves": ["Wave Crash", "Double-Edge"], "nature": "Jolly", "item": "Choice Band", "index": 596}}, "Seviper": {"GruntMuseum1": {"level": 48, "ability": "Shed Skin", "moves": ["Aqua Tail", "Poison Tail", "Dragon Tail", "Iron Tail"], "nature": "Adamant", "item": "Expert Belt", "index": 597}}, "Liepard": {"GruntMuseum1": {"level": 48, "ability": "Limber", "moves": ["Assist", "Encore", "Foul Play", "Thunder Wave"], "nature": "Jolly", "item": "Lum Berry", "index": 598}}, "Uxie": {"GruntMuseum2": {"level": 49, "ability": "Levitate", "moves": ["Stealth Rock", "Mystical Power", "Thunder Wave", "Memento"], "nature": "Timid", "item": "Leftovers", "index": 599}}, "Pangoro": {"GruntMuseum2": {"level": 49, "ability": "Iron Fist", "moves": ["Drain Punch", "Darkest Lariat", "Parting Shot", "Bullet Punch"], "nature": "Adamant", "item": "Quick Claw", "index": 600}}, "Tentacruel": {"GruntMuseum2": {"level": 49, "ability": "Clear Body", "moves": ["Curse", "Poison Jab", "Dive", "Mirror Coat"], "nature": "Adamant", "item": "White Herb", "index": 601}}, "Banette": {"GruntMuseum2": {"level": 50, "ability": "Insomnia", "moves": ["Will-O-Wisp", "Knock Off", "Substitute", "Shadow Claw"], "nature": "Adamant", "item": "Banettite", "index": 602}}, "Banette-Mega": {"GruntMuseum2": {"level": 50, "ability": "Prankster", "moves": ["Will-O-Wisp", "Knock Off", "Substitute", "Shadow Claw"], "nature": "Adamant", "item": "Banettite", "index": 603}}, "Cryogonal": {"Haley1 (Permanent Snow)": {"level": 49, "ability": "Levitate", "moves": ["Freeze-Dry", "Aurora Veil", "Blizzard", "Explosion"], "nature": "Naive", "item": "Light Clay", "index": 604}}, "Slowking": {"Haley1 (Permanent Snow)": {"level": 49, "ability": "Regenerator", "moves": ["Chilly Reception", "Psyshock", "Scald", "Blizzard"], "nature": "Bold", "item": "Leftovers", "index": 605}}, "Avalugg-Hisui": {"Haley1 (Permanent Snow)": {"level": 50, "ability": "Sturdy", "moves": ["Avalanche", "Stone Edge", "Body Press", "Recover"], "nature": "Adamant", "item": "Ice Gem", "index": 606}}, "Crabominable": {"Haley1 (Permanent Snow)": {"level": 50, "ability": "Hyper Cutter", "moves": ["Close Combat", "Ice Hammer"], "nature": "Adamant", "item": "Choice Band", "index": 607}}, "Abomasnow": {"Brenden (Permanent Snow)": {"level": 50, "ability": "Soundproof", "moves": ["Aurora Veil", "Blizzard", "Wood Hammer", "Earthquake"], "nature": "Brave", "item": "Occa Berry", "index": 608}}, "Sandslash-Alola": {"Brenden (Permanent Snow)": {"level": 49, "ability": "Slush Rush", "moves": ["Ice Punch", "Iron Head", "Earthquake", "Swords Dance"], "nature": "Adamant", "item": "Chople Berry", "index": 609}}, "Reuniclus": {"Brenden (Permanent Snow)": {"level": 50, "ability": "Magic Guard", "moves": ["Psychic", "Focus Blast", "Future Sight", "Recover"], "nature": "Modest", "item": "Psychic Gem", "index": 610}}, "Dewgong": {"Brenden (Permanent Snow)": {"level": 51, "ability": "Ice Body", "moves": ["Encore", "Toxic", "Flip Turn", "Protect"], "nature": "Bold", "item": "Leftovers", "index": 611}}, "Altaria": {"Brenden (Permanent Snow)": {"level": 51, "ability": "Cloud Nine", "moves": ["Dual Wingbeat", "Iron Tail", "Dragon Dance", "Earthquake"], "nature": "Adamant", "item": "Sitrus Berry", "index": 612}}, "Froslass": {"Marcos (Permanent Hail)": {"level": 49, "ability": "Snow Cloak", "moves": ["Will-O-Wisp", "Destiny Bond", "Icy Wind", "Shadow Ball"], "nature": "Timid", "item": "Bright Powder", "index": 613}}, "Alcremie": {"Marcos (Permanent Hail)": {"level": 50, "ability": "Aroma Veil", "moves": ["Acid Armor", "Calm Mind", "Stored Power", "Dazzling Gleam"], "nature": "Bold", "item": "Safety Goggles", "index": 615}}, "Walrein": {"Marcos (Permanent Hail)": {"level": 51, "ability": "Thick Fat", "moves": ["Blizzard", "Toxic", "Protect", "Earthquake"], "nature": "Relaxed", "item": "Leftovers", "index": 616}}, "Beartic": {"Marcos (Permanent Hail)": {"level": 51, "ability": "Slush Rush", "moves": ["Ice Punch", "Endeavor", "Superpower", "Liquidation"], "nature": "Jolly", "item": "Assault Vest", "index": 617}}, "Articuno": {"Glacia (Permanent Hail)": {"level": 51, "ability": "Snow Cloak", "moves": ["Aurora Veil", "U-turn", "Roost", "Freeze-Dry"], "nature": "Hasty", "item": "Light Clay", "index": 618}}, "Arctovish": {"Glacia (Permanent Hail)": {"level": 50, "ability": "Slush Rush", "moves": ["Fishious Rend", "Ice Fang", "Super Fang", "Ancient Power"], "nature": "Naive", "item": "Heavy-Duty Boots", "index": 619}}, "Piloswine": {"Glacia (Permanent Hail)": {"level": 51, "ability": "Thick Fat", "moves": ["Curse", "Icicle Spear", "Earthquake", "Rest"], "nature": "Adamant", "item": "Eviolite", "index": 620}}, "Calyrex": {"Glacia (Permanent Hail)": {"level": 52, "ability": "Unnerve", "moves": ["Leaf Storm", "Psychic", "Substitute", "Baton Pass"], "nature": "Timid", "item": "Safety Goggles", "index": 621}}, "Kommo-o": {"Glacia (Permanent Hail)": {"level": 51, "ability": "Overcoat", "moves": ["Ice Punch", "Clanging Scales", "Drain Punch", "Stealth Rock"], "nature": "Brave", "item": "Lum Berry", "index": 622}}, "Glalie": {"Glacia (Permanent Hail)": {"level": 53, "ability": "Inner Focus", "moves": ["Facade", "Earthquake", "Ice Shard", "Spikes"], "nature": "Naive", "item": "Glalitite", "index": 623}}, "Glalie-Mega": {"Glacia (Permanent Hail)": {"level": 53, "ability": "Refrigerate", "moves": ["Facade", "Earthquake", "Ice Shard", "Spikes"], "nature": "Naive", "item": "Glalitite", "index": 624}}, "Lycanroc-Midnight": {"Mike2": {"level": 54, "ability": "No Guard", "moves": ["Trailblaze", "Stone Edge", "Stomping Tantrum", "Sucker Punch"], "nature": "Adamant", "item": "Lum Berry", "index": 625}}, "Tauros-Paldea-Combat": {"Mike2": {"level": 54, "ability": "Cud Chew", "moves": ["Body Press", "Endure", "Rock Slide", "Lash Out"], "nature": "Impish", "item": "Kee Berry", "index": 626}}, "Marowak-Alola": {"Mike2": {"level": 54, "ability": "Cursed Body", "moves": ["Poltergeist", "Fire Punch", "Perish Song", "Fire Spin"], "nature": "Adamant", "item": "Thick Club", "index": 627}}, "Fearow": {"Lydia1": {"level": 54, "ability": "Sniper", "moves": ["Focus Energy", "Drill Peck", "Double-Edge", "Drill Run"], "nature": "Jolly", "item": "Scope Lens", "index": 628}}, "Camerupt": {"Lydia1": {"level": 54, "ability": "Magma Armor", "moves": ["Earth Power", "Flamethrower", "Explosion", "Ancient Power"], "nature": "Quiet", "item": "Passho Berry", "index": 629}, "TerraCaveCourtney": {"level": 61, "ability": "Magma Armor", "moves": ["Stealth Rock", "Magma Storm", "Earth Power", "Yawn"], "nature": "Bold", "item": "Cameruptite", "index": 713}, "Vicky": {"level": 67, "ability": "Solid Rock", "moves": ["Stealth Rock", "Explosion", "Eruption", "Earthquake"], "nature": "Quiet", "item": "Sitrus Berry", "index": 874}}, "Tropius": {"Lydia1": {"level": 55, "ability": "Harvest", "moves": ["Dragon Dance", "Leaf Blade", "Dual Wingbeat", "Earthquake"], "nature": "Adamant", "item": "Yache Berry", "index": 630}, "GruntTerraCave1": {"level": 60, "ability": "Solar Power", "moves": ["Earthquake", "Dragon Dance", "Solar Blade", "Dual Wingbeat"], "nature": "Adamant", "item": "Bright Powder", "index": 695}}, "Kecleon": {"Brandi": {"level": 54, "ability": "Color Change", "moves": ["Wonder Room", "Power-Up Punch", "Body Slam", "Stealth Rock"], "nature": "Brave", "item": "Focus Sash", "index": 631}}, "Jynx": {"Brandi": {"level": 55, "ability": "Dry Skin", "moves": ["Lovely Kiss", "Nasty Plot", "Ice Beam", "Psyshock"], "nature": "Timid", "item": "Occa Berry", "index": 632}}, "Grumpig": {"Brandi": {"level": 54, "ability": "Thick Fat", "moves": ["Psychic", "Dazzling Gleam", "Focus Blast", "Thunder Wave"], "nature": "Modest", "item": "Colbur Berry", "index": 633}}, "Beheeyem": {"Brandi": {"level": 55, "ability": "Analytic", "moves": ["Meteor Beam", "Psychic", "Focus Blast", "Energy Ball"], "nature": "Quiet", "item": "Power Herb", "index": 634}, "Tyron": {"level": 64, "ability": "Analytic", "moves": ["Psychic", "Signal Beam", "Thunderbolt", "Energy Ball"], "nature": "Modest", "item": "Life Orb", "index": 806}}, "Araquanid": {"Derek": {"level": 55, "ability": "Water Bubble", "moves": ["Sticky Web", "Liquidation", "Leech Life", "Infestation"], "nature": "Impish", "item": "Coba Berry", "index": 635}}, "Scyther": {"Derek": {"level": 55, "ability": "Swarm", "moves": ["Swords Dance", "Dual Wingbeat", "X-Scissor", "Close Combat"], "nature": "Jolly", "item": "Eviolite", "index": 636}}, "Crustle": {"Derek": {"level": 55, "ability": "Weak Armor", "moves": ["Shell Smash", "Rock Blast", "Leech Life", "Earthquake"], "nature": "Adamant", "item": "White Herb", "index": 637}}, "Lurantis": {"Derek": {"level": 55, "ability": "Contrary", "moves": ["Leaf Storm", "Superpower", "Knock Off", "Aromatherapy"], "nature": "Jolly", "item": "Sitrus Berry", "index": 638}}, "Lycanroc": {"Melina": {"level": 55, "ability": "Steadfast", "moves": ["Stealth Rock", "Accelerock", "Rock Slide", "Close Combat"], "nature": "Jolly", "item": "Focus Sash", "index": 639}, "Travis": {"level": 67, "ability": "Sand Rush", "moves": ["Stone Edge"], "nature": "Adamant", "item": "Choice Band", "index": 887}}, "Swellow": {"Melina": {"level": 55, "ability": "Guts", "moves": ["Facade", "Protect", "Brave Bird", "Steel Wing"], "nature": "Jolly", "item": "Flame Orb", "index": 640}}, "Accelgor": {"Melina": {"level": 56, "ability": "Unburden", "moves": ["Final Gambit", "Bug Buzz", "Sludge Bomb", "Focus Blast"], "nature": "Modest", "item": "Bug Gem", "index": 641}, "Jerry1": {"level": 63, "ability": "Hydration", "moves": ["Spikes", "Toxic Spikes", "Bug Buzz", "Water Shuriken"], "nature": "Timid", "item": "Lum Berry", "index": 781}}, "Volbeat": {"Triathlete Maria & Dylan": {"level": 55, "ability": "Prankster", "moves": ["Tail Glow", "Baton Pass", "Bug Buzz", "Thunderbolt"], "nature": "Timid", "item": "Focus Sash", "index": 642}}, "Swoobat": {"Triathlete Maria & Dylan": {"level": 56, "ability": "Simple", "moves": ["Calm Mind", "Stored Power", "Air Slash", "Heat Wave"], "nature": "Timid", "item": "Focus Sash", "index": 643}}, "Illumise": {"Triathlete Maria & Dylan": {"level": 55, "ability": "Prankster", "moves": ["Tailwind", "Encore", "Light Screen", "Reflect"], "nature": "Bold", "item": "Light Clay", "index": 644}}, "Persian-Alola": {"Triathlete Maria & Dylan": {"level": 55, "ability": "Fur Coat", "moves": ["Fake Out", "Nasty Plot", "Dark Pulse", "Thunderbolt"], "nature": "Timid", "item": "Dark Gem", "index": 645}}, "Boltund": {"Isaac1": {"level": 55, "ability": "Strong Jaw", "moves": ["Ice Fang", "Psychic Fangs", "Fire Fang"], "nature": "Jolly", "item": "Lum Berry", "index": 646}}, "Zangoose": {"Isaac1": {"level": 55, "ability": "Toxic Boost", "moves": ["Facade", "Close Combat", "Gunk Shot", "Knock Off"], "nature": "Jolly", "item": "Toxic Orb", "index": 647}}, "Furfrou": {"Isaac1": {"level": 55, "ability": "Fur Coat", "moves": ["Cotton Guard", "Return", "Iron Tail", "Thunder Wave"], "nature": "Careful", "item": "Leftovers", "index": 648}}, "Arbok": {"Isaac1": {"level": 55, "ability": "Shed Skin", "moves": ["Coil", "Gunk Shot", "Rest", "Fire Fang"], "nature": "Adamant", "item": "Black Sludge", "index": 649}}, "Houndstone": {"Isaac1": {"level": 55, "ability": "Fluffy", "moves": ["Last Respects", "Body Press", "Poltergeist", "Shadow Sneak"], "nature": "Impish", "item": "Sitrus Berry", "index": 650}}, "Oricorio-Sensu": {"AnnaAndMeg1": {"level": 55, "ability": "Dancer", "moves": ["Quiver Dance", "Revelation Dance", "Air Slash", "Teeter Dance"], "nature": "Timid", "item": "Charti Berry", "index": 651}}, "Oricorio-Pom-Pom": {"AnnaAndMeg1": {"level": 55, "ability": "Dancer", "moves": ["Quiver Dance", "Revelation Dance", "Air Cutter", "Follow Me"], "nature": "Timid", "item": "Covert Cloak", "index": 652}}, "Bellossom": {"AnnaAndMeg1": {"level": 56, "ability": "Illuminate", "moves": ["Quiver Dance", "Giga Drain", "Sludge Bomb", "Hidden Power Water"], "nature": "Modest", "item": "Sitrus Berry", "ivs": {"hp": "31", "at": "31", "df": "31", "sa": "30", "sd": "31", "sp": "30"}, "index": 653}}, "Oricorio": {"AnnaAndMeg1": {"level": 55, "ability": "Dancer", "moves": ["Quiver Dance", "Fiery Dance", "Hurricane", "Energy Ball"], "nature": "Timid", "item": "Life Orb", "index": 654}}, "Oricorio-Pa'u": {"AnnaAndMeg1": {"level": 55, "ability": "Dancer", "moves": ["Quiver Dance", "Revelation Dance", "Protect", "Feather Dance"], "nature": "Timid", "item": "Psychic Gem", "index": 655}}, "Kangaskhan": {"Aisha": {"level": 55, "ability": "Inner Focus", "moves": ["Fake Out", "Return", "Hammer Arm", "Sucker Punch"], "nature": "Adamant", "item": "Chople Berry", "index": 656}, "Norman1": {"level": 66, "ability": "Inner Focus", "moves": ["Fake Out", "Return", "Sucker Punch", "Power-Up Punch"], "nature": "Jolly", "item": "Kangaskhanite", "index": 864}}, "Grapploct": {"Aisha": {"level": 56, "ability": "Technician", "moves": ["Octolock", "Revenge", "Rock Tomb", "Brutal Swing"], "nature": "Adamant", "item": "Black Belt", "index": 657}, "Shinji (Inverse Battle)": {"level": 66, "ability": "Technician", "moves": ["Power-Up Punch", "Payback", "Circle Throw", "Topsy-Turvy"], "nature": "Adamant", "item": "Clear Amulet", "index": 856}}, "Granbull": {"Aisha": {"level": 55, "ability": "Quick Feet", "moves": ["Play Rough", "Thunder Fang", "Crunch", "Close Combat"], "nature": "Jolly", "item": "Toxic Orb", "index": 658}}, "Blaziken": {"Aisha": {"level": 56, "ability": "Speed Boost", "moves": ["Close Combat", "Overheat", "Stone Edge", "Knock Off"], "nature": "Adamant", "item": "White Herb", "index": 659}}, "Perrserker": {"Aisha": {"level": 56, "ability": "Steely Spirit", "moves": ["Iron Tail", "Bullet Punch", "Close Combat", "Curse"], "nature": "Adamant", "item": "Fighting Gem", "index": 660}}, "Electivire": {"Vivian": {"level": 56, "ability": "Vital Spirit", "moves": ["Wild Charge", "Ice Punch", "Brick Break", "Magnet Rise"], "nature": "Jolly", "item": "Clear Amulet", "index": 662}}, "Octillery": {"Vivian": {"level": 56, "ability": "Moody", "moves": ["Charge Beam", "Thunder Wave", "Protect", "Octazooka"], "nature": "Modest", "item": "White Herb", "index": 663}}, "Iron Hands": {"Vivian": {"level": 56, "ability": "Quark Drive", "moves": ["Fake Out", "Thunder Punch", "Focus Punch", "Substitute"], "nature": "Adamant", "item": "Punching Glove", "index": 664}}, "Rotom": {"Vivian": {"level": 56, "ability": "Levitate", "moves": ["Ominous Wind", "Charge Beam", "Stored Power", "Signal Beam"], "nature": "Timid", "item": "Expert Belt", "index": 665}}, "Electrode": {"Angelo": {"level": 58, "ability": "Soundproof", "moves": ["Explosion"], "nature": "Adamant", "item": "Choice Band", "index": 666}}, "Rabsca": {"Angelo": {"level": 56, "ability": "Analytic", "moves": ["Revival Blessing", "Psychic", "Teleport", "Energy Ball"], "nature": "Modest", "item": "Leppa Berry", "index": 667}}, "Galvantula": {"Ben": {"level": 56, "ability": "Compound Eyes", "moves": ["Sticky Web", "Thunder", "Bug Buzz", "Energy Ball"], "nature": "Timid", "item": "Focus Sash", "index": 670}}, "Rotom-Frost": {"Ben": {"level": 57, "ability": "Levitate", "moves": ["Blizzard", "Thunder", "Volt Switch", "Will-O-Wisp"], "nature": "Modest", "item": "Blunder Policy", "index": 671}}, "Kilowattrel": {"Ben": {"level": 56, "ability": "Wind Power", "moves": ["Air Slash", "Thunderbolt", "U-turn", "Tailwind"], "nature": "Timid", "item": "Cell Battery", "index": 673}}, "Eelektross": {"Ben": {"level": 57, "ability": "Levitate", "moves": ["Coil", "Thunder Punch", "Aqua Tail", "Body Press"], "nature": "Impish", "item": "Leftovers", "index": 674}}, "Plusle": {"Guitarist Shawn & Kirk": {"level": 57, "ability": "Plus", "moves": ["Fake Out", "Grass Knot", "Thunderbolt", "Electric Terrain"], "nature": "Timid", "item": "Terrain Extender", "index": 675}}, "Klinklang": {"Guitarist Shawn & Kirk": {"level": 58, "ability": "Plus", "moves": ["Gear Up", "Steel Beam", "Discharge", "Trick Room"], "nature": "Modest", "item": "Shuca Berry", "index": 676}}, "Toxtricity": {"Guitarist Shawn & Kirk": {"level": 57, "ability": "Plus", "moves": ["Overdrive", "Sludge Bomb", "Encore", "Hidden Power Grass"], "nature": "Modest", "item": "Grass Gem", "ivs": {"hp": "31", "at": "30", "df": "31", "sa": "30", "sd": "31", "sp": "31"}, "index": 677}}, "Minun": {"Guitarist Shawn & Kirk": {"level": 57, "ability": "Minus", "moves": ["Grass Knot", "Fake Out", "Thunder", "Signal Beam"], "nature": "Modest", "item": "Air Balloon", "index": 678}}, "Toxtricity-Low-Key": {"Guitarist Shawn & Kirk": {"level": 57, "ability": "Minus", "moves": ["Overdrive", "Sludge Bomb", "Hyper Voice", "Snarl"], "nature": "Timid", "item": "Throat Spray", "index": 679}}, "Ampharos": {"Bianca": {"level": 64, "ability": "Illuminate", "moves": ["Cotton Guard", "Thunderbolt", "Magnet Rise", "Signal Beam"], "nature": "Modest", "item": "Air Balloon", "index": 680}, "Miguel1": {"level": 65, "ability": "Illuminate", "moves": ["Thunderbolt", "Dragon Pulse", "Volt Switch", "Focus Blast"], "nature": "Quiet", "item": "Ampharosite", "index": 819}}, "Espeon": {"Bianca": {"level": 64, "ability": "Magic Guard", "moves": ["Psychic", "Dazzling Gleam", "Grass Knot", "Thunder Wave"], "nature": "Timid", "item": "Life Orb", "index": 681}, "Sarah": {"level": 64, "ability": "Magic Guard", "moves": ["Psycho Shift", "Psychic", "Mystical Fire", "Morning Sun"], "nature": "Timid", "item": "Flame Orb", "index": 789}}, "Slurpuff": {"Bianca": {"level": 64, "ability": "Unburden", "moves": ["Belly Drum", "Play Rough", "Return", "Drain Punch"], "nature": "Jolly", "item": "Sitrus Berry", "index": 682}}, "Coalossal": {"Hayden": {"level": 64, "ability": "Steam Engine", "moves": ["Explosion", "Stealth Rock", "Tar Shot", "Heat Crash"], "nature": "Relaxed", "item": "Iapapa Berry", "index": 683}}, "Turtonator": {"Hayden": {"level": 64, "ability": "Shell Armor", "moves": ["Explosion", "Fire Spin", "Body Press", "Dragon Pulse"], "nature": "Sassy", "item": "Leftovers", "index": 684}}, "Silvally-Fire": {"Hayden": {"level": 64, "ability": "Rks System", "moves": ["Multi-Attack", "Explosion", "Parting Shot", "Ice Beam"], "nature": "Naive", "item": "Fire Memory", "index": 685}}, "Tapu Koko": {"Wattson1": {"level": 59, "ability": "Electric Surge", "moves": ["Discharge", "U-turn", "Dazzling Gleam", "Grass Knot"], "nature": "Timid", "item": "Terrain Extender", "index": 686}}, "Sceptile": {"Wattson1": {"level": 58, "ability": "Unburden", "moves": ["Energy Ball", "Thunder Punch", "Dragon Pulse", "Helping Hand"], "nature": "Rash", "item": "Sceptilite", "index": 687}}, "Sceptile-Mega": {"Wattson1": {"level": 58, "ability": "Lightningrod", "moves": ["Energy Ball", "Thunder Punch", "Dragon Pulse", "Helping Hand"], "nature": "Rash", "item": "Sceptilite", "index": 688}}, "Emolga": {"Wattson1": {"level": 59, "ability": "Motor Drive", "moves": ["Discharge", "Follow Me", "Acrobatics", "Electro Ball"], "nature": "Hasty", "item": "Electric Seed", "index": 689}}, "Arctozolt": {"Wattson1": {"level": 58, "ability": "Volt Absorb", "moves": ["Bolt Beak", "Icicle Spear", "Low Kick", "Discharge"], "nature": "Adamant", "item": "Loaded Dice", "index": 690}}, "Iron Thorns": {"Wattson1": {"level": 58, "ability": "Quark Drive", "moves": ["Wild Charge", "Rock Slide", "Electroweb", "Ice Punch"], "nature": "Adamant", "item": "Assault Vest", "index": 691}}, "Manectric": {"Wattson1": {"level": 60, "ability": "Lightning Rod", "moves": ["Discharge", "Flamethrower", "Hidden Power Ice", "Thunderbolt"], "nature": "Timid", "item": "Focus Sash", "ivs": {"hp": "31", "at": "30", "df": "30", "sa": "31", "sd": "31", "sp": "31"}, "index": 692}}, "Rapidash": {"GruntTerraCave1": {"level": 59, "ability": "Run Away", "moves": ["Sunny Day", "Flare Blitz", "High Horsepower", "Will-O-Wisp"], "nature": "Jolly", "item": "Heat Rock", "index": 693}}, "Lilligant": {"GruntTerraCave1": {"level": 60, "ability": "Chlorophyll", "moves": ["Solar Beam", "Weather Ball", "Grass Whistle", "Dream Eater"], "nature": "Modest", "item": "Grass Gem", "index": 694}}, "Torkoal": {"GruntTerraCave2": {"level": 60, "ability": "Drought", "moves": ["Stealth Rock", "Explosion", "Flamethrower", "Solar Beam"], "nature": "Modest", "item": "Heat Rock", "index": 696}}, "Exeggutor": {"GruntTerraCave2": {"level": 60, "ability": "Chlorophyll", "moves": ["Solar Beam", "Psychic", "Sunny Day", "Explosion"], "nature": "Timid", "item": "Focus Band", "index": 697}}, "Centiskorch": {"GruntTerraCave2": {"level": 61, "ability": "Flash Fire", "moves": ["Coil", "Leech Life", "Fire Lash", "Power Whip"], "nature": "Adamant", "item": "Leftovers", "index": 698}}, "Togekiss": {"GruntTerraCave2": {"level": 61, "ability": "Super Luck", "moves": ["Flamethrower", "Morning Sun", "Air Cutter", "Aura Sphere"], "nature": "Timid", "item": "Scope Lens", "index": 699}, "Crit Room - Parker": {"level": 64, "ability": "Super Luck", "moves": ["Air Cutter", "Mystical Fire", "Draining Kiss", "Ancient Power"], "nature": "Timid", "item": "Scope Lens", "index": 831}}, "Nidoking": {"GruntTerraCave3": {"level": 60, "ability": "Poison Point", "moves": ["Rock Blast", "Poison Jab", "Fire Punch", "Sucker Punch"], "nature": "Jolly", "item": "King's Rock", "index": 700}}, "Rhydon": {"GruntTerraCave3": {"level": 61, "ability": "Reckless", "moves": ["Head Smash", "Stealth Rock", "Drill Run", "Double-Edge"], "nature": "Adamant", "item": "Bright Powder", "index": 701}}, "Simisear": {"GruntTerraCave3": {"level": 60, "ability": "Blaze", "moves": ["Flamethrower", "Fire Spin", "Endeavor", "Grass Knot"], "nature": "Timid", "item": "Focus Band", "index": 702}}, "Skuntank": {"GruntTerraCave4": {"level": 60, "ability": "Aftermath", "moves": ["Flamethrower", "Poison Jab", "Dark Pulse", "Explosion"], "nature": "Hasty", "item": "Rowap Berry", "index": 703}}, "Falinks": {"GruntTerraCave4": {"level": 60, "ability": "Battle Armor", "moves": ["First Impression", "Body Press", "Bulk Up", "Rock Slide"], "nature": "Impish", "item": "Leftovers", "index": 704}}, "Charizard": {"GruntTerraCave4": {"level": 61, "ability": "Blaze", "moves": ["Heat Wave", "Ancient Power", "Roost", "Will-O-Wisp"], "nature": "Timid", "item": "Heavy-Duty Boots", "index": 705}}, "Emboar": {"GruntTerraCave4": {"level": 61, "ability": "Reckless", "moves": ["Flare Blitz", "Wild Charge", "Head Smash", "Take Down"], "nature": "Adamant", "item": "Quick Claw", "index": 706}}, "Heatmor": {"GruntTerraCave5": {"level": 61, "ability": "Gluttony", "moves": ["Fire Lash", "Power-Up Punch", "Low Kick", "Thunder Punch"], "nature": "Adamant", "item": "Salac Berry", "index": 707}}, "Nidoqueen": {"GruntTerraCave5": {"level": 61, "ability": "Sheer Force", "moves": ["Earth Power", "Ice Beam", "Stealth Rock", "Flamethrower"], "nature": "Timid", "item": "Ground Gem", "index": 708}}, "Mabosstiff": {"GruntTerraCave5": {"level": 62, "ability": "Stakeout", "moves": ["Lash Out", "Destiny Bond", "Psychic Fangs", "Roar"], "nature": "Adamant", "item": "Red Card", "index": 709}}, "Rapidash-Galar": {"GruntTerraCave5": {"level": 61, "ability": "Pastel Veil", "moves": ["Zen Headbutt", "Play Rough", "High Horsepower", "Swords Dance"], "nature": "Jolly", "item": "Sitrus Berry", "index": 710}}, "Pidgeot-Mega": {"GruntTerraCave5": {"level": 62, "ability": "No Guard", "moves": ["Hurricane", "Heat Wave", "Roost", "Hidden Power Water"], "nature": "Timid", "item": "Pidgeotite", "ivs": {"hp": "31", "at": "31", "df": "31", "sa": "30", "sd": "31", "sp": "30"}, "index": 712}}, "Camerupt-Mega": {"TerraCaveCourtney": {"level": 61, "ability": "Sheer Force", "moves": ["Stealth Rock", "Magma Storm", "Earth Power", "Yawn"], "nature": "Bold", "item": "Cameruptite", "index": 714}}, "Exeggutor-Alola": {"TerraCaveCourtney": {"level": 61, "ability": "Harvest", "moves": ["Flamethrower", "Substitute", "Energy Ball", "Dragon Pulse"], "nature": "Modest", "item": "Sitrus Berry", "index": 715}}, "Muk": {"TerraCaveCourtney": {"level": 61, "ability": "Stench", "moves": ["Explosion", "Gunk Shot", "Fire Punch", "Drain Punch"], "nature": "Adamant", "item": "Shuca Berry", "index": 716}}, "Moltres": {"TerraCaveCourtney": {"level": 62, "ability": "Pressure", "moves": ["Solar Beam", "Air Slash", "Flamethrower", "Roost"], "nature": "Timid", "item": "Power Herb", "index": 717}}, "Dusclops": {"TerraCaveCourtney": {"level": 62, "ability": "Pressure", "moves": ["Will-O-Wisp", "Pain Split", "Seismic Toss", "Infestation"], "nature": "Impish", "item": "Eviolite", "index": 718}}, "Slither Wing": {"TerraCaveCourtney": {"level": 65, "ability": "Protosynthesis", "moves": ["First Impression", "Leech Life", "Close Combat", "Will-O-Wisp"], "nature": "Jolly", "item": "Life Orb", "index": 719}}, "Claydol": {"Jaclyn": {"level": 60, "ability": "Levitate", "moves": ["Stealth Rock", "Power Swap", "Earthquake", "Psychic"], "nature": "Relaxed", "item": "Mental Herb", "index": 720}}, "Noctowl": {"Jaclyn": {"level": 62, "ability": "Tinted Lens", "moves": ["Hurricane"], "nature": "Timid", "item": "Choice Specs", "index": 721}}, "Espathra": {"Jaclyn": {"level": 61, "ability": "Speed Boost", "moves": ["Protect", "Calm Mind", "Stored Power", "Energy Ball"], "nature": "Modest", "item": "Psychic Gem", "index": 722}, "Pass Room - George": {"level": 65, "ability": "Speed Boost", "moves": ["Work Up", "Baton Pass", "Stored Power", "Dazzling Gleam"], "nature": "Modest", "item": "Petaya Berry", "index": 842}}, "Gallade": {"Jaclyn": {"level": 61, "ability": "Sharpness", "moves": ["Psycho Cut", "Sacred Sword", "Night Slash", "Leaf Blade"], "nature": "Jolly", "item": "Sitrus Berry", "index": 723}}, "Dodrio": {"Abigail1": {"level": 62, "ability": "Tangled Feet", "moves": ["Thrash", "Drill Peck", "Drill Run", "Knock Off"], "nature": "Jolly", "item": "Focus Sash", "index": 724}}, "Vileplume": {"Abigail1": {"level": 61, "ability": "Intimidate", "moves": ["Sleep Powder", "Sludge Bomb", "Energy Ball", "Strength Sap"], "nature": "Modest", "item": "Black Sludge", "index": 725}}, "Sandaconda": {"Abigail1": {"level": 61, "ability": "Shed Skin", "moves": ["Earthquake", "Glare", "Rock Slide", "Rest"], "nature": "Adamant", "item": "Leftovers", "index": 726}}, "Stantler": {"Anthony": {"level": 62, "ability": "Intimidate", "moves": ["Curse", "Rest", "Return", "High Jump Kick"], "nature": "Adamant", "item": "Eviolite", "index": 728}}, "Ninetales-Alola": {"Anthony": {"level": 62, "ability": "Snow Warning", "moves": ["Nasty Plot", "Freeze-Dry", "Moonblast", "Dark Pulse"], "nature": "Timid", "item": "Focus Sash", "index": 729}}, "Glaceon": {"Anthony": {"level": 61, "ability": "Snow Cloak", "moves": ["Blizzard", "Shadow Ball", "Wish", "Protect"], "nature": "Modest", "item": "Leftovers", "index": 730}}, "Typhlosion": {"Triathlete Benjamin & Alyssa": {"level": 62, "ability": "Blaze", "moves": ["Lava Plume"], "nature": "Timid", "item": "Choice Specs", "index": 731}}, "Jolteon": {"Triathlete Benjamin & Alyssa": {"level": 62, "ability": "Volt Absorb", "moves": ["Discharge", "Signal Beam", "Signal Beam", "Signal Beam"], "nature": "Modest", "item": "Electric Gem", "index": 732}}, "Flareon": {"Triathlete Benjamin & Alyssa": {"level": 62, "ability": "Flash Fire", "moves": ["Flare Blitz", "Trailblaze", "Superpower", "Double-Edge"], "nature": "Adamant", "item": "Ability Shield", "index": 733}}, "Whimsicott": {"Triathlete Jasmine & Jacob": {"level": 62, "ability": "Prankster", "moves": ["Beat Up", "Grass Whistle", "Moonblast", "Tailwind"], "nature": "Timid", "item": "Covert Cloak", "ivs": {"hp": "31", "at": "0", "df": "31", "sa": "31", "sd": "31", "sp": "31"}, "index": 735}}, "Flamigo": {"Triathlete Jasmine & Jacob": {"level": 63, "ability": "Costar", "moves": ["Close Combat", "Brave Bird", "Lunge", "Bulk Up"], "nature": "Jolly", "item": "Flying Gem", "index": 736}}, "Absol": {"Triathlete Jasmine & Jacob": {"level": 63, "ability": "Justified", "moves": ["Sucker Punch", "Knock Off", "Play Rough", "Close Combat"], "nature": "Jolly", "item": "Covert Cloak", "index": 737}}, "Arcanine": {"Triathlete Jasmine & Jacob": {"level": 63, "ability": "Justified", "moves": ["Flame Charge", "Flare Blitz", "Wild Charge", "Extreme Speed"], "nature": "Jolly", "item": "Life Orb", "index": 738}}, "Mew": {"RivalRoute110Froakie": {"level": 63, "ability": "Synchronize", "moves": ["Stealth Rock", "Psychic", "Focus Blast", "Soft-Boiled"], "nature": "Timid", "item": "Rocky Helmet", "index": 739}, "RivalRoute110Chespin": {"level": 63, "ability": "Synchronize", "moves": ["Stealth Rock", "Psychic", "Focus Blast", "Soft-Boiled"], "nature": "Timid", "item": "Rocky Helmet", "index": 745}, "RivalRoute110Fennekin": {"level": 63, "ability": "Synchronize", "moves": ["Stealth Rock", "Psychic", "Focus Blast", "Soft-Boiled"], "nature": "Timid", "item": "Rocky Helmet", "index": 751}, "Confusion Room - Alexia": {"level": 64, "ability": "Synchronize", "moves": ["Psych Up", "Swagger", "Zen Headbutt", "Play Rough"], "nature": "Jolly", "item": "Leftovers", "index": 836}}, "Pyroar": {"RivalRoute110Froakie": {"level": 63, "ability": "Unnerve", "moves": ["Solar Beam", "Fire Spin", "Fire Blast", "Hyper Voice"], "nature": "Timid", "item": "Power Herb", "index": 742}, "Confusion Room - Alexia": {"level": 65, "ability": "Unnerve", "moves": ["Swagger", "Overheat", "Hyper Voice", "Yawn"], "nature": "Timid", "item": "Lum Berry", "index": 837}}, "Rotom-Wash": {"RivalRoute110Froakie": {"level": 63, "ability": "Levitate", "moves": ["Hydro Pump", "Thunderbolt", "Will-O-Wisp", "Pain Split"], "nature": "Bold", "item": "Sitrus Berry", "index": 743}}, "Rotom-Mow": {"RivalRoute110Chespin": {"level": 63, "ability": "Levitate", "moves": ["Leaf Storm", "Thunderbolt", "Nasty Plot", "Shadow Ball"], "nature": "Timid", "item": "Sitrus Berry", "index": 749}}, "Rotom-Heat": {"RivalRoute110Fennekin": {"level": 63, "ability": "Levitate", "moves": ["Overheat", "Thunderbolt", "Thunder Wave", "Foul Play"], "nature": "Calm", "item": "Sitrus Berry", "index": 755}}, "Leavanny": {"Isabel1": {"level": 62, "ability": "Sharpness", "moves": ["Leaf Blade", "Silk Trap", "Low Kick", "Swords Dance"], "nature": "Jolly", "item": "Focus Sash", "index": 757}}, "Gorebyss": {"Isabel1": {"level": 63, "ability": "Swift Swim", "moves": ["Shell Smash", "Hydro Pump", "Ice Beam", "Psychic"], "nature": "Timid", "item": "Wacan Berry", "index": 758}}, "Donphan": {"Kaleb": {"level": 62, "ability": "Sturdy", "moves": ["Counter", "Earthquake", "Stone Edge", "Stealth Rock"], "nature": "Adamant", "item": "Iapapa Berry", "index": 760}}, "Huntail": {"Kaleb": {"level": 63, "ability": "Swift Swim", "moves": ["Shell Smash", "Aqua Tail", "Double-Edge", "Sucker Punch"], "nature": "Jolly", "item": "Rindo Berry", "index": 761}}, "Mr. Mime": {"Kaleb": {"level": 63, "ability": "Filter", "moves": ["Hypnosis", "Psychic", "Moonblast", "Mystical Fire"], "nature": "Timid", "item": "Expert Belt", "index": 762}}, "Chesnaught": {"Rhett": {"level": 63, "ability": "Bulletproof", "moves": ["Spiky Shield", "Spikes", "Body Press", "Seed Bomb"], "nature": "Impish", "item": "Leftovers", "index": 763}}, "Duraludon": {"Rhett": {"level": 63, "ability": "Light Metal", "moves": ["Flash Cannon", "Draco Meteor", "Body Press", "Thunder Wave"], "nature": "Timid", "item": "Eviolite", "index": 764}}, "Sirfetch\u2019d": {"Rhett": {"level": 63, "ability": "Scrappy", "moves": ["Meteor Assault", "First Impression", "Poison Jab", "Rock Tomb"], "nature": "Adamant", "item": "Fighting Gem", "index": 765}}, "Regigigas": {"AmyAndLiv1": {"level": 64, "ability": "Slow Start", "moves": ["Crush Grip", "Protect", "Substitute", "Drain Punch"], "nature": "Jolly", "item": "Leftovers", "index": 766}}, "Smeargle": {"AmyAndLiv1": {"level": 63, "ability": "Moody", "moves": ["Dark Void", "Rage Powder", "Magic Coat", "Super Fang"], "nature": "Jolly", "item": "Focus Sash", "index": 767}}, "Ambipom": {"AmyAndLiv1": {"level": 63, "ability": "Skill Link", "moves": ["Fake Out", "Fling", "Sing", "Tail Slap"], "nature": "Jolly", "item": "King's Rock", "index": 768}}, "Audino": {"AmyAndLiv1": {"level": 63, "ability": "Healer", "moves": ["Helping Hand", "Follow Me", "Dazzling Gleam", "Hyper Voice"], "nature": "Bold", "item": "Audinite", "index": 769}}, "Audino-Mega": {"AmyAndLiv1": {"level": 63, "ability": "Healer", "moves": ["Helping Hand", "Follow Me", "Dazzling Gleam", "Hyper Voice"], "nature": "Bold", "item": "Audinite", "index": 770}}, "Toxapex": {"Andrew": {"level": 63, "ability": "Merciless", "moves": ["Hydro Pump", "Venoshock", "Hex", "Recover"], "nature": "Modest", "item": "Life Orb", "index": 772}}, "Simipour": {"Andrew": {"level": 63, "ability": "Gluttony", "moves": ["Blizzard", "Nasty Plot", "Scald", "Grass Knot"], "nature": "Timid", "item": "Starf Berry", "index": 773}}, "Eldegoss": {"Daisy": {"level": 62, "ability": "Cotton Down", "moves": ["Sleep Powder", "Energy Ball", "Leech Seed", "Aromatherapy"], "nature": "Bold", "item": "Eject Button", "index": 774}}, "Tsareena": {"Daisy": {"level": 64, "ability": "Queenly Majesty", "moves": ["Trop Kick", "High Jump Kick", "Triple Axel", "Aromatherapy"], "nature": "Jolly", "item": "Muscle Band", "index": 775}}, "Florges": {"Daisy": {"level": 63, "ability": "Flower Veil", "moves": ["Moonblast", "Calm Mind", "Psychic", "Synthesis"], "nature": "Bold", "item": "Leftovers", "index": 776}}, "Polteageist": {"Daisy": {"level": 63, "ability": "Cursed Body", "moves": ["Shadow Ball", "Shell Smash", "Giga Drain", "Aromatherapy"], "nature": "Modest", "item": "White Herb", "index": 777}}, "Pachirisu": {"Janice (Gauntlet Start)": {"level": 63, "ability": "Volt Absorb", "moves": ["Light Screen", "Reflect", "U-turn", "Nuzzle"], "nature": "Jolly", "item": "Light Clay", "index": 778}}, "Shaymin": {"Janice (Gauntlet Start)": {"level": 63, "ability": "Natural Cure", "moves": ["Seed Flare", "Earth Power", "Endeavor", "Leech Seed"], "nature": "Timid", "item": "Leftovers", "index": 779}}, "Tatsugiri": {"Janice (Gauntlet Start)": {"level": 63, "ability": "Swift Swim", "moves": ["Nasty Plot", "Surf", "Dragon Pulse", "Icy Wind"], "nature": "Timid", "item": "Salac Berry", "index": 780}}, "Meowstic-F": {"Jerry1": {"level": 62, "ability": "Keen Eye", "moves": ["Psychic", "Energy Ball", "Alluring Voice", "Thunderbolt"], "nature": "Timid", "item": "Choice Specs", "index": 782}}, "Goodra": {"Jerry1": {"level": 63, "ability": "Gooey", "moves": ["Dragon Pulse", "Flamethrower", "Thunderbolt", "Substitute"], "nature": "Bold", "item": "Leftovers", "index": 783}}, "Ninetales": {"Dawson": {"level": 63, "ability": "Illuminate", "moves": ["Flamethrower", "Energy Ball", "Will-O-Wisp", "Memento"], "nature": "Timid", "item": "Sitrus Berry", "index": 784}, "Drew": {"level": 68, "ability": "Drought", "moves": ["Fire Blast", "Solar Beam", "Scorching Sands", "Hypnosis"], "nature": "Timid", "item": "Heat Rock", "index": 913}}, "Gogoat": {"Dawson": {"level": 64, "ability": "Sap Sipper", "moves": ["Bulk Up", "Horn Leech", "Rock Slide", "Milk Drink"], "nature": "Adamant", "item": "Leftovers", "index": 785}}, "Umbreon": {"Dawson": {"level": 64, "ability": "Inner Focus", "moves": ["Toxic", "Moonlight", "Alluring Voice", "Foul Play"], "nature": "Bold", "item": "Leftovers", "index": 786}}, "Orbeetle": {"Sarah": {"level": 63, "ability": "Swarm", "moves": ["Bug Buzz", "Body Press", "Iron Defense", "Infestation"], "nature": "Bold", "item": "Colbur Berry", "index": 787}}, "Empoleon": {"Sarah": {"level": 64, "ability": "Torrent", "moves": ["Agility", "Grass Knot", "Flash Cannon", "Scald"], "nature": "Modest", "item": "Petaya Berry", "index": 788}}, "Barbaracle": {"Timmy": {"level": 63, "ability": "Sniper", "moves": ["Shell Smash", "Stone Edge", "Cross Chop", "Razor Shell"], "nature": "Jolly", "item": "White Herb", "index": 791}}, "Garganacl": {"Timmy": {"level": 64, "ability": "Purifying Salt", "moves": ["Body Press", "Recover", "Salt Cure", "Rock Slide"], "nature": "Impish", "item": "Leftovers", "index": 793}}, "Typhlosion-Hisui": {"Collector Edwin & Guitarist Joseph (End)": {"level": 64, "ability": "Blaze", "moves": ["Eruption", "Infernal Parade", "Protect", "Solar Beam"], "nature": "Timid", "item": "Power Herb", "index": 794}}, "Decidueye-Hisui": {"Collector Edwin & Guitarist Joseph (End)": {"level": 64, "ability": "Overgrow", "moves": ["Triple Arrows", "Leaf Blade", "Tailwind", "Synthesis"], "nature": "Adamant", "item": "Mental Herb", "index": 795}, "Crit Room - Parker": {"level": 65, "ability": "Overgrow", "moves": ["Triple Arrows", "Leaf Blade", "Shadow Claw", "Dual Wingbeat"], "nature": "Adamant", "item": "Razor Claw", "index": 832}}, "Primarina": {"Collector Edwin & Guitarist Joseph (End)": {"level": 64, "ability": "Liquid Voice", "moves": ["Echoed Voice", "Flip Turn"], "nature": "Adamant", "item": "Metronome", "index": 796}}, "Quaquaval": {"Collector Edwin & Guitarist Joseph (End)": {"level": 64, "ability": "Speed Boost", "moves": ["Low Kick", "Aqua Step", "Feather Dance", "Roost"], "nature": "Adamant", "item": "Lum Berry", "index": 797}}, "Xatu": {"Psychic Edward & Fisherman Dale": {"level": 64, "ability": "Synchronize", "moves": ["Tailwind", "Future Sight", "Hurricane", "Protect"], "nature": "Timid", "item": "Twisted Spoon", "index": 798}}, "Slowking-Galar": {"Psychic Edward & Fisherman Dale": {"level": 64, "ability": "Curious Medicine", "moves": ["Eerie Spell", "Sludge Bomb", "Flamethrower", "Trick Room"], "nature": "Modest", "item": "Twisted Spoon", "index": 799}}, "Whiscash": {"Psychic Edward & Fisherman Dale": {"level": 64, "ability": "Oblivious", "moves": ["Headlong Rush", "Superpower", "Wave Crash", "Stealth Rock"], "nature": "Adamant", "item": "Ground Gem", "index": 800}}, "Slowbro": {"Psychic Edward & Fisherman Dale": {"level": 64, "ability": "Oblivious", "moves": ["Psycho Boost", "Hydro Pump", "Grass Knot", "Nasty Plot"], "nature": "Sassy", "item": "Psychic Gem", "index": 801}}, "Sylveon": {"Celina": {"level": 64, "ability": "Pixilate", "moves": ["Hyper Voice", "Calm Mind", "Mystical Fire", "Lovely Kiss"], "nature": "Modest", "item": "Leftovers", "index": 803}}, "Jumpluff": {"Celina": {"level": 65, "ability": "Infiltrator", "moves": ["Sleep Powder", "Substitute", "Leech Seed", "Bounce"], "nature": "Jolly", "item": "Leftovers", "index": 804}}, "Weezing": {"Parasol Lady Madeline & Youngster Jaylen": {"level": 64, "ability": "Neutralizing Gas", "moves": ["Will-O-Wisp", "Thunderbolt", "Flamethrower", "Toxic Spikes"], "nature": "Calm", "item": "Black Sludge", "index": 808}}, "Runerigus": {"Parasol Lady Madeline & Youngster Jaylen": {"level": 64, "ability": "Wandering Spirit", "moves": ["Body Press", "Amnesia", "Iron Defense", "Shadow Claw"], "nature": "Careful", "item": "Leftovers", "index": 809}}, "Grafaiai": {"Parasol Lady Madeline & Youngster Jaylen": {"level": 64, "ability": "Prankster", "moves": ["Doodle", "Encore", "Screech", "Super Fang"], "nature": "Impish", "item": "Mental Herb", "index": 810}}, "Golisopod": {"Parasol Lady Madeline & Youngster Jaylen": {"level": 65, "ability": "Emergency Exit", "moves": ["Leech Life", "Liquidation", "Rock Slide", "Brutal Swing"], "nature": "Adamant", "item": "Red Card", "index": 811}}, "Archeops": {"Parasol Lady Madeline & Youngster Jaylen": {"level": 64, "ability": "Defeatist", "moves": ["Head Smash", "Dual Wingbeat", "Knock Off", "Aqua Tail"], "nature": "Jolly", "item": "Muscle Band", "index": 812}}, "Durant": {"Lilith (Intermediate)": {"level": 64, "ability": "Truant", "moves": ["Entrainment", "Protect", "Iron Head", "Leech Life"], "nature": "Jolly", "item": "Focus Sash", "index": 813}}, "Rampardos": {"Lilith (Intermediate)": {"level": 64, "ability": "Mold Breaker", "moves": ["Protect", "Stone Edge", "Trailblaze", "Earthquake"], "nature": "Adamant", "item": "Liechi Berry", "index": 814}}, "Diancie": {"Miguel1": {"level": 64, "ability": "Clear Body", "moves": ["Stealth Rock", "Misty Explosion", "Diamond Storm", "Earth Power"], "nature": "Relaxed", "item": "Babiri Berry", "index": 815}}, "Armarouge": {"Miguel1": {"level": 64, "ability": "Weak Armor", "moves": ["Armor Cannon", "Psyshock", "Destiny Bond", "Shadow Ball"], "nature": "Timid", "item": "White Herb", "index": 817}}, "Jellicent": {"Miguel1": {"level": 64, "ability": "Cursed Body", "moves": ["Trick Room", "Water Spout", "Shadow Ball", "Strength Sap"], "nature": "Quiet", "item": "Water Gem", "index": 818}}, "Ampharos-Mega": {"Miguel1": {"level": 65, "ability": "Mold Breaker", "moves": ["Thunderbolt", "Dragon Pulse", "Volt Switch", "Focus Blast"], "nature": "Quiet", "item": "Ampharosite", "index": 820}}, "Cyclizar": {"Offense Room - Randall": {"level": 64, "ability": "Regenerator", "moves": ["Shed Tail", "Draco Meteor"], "nature": "Timid", "item": "Dragon Gem", "index": 821}}, "Bewear": {"Offense Room - Randall": {"level": 64, "ability": "Unnerve", "moves": ["Hammer Arm", "Rock Slide", "Ice Punch", "Thunder Punch"], "nature": "Adamant", "item": "Expert Belt", "index": 823}}, "Staraptor": {"Offense Room - Randall": {"level": 65, "ability": "Reckless", "moves": ["Brave Bird", "Double-Edge", "Close Combat", "Quick Attack"], "nature": "Jolly", "item": "Life Orb", "index": 824}}, "Greedent": {"Defense Room - Mary": {"level": 64, "ability": "Gluttony", "moves": ["Body Press", "Body Slam", "Stuff Cheeks", "Psychic Fangs"], "nature": "Impish", "item": "Starf Berry", "index": 825}}, "Mudsdale": {"Defense Room - Mary": {"level": 64, "ability": "Stamina", "moves": ["Iron Defense", "Body Press", "Stealth Rock", "High Horsepower"], "nature": "Impish", "item": "Maranga Berry", "index": 826}}, "Dubwool": {"Defense Room - Mary": {"level": 64, "ability": "Fluffy", "moves": ["Cotton Guard", "Body Press", "Return", "Thunder Wave"], "nature": "Impish", "item": "Sitrus Berry", "index": 827}}, "Braviary": {"Defense Room - Mary": {"level": 65, "ability": "Defiant", "moves": ["Dual Wingbeat", "Bulk Up", "Roost", "Superpower"], "nature": "Impish", "item": "Leftovers", "index": 828}}, "Unfezant": {"Crit Room - Parker": {"level": 64, "ability": "Super Luck", "moves": ["Focus Energy", "Dual Wingbeat", "Roost", "Quick Attack"], "nature": "Jolly", "item": "Muscle Band", "index": 829}}, "Snorlax": {"Crit Room - Parker": {"level": 64, "ability": "Gluttony", "moves": ["Body Slam", "Hammer Arm", "Power-Up Punch", "Last Resort"], "nature": "Impish", "item": "Lansat Berry", "index": 830}}, "Drapion": {"Crit Room - Parker": {"level": 64, "ability": "Sniper", "moves": ["Night Slash", "Cross Poison", "Pursuit", "Laser Focus"], "nature": "Jolly", "item": "Sitrus Berry", "index": 833}}, "Ninjask": {"Pass Room - George": {"level": 64, "ability": "Speed Boost", "moves": ["Substitute", "Work Up", "Baton Pass", "Dual Wingbeat"], "nature": "Adamant", "item": "Focus Sash", "index": 839}}, "Exploud": {"Pass Room - George": {"level": 64, "ability": "Soundproof", "moves": ["Boomburst", "Flamethrower", "Work Up", "Baton Pass"], "nature": "Modest", "item": "Normal Gem", "index": 840}}, "Bouffalant": {"Pass Room - George": {"level": 64, "ability": "Reckless", "moves": ["Head Charge", "Wild Charge", "Head Smash", "Submission"], "nature": "Adamant", "item": "Sitrus Berry", "index": 841}}, "Drampa": {"Pass Room - George": {"level": 64, "ability": "Berserk", "moves": ["Calm Mind", "Draco Meteor", "Flamethrower", "Roost"], "nature": "Modest", "item": "Yache Berry", "index": 843}}, "Rillaboom": {"Grassy Room - Jody": {"level": 65, "ability": "Grassy Surge", "moves": ["Wood Hammer", "Grassy Glide", "U-turn", "Trailblaze"], "nature": "Adamant", "item": "Terrain Extender", "index": 844}}, "Miltank": {"Grassy Room - Jody": {"level": 64, "ability": "Sap Sipper", "moves": ["Curse", "Grassy Glide", "High Horsepower", "Body Slam"], "nature": "Adamant", "item": "Chople Berry", "index": 845}}, "Meloetta": {"Grassy Room - Jody": {"level": 64, "ability": "Serene Grace", "moves": ["Close Combat", "Trop Kick", "Return", "Relic Song"], "nature": "Jolly", "item": "Clear Amulet", "index": 846}, "Psychic Room - Berke": {"level": 64, "ability": "Serene Grace", "moves": ["Psychic", "Echoed Voice", "Calm Mind", "Focus Blast"], "nature": "Timid", "item": "Metronome", "index": 851}}, "Toucannon": {"Grassy Room - Jody": {"level": 66, "ability": "Skill Link", "moves": ["Bullet Seed", "Fury Attack", "Rock Blast", "Beak Blast"], "nature": "Adamant", "item": "Grass Gem", "index": 848}}, "Indeedee": {"Psychic Room - Berke": {"level": 65, "ability": "Psychic Surge", "moves": ["Expanding Force", "Mystical Fire", "Encore", "Tri Attack"], "nature": "Modest", "item": "Terrain Extender", "index": 849}}, "Bisharp": {"Psychic Room - Berke": {"level": 64, "ability": "Defiant", "moves": ["Iron Head", "Knock Off", "Swords Dance", "Psycho Cut"], "nature": "Adamant", "item": "Eviolite", "index": 850}}, "Delphox": {"Psychic Room - Berke": {"level": 64, "ability": "Blaze", "moves": ["Expanding Force", "Mystical Fire", "Fire Spin", "Scorching Sands"], "nature": "Timid", "item": "Binding Band", "index": 852}}, "Terapagos-Terastal": {"Shinji (Inverse Battle)": {"level": 64, "ability": "Multiscale", "moves": ["Ice Beam", "Supercell Slam", "Topsy-Turvy", "Conversion"], "nature": "Modest", "item": "Leftovers", "index": 854}}, "Porygon-Z": {"Shinji (Inverse Battle)": {"level": 65, "ability": "Adaptability", "moves": ["Tri Attack", "Hyper Beam", "Topsy-Turvy", "Conversion 2"], "nature": "Modest", "item": "Normal Gem", "index": 855}}, "Squawkabilly": {"Shinji (Inverse Battle)": {"level": 66, "ability": "Guts", "moves": ["Facade", "Sky Attack", "Lash Out", "Parting Shot"], "nature": "Adamant", "item": "Flame Orb", "index": 857}}, "Malamar": {"Shinji (Inverse Battle)": {"level": 65, "ability": "Contrary", "moves": ["Superpower", "Psycho Cut", "Night Slash", "Topsy-Turvy"], "nature": "Adamant", "item": "Lum Berry", "index": 858}}, "Silvally-Fighting": {"Norman1": {"level": 66, "ability": "Rks System", "moves": ["Swords Dance", "Multi-Attack", "Fire Fang", "Iron Head"], "nature": "Adamant", "item": "Fighting Memory", "index": 859}}, "Slaking": {"Norman1": {"level": 67, "ability": "Truant", "moves": ["Retaliate", "Surf", "Earthquake", "Thunder"], "nature": "Hasty", "item": "Eject Button", "index": 860}}, "Maushold": {"Norman1": {"level": 65, "ability": "Technician", "moves": ["Population Bomb", "Rock Blast", "Bullet Seed", "Triple Axel"], "nature": "Jolly", "item": "King's Rock", "index": 861}}, "Farigiraf": {"Norman1": {"level": 65, "ability": "Armor Tail", "moves": ["Twin Beam", "Hyper Voice", "Dazzling Gleam", "Calm Mind"], "nature": "Bold", "item": "Life Orb", "index": 862}}, "Zoroark-Hisui": {"Norman1": {"level": 65, "ability": "Illusion", "moves": ["Bitter Malice", "Grass Knot", "Flamethrower", "Focus Blast"], "nature": "Timid", "item": "Expert Belt", "index": 863}}, "Kangaskhan-Mega": {"Norman1": {"level": 66, "ability": "Parental Bond", "moves": ["Fake Out", "Return", "Sucker Punch", "Power-Up Punch"], "nature": "Jolly", "item": "Kangaskhanite", "index": 865}}, "Obstagoon": {"Victor": {"level": 66, "ability": "Guts", "moves": ["Obstruct", "Sucker Punch", "Knock Off", "Facade"], "nature": "Adamant", "item": "Flame Orb", "index": 867}}, "Roserade": {"Victoria": {"level": 67, "ability": "Natural Cure", "moves": ["Leaf Storm", "Sludge Bomb", "Synthesis", "Toxic Spikes"], "nature": "Timid", "item": "Grass Gem", "index": 868}}, "Blissey": {"Victoria": {"level": 66, "ability": "Natural Cure", "moves": ["Hyper Voice", "Seismic Toss", "Protect", "Soft-Boiled"], "nature": "Bold", "item": "Leftovers", "index": 869}}, "Vespiquen": {"Victoria": {"level": 66, "ability": "Pressure", "moves": ["Infestation", "Heal Order", "Toxic", "Attack Order"], "nature": "Relaxed", "item": "Leftovers", "index": 870}}, "Lilligant-Hisui": {"Vicky": {"level": 67, "ability": "Hustle", "moves": ["Victory Dance", "Close Combat", "Leaf Blade", "Triple Axel"], "nature": "Jolly", "item": "Wide Lens", "index": 876}}, "Vaporeon": {"Vicky": {"level": 67, "ability": "Water Absorb", "moves": ["Scald", "Ice Beam", "Toxic", "Wish"], "nature": "Relaxed", "item": "Leftovers", "index": 877}}, "Victini": {"Vicky": {"level": 68, "ability": "Victory Star", "moves": ["Searing Shot", "Energy Ball", "Encore", "U-turn"], "nature": "Hasty", "item": "Bug Gem", "index": 878}}, "Medicham-Mega": {"Vicky": {"level": 68, "ability": "Pure Power", "moves": ["Fake Out", "High Jump Kick", "Psycho Cut", "Poison Jab"], "nature": "Jolly", "item": "Medichamite", "index": 880}}, "Dracozolt": {"Irene": {"level": 68, "ability": "Sand Rush", "moves": ["Bolt Beak", "Iron Tail", "Dragon Claw", "Protect"], "nature": "Adamant", "item": "Lum Berry", "index": 882}}, "Sigilyph": {"Irene": {"level": 67, "ability": "Magic Guard", "moves": ["Air Slash", "Heat Wave", "Hypnosis", "Dream Eater"], "nature": "Timid", "item": "Life Orb", "index": 884}}, "Excadrill": {"Travis": {"level": 68, "ability": "Sand Force", "moves": ["Earthquake", "Iron Head", "Rock Slide", "Rapid Spin"], "nature": "Adamant", "item": "Clear Amulet", "index": 885}}, "Mandibuzz": {"Travis": {"level": 67, "ability": "Overcoat", "moves": ["Roost", "Toxic", "Knock Off", "Heat Wave"], "nature": "Relaxed", "item": "Leftovers", "index": 886}}, "Bastiodon": {"Dusty1": {"level": 67, "ability": "Sturdy", "moves": ["Body Press", "Foul Play", "Metal Burst", "Stealth Rock"], "nature": "Careful", "item": "Red Card", "index": 889}}, "Torterra": {"Dusty1": {"level": 68, "ability": "Overgrow", "moves": ["Shell Smash", "Seed Bomb", "Earthquake", "Rock Slide"], "nature": "Jolly", "item": "Yache Berry", "index": 892}}, "Steelix": {"Dusty1": {"level": 67, "ability": "Sheer Force", "moves": ["Stone Edge", "Stomping Tantrum", "Gyro Ball", "Curse"], "nature": "Adamant", "item": "Steelixite", "index": 893}}, "Steelix-Mega": {"Dusty1": {"level": 67, "ability": "Sheer Force", "moves": ["Stone Edge", "Stomping Tantrum", "Gyro Ball", "Curse"], "nature": "Adamant", "item": "Steelixite", "index": 894}}, "Dracovish": {"Becky": {"level": 68, "ability": "Sand Rush", "moves": ["Fishious Rend", "Ice Fang", "Psychic Fangs", "Outrage"], "nature": "Jolly", "item": "Water Gem", "index": 895}}, "Carracosta": {"Becky": {"level": 68, "ability": "Solid Rock", "moves": ["Stealth Rock", "Liquidation", "Rock Tomb", "Knock Off"], "nature": "Adamant", "item": "Leftovers", "index": 896}}, "Tyrantrum": {"Becky": {"level": 68, "ability": "Strong Jaw", "moves": ["Dragon Dance", "Ice Fang", "Fire Fang", "Psychic Fangs"], "nature": "Jolly", "item": "Razor Fang", "index": 897}}, "Aurorus": {"Becky": {"level": 67, "ability": "Refrigerate", "moves": ["Hyper Voice", "Weather Ball", "Freeze-Dry", "Earth Power"], "nature": "Modest", "item": "Ice Gem", "index": 898}}, "Stonjourner": {"Picnicker Heidi & Ruin Maniac Bryan": {"level": 68, "ability": "Power Spot", "moves": ["Rock Smash", "Rock Slide", "Low Kick", "Rock Tomb"], "nature": "Adamant", "item": "Assault Vest", "index": 899}}, "Flygon": {"Picnicker Heidi & Ruin Maniac Bryan": {"level": 67, "ability": "Levitate", "moves": ["Helping Hand", "Breaking Swipe", "Fire Punch", "Earth Power"], "nature": "Hasty", "item": "Sitrus Berry", "index": 900}}, "Stoutland": {"Picnicker Heidi & Ruin Maniac Bryan": {"level": 68, "ability": "Sand Rush", "moves": ["Double-Edge", "Superpower", "Work Up", "Last Resort"], "nature": "Jolly", "item": "Normal Gem", "index": 901}}, "Arcanine-Hisui": {"Picnicker Heidi & Ruin Maniac Bryan": {"level": 68, "ability": "Intimidate", "moves": ["Stone Edge", "Raging Fury", "Will-O-Wisp", "Wild Charge"], "nature": "Jolly", "item": "Leftovers", "index": 902}}, "Zygarde-10%": {"Picnicker Heidi & Ruin Maniac Bryan": {"level": 69, "ability": "Aura Break", "moves": ["Thousand Waves", "Rock Slide", "Outrage", "Glare"], "nature": "Jolly", "item": "Soft Sand", "index": 903}}, "Probopass": {"Celia (Intermediate)": {"level": 68, "ability": "Sand Force", "moves": ["Flash Cannon", "Power Gem", "Earth Power", "Discharge"], "nature": "Modest", "item": "Chople Berry", "index": 904}}, "Brambleghast": {"Celia (Intermediate)": {"level": 68, "ability": "Wind Rider", "moves": ["Spikes", "Strength Sap", "Seed Bomb", "Phantom Force"], "nature": "Adamant", "item": "Safety Goggles", "index": 905}}, "Golurk": {"Celia (Intermediate)": {"level": 68, "ability": "Iron Fist", "moves": ["Drain Punch", "Ice Punch", "Power-Up Punch", "Shadow Punch"], "nature": "Adamant", "item": "Punching Glove", "index": 906}}, "Hippowdon": {"Camper Beau & Branden": {"level": 68, "ability": "Sand Force", "moves": ["Rock Slide", "Earthquake", "Heavy Slam", "Stealth Rock"], "nature": "Brave", "item": "Rock Gem", "index": 907}}, "Gigalith": {"Camper Beau & Branden": {"level": 68, "ability": "Intimidate", "moves": ["Rock Slide", "Earthquake", "Stone Edge", "Explosion"], "nature": "Brave", "item": "Custap Berry", "index": 908}}, "Musharna": {"Camper Beau & Branden": {"level": 68, "ability": "Telepathy", "moves": ["Future Sight", "Trick Room", "Moonblast", "Energy Ball"], "nature": "Modest", "item": "Leftovers", "index": 910}}, "Drifblim": {"Camper Beau & Branden": {"level": 69, "ability": "Flare Boost", "moves": ["Shadow Ball", "Air Slash", "Weather Ball", "Protect"], "nature": "Modest", "item": "Flame Orb", "index": 911}}, "Braviary-Hisui": {"Camper Beau & Branden": {"level": 68, "ability": "Tinted Lens", "moves": ["Heat Wave", "Esper Wing", "Air Cutter", "Roost"], "nature": "Modest", "item": "Safety Goggles", "index": 912}}, "Maractus": {"Drew": {"level": 68, "ability": "Chlorophyll", "moves": ["Growth", "Solar Beam", "Weather Ball", "Scorching Sands"], "nature": "Timid", "item": "Life Orb", "index": 914}}, "Great Tusk": {"Drew": {"level": 68, "ability": "Protosynthesis", "moves": ["High Horsepower", "Rapid Spin", "Close Combat", "Stone Edge"], "nature": "Adamant", "item": "Clear Amulet", "index": 915}}, "Solgaleo": {"Drew": {"level": 69, "ability": "Full Metal Body", "moves": ["Sunsteel Strike", "Morning Sun", "Flame Charge", "Heat Crash"], "nature": "Naughty", "item": "Utility Umbrella", "index": 917}}};
+var SETDEX_SV = {
+    "Poochyena": {
+        "Youngster Calvin": {
+            "level": 12,
+            "item": "Oran Berry",
+            "ability": "Run Away",
+            "nature": "Adamant",
+            "moves": [
+                "Bite",
+                "Howl"
+            ],
+            "index": 0
+        }
+    },
+    "Mudkip": {
+        "Youngster Calvin": {
+            "level": 12,
+            "item": "Oran Berry",
+            "ability": "Torrent",
+            "nature": "Modest",
+            "moves": [
+                "Water Pulse",
+                "Mud Shot"
+            ],
+            "index": 1
+        }
+    },
+    "Caterpie": {
+        "Bug Catcher Rick": {
+            "level": 15,
+            "item": "Focus Sash",
+            "ability": "Shield Dust",
+            "nature": "Modest",
+            "moves": [
+                "Electroweb"
+            ],
+            "index": 2
+        }
+    },
+    "Weedle": {
+        "Bug Catcher Rick": {
+            "level": 15,
+            "item": "Focus Sash",
+            "ability": "Shield Dust",
+            "nature": "Jolly",
+            "moves": [
+                "Toxic"
+            ],
+            "index": 3
+        }
+    },
+    "Wurmple": {
+        "Bug Catcher Rick": {
+            "level": 15,
+            "item": "Focus Sash",
+            "ability": "Shield Dust",
+            "nature": "Adamant",
+            "moves": [
+                "Bug Bite"
+            ],
+            "index": 4
+        }
+    },
+    "Scatterbug": {
+        "Bug Catcher Rick": {
+            "level": 15,
+            "item": "Focus Sash",
+            "ability": "Shield Dust",
+            "nature": "Adamant",
+            "moves": [
+                "Bug Bite"
+            ],
+            "index": 5
+        }
+    },
+    "Blipbug": {
+        "Bug Catcher Rick": {
+            "level": 15,
+            "item": "Focus Sash",
+            "ability": "Telepathy",
+            "nature": "Serious",
+            "moves": [
+                "Recover"
+            ],
+            "index": 6
+        }
+    },
+    "Taillow": {
+        "Youngster Allen": {
+            "level": 12,
+            "item": "Oran Berry",
+            "ability": "Guts",
+            "nature": "Adamant",
+            "moves": [
+                "Aerial Ace",
+                "Facade"
+            ],
+            "index": 7
+        }
+    },
+    "Treecko": {
+        "Youngster Allen": {
+            "level": 12,
+            "item": "Oran Berry",
+            "ability": "Overgrow",
+            "nature": "Modest",
+            "moves": [
+                "Giga Drain",
+                "Growth"
+            ],
+            "index": 8
+        }
+    },
+    "Shroomish": {
+        "Lass Tiana": {
+            "level": 12,
+            "item": "Oran Berry",
+            "ability": "Effect Spore",
+            "nature": "Adamant",
+            "moves": [
+                "Spore",
+                "Bullet Seed"
+            ],
+            "index": 9
+        }
+    },
+    "Torchic": {
+        "Lass Tiana": {
+            "level": 12,
+            "item": "Oran Berry",
+            "ability": "Blaze",
+            "nature": "Adamant",
+            "moves": [
+                "Flame Charge",
+                "Aerial Ace"
+            ],
+            "index": 10
+        }
+    },
+    "Dewpider": {
+        "Bug Catchter James": {
+            "level": 12,
+            "item": "Berry Juice",
+            "ability": "Water Bubble",
+            "nature": "Modest",
+            "moves": [
+                "Bubble Beam",
+                "Silver Wind"
+            ],
+            "index": 11
+        }
+    },
+    "Dustox": {
+        "Bug Catchter James": {
+            "level": 12,
+            "item": "Oran Berry",
+            "ability": "Shield Dust",
+            "nature": "Serious",
+            "moves": [
+                "Bug Bite",
+                "Toxic",
+                "Moonlight"
+            ],
+            "index": 12
+        }
+    },
+    "Larvesta": {
+        "Bug Catcher Lyle": {
+            "level": 12,
+            "item": "Lum Berry",
+            "ability": "Flame Body",
+            "nature": "Adamant",
+            "moves": [
+                "Flame Wheel",
+                "Bug Bite"
+            ],
+            "index": 13
+        }
+    },
+    "Venipede": {
+        "Bug Catcher Lyle": {
+            "level": 12,
+            "item": "Lum Berry",
+            "ability": "Poison Point",
+            "nature": "Adamant",
+            "moves": [
+                "Pin Missile",
+                "Poison Tail"
+            ],
+            "index": 14
+        }
+    },
+    "Meowth": {
+        "Rich Boy Windston": {
+            "level": 12,
+            "item": "Amulet Coin",
+            "ability": "Technician",
+            "nature": "Adamant",
+            "moves": [
+                "Pay Day",
+                "Bite"
+            ],
+            "index": 15
+        }
+    },
+    "Skitty": {
+        "Rich Boy Windston": {
+            "level": 12,
+            "item": "Amulet Coin",
+            "ability": "Cute Charm",
+            "nature": "Adamant",
+            "moves": [
+                "Pay Day",
+                "Disarming Voice"
+            ],
+            "index": 16
+        }
+    },
+    "Litten": {
+        "Rich Boy Windston": {
+            "level": 12,
+            "item": "Amulet Coin",
+            "ability": "Intimidate",
+            "nature": "Adamant",
+            "moves": [
+                "Pay Day",
+                "Fire Fang"
+            ],
+            "index": 17
+        }
+    },
+    "Spritzee": {
+        "Lass Haley": {
+            "level": 12,
+            "item": "Oran Berry",
+            "ability": "Healer",
+            "nature": "Modest",
+            "moves": [
+                "Draining Kiss",
+                "Sweet Kiss"
+            ],
+            "index": 18
+        }
+    },
+    "Salandit": {
+        "Lass Haley": {
+            "level": 12,
+            "item": "Focus Sash",
+            "ability": "Corrosion",
+            "nature": "Serious",
+            "moves": [
+                "Venoshock",
+                "Toxic"
+            ],
+            "index": 19
+        }
+    },
+    "Pichu": {
+        "Lass Haley": {
+            "level": 12,
+            "item": "Lum Berry",
+            "ability": "Lightning Rod",
+            "nature": "Jolly",
+            "moves": [
+                "Spark",
+                "Nuzzle"
+            ],
+            "index": 20
+        }
+    },
+    "Spheal": {
+        "Lass Haley": {
+            "level": 12,
+            "item": "Lum Berry",
+            "ability": "Oblivious",
+            "nature": "Modest",
+            "moves": [
+                "Water Gun",
+                "Powder Snow",
+                "Rest",
+                "Sleep Talk"
+            ],
+            "index": 21
+        }
+    },
+    "Mew": {
+        "Twins Gina and Mia": {
+            "level": 15,
+            "item": "Oran Berry",
+            "ability": "Synchronize",
+            "nature": "Hardy",
+            "moves": [
+                "Transform"
+            ],
+            "index": 22
+        }
+    },
+    "Ditto": {
+        "Twins Gina and Mia": {
+            "level": 15,
+            "item": "Oran Berry",
+            "ability": "Imposter",
+            "nature": "Hardy",
+            "moves": [
+                "Transform"
+            ],
+            "index": 23
+        }
+    },
+    "Hippopotas": {
+        "Youngster Josh": {
+            "level": 15,
+            "item": "Berry Juice",
+            "ability": "Sand Force",
+            "nature": "Adamant",
+            "moves": [
+                "Stomping Tantrum",
+                "Crunch",
+                "Take Down",
+                "Rock Tomb"
+            ],
+            "index": 24
+        }
+    },
+    "Slugma": {
+        "Youngster Josh": {
+            "level": 15,
+            "item": "Eviolite",
+            "ability": "Flame Body",
+            "nature": "Modest",
+            "moves": [
+                "Incinerate",
+                "Ancient Power",
+                "Recover",
+                "Yawn"
+            ],
+            "index": 25
+        }
+    },
+    "Sandshrew-Alola": {
+        "Youngster Josh": {
+            "level": 15,
+            "item": "Focus Sash",
+            "ability": "Snow Cloak",
+            "nature": "Adamant",
+            "moves": [
+                "Ice Punch",
+                "Metal Claw",
+                "Rollout"
+            ],
+            "index": 26
+        }
+    },
+    "Chewtle": {
+        "Youngster Tommy": {
+            "level": 14,
+            "item": "Eviolite",
+            "ability": "Strong Jaw",
+            "nature": "Jolly",
+            "moves": [
+                "Rock Tomb",
+                "Bite",
+                "Ice Fang",
+                "Dive"
+            ],
+            "index": 27
+        }
+    },
+    "Geodude-Alola": {
+        "Youngster Tommy": {
+            "level": 14,
+            "item": "Magnet",
+            "ability": "Sturdy",
+            "nature": "Adamant",
+            "moves": [
+                "Rock Blast",
+                "Spark",
+                "Brick Break",
+                "Stomping Tantrum"
+            ],
+            "index": 28
+        }
+    },
+    "Sandile": {
+        "Youngster Tommy": {
+            "level": 14,
+            "item": "Ground Gem",
+            "ability": "Moxie",
+            "nature": "Jolly",
+            "moves": [
+                "Bulldoze",
+                "Rock Tomb",
+                "Bite",
+                "Sand Tomb"
+            ],
+            "index": 29
+        }
+    },
+    "Anorith": {
+        "Youngster Tommy": {
+            "level": 14,
+            "item": "Lum Berry",
+            "ability": "Battle Armor",
+            "nature": "Jolly",
+            "moves": [
+                "Bug Bite",
+                "Rock Tomb",
+                "Aerial Ace",
+                "Rock Smash"
+            ],
+            "index": 30
+        }
+    },
+    "Aron": {
+        "Hiker Marc": {
+            "level": 15,
+            "item": "Hard Stone",
+            "ability": "Sturdy",
+            "nature": "Adamant",
+            "moves": [
+                "Rock Tomb",
+                "Metal Claw",
+                "Body Press",
+                "Headbutt"
+            ],
+            "index": 31
+        },
+        "Leader Roxanne": {
+            "level": 15,
+            "item": "Quick Claw",
+            "ability": "Sturdy",
+            "nature": "Impish",
+            "moves": [
+                "Iron Head",
+                "Rock Slide",
+                "Body Press",
+                "Endeavor"
+            ],
+            "index": 35
+        },
+        "Hiker Clark": {
+            "level": 0,
+            "item": "Expert Belt",
+            "ability": "Sturdy",
+            "nature": "Adamant",
+            "moves": [
+                "Iron Head",
+                "Rock Slide",
+                "Rock Smash",
+                "Aerial Ace"
+            ],
+            "index": 54
+        }
+    },
+    "Larvitar": {
+        "Hiker Marc": {
+            "level": 15,
+            "item": "Muscle Band",
+            "ability": "Guts",
+            "nature": "Adamant",
+            "moves": [
+                "Rock Slide",
+                "Stomping Tantrum",
+                "Crunch",
+                "Dragon Dance"
+            ],
+            "index": 32
+        }
+    },
+    "Archen": {
+        "Hiker Marc": {
+            "level": 15,
+            "item": "Clear Amulet",
+            "ability": "Defeatist",
+            "nature": "Serious",
+            "moves": [
+                "Wing Attack",
+                "Rock Throw",
+                "Scary Face",
+                "Roost"
+            ],
+            "index": 33
+        }
+    },
+    "Lileep": {
+        "Hiker Marc": {
+            "level": 15,
+            "item": "Leftovers",
+            "ability": "Storm Drain",
+            "nature": "Serious",
+            "moves": [
+                "Mega Drain",
+                "Rock Slide",
+                "Brine",
+                "Recover"
+            ],
+            "index": 34
+        }
+    },
+    "Kabuto": {
+        "Leader Roxanne": {
+            "level": 15,
+            "item": "Focus Sash",
+            "ability": "Battle Armor",
+            "nature": "Adamant",
+            "moves": [
+                "Razor Shell",
+                "Rock Tomb",
+                "Leech Life",
+                "Aqua Jet"
+            ],
+            "index": 36
+        }
+    },
+    "Dwebble": {
+        "Leader Roxanne": {
+            "level": 15,
+            "item": "Rock Gem",
+            "ability": "Sturdy",
+            "nature": "Serious",
+            "moves": [
+                "Bug Bite",
+                "Smack Down",
+                "Aerial Ace",
+                "Rock Smash"
+            ],
+            "index": 37
+        }
+    },
+    "Tyrunt": {
+        "Leader Roxanne": {
+            "level": 15,
+            "item": "Hard Stone",
+            "ability": "Sturdy",
+            "nature": "Jolly",
+            "moves": [
+                "Ice Fang",
+                "Thunder Fang",
+                "Fire Fang",
+                "Smack Down"
+            ],
+            "index": 38
+        }
+    },
+    "Klawf": {
+        "Leader Roxanne": {
+            "level": 14,
+            "item": "Lum Berry",
+            "ability": "Anger Shell",
+            "nature": "Hardy",
+            "moves": [
+                "Rock Throw",
+                "Trailblaze",
+                "Bulldoze"
+            ],
+            "index": 39
+        },
+        "Hiker Devan": {
+            "level": 53,
+            "item": "Salac Berry",
+            "ability": "Anger Shell",
+            "nature": "Adamant",
+            "moves": [
+                "Stone Edge",
+                "Crabhammer",
+                "X-Scissor",
+                "Swords Dance"
+            ],
+            "index": 371
+        },
+        "Swimmer Kevin": {
+            "level": 75,
+            "item": "Weakness Policy",
+            "ability": "Anger Shell",
+            "nature": "Impish",
+            "moves": [
+                "Rock Slide",
+                "Earthquake",
+                "Crabhammer",
+                "Knock Off"
+            ],
+            "index": 690
+        }
+    },
+    "Tinkatuff": {
+        "Leader Roxanne": {
+            "level": 16,
+            "item": "Metal Coat",
+            "ability": "Pickpocket",
+            "nature": "Serious",
+            "moves": [
+                "Metal Claw",
+                "Draining Kiss",
+                "Rock Tomb",
+                "Swords Dance"
+            ],
+            "index": 40
+        }
+    },
+    "Rattata-Alola": {
+        "Youngster Johnson": {
+            "level": -2,
+            "item": "Silk Scarf",
+            "ability": "Hustle",
+            "nature": "Jolly",
+            "moves": [
+                "Hyper Fang",
+                "Feint Attack",
+                "Quick Attack"
+            ],
+            "index": 41
+        }
+    },
+    "Croagunk": {
+        "Youngster Johnson": {
+            "level": -2,
+            "item": "Black Belt",
+            "ability": "Poison Touch",
+            "nature": "Modest",
+            "moves": [
+                "Vacuum Wave",
+                "Venoshock",
+                "Fake Out"
+            ],
+            "index": 42
+        }
+    },
+    "Skiddo": {
+        "School Kid Jerry": {
+            "level": -2,
+            "item": "Oran Berry",
+            "ability": "Sap Sipper",
+            "nature": "Adamant",
+            "moves": [
+                "Seed Bomb",
+                "Stomping Tantrum",
+                "Milk Drink"
+            ],
+            "index": 43
+        }
+    },
+    "Chatot": {
+        "School Kid Jerry": {
+            "level": -2,
+            "item": "Silk Scarf",
+            "ability": "Keen Eye",
+            "nature": "Modest",
+            "moves": [
+                "Echoed Voice",
+                "Air Cutter",
+                "Roost"
+            ],
+            "index": 44
+        },
+        "Guitarist Kirk": {
+            "level": 30,
+            "item": "Flying Gem",
+            "ability": "Keen Eye",
+            "nature": "Modest",
+            "moves": [
+                "Hyper Voice",
+                "Chatter",
+                "Heat Wave",
+                "Sing"
+            ],
+            "index": 167
+        },
+        "Bird Keeper Edwardo": {
+            "level": 64,
+            "item": "Choice Scarf",
+            "ability": "Keen Eye",
+            "nature": "Timid",
+            "moves": [
+                "Boomburst"
+            ],
+            "index": 495
+        }
+    },
+    "Sizzlipede": {
+        "Bug Catcher Jose": {
+            "level": 0,
+            "item": "Charcoal",
+            "ability": "Flame Body",
+            "nature": "Adamant",
+            "moves": [
+                "Fire Lash",
+                "X-Scissor",
+                "Fire Spin"
+            ],
+            "index": 45
+        }
+    },
+    "Trapinch": {
+        "Bug Catcher Jose": {
+            "level": 0,
+            "item": "Lum Berry",
+            "ability": "Arena Trap",
+            "nature": "Adamant",
+            "moves": [
+                "Crunch",
+                "Bug Bite",
+                "Rock Tomb"
+            ],
+            "index": 46
+        }
+    },
+    "Buneary": {
+        "Battle Girl Karen": {
+            "level": 0,
+            "item": "Black Belt",
+            "ability": "Run Away",
+            "nature": "Adamant",
+            "moves": [
+                "Dizzy Punch",
+                "Drain Punch",
+                "Fake Out"
+            ],
+            "index": 47
+        }
+    },
+    "Oddish": {
+        "Battle Girl Karen": {
+            "level": 0,
+            "item": "Black Sludge",
+            "ability": "Chlorophyll",
+            "nature": "Modest",
+            "moves": [
+                "Venoshock",
+                "Giga Drain",
+                "Toxic"
+            ],
+            "index": 48
+        }
+    },
+    "Aromatisse": {
+        "Lass Janice": {
+            "level": 0,
+            "item": "Lum Berry",
+            "ability": "Healer",
+            "nature": "NATURE_HARDY",
+            "moves": [
+                "Energy Ball",
+                "Drain Punch"
+            ],
+            "index": 49
+        },
+        "Hex Maniac Tammy": {
+            "level": 70,
+            "item": "Misty Seed",
+            "ability": "Healer",
+            "nature": "Quiet",
+            "moves": [
+                "Moonblast",
+                "Psychic",
+                "Energy Ball",
+                "Draining Kiss"
+            ],
+            "index": 550
+        },
+        "Psychic Presont": {
+            "level": 68,
+            "item": "Fairy Gem",
+            "ability": "Healer",
+            "nature": "Quiet",
+            "moves": [
+                "Moonblast",
+                "Psychic",
+                "Energy Ball",
+                "Calm Mind"
+            ],
+            "index": 640
+        }
+    },
+    "Tsareena": {
+        "Lass Janice": {
+            "level": 0,
+            "item": "Lum Berry",
+            "ability": "Queenly Majesty",
+            "nature": "NATURE_HARDY",
+            "moves": [
+                "Stomp",
+                "Low Sweep",
+                "Acrobatics"
+            ],
+            "index": 50
+        },
+        "Picknicker Nancy": {
+            "level": 38,
+            "item": "Wide Lens",
+            "ability": "Queenly Majesty",
+            "nature": "Adamant",
+            "moves": [
+                "Trop Kick",
+                "Knock Off",
+                "Triple Axel",
+                "Low Kick"
+            ],
+            "index": 286
+        },
+        "Parasol Lady Rachel": {
+            "level": 62,
+            "item": "Grassy Seed",
+            "ability": "Queenly Majesty",
+            "nature": "Jolly",
+            "moves": [
+                "Power Whip",
+                "Grassy Glide",
+                "Triple Axel",
+                "Acrobatics"
+            ],
+            "index": 463
+        },
+        "Swimmer Kara": {
+            "level": 77,
+            "item": "Wide Lens",
+            "ability": "Queenly Majesty",
+            "nature": "Adamant",
+            "moves": [
+                "Power Whip",
+                "Play Rough",
+                "Triple Axel",
+                "Endeavor"
+            ],
+            "index": 698
+        }
+    },
+    "Rockruff": {
+        "Hiker Clark": {
+            "level": 0,
+            "item": "Eviolite",
+            "ability": "Vital Spirit",
+            "nature": "Adamant",
+            "moves": [
+                "Fire Fang",
+                "Ice Fang",
+                "Thunder Fang",
+                "Rock Tomb"
+            ],
+            "index": 51
+        }
+    },
+    "Geodude": {
+        "Hiker Clark": {
+            "level": 0,
+            "item": "Hard Stone",
+            "ability": "Sturdy",
+            "nature": "Adamant",
+            "moves": [
+                "Earthquake",
+                "Stone Edge",
+                "Seismic Toss"
+            ],
+            "index": 52
+        }
+    },
+    "Gible": {
+        "Hiker Clark": {
+            "level": 0,
+            "item": "Ground Gem",
+            "ability": "Sand Veil",
+            "nature": "Serious",
+            "moves": [
+                "Bulldoze",
+                "Dragon Breath"
+            ],
+            "index": 53
+        }
+    },
+    "Klink": {
+        "Hiker Clark": {
+            "level": 0,
+            "item": "Lum Berry",
+            "ability": "Clear Body",
+            "nature": "Adamant",
+            "moves": [
+                "Gear Grind",
+                "Wild Charge",
+                "Shift Gear"
+            ],
+            "index": 55
+        }
+    },
+    "Snivy": {
+        "Triathlete Melina": {
+            "level": 0,
+            "item": "Berry Juice",
+            "ability": "Overgrow",
+            "nature": "Jolly",
+            "moves": [
+                "Seed Bomb",
+                "Aqua Tail",
+                "Synthesis"
+            ],
+            "index": 56
+        }
+    },
+    "Froakie": {
+        "Triathlete Melina": {
+            "level": 0,
+            "item": "Berry Juice",
+            "ability": "Torrent",
+            "nature": "Adamant",
+            "moves": [
+                "Liquidation",
+                "Acrobatics",
+                "Quick Attack"
+            ],
+            "index": 57
+        }
+    },
+    "Chimchar": {
+        "Triathlete Melina": {
+            "level": 0,
+            "item": "Berry Juice",
+            "ability": "Iron Fist",
+            "nature": "Jolly",
+            "moves": [
+                "Fire Punch",
+                "Drain Punch",
+                "Fake Out"
+            ],
+            "index": 58
+        }
+    },
+    "Ponyta": {
+        "Triathlete Maria": {
+            "level": 0,
+            "item": "Berry Juice",
+            "ability": "Flash Fire",
+            "nature": "Jolly",
+            "moves": [
+                "Flame Wheel",
+                "Low Kick",
+                "Morning Sun"
+            ],
+            "index": 59
+        }
+    },
+    "Yanma": {
+        "Triathlete Maria": {
+            "level": 0,
+            "item": "Berry Juice",
+            "ability": "Speed Boost",
+            "nature": "Adamant",
+            "moves": [
+                "Leech Life",
+                "Wing Attack",
+                "Detect"
+            ],
+            "index": 60
+        }
+    },
+    "Riolu": {
+        "Pokemon Breeder Lydia": {
+            "level": 0,
+            "item": "Oran Berry",
+            "ability": "Inner Focus",
+            "nature": "Adamant",
+            "moves": [
+                "Close Combat",
+                "Blaze Kick"
+            ],
+            "index": 61
+        },
+        "Black Belt Daisuke": {
+            "level": 40,
+            "item": "Covert Cloak",
+            "ability": "Prankster",
+            "nature": "Jolly",
+            "moves": [
+                "Coaching"
+            ],
+            "index": 221
+        }
+    },
+    "Elekid": {
+        "Pokemon Breeder Lydia": {
+            "level": 0,
+            "item": "Oran Berry",
+            "ability": "Static",
+            "nature": "Adamant",
+            "moves": [
+                "Thunder Punch",
+                "Ice Punch"
+            ],
+            "index": 62
+        }
+    },
+    "Magby": {
+        "Pokemon Breeder Lydia": {
+            "level": 0,
+            "item": "Oran Berry",
+            "ability": "Flame Body",
+            "nature": "Adamant",
+            "moves": [
+                "Fire Punch",
+                "Brick Break"
+            ],
+            "index": 63
+        }
+    },
+    "Bonsly": {
+        "Pokemon Breeder Lydia": {
+            "level": 0,
+            "item": "Oran Berry",
+            "ability": "Sturdy",
+            "nature": "Adamant",
+            "moves": [
+                "Rock Slide",
+                "Earthquake"
+            ],
+            "index": 64
+        }
+    },
+    "Munchlax": {
+        "Pokemon Breeder Lydia": {
+            "level": 0,
+            "item": "Oran Berry",
+            "ability": "Gluttony",
+            "nature": "Adamant",
+            "moves": [
+                "Slam"
+            ],
+            "index": 65
+        }
+    },
+    "Voltorb-Hisui": {
+        "Bug Maniac Anthony": {
+            "level": 22,
+            "item": "Silk Scarf",
+            "ability": "Static",
+            "nature": "Adamant",
+            "moves": [
+                "Wild Charge",
+                "Seed Bomb",
+                "Light Screen",
+                "Explosion"
+            ],
+            "index": 66
+        }
+    },
+    "Porygon": {
+        "Bug Maniac Anthony": {
+            "level": 22,
+            "item": "Chople Berry",
+            "ability": "Trace",
+            "nature": "Modest",
+            "moves": [
+                "Psybeam",
+                "Icy Wind",
+                "Charge Beam",
+                "Recover"
+            ],
+            "index": 67
+        }
+    },
+    "Wormadam-Sandy": {
+        "Bug Maniac Anthony": {
+            "level": 23,
+            "item": "Lum Berry",
+            "ability": "Overcoat",
+            "nature": "Adamant",
+            "moves": [
+                "Bug Bite",
+                "Bulldoze",
+                "Rock Tomb",
+                "Attract"
+            ],
+            "index": 68
+        }
+    },
+    "Lokix": {
+        "Bug Maniac Anthony": {
+            "level": 23,
+            "item": "Berry Juice",
+            "ability": "Emergency Exit",
+            "nature": "Adamant",
+            "moves": [
+                "Bug Bite",
+                "Assurance",
+                "Low Kick",
+                "Scary Face"
+            ],
+            "index": 69
+        }
+    },
+    "Abra": {
+        "Hex Maniac Betty": {
+            "level": 22,
+            "item": "Focus Sash",
+            "ability": "Inner Focus",
+            "nature": "Timid",
+            "moves": [
+                "Psyshock",
+                "Dazzling Gleam",
+                "Light Screen",
+                "Reflect"
+            ],
+            "index": 70
+        }
+    },
+    "Poltchageist": {
+        "Hex Maniac Betty": {
+            "level": 22,
+            "item": "Big Root",
+            "ability": "Heatproof",
+            "nature": "Modest",
+            "moves": [
+                "Giga Drain",
+                "Hex",
+                "Scald",
+                "Pain Split"
+            ],
+            "index": 71
+        }
+    },
+    "Noctowl": {
+        "Hex Maniac Betty": {
+            "level": 23,
+            "item": "Wide Lens",
+            "ability": "Insomnia",
+            "nature": "Timid",
+            "moves": [
+                "Moonblast",
+                "Air Slash",
+                "Dream Eater",
+                "Hypnosis"
+            ],
+            "index": 72
+        },
+        "Picknicker Nancy": {
+            "level": 38,
+            "item": "Wise Glasses",
+            "ability": "Tinted Lens",
+            "nature": "Modest",
+            "moves": [
+                "Hyper Voice",
+                "Air Slash",
+                "Moonblast",
+                "Hypnosis"
+            ],
+            "index": 287
+        }
+    },
+    "Absol": {
+        "Hex Maniac Betty": {
+            "level": 23,
+            "item": "Lum Berry",
+            "ability": "Super Luck",
+            "nature": "Hardy",
+            "moves": [
+                "Knock Off",
+                "Retaliate",
+                "Quick Attack",
+                "Thunder Wave"
+            ],
+            "index": 73
+        },
+        "Bug Maniac Cale": {
+            "level": 68,
+            "item": "Quick Claw",
+            "ability": "Sharpness",
+            "nature": "Adamant",
+            "moves": [
+                "Night Slash",
+                "Megahorn",
+                "Psycho Cut",
+                "Shadow Claw"
+            ],
+            "index": 559
+        },
+        "Expert Keegan": {
+            "level": 77,
+            "item": "Scope Lens",
+            "ability": "Sharpness",
+            "nature": "Jolly",
+            "moves": [
+                "Night Slash",
+                "Psycho Cut",
+                "Aerial Ace",
+                "Detect"
+            ],
+            "index": 753
+        }
+    },
+    "Venomoth": {
+        "Bug Catcher Oliver": {
+            "level": 22,
+            "item": "Black Sludge",
+            "ability": "Tinted Lens",
+            "nature": "Modest",
+            "moves": [
+                "Venoshock",
+                "Silver Wind",
+                "Air Slash",
+                "Toxic Spikes"
+            ],
+            "index": 74
+        }
+    },
+    "Kricketune": {
+        "Bug Catcher Oliver": {
+            "level": 22,
+            "item": "Scope Lens",
+            "ability": "Technician",
+            "nature": "Adamant",
+            "moves": [
+                "Bug Bite",
+                "Aerial Ace",
+                "Trailblaze",
+                "Focus Energy"
+            ],
+            "index": 75
+        }
+    },
+    "Volbeat": {
+        "Bug Catcher Oliver": {
+            "level": 23,
+            "item": "Expert Belt",
+            "ability": "Prankster",
+            "nature": "Jolly",
+            "moves": [
+                "Thunder Punch",
+                "Ice Punch",
+                "Aerial Ace",
+                "Moonlight"
+            ],
+            "index": 76
+        }
+    },
+    "Illumise": {
+        "Bug Catcher Oliver": {
+            "level": 23,
+            "item": "Wise Glasses",
+            "ability": "Prankster",
+            "nature": "Timid",
+            "moves": [
+                "Dazzling Gleam",
+                "Struggle Bug",
+                "Water Pulse",
+                "Moonlight"
+            ],
+            "index": 77
+        }
+    },
+    "Espeon": {
+        "Lady Cindy": {
+            "level": 23,
+            "item": "Fairy Feather",
+            "ability": "Magic Bounce",
+            "nature": "Quirky",
+            "moves": [
+                "Psybeam",
+                "Draining Kiss",
+                "Swift",
+                "Morning Sun"
+            ],
+            "index": 78
+        },
+        "Cycling Triathlete Abigail": {
+            "level": 30,
+            "item": "Light Clay",
+            "ability": "Magic Bounce",
+            "nature": "Timid",
+            "moves": [
+                "Psychic Noise",
+                "Draining Kiss",
+                "Light Screen",
+                "Reflect"
+            ],
+            "index": 153
+        }
+    },
+    "Umbreon": {
+        "Lady Cindy": {
+            "level": 23,
+            "item": "Dark Gem",
+            "ability": "Inner Focus",
+            "nature": "Serious",
+            "moves": [
+                "Snarl",
+                "Alluring Voice",
+                "Confuse Ray",
+                "Moonlight"
+            ],
+            "index": 79
+        }
+    },
+    "Ivysaur": {
+        "Youngster Billy": {
+            "level": 23,
+            "item": "Miracle Seed",
+            "ability": "Overgrow",
+            "nature": "Modest",
+            "moves": [
+                "Grass Pledge",
+                "Venoshock",
+                "Synthesis",
+                "Toxic"
+            ],
+            "index": 80
+        }
+    },
+    "Charmeleon": {
+        "Youngster Billy": {
+            "level": 23,
+            "item": "Charcoal",
+            "ability": "Blaze",
+            "nature": "Modest",
+            "moves": [
+                "Fire Pledge",
+                "Dragon Pulse",
+                "Ancient Power",
+                "Fire Spin"
+            ],
+            "index": 81
+        },
+        "Guitarist Joseph": {
+            "level": 30,
+            "item": "Muscle Band",
+            "ability": "Blaze",
+            "nature": "Adamant",
+            "moves": [
+                "Fire Punch",
+                "Thunder Punch",
+                "Brick Break",
+                "Swords Dance"
+            ],
+            "index": 139
+        }
+    },
+    "Wartortle": {
+        "Youngster Billy": {
+            "level": 23,
+            "item": "Mystic Water",
+            "ability": "Torrent",
+            "nature": "Modest",
+            "moves": [
+                "Water Pledge",
+                "Ice Beam",
+                "Mud Shot",
+                "Aqua Jet"
+            ],
+            "index": 82
+        }
+    },
+    "Gallade": {
+        "Sailor Brenden": {
+            "level": 21,
+            "item": "White Herb",
+            "ability": "Justified",
+            "nature": "Jolly",
+            "moves": [
+                "Brick Break",
+                "Psycho Cut",
+                "Aqua Cutter",
+                "Aerial Ace"
+            ],
+            "index": 83
+        },
+        "Hex Maniac Nadia": {
+            "level": 53,
+            "item": "Scope Lens",
+            "ability": "Sharpness",
+            "nature": "Jolly",
+            "moves": [
+                "Sacred Sword",
+                "Psycho Cut",
+                "Night Slash",
+                "Aerial Ace"
+            ],
+            "index": 408
+        },
+        "Psychic Samantha": {
+            "level": 70,
+            "item": "Iron Ball",
+            "ability": "Justified",
+            "nature": "Quiet",
+            "moves": [
+                "Sacred Sword",
+                "Zen Headbutt",
+                "Knock Off",
+                "Destiny Bond"
+            ],
+            "index": 647
+        }
+    },
+    "Poliwrath": {
+        "Sailor Brenden": {
+            "level": 23,
+            "item": "Black Belt",
+            "ability": "Water Absorb",
+            "nature": "Modest",
+            "moves": [
+                "Surf",
+                "Ice Beam",
+                "Vacuum Wave",
+                "Hypnosis"
+            ],
+            "index": 84
+        },
+        "Sailor Huey": {
+            "level": 30,
+            "item": "Expert Belt",
+            "ability": "Water Absorb",
+            "nature": "Adamant",
+            "moves": [
+                "Wake Up Slap",
+                "Waterfall",
+                "Ice Punch",
+                "Hypnosis"
+            ],
+            "index": 109
+        }
+    },
+    "Grapploct": {
+        "Sailor Brenden": {
+            "level": 24,
+            "item": "Leftovers",
+            "ability": "Limber",
+            "nature": "Serious",
+            "moves": [
+                "Revenge",
+                "Waterfall",
+                "Ice Punch",
+                "Payback"
+            ],
+            "index": 85
+        },
+        "Battle Girl Callie": {
+            "level": 72,
+            "item": "Focus Sash",
+            "ability": "Limber",
+            "nature": "Adamant",
+            "moves": [
+                "Close Combat",
+                "Liquidation",
+                "Ice Punch",
+                "Work Up"
+            ],
+            "index": 524
+        },
+        "Psychic Blake": {
+            "level": 70,
+            "item": "Black Belt",
+            "ability": "Technician",
+            "nature": "Brave",
+            "moves": [
+                "Circle Throw",
+                "Power Up Punch",
+                "Liquidation",
+                "Ice Punch"
+            ],
+            "index": 650
+        }
+    },
+    "Timburr": {
+        "Battle Girl Lilith": {
+            "level": 23,
+            "item": "Punching Glove",
+            "ability": "Iron Fist",
+            "nature": "Adamant",
+            "moves": [
+                "Drain Punch",
+                "Ice Punch",
+                "Fire Punch",
+                "Mach Punch"
+            ],
+            "index": 86
+        }
+    },
+    "Makuhita": {
+        "Battle Girl Lilith": {
+            "level": 23,
+            "item": "Eviolite",
+            "ability": "Guts",
+            "nature": "Adamant",
+            "moves": [
+                "Force Palm",
+                "Rock Tomb",
+                "Payback",
+                "Fake Out"
+            ],
+            "index": 87
+        }
+    },
+    "Meditite": {
+        "Battle Girl Lilith": {
+            "level": 23,
+            "item": "Black Belt",
+            "ability": "Pure Power",
+            "nature": "Adamant",
+            "moves": [
+                "Force Palm",
+                "Psycho Cut",
+                "Poison Jab",
+                "Bullet Punch"
+            ],
+            "index": 88
+        }
+    },
+    "Kubfu": {
+        "Battle Girl Lilith": {
+            "level": 24,
+            "item": "Expert Belt",
+            "ability": "Inner Focus",
+            "nature": "Jolly",
+            "moves": [
+                "Brick Break",
+                "Iron Head",
+                "Aerial Ace",
+                "Swords Dance"
+            ],
+            "index": 89
+        }
+    },
+    "Charjabug": {
+        "Black Belt Takao": {
+            "level": 23,
+            "item": "Eviolite",
+            "ability": "Battery",
+            "nature": "Careful",
+            "moves": [
+                "Electroweb",
+                "Sticky Web",
+                "Baton Pass"
+            ],
+            "index": 90
+        }
+    },
+    "Crabrawler": {
+        "Black Belt Takao": {
+            "level": 23,
+            "item": "Focus Sash",
+            "ability": "Iron Fist",
+            "nature": "Adamant",
+            "moves": [
+                "Drain Punch",
+                "Ice Punch",
+                "Thunder Punch",
+                "Crabhammer"
+            ],
+            "index": 91
+        }
+    },
+    "Mankey": {
+        "Black Belt Takao": {
+            "level": 23,
+            "item": "Focus Sash",
+            "ability": "Defiant",
+            "nature": "Jolly",
+            "moves": [
+                "Cross Chop",
+                "Stone Edge",
+                "Reversal",
+                "Scary Face"
+            ],
+            "index": 92
+        }
+    },
+    "Lilligant-Hisui": {
+        "Battle Girl Jocelyn": {
+            "level": 23,
+            "item": "Lum Berry",
+            "ability": "Striker",
+            "nature": "Serious",
+            "moves": [
+                "Seed Bomb",
+                "Low Sweep",
+                "Ice Spinner",
+                "Vacuum Wave"
+            ],
+            "index": 93
+        },
+        "Camper Shane": {
+            "level": 38,
+            "item": "White Herb",
+            "ability": "Leaf Guard",
+            "nature": "Jolly",
+            "moves": [
+                "Close Combat",
+                "Leaf Blade",
+                "Poison Jab",
+                "Ice Spinner"
+            ],
+            "index": 295
+        },
+        "Cooltrainer MBF": {
+            "level": 89,
+            "item": "Life Orb",
+            "ability": "Chlorophyll",
+            "nature": "Jolly",
+            "moves": [
+                "Leaf Blade",
+                "Close Combat",
+                "Triple Axel",
+                "Victory Dance"
+            ],
+            "index": 825
+        }
+    },
+    "Hakamo-o": {
+        "Battle Girl Jocelyn": {
+            "level": 23,
+            "item": "Roseli Berry",
+            "ability": "Bulletproof",
+            "nature": "Adamant",
+            "moves": [
+                "Dragon Claw",
+                "Brick Break",
+                "Poison Jab",
+                "Scary Face"
+            ],
+            "index": 94
+        }
+    },
+    "Toxicroak": {
+        "Battle Girl Jocelyn": {
+            "level": 25,
+            "item": "Focus Sash",
+            "ability": "Poison Touch",
+            "nature": "Modest",
+            "moves": [
+                "Venoshock",
+                "Vacuum Wave",
+                "Mud Shot",
+                "Toxic"
+            ],
+            "index": 95
+        },
+        "Battle Girl Callie": {
+            "level": 70,
+            "item": "Focus Sash",
+            "ability": "Dry Skin",
+            "nature": "Adamant",
+            "moves": [
+                "Gunk Shot",
+                "Drain Punch",
+                "Throat Chop",
+                "Bullet Punch"
+            ],
+            "index": 523
+        },
+        "Expert Keegan": {
+            "level": 77,
+            "item": "Focus Sash",
+            "ability": "Poison Touch",
+            "nature": "Adamant",
+            "moves": [
+                "Poison Jab",
+                "Drain Punch",
+                "Throat Chop",
+                "Fake Out"
+            ],
+            "index": 750
+        },
+        "Elite Four Misty": {
+            "level": 89,
+            "item": "Focus Sash",
+            "ability": "Anticipation",
+            "nature": "Adamant",
+            "moves": [
+                "Close Combat",
+                "Poison Jab",
+                "X-Scissor",
+                "Fake Out"
+            ],
+            "index": 890
+        }
+    },
+    "Falinks": {
+        "Black Belt Cristian": {
+            "level": 23,
+            "item": "Expert Belt",
+            "ability": "Defiant",
+            "nature": "Hardy",
+            "moves": [
+                "First Impression",
+                "Brick Break",
+                "Lunge",
+                "Poison Jab"
+            ],
+            "index": 96
+        },
+        "Picnicker Irene": {
+            "level": 38,
+            "item": "Lum Berry",
+            "ability": "Defiant",
+            "nature": "Jolly",
+            "moves": [
+                "Close Combat",
+                "First Impression",
+                "Zen Headbutt",
+                "Smart Strike"
+            ],
+            "index": 215
+        }
+    },
+    "Flareon": {
+        "Black Belt Cristian": {
+            "level": 23,
+            "item": "Black Belt",
+            "ability": "Guts",
+            "nature": "Hardy",
+            "moves": [
+                "Fire Fang",
+                "Double Kick",
+                "Bite",
+                "Quick Attack"
+            ],
+            "index": 97
+        },
+        "Youngster Jaylen": {
+            "level": 30,
+            "item": "Choice Scarf",
+            "ability": "Flash Fire",
+            "nature": "Modest",
+            "moves": [
+                "Burning Jealousy",
+                "Scorching Sands"
+            ],
+            "index": 144
+        },
+        "Picknicker Charlotte": {
+            "level": 38,
+            "item": "White Herb",
+            "ability": "Flash Fire",
+            "nature": "Jolly",
+            "moves": [
+                "Flare Blitz",
+                "Double-Edge",
+                "Superpower",
+                "Trailblaze"
+            ],
+            "index": 289
+        },
+        "Psychic Presont": {
+            "level": 70,
+            "item": "Expert Belt",
+            "ability": "Guts",
+            "nature": "Brave",
+            "moves": [
+                "Temper Flare",
+                "Bite",
+                "Double Kick",
+                "Flail"
+            ],
+            "index": 641
+        },
+        "Cooltrainer Gerald": {
+            "level": 75,
+            "item": "Lum Berry",
+            "ability": "Flash Fire",
+            "nature": "Jolly",
+            "moves": [
+                "Flare Blitz",
+                "Double-Edge",
+                "Flame Charge",
+                "Detect"
+            ],
+            "index": 734
+        }
+    },
+    "Primeape": {
+        "Black Belt Cristian": {
+            "level": 23,
+            "item": "Scope Lens",
+            "ability": "Vital Spirit",
+            "nature": "Hardy",
+            "moves": [
+                "Brick Break",
+                "Rage Fist",
+                "Rock Tomb",
+                "Focus Energy"
+            ],
+            "index": 98
+        },
+        "Swimmer Declan": {
+            "level": 68,
+            "item": "Eviolite",
+            "ability": "Defiant",
+            "nature": "Jolly",
+            "moves": [
+                "Cross Chop",
+                "Stone Edge",
+                "Earthquake",
+                "Rage Fist"
+            ],
+            "index": 609
+        }
+    },
+    "Quilladin": {
+        "Battle Girl Laura": {
+            "level": 23,
+            "item": "Eviolite",
+            "ability": "Overgrow",
+            "nature": "Adamant",
+            "moves": [
+                "Seed Bomb",
+                "Brick Break",
+                "Rock Slide",
+                "Synthesis"
+            ],
+            "index": 99
+        }
+    },
+    "Quaxwell": {
+        "Battle Girl Laura": {
+            "level": 23,
+            "item": "Flying Gem",
+            "ability": "Moxie",
+            "nature": "Jolly",
+            "moves": [
+                "Aqua Cutter",
+                "Low Sweep",
+                "Acrobatics",
+                "Flip Turn"
+            ],
+            "index": 100
+        }
+    },
+    "Combusken": {
+        "Battle Girl Laura": {
+            "level": 23,
+            "item": "Focus Sash",
+            "ability": "Speed Boost",
+            "nature": "Adamant",
+            "moves": [
+                "Drain Punch",
+                "Fire Punch",
+                "Ice Punch",
+                "Quick Attack"
+            ],
+            "index": 101
+        },
+        "Battle Girl Vivian": {
+            "level": 30,
+            "item": "Black Belt",
+            "ability": "Speed Boost",
+            "nature": "Adamant",
+            "moves": [
+                "Fire Punch",
+                "Drain Punch",
+                "Thunder Punch",
+                "Bulk Up"
+            ],
+            "index": 171
+        }
+    },
+    "Passimian": {
+        "Battle Girl Laura": {
+            "level": 23,
+            "item": "Lum Berry",
+            "ability": "Defiant",
+            "nature": "Jolly",
+            "moves": [
+                "Brick Break",
+                "Take Down",
+                "U-Turn",
+                "Acrobatics"
+            ],
+            "index": 102
+        },
+        "Picknicker Charlotte": {
+            "level": 38,
+            "item": "Liechi Berry",
+            "ability": "Defiant",
+            "nature": "Jolly",
+            "moves": [
+                "Close Combat",
+                "Earthquake",
+                "Knock Off",
+                "Acrobatics"
+            ],
+            "index": 292
+        }
+    },
+    "Lucario": {
+        "Leader Brawly": {
+            "level": 23,
+            "item": "Fighting Gem",
+            "ability": "Inner Focus",
+            "nature": "Jolly",
+            "moves": [
+                "Force Palm",
+                "Metal Claw",
+                "Aerial Ace",
+                "Vacuum Wave"
+            ],
+            "index": 103
+        },
+        "Lass Crissy": {
+            "level": 38,
+            "item": "Focus Sash",
+            "ability": "Inner Focus",
+            "nature": "Adamant",
+            "moves": [
+                "Close Combat",
+                "Meteor Mash",
+                "Extreme Speed",
+                "Thunder Punch"
+            ],
+            "index": 326
+        },
+        "Hiker Marcos": {
+            "level": 53,
+            "item": "Metal Coat",
+            "ability": "Inner Focus",
+            "nature": "Adamant",
+            "moves": [
+                "Flash Cannon",
+                "Aura Sphere",
+                "Dragon Pulse",
+                "Extreme Speed"
+            ],
+            "index": 392
+        },
+        "Pokemon Breeder Pat": {
+            "level": 68,
+            "item": "Sitrus Berry",
+            "ability": "Steadfast",
+            "nature": "Adamant",
+            "moves": [
+                "Close Combat",
+                "Meteor Mash",
+                "Blaze Kick",
+                "Extreme Speed"
+            ],
+            "index": 562
+        }
+    },
+    "Hawlucha": {
+        "Leader Brawly": {
+            "level": 23,
+            "item": "Lum Berry",
+            "ability": "Mold Breaker",
+            "nature": "Jolly",
+            "moves": [
+                "Low Sweep",
+                "Wing Attack",
+                "U-Turn"
+            ],
+            "index": 104
+        },
+        "Bird Keeper Hugh": {
+            "level": 61,
+            "item": "Grassy Seed",
+            "ability": "Unburden",
+            "nature": "Jolly",
+            "moves": [
+                "Close Combat",
+                "Acrobatics",
+                "Stone Edge",
+                "Roost"
+            ],
+            "index": 455
+        },
+        "Expert Auron": {
+            "level": 68,
+            "item": "Grassy Seed",
+            "ability": "Unburden",
+            "nature": "Adamant",
+            "moves": [
+                "Close Combat",
+                "Acrobatics",
+                "Encore",
+                "Tailwind"
+            ],
+            "index": 637
+        },
+        "Cooltrainer Dianne": {
+            "level": 90,
+            "item": "Psychic Seed",
+            "ability": "Unburden",
+            "nature": "Adamant",
+            "moves": [
+                "Swords Dance",
+                "Acrobatics",
+                "Close Combat",
+                "Roost"
+            ],
+            "index": 821
+        }
+    },
+    "Scrafty": {
+        "Leader Brawly": {
+            "level": 23,
+            "item": "Focus Sash",
+            "ability": "Moxie",
+            "nature": "Adamant",
+            "moves": [
+                "Brick Break",
+                "Payback",
+                "Iron Head",
+                "Thunder Punch"
+            ],
+            "index": 105
+        },
+        "Swimmer Grace": {
+            "level": 68,
+            "item": "Focus Band",
+            "ability": "Moxie",
+            "nature": "Adamant",
+            "moves": [
+                "Close Combat",
+                "Payback",
+                "Poison Jab",
+                "Reversal"
+            ],
+            "index": 616
+        }
+    },
+    "Annihilape": {
+        "Leader Brawly": {
+            "level": 23,
+            "item": "Fighting Gem",
+            "ability": "Defiant",
+            "nature": "Serious",
+            "moves": [
+                "Rage Fist",
+                "Rock Smash"
+            ],
+            "index": 106
+        },
+        "Sr. and Jr. Kate & Joy": {
+            "level": 70,
+            "item": "Misty Seed",
+            "ability": "Defiant",
+            "nature": "Jolly",
+            "moves": [
+                "Cross Chop",
+                "Rage Fist",
+                "Stone Edge",
+                "Acrobatics"
+            ],
+            "index": 572
+        },
+        "Challenger Phoebe": {
+            "level": 75,
+            "item": "Expert Belt",
+            "ability": "Vital Spirit",
+            "nature": "Adamant",
+            "moves": [
+                "Phantom Force",
+                "Drain Punch",
+                "Rage Fist",
+                "Poison Jab"
+            ],
+            "index": 711
+        },
+        "Cooltrainer Mitchell": {
+            "level": 90,
+            "item": "Leftovers",
+            "ability": "Defiant",
+            "nature": "Adamant",
+            "moves": [
+                "Bulk Up",
+                "Drain Punch",
+                "Rage Fist",
+                "Lash Out"
+            ],
+            "index": 848
+        }
+    },
+    "Tauros-Paldea-Water": {
+        "Leader Brawly": {
+            "level": 25,
+            "item": "Black Belt",
+            "ability": "Intimidate",
+            "nature": "Hardy",
+            "moves": [
+                "Double Kick",
+                "Aqua Jet",
+                "Bulldoze",
+                "Rock Tomb"
+            ],
+            "index": 107
+        },
+        "Camper Lawrence": {
+            "level": 38,
+            "item": "Liechi Berry",
+            "ability": "Intimidate",
+            "nature": "Jolly",
+            "moves": [
+                "Close Combat",
+                "Raging Bull",
+                "Earthquake",
+                "Aqua Jet"
+            ],
+            "index": 232
+        }
+    },
+    "Tauros-Paldea-Fire": {
+        "Leader Brawly": {
+            "level": 25,
+            "item": "Black Belt",
+            "ability": "Intimidate",
+            "nature": "Hardy",
+            "moves": [
+                "Temper Flare",
+                "Double Kick",
+                "Lash Out",
+                "Reversal"
+            ],
+            "index": 108
+        },
+        "Ranger Lorenzo": {
+            "level": 68,
+            "item": "White Herb",
+            "ability": "Intimidate",
+            "nature": "Jolly",
+            "moves": [
+                "Close Combat",
+                "Raging Bull",
+                "High Horsepower",
+                "Flame Charge"
+            ],
+            "index": 543
+        }
+    },
+    "Fraxure": {
+        "Sailor Huey": {
+            "level": 30,
+            "item": "Focus Sash",
+            "ability": "Mold Breaker",
+            "nature": "Adamant",
+            "moves": [
+                "Dragon Claw",
+                "Poison Jab",
+                "Reversal",
+                "Dragon Dance"
+            ],
+            "index": 110
+        }
+    },
+    "Oinkologne": {
+        "Sailor Huey": {
+            "level": 30,
+            "item": "Chople Berry",
+            "ability": "Thick Fat",
+            "nature": "Adamant",
+            "moves": [
+                "Take Down",
+                "High Horsepower",
+                "Play Rough",
+                "Work Up"
+            ],
+            "index": 111
+        }
+    },
+    "Kingler": {
+        "Sailor Edmond": {
+            "level": 30,
+            "item": "Expert Belt",
+            "ability": "Shell Armor",
+            "nature": "Adamant",
+            "moves": [
+                "Razor Shell",
+                "X-Scissor",
+                "Night Slash",
+                "Aqua Jet"
+            ],
+            "index": 112
+        }
+    },
+    "Machoke": {
+        "Sailor Edmond": {
+            "level": 30,
+            "item": "Flame Orb",
+            "ability": "Guts",
+            "nature": "Adamant",
+            "moves": [
+                "Drain Punch",
+                "Poison Jab",
+                "Knock Off",
+                "Bullet Punch"
+            ],
+            "index": 113
+        }
+    },
+    "Arbok": {
+        "Sailor Edmond": {
+            "level": 30,
+            "item": "Life Orb",
+            "ability": "Intimidate",
+            "nature": "Adamant",
+            "moves": [
+                "Poison Jab",
+                "Earthquake",
+                "Rock Slide",
+                "Sucker Punch"
+            ],
+            "index": 114
+        }
+    },
+    "Palossand": {
+        "Sailor Edmond": {
+            "level": 30,
+            "item": "Weakness Policy",
+            "ability": "Water Compaction",
+            "nature": "Adamant",
+            "moves": [
+                "Scorching Sands",
+                "Giga Drain",
+                "Chilling Water",
+                "Ancient Power"
+            ],
+            "index": 115
+        },
+        "Camper Brandan": {
+            "level": 52,
+            "item": "Lum Berry",
+            "ability": "Sand Veil",
+            "nature": "Serious",
+            "moves": [
+                "Shadow Ball",
+                "Scorching Sands",
+                "Giga Drain",
+                "Ancient Power"
+            ],
+            "index": 376
+        }
+    },
+    "Azurill": {
+        "Lola Tuber(F)": {
+            "level": 32,
+            "item": "Choice Band",
+            "ability": "Huge Power",
+            "nature": "Adamant",
+            "moves": [
+                "Play Rough",
+                "Body Slam",
+                "Waterfall",
+                "Bounce"
+            ],
+            "index": 116
+        }
+    },
+    "Ponyta-Galar": {
+        "Lola Tuber(F)": {
+            "level": 32,
+            "item": "Choice Band",
+            "ability": "Pastel Veil",
+            "nature": "Adamant",
+            "moves": [
+                "Play Rough",
+                "Psycho Cut",
+                "Stomp",
+                "Flame Wheel"
+            ],
+            "index": 117
+        }
+    },
+    "Mawile": {
+        "Lola Tuber(F)": {
+            "level": 32,
+            "item": "Choice Band",
+            "ability": "Intimidate",
+            "nature": "Adamant",
+            "moves": [
+                "Play Rough",
+                "Fire Fang",
+                "Ice Fang",
+                "Thunder Fang"
+            ],
+            "index": 118
+        },
+        "Gentleman Clifford": {
+            "level": 68,
+            "item": "Life Orb",
+            "ability": "Sheer Force",
+            "nature": "Brave",
+            "moves": [
+                "Play Rough",
+                "Iron Head",
+                "Thunder Fang",
+                "Protect"
+            ],
+            "index": 670
+        }
+    },
+    "Wigglytuff": {
+        "Lola Tuber(F)": {
+            "level": 32,
+            "item": "Choice Band",
+            "ability": "Competitive",
+            "nature": "Adamant",
+            "moves": [
+                "Play Rough",
+                "Body Slam"
+            ],
+            "index": 119
+        },
+        "Pokemon Breeder Pat": {
+            "level": 70,
+            "item": "Quick Claw",
+            "ability": "Competitive",
+            "nature": "Modest",
+            "moves": [
+                "Misty Explosion",
+                "Moonblast",
+                "Hyper Voice",
+                "Psychic"
+            ],
+            "index": 565
+        },
+        "Psychic Macey": {
+            "level": 68,
+            "item": "Lum Berry",
+            "ability": "Competitive",
+            "nature": "Quiet",
+            "moves": [
+                "Moonblast",
+                "Hyper Voice",
+                "Hyper Beam",
+                "Sing"
+            ],
+            "index": 672
+        }
+    },
+    "Tentacruel": {
+        "Ricky Tuber(M)": {
+            "level": 30,
+            "item": "Poison Barb",
+            "ability": "Liquid Ooze",
+            "nature": "Modest",
+            "moves": [
+                "Scald",
+                "Venoshock",
+                "Hex",
+                "Toxic"
+            ],
+            "index": 120
+        },
+        "Lass Crissy": {
+            "level": 38,
+            "item": "Air Balloon",
+            "ability": "Clear Body",
+            "nature": "Timid",
+            "moves": [
+                "Sludge Wave",
+                "Surf",
+                "Hex",
+                "Toxic Spikes"
+            ],
+            "index": 325
+        },
+        "Leader Juan": {
+            "level": 40,
+            "item": "Leftovers",
+            "ability": "Rain Dish",
+            "nature": "Timid",
+            "moves": [
+                "Sludge Wave",
+                "Scald",
+                "Hex",
+                "Toxic"
+            ],
+            "index": 351
+        },
+        "Hex Maniac Cole": {
+            "level": 75,
+            "item": "Mystic Water",
+            "ability": "Clear Body",
+            "nature": "Modest",
+            "moves": [
+                "Scald",
+                "Venoshock",
+                "Hex",
+                "Toxic"
+            ],
+            "index": 738
+        }
+    },
+    "Golduck": {
+        "Ricky Tuber(M)": {
+            "level": 30,
+            "item": "Twisted Spoon",
+            "ability": "Swift Swim",
+            "nature": "Adamant",
+            "moves": [
+                "Waterfall",
+                "Zen Headbutt",
+                "Ice Punch",
+                "Hypnosis"
+            ],
+            "index": 121
+        },
+        "Camper Travis": {
+            "level": 38,
+            "item": "Focus Sash",
+            "ability": "Swift Swim",
+            "nature": "Modest",
+            "moves": [
+                "Scald",
+                "Ice Beam",
+                "Psychic",
+                "Focus Blast"
+            ],
+            "index": 193
+        },
+        "Beauty Bridget": {
+            "level": 38,
+            "item": "Twisted Spoon",
+            "ability": "Swift Swim",
+            "nature": "Modest",
+            "moves": [
+                "Surf",
+                "Psychic",
+                "Power Gem",
+                "Calm Mind"
+            ],
+            "index": 349
+        }
+    },
+    "Seaking": {
+        "Chandler Tuber(M)": {
+            "level": 30,
+            "item": "Life Orb",
+            "ability": "Lightning Rod",
+            "nature": "Adamant",
+            "moves": [
+                "Waterfall",
+                "Drill Run",
+                "Poison Jab",
+                "Scale Shot"
+            ],
+            "index": 122
+        },
+        "Fisherman Claude": {
+            "level": 38,
+            "item": "Dragon Fang",
+            "ability": "Lightning Rod",
+            "nature": "Adamant",
+            "moves": [
+                "Liquidation",
+                "Poison Jab",
+                "Drill Run",
+                "Agility"
+            ],
+            "index": 258
+        },
+        "Leader Juan": {
+            "level": 38,
+            "item": "Muscle Band",
+            "ability": "Swift Swim",
+            "nature": "Jolly",
+            "moves": [
+                "Waterfall",
+                "Drill Run",
+                "Poison Jab",
+                "Haze"
+            ],
+            "index": 353
+        }
+    },
+    "Ludicolo": {
+        "Chandler Tuber(M)": {
+            "level": 30,
+            "item": "Wise Glasses",
+            "ability": "Swift Swim",
+            "nature": "Modest",
+            "moves": [
+                "Bubble Beam",
+                "Magical Leaf",
+                "Aurora Beam",
+                "Fake Out"
+            ],
+            "index": 123
+        },
+        "Fisherman Andrew": {
+            "level": 30,
+            "item": "Tanga Berry",
+            "ability": "Own Tempo",
+            "nature": "Adamant",
+            "moves": [
+                "Seed Bomb",
+                "Waterfall",
+                "Ice Punch",
+                "Synthesis"
+            ],
+            "index": 149
+        },
+        "Camper Rhett": {
+            "level": 53,
+            "item": "Mystic Water",
+            "ability": "Water Absorb",
+            "nature": "Modest",
+            "moves": [
+                "Energy Ball",
+                "Scald",
+                "Ice Beam",
+                "Fake Out"
+            ],
+            "index": 399
+        },
+        "Cooltrainer Katelynn": {
+            "level": 90,
+            "item": "Covert Cloak",
+            "ability": "Swift Swim",
+            "nature": "Modest",
+            "moves": [
+                "Energy Ball",
+                "Chilling Water",
+                "Ice Beam",
+                "Fake Out"
+            ],
+            "index": 769
+        }
+    },
+    "Masquerain": {
+        "Hailey Tuber (F)": {
+            "level": 30,
+            "item": "Water Gem",
+            "ability": "Unnerve",
+            "nature": "Modest",
+            "moves": [
+                "Bug Buzz",
+                "Air Slash",
+                "Surf",
+                "Quiver Dance"
+            ],
+            "index": 124
+        },
+        "Bug Catcher Angelo": {
+            "level": 30,
+            "item": "Lum Berry",
+            "ability": "Intimidate",
+            "nature": "Timid",
+            "moves": [
+                "Air Cutter",
+                "Silver Wind",
+                "Scald",
+                "Roost"
+            ],
+            "index": 161
+        },
+        "Bug Maniac Brent": {
+            "level": 62,
+            "item": "Charti Berry",
+            "ability": "Intimidate",
+            "nature": "Modest",
+            "moves": [
+                "Hurricane",
+                "Bug Buzz",
+                "Weather Ball",
+                "Quiver Dance"
+            ],
+            "index": 459
+        },
+        "Bug Maniac Jeffrey": {
+            "level": 72,
+            "item": "Mystic Water",
+            "ability": "Intimidate",
+            "nature": "Jolly",
+            "moves": [
+                "Hurricane",
+                "Bug Buzz",
+                "Hydro Pump",
+                "Tailwind"
+            ],
+            "index": 529
+        }
+    },
+    "Sunflora": {
+        "Hailey Tuber (F)": {
+            "level": 30,
+            "item": "Quick Claw",
+            "ability": "Chlorophyll",
+            "nature": "Modest",
+            "moves": [
+                "Giga Drain",
+                "Sludge Bomb",
+                "Dazzling Gleam",
+                "Growth"
+            ],
+            "index": 125
+        }
+    },
+    "Froslass": {
+        "Hailey Tuber (F)": {
+            "level": 30,
+            "item": "Ghost Gem",
+            "ability": "Cursed Body",
+            "nature": "Modest",
+            "moves": [
+                "Hex",
+                "Icy Wind",
+                "Draining Kiss",
+                "Will-O-Wisp"
+            ],
+            "index": 126
+        },
+        "Lady Daphne": {
+            "level": 38,
+            "item": "Life Orb",
+            "ability": "Cursed Body",
+            "nature": "Timid",
+            "moves": [
+                "Ice Beam",
+                "Shadow Ball",
+                "Thunderbolt",
+                "Destiny Bond"
+            ],
+            "index": 318
+        },
+        "Hex Maniac Cole": {
+            "level": 75,
+            "item": "Quick Claw",
+            "ability": "Snow Cloak",
+            "nature": "Modest",
+            "moves": [
+                "Ice Beam",
+                "Hex",
+                "Icy Wind",
+                "Will-O-Wisp"
+            ],
+            "index": 739
+        }
+    },
+    "Armaldo": {
+        "Hailey Tuber (F)": {
+            "level": 30,
+            "item": "Rock Gem",
+            "ability": "Battle Armor",
+            "nature": "Adamant",
+            "moves": [
+                "Rock Tomb",
+                "Bug Bite",
+                "Bulldoze",
+                "Aqua Jet"
+            ],
+            "index": 127
+        },
+        "Pokefan Bethany": {
+            "level": 39,
+            "item": "Quick Claw",
+            "ability": "Swift Swim",
+            "nature": "Adamant",
+            "moves": [
+                "X-Scissor",
+                "Rock Slide",
+                "Liquidation",
+                "Facade"
+            ],
+            "index": 336
+        },
+        "Bug Maniac Jeffrey": {
+            "level": 68,
+            "item": "Water Gem",
+            "ability": "Swift Swim",
+            "nature": "Jolly",
+            "moves": [
+                "Stone Edge",
+                "X-Scissor",
+                "Liquidation",
+                "Aqua Jet"
+            ],
+            "index": 532
+        },
+        "Cooltrainer Albert": {
+            "level": 89,
+            "item": "Assault Vest",
+            "ability": "Battle Armor",
+            "nature": "Quiet",
+            "moves": [
+                "Stone Edge",
+                "X-Scissor",
+                "Earthquake",
+                "Protect"
+            ],
+            "index": 766
+        }
+    },
+    "Simipour": {
+        "Hailey Tuber (F)": {
+            "level": 30,
+            "item": "Flying Gem",
+            "ability": "Torrent",
+            "nature": "Serious",
+            "moves": [
+                "Scald",
+                "Acrobatics"
+            ],
+            "index": 128
+        },
+        "Picknicker Sophie": {
+            "level": 38,
+            "item": "Water Gem",
+            "ability": "Torrent",
+            "nature": "Naive",
+            "moves": [
+                "Scald",
+                "Ice Beam",
+                "Knock Off",
+                "Acrobatics"
+            ],
+            "index": 253
+        },
+        "Fisherman Barny": {
+            "level": 64,
+            "item": "Water Gem",
+            "ability": "Swift Swim",
+            "nature": "Adamant",
+            "moves": [
+                "Wave Crash",
+                "Acrobatics",
+                "Superpower",
+                "Ice Punch"
+            ],
+            "index": 421
+        }
+    },
+    "Raichu": {
+        "Pokefan Kaleb": {
+            "level": 30,
+            "item": "Air Balloon",
+            "ability": "Static",
+            "nature": "Adamant",
+            "moves": [
+                "Thunder Punch",
+                "Iron Tail",
+                "Body Slam",
+                "Fake Out"
+            ],
+            "index": 129
+        }
+    },
+    "Nidoking": {
+        "Pokefan Kaleb": {
+            "level": 30,
+            "item": "Lum Berry",
+            "ability": "Poison Point",
+            "nature": "Adamant",
+            "moves": [
+                "Drill Run",
+                "Poison Jab",
+                "Thunder Punch",
+                "Smart Strike"
+            ],
+            "index": 130
+        },
+        "Camper Drew": {
+            "level": 52,
+            "item": "Life Orb",
+            "ability": "Sheer Force",
+            "nature": "Modest",
+            "moves": [
+                "Earth Power",
+                "Sludge Bomb",
+                "Thunderbolt",
+                "Flamethrower"
+            ],
+            "index": 390
+        },
+        "Guitarist Fabian": {
+            "level": 62,
+            "item": "Life Orb",
+            "ability": "Sheer Force",
+            "nature": "Modest",
+            "moves": [
+                "Sludge Bomb",
+                "Earth Power",
+                "Thunder",
+                "Surf"
+            ],
+            "index": 474
+        },
+        "Swimmer Herman": {
+            "level": 75,
+            "item": "Life Orb",
+            "ability": "Sheer Force",
+            "nature": "Modest",
+            "moves": [
+                "Earth Power",
+                "Sludge Bomb",
+                "Flamethrower",
+                "Thunderbolt"
+            ],
+            "index": 699
+        }
+    },
+    "Raichu-Alola": {
+        "Pokefan Isabel": {
+            "level": 30,
+            "item": "Focus Sash",
+            "ability": "Surge Surfer",
+            "nature": "Timid",
+            "moves": [
+                "Thunderbolt",
+                "Psyshock",
+                "Draining Kiss",
+                "Nuzzle"
+            ],
+            "index": 131
+        },
+        "Pokefan Annike": {
+            "level": 40,
+            "item": "Focus Sash",
+            "ability": null,
+            "nature": "Modest",
+            "moves": [
+                "Rising Voltage",
+                "Psychic",
+                "Surf",
+                "Alluring Voice"
+            ],
+            "index": 324
+        },
+        "Dragon Tamer Jace": {
+            "level": 77,
+            "item": "Mystic Water",
+            "ability": "Surge Surfer",
+            "nature": "Modest",
+            "moves": [
+                "Thunderbolt",
+                "Volt Switch",
+                "Surf",
+                "Fake Out"
+            ],
+            "index": 725
+        },
+        "Cooltrainer Owen": {
+            "level": 90,
+            "item": "Light Clay",
+            "ability": "Surge Surfer",
+            "nature": "Modest",
+            "moves": [
+                "Reflect",
+                "Light Screen",
+                "Rising Voltage",
+                "Psychic"
+            ],
+            "index": 810
+        }
+    },
+    "Nidoqueen": {
+        "Pokefan Isabel": {
+            "level": 30,
+            "item": "Lum Berry",
+            "ability": "Poison Point",
+            "nature": "Modest",
+            "moves": [
+                "Earth Power",
+                "Sludge Bomb",
+                "Ice Beam",
+                "Thunderbolt"
+            ],
+            "index": 132
+        },
+        "Picnicker Angelina": {
+            "level": 38,
+            "item": "Wise Glasses",
+            "ability": "Sheer Force",
+            "nature": "Modest",
+            "moves": [
+                "Flamethrower",
+                "Ice Beam",
+                "Thunderbolt",
+                "Surf"
+            ],
+            "index": 302
+        },
+        "Picnicker Daisy": {
+            "level": 55,
+            "item": "Life Orb",
+            "ability": "Sheer Force",
+            "nature": "Modest",
+            "moves": [
+                "Earth Power",
+                "Sludge Bomb",
+                "Flamethrower",
+                "Thunderbolt"
+            ],
+            "index": 394
+        }
+    },
+    "Lickitung": {
+        "Youngster Timmy": {
+            "level": 32,
+            "item": "Silk Scarf",
+            "ability": "Own Tempo",
+            "nature": "Adamant",
+            "moves": [
+                "Body Slam",
+                "Brick Break",
+                "Thunder Punch",
+                "Knock Off"
+            ],
+            "index": 133
+        }
+    },
+    "Oranguru": {
+        "Youngster Timmy": {
+            "level": 30,
+            "item": "Electric Gem",
+            "ability": "Inner Focus",
+            "nature": "Modest",
+            "moves": [
+                "Psyshock",
+                "Energy Ball",
+                "Shadow Ball",
+                "Charge Beam"
+            ],
+            "index": 134
+        }
+    },
+    "Squawkabilly-Yellow": {
+        "Youngster Timmy": {
+            "level": 30,
+            "item": "Muscle Band",
+            "ability": "Intimidate",
+            "nature": "Adamant",
+            "moves": [
+                "Take Down",
+                "Dual Wingbeat",
+                "Final Gambit",
+                "Quick Attack"
+            ],
+            "index": 135
+        }
+    },
+    "Raticate": {
+        "Youngster Timmy": {
+            "level": 30,
+            "item": "Focus Sash",
+            "ability": "Guts",
+            "nature": "Jolly",
+            "moves": [
+                "Hyper Fang",
+                "Crunch",
+                "Endeavor",
+                "Quick Attack"
+            ],
+            "index": 136
+        }
+    },
+    "Toxtricity": {
+        "Guitarist Joseph": {
+            "level": 30,
+            "item": "Magnet",
+            "ability": "Punk Rock",
+            "nature": "Jolly",
+            "moves": [
+                "Thunder Punch",
+                "Ice Punch",
+                "Drain Punch",
+                "Shift Gear"
+            ],
+            "index": 137
+        }
+    },
+    "Simisage": {
+        "Guitarist Joseph": {
+            "level": 30,
+            "item": "Grass Gem",
+            "ability": "Gluttony",
+            "nature": "Adamant",
+            "moves": [
+                "Seed Bomb",
+                "Brick Break",
+                "Knock Off",
+                "Growth"
+            ],
+            "index": 138
+        },
+        "Picnicker Irene": {
+            "level": 38,
+            "item": "Grass Gem",
+            "ability": "Overgrow",
+            "nature": "Adamant",
+            "moves": [
+                "Seed Bomb",
+                "Acrobatics",
+                "Low Sweep",
+                "Knock Off"
+            ],
+            "index": 213
+        }
+    },
+    "Croconaw": {
+        "Guitarist Joseph": {
+            "level": 30,
+            "item": "Expert Belt",
+            "ability": "Torrent",
+            "nature": "Adamant",
+            "moves": [
+                "Waterfall",
+                "Ice Punch",
+                "Rock Slide",
+                "Dragon Dance"
+            ],
+            "index": 140
+        }
+    },
+    "Sawsbuck": {
+        "Youngster Dillon": {
+            "level": 30,
+            "item": "White Herb",
+            "ability": "Leaf Rush",
+            "nature": "Jolly",
+            "moves": [
+                "Seed Bomb",
+                "Headbutt",
+                "Zen Headbutt",
+                "Stomping Tantrum"
+            ],
+            "index": 141
+        },
+        "Picnicker Carol": {
+            "level": 38,
+            "item": "Focus Sash",
+            "ability": "Chlorophyll",
+            "nature": "Adamant",
+            "moves": [
+                "Solar Blade",
+                "Body Slam",
+                "Zen Headbutt",
+                "Jump Kick"
+            ],
+            "index": 198
+        }
+    },
+    "Sandslash": {
+        "Youngster Dillon": {
+            "level": 30,
+            "item": "Soft Sand",
+            "ability": "Sand Rush",
+            "nature": "Adamant",
+            "moves": [
+                "Drill Run",
+                "Poison Jab",
+                "Rock Slide",
+                "Spiky Shield"
+            ],
+            "index": 142
+        },
+        "Camper Tyron": {
+            "level": 38,
+            "item": "Focus Sash",
+            "ability": "Sand Rush",
+            "nature": "Adamant",
+            "moves": [
+                "Drill Run",
+                "Rock Slide",
+                "X-Scissor",
+                "Shadow Claw"
+            ],
+            "index": 185
+        },
+        "Picknicker Sophie": {
+            "level": 39,
+            "item": "Focus Sash",
+            "ability": "Sand Rush",
+            "nature": "Adamant",
+            "moves": [
+                "Drill Run",
+                "Poison Jab",
+                "X-Scissor",
+                "Protect"
+            ],
+            "index": 254
+        },
+        "Camper Brandan": {
+            "level": 52,
+            "item": "Focus Sash",
+            "ability": "Sand Rush",
+            "nature": "Jolly",
+            "moves": [
+                "Earthquake",
+                "Stone Edge",
+                "X-Scissor",
+                "Swords Dance"
+            ],
+            "index": 377
+        },
+        "Gentleman Clifford": {
+            "level": 70,
+            "item": "Bug Gem",
+            "ability": "Sand Veil",
+            "nature": "Brave",
+            "moves": [
+                "High Horsepower",
+                "Stone Edge",
+                "X-Scissor",
+                "Protect"
+            ],
+            "index": 671
+        },
+        "Battler Girl Danielle": {
+            "level": 75,
+            "item": "Assault Vest",
+            "ability": "Sand Veil",
+            "nature": "Adamant",
+            "moves": [
+                "Earthquake",
+                "Stone Edge",
+                "Poison Jab",
+                "Bulldoze"
+            ],
+            "index": 747
+        }
+    },
+    "Lumineon": {
+        "Youngster Jaylen": {
+            "level": 30,
+            "item": "Flying Gem",
+            "ability": "Storm Drain",
+            "nature": "Timid",
+            "moves": [
+                "Hydro Pump",
+                "Ice Beam",
+                "Air Slash",
+                "Whirlpool"
+            ],
+            "index": 143
+        },
+        "Fisherman Chris": {
+            "level": 62,
+            "item": "Wise Glasses",
+            "ability": "Swift Swim",
+            "nature": "Modest",
+            "moves": [
+                "Surf",
+                "Ice Beam",
+                "Dazzling Gleam",
+                "Attract"
+            ],
+            "index": 442
+        }
+    },
+    "Arctovish": {
+        "Fisherman Dale": {
+            "level": 30,
+            "item": "Life Orb",
+            "ability": "Water Absorb",
+            "nature": "Jolly",
+            "moves": [
+                "Brine",
+                "Icy Wind",
+                "Ancient Power",
+                "Super Fang"
+            ],
+            "index": 145
+        },
+        "Picnicker Bianca": {
+            "level": 38,
+            "item": "Covert Cloak",
+            "ability": "Slush Rush",
+            "nature": "Adamant",
+            "moves": [
+                "Icicle Crash",
+                "Waterfall",
+                "Psychic Fangs",
+                "Crunch"
+            ],
+            "index": 191
+        },
+        "Fisherman Wade": {
+            "level": 62,
+            "item": "Life Orb",
+            "ability": "Water Absorb",
+            "nature": "Brave",
+            "moves": [
+                "Fishious Rend",
+                "Icicle Crash",
+                "Freeze-Dry",
+                "Super Fang"
+            ],
+            "index": 425
+        }
+    },
+    "Crawdaunt": {
+        "Fisherman Dale": {
+            "level": 30,
+            "item": "Mystic Water",
+            "ability": "Hyper Cutter",
+            "nature": "Adamant",
+            "moves": [
+                "Razor Shell",
+                "Knock Off",
+                "X-Scissor",
+                "Aqua Jet"
+            ],
+            "index": 146
+        },
+        "Beauty Olivia": {
+            "level": 38,
+            "item": "White Herb",
+            "ability": "Adaptability",
+            "nature": "Adamant",
+            "moves": [
+                "Razor Shell",
+                "Knock Off",
+                "Superpower",
+                "Aqua Jet"
+            ],
+            "index": 339
+        },
+        "Fisherman Wade": {
+            "level": 62,
+            "item": "Mystic Water",
+            "ability": "Adaptability",
+            "nature": "Adamant",
+            "moves": [
+                "Razor Shell",
+                "Knock Off",
+                "X-Scissor",
+                "Aqua Jet"
+            ],
+            "index": 426
+        },
+        "Gentleman Clifford": {
+            "level": 68,
+            "item": "Scope Lens",
+            "ability": "Adaptability",
+            "nature": "Brave",
+            "moves": [
+                "Razor Shell",
+                "Night Slash",
+                "X-Scissor",
+                "Protect"
+            ],
+            "index": 669
+        }
+    },
+    "Dragalge": {
+        "Fisherman Dale": {
+            "level": 30,
+            "item": "Water Gem",
+            "ability": "Poison Point",
+            "nature": "Serious",
+            "moves": [
+                "Venoshock",
+                "Dragon Tail",
+                "Aqua Tail",
+                "Toxic"
+            ],
+            "index": 147
+        },
+        "Beauty Connie": {
+            "level": 38,
+            "item": "Quick Claw",
+            "ability": "Poison Touch",
+            "nature": "Modest",
+            "moves": [
+                "Sludge Wave",
+                "Dragon Pulse",
+                "Surf",
+                "Flip Turn"
+            ],
+            "index": 310
+        },
+        "Fisherman Wade": {
+            "level": 62,
+            "item": "Air Balloon",
+            "ability": "Adaptability",
+            "nature": "Modest",
+            "moves": [
+                "Sludge Wave",
+                "Dragon Pulse",
+                "Hydro Pump",
+                "Focus Blast"
+            ],
+            "index": 427
+        },
+        "Cooltrainer Caroline": {
+            "level": 89,
+            "item": "Quick Claw",
+            "ability": "Adaptability",
+            "nature": "Modest",
+            "moves": [
+                "Dragon Pulse",
+                "Sludge Wave",
+                "Focus Blast",
+                "Flip Turn"
+            ],
+            "index": 832
+        }
+    },
+    "Brionne": {
+        "Fisherman Dale": {
+            "level": 30,
+            "item": "Throat Spray",
+            "ability": "Liquid Ooze",
+            "nature": "Timid",
+            "moves": [
+                "Hyper Voice",
+                "Moonblast",
+                "Ice Beam",
+                "Sing"
+            ],
+            "index": 148
+        }
+    },
+    "Floatzel": {
+        "Fisherman Andrew": {
+            "level": 30,
+            "item": "Never Melt Ice",
+            "ability": "Water Veil",
+            "nature": "Jolly",
+            "moves": [
+                "Liquidation",
+                "Crunch",
+                "Brick Break",
+                "Ice Fang"
+            ],
+            "index": 150
+        }
+    },
+    "Jynx": {
+        "Fisherman Andrew": {
+            "level": 30,
+            "item": "Petaya Berry",
+            "ability": "Dry Skin",
+            "nature": "Timid",
+            "moves": [
+                "Psyshock",
+                "Icy Wind",
+                "Focus Blast",
+                "Endure"
+            ],
+            "index": 151
+        },
+        "Picnicker Daisy": {
+            "level": 53,
+            "item": "Water Gem",
+            "ability": "Oblivious",
+            "nature": "Modest",
+            "moves": [
+                "Psychic",
+                "Ice Beam",
+                "Energy Ball",
+                "Fake Out"
+            ],
+            "index": 396
+        },
+        "Swimmer Sharon": {
+            "level": 68,
+            "item": "Assault Vest",
+            "ability": "Oblivious",
+            "nature": "Timid",
+            "moves": [
+                "Blizzard",
+                "Psychic",
+                "Icy Wind",
+                "Fake Out"
+            ],
+            "index": 595
+        }
+    },
+    "Dewott": {
+        "Fisherman Andrew": {
+            "level": 30,
+            "item": "Flying Gem",
+            "ability": "Torrent",
+            "nature": "Adamant",
+            "moves": [
+                "Liquidation",
+                "Sacred Sword",
+                "Aerial Ace",
+                "Aqua Jet"
+            ],
+            "index": 152
+        }
+    },
+    "Zebstrika": {
+        "Cycling Triathlete Abigail": {
+            "level": 30,
+            "item": "Air Balloon",
+            "ability": "Motor Drive",
+            "nature": "Adamant",
+            "moves": [
+                "Wild Charge",
+                "Bounce",
+                "Flame Charge",
+                "Double Kick"
+            ],
+            "index": 154
+        }
+    },
+    "Whimsicott": {
+        "Cycling Triathlete Abigail": {
+            "level": 30,
+            "item": "Focus Sash",
+            "ability": "Prankster",
+            "nature": "Rash",
+            "moves": [
+                "Energy Ball",
+                "Moonblast",
+                "U-Turn",
+                "Attract"
+            ],
+            "index": 155
+        },
+        "Sr. and Jr. Kate & Joy": {
+            "level": 68,
+            "item": "Focus Sash",
+            "ability": "Prankster",
+            "nature": "Timid",
+            "moves": [
+                "Moonblast",
+                "Energy Ball",
+                "Beat Up",
+                "Tailwind"
+            ],
+            "index": 574
+        },
+        "Cooltrainer MBF": {
+            "level": 90,
+            "item": "Covert Cloak",
+            "ability": "Prankster",
+            "nature": "Timid",
+            "moves": [
+                "Moonblast",
+                "Tickle",
+                "Sunny Day",
+                "Tailwind"
+            ],
+            "index": 822
+        },
+        "Cooltrainer Halle": {
+            "level": 90,
+            "item": "Lagging Tail",
+            "ability": "Prankster",
+            "nature": "Quiet",
+            "moves": [
+                "Nature Power",
+                "Memento",
+                "Knock Off",
+                "Misty Terrain"
+            ],
+            "index": 855
+        }
+    },
+    "Drakloak": {
+        "Cycling Triathlete Abigail": {
+            "level": 32,
+            "item": "Wise Glasses",
+            "ability": "Cursed Body",
+            "nature": "Timid",
+            "moves": [
+                "Dragon Pulse",
+                "Shadow Ball",
+                "Fire Blast",
+                "U-Turn"
+            ],
+            "index": 156
+        }
+    },
+    "Lopunny": {
+        "Cycling Triathlete Abigail": {
+            "level": 32,
+            "item": "Fighting Gem",
+            "ability": "Limber",
+            "nature": "Adamant",
+            "moves": [
+                "Retaliate",
+                "Sky Uppercut",
+                "Acrobatics",
+                "Fake Out"
+            ],
+            "index": 157
+        },
+        "Battler Girl Danielle": {
+            "level": 77,
+            "item": "Silk Scarf",
+            "ability": "Cute Charm",
+            "nature": "Jolly",
+            "moves": [
+                "Headbutt",
+                "Retaliate",
+                "U-Turn",
+                "Fake Out"
+            ],
+            "index": 745
+        }
+    },
+    "Galvantula": {
+        "Bug Catcher Angelo": {
+            "level": 32,
+            "item": "Focus Sash",
+            "ability": "Compound Eyes",
+            "nature": "Naughty",
+            "moves": [
+                "Discharge",
+                "X-Scissor",
+                "Throat Chop",
+                "Sticky Web"
+            ],
+            "index": 158
+        },
+        "Bug Catcher Doug": {
+            "level": 62,
+            "item": "Magnet",
+            "ability": "Compound Eyes",
+            "nature": "Timid",
+            "moves": [
+                "Thunderbolt",
+                "Bug Buzz",
+                "Energy Ball",
+                "Electroweb"
+            ],
+            "index": 439
+        }
+    },
+    "Crustle": {
+        "Bug Catcher Angelo": {
+            "level": 30,
+            "item": "Lum Berry",
+            "ability": "Sturdy",
+            "nature": "Adamant",
+            "moves": [
+                "Rock Wrecker",
+                "X-Scissor",
+                "Rock Slide",
+                "Counter"
+            ],
+            "index": 159
+        }
+    },
+    "Rabsca": {
+        "Bug Catcher Angelo": {
+            "level": 30,
+            "item": "Bug Gem",
+            "ability": "Synchronize",
+            "nature": "Modest",
+            "moves": [
+                "Bug Buzz",
+                "Extrasensory",
+                "Power Gem",
+                "Confuse Ray"
+            ],
+            "index": 160
+        }
+    },
+    "Pincurchin": {
+        "Youngster Ben": {
+            "level": 32,
+            "item": "Terrain Extender",
+            "ability": "Electric Surge",
+            "nature": "Adamant",
+            "moves": [
+                "Zing Zap",
+                "Liquidation",
+                "Poison Jab",
+                "Thunder Wave"
+            ],
+            "index": 162
+        },
+        "Pokefan Annike": {
+            "level": 38,
+            "item": "Terrain Extender",
+            "ability": "Electric Surge",
+            "nature": "Modest",
+            "moves": [
+                "Rising Voltage",
+                "Muddy Water",
+                "Poison Jab",
+                "Thunder Wave"
+            ],
+            "index": 321
+        }
+    },
+    "Dedenne": {
+        "Youngster Ben": {
+            "level": 31,
+            "item": "Sitrus Berry",
+            "ability": "Cheek Pouch",
+            "nature": "Timid",
+            "moves": [
+                "Rising Voltage",
+                "Dazzling Gleam",
+                "Grass Knot",
+                "Volt Switch"
+            ],
+            "index": 163
+        }
+    },
+    "Togedemaru": {
+        "Youngster Ben": {
+            "level": 31,
+            "item": "Focus Sash",
+            "ability": "Iron Barbs",
+            "nature": "Jolly",
+            "moves": [
+                "Zing Zap",
+                "Iron Head",
+                "U-Turn",
+                "Magnet Rise"
+            ],
+            "index": 164
+        }
+    },
+    "Rotom": {
+        "Youngster Ben": {
+            "level": 31,
+            "item": "Electric Gem",
+            "ability": "Levitate",
+            "nature": "Modest",
+            "moves": [
+                "Discharge",
+                "Hex",
+                "Thunder Wave",
+                "Will-O-Wisp"
+            ],
+            "index": 165
+        }
+    },
+    "Zweilous": {
+        "Guitarist Kirk": {
+            "level": 31,
+            "item": "Roseli Berry",
+            "ability": "Hustle",
+            "nature": "Modest",
+            "moves": [
+                "Dragon Pulse",
+                "Dark Pulse",
+                "Hyper Voice",
+                "Thunder Fang"
+            ],
+            "index": 166
+        }
+    },
+    "Manectric": {
+        "Guitarist Kirk": {
+            "level": 30,
+            "item": "Throat Spray",
+            "ability": "Static",
+            "nature": "Timid",
+            "moves": [
+                "Discharge",
+                "Volt Switch",
+                "Hyper Voice",
+                "Flamethrower"
+            ],
+            "index": 168
+        },
+        "Kindler Jeff": {
+            "level": 75,
+            "item": "Air Balloon",
+            "ability": "Strong Jaw",
+            "nature": "Lonely",
+            "moves": [
+                "Thunderbolt",
+                "Flamethrower",
+                "Volt Switch",
+                "Ice Fang"
+            ],
+            "index": 717
+        }
+    },
+    "Crabominable": {
+        "Battle Girl Vivian": {
+            "level": 31,
+            "item": "Expert Belt",
+            "ability": "Hyper Cutter",
+            "nature": "Adamant",
+            "moves": [
+                "Drain Punch",
+                "Ice Punch",
+                "Thunder Punch",
+                "Ice Shard"
+            ],
+            "index": 169
+        }
+    },
+    "Diggersby": {
+        "Battle Girl Vivian": {
+            "level": 28,
+            "item": "Lum Berry",
+            "ability": "Huge Power",
+            "nature": "Serious",
+            "moves": [
+                "Stomping Tantrum",
+                "Body Slam",
+                "Brick Break",
+                "Thunder Punch"
+            ],
+            "index": 170
+        },
+        "Hex Maniac Sylvia": {
+            "level": 70,
+            "item": "Focus Sash",
+            "ability": "Huge Power",
+            "nature": "Brave",
+            "moves": [
+                "High Horsepower",
+                "Body Slam",
+                "Hammer Arm",
+                "Rock Slide"
+            ],
+            "index": 662
+        }
+    },
+    "Toxtricity-Low-Key": {
+        "Battle Girl Vivian": {
+            "level": 30,
+            "item": "Punching Glove",
+            "ability": "Technician",
+            "nature": "Adamant",
+            "moves": [
+                "Thunder Punch",
+                "Fire Punch",
+                "Drain Punch",
+                "Trailblaze"
+            ],
+            "index": 172
+        },
+        "Bug Maniac Cale": {
+            "level": 70,
+            "item": "Throat Spray",
+            "ability": "Punk Rock",
+            "nature": "Modest",
+            "moves": [
+                "Overdrive",
+                "Hyper Voice",
+                "Sludge Wave",
+                "Scary Face"
+            ],
+            "index": 561
+        }
+    },
+    "Victreebel": {
+        "Guitarist Shawn": {
+            "level": 32,
+            "item": "Lum Berry",
+            "ability": "Chlorophyll",
+            "nature": "NATURE_HARDY",
+            "moves": [
+                "Leaf Tornado",
+                "Venoshock",
+                "Knock Off",
+                "Toxic"
+            ],
+            "index": 173
+        }
+    },
+    "Golem-Alola": {
+        "Guitarist Shawn": {
+            "level": 30,
+            "item": "Magnet",
+            "ability": "Sturdy",
+            "nature": "Adamant",
+            "moves": [
+                "Thunder Punch",
+                "Rock Slide",
+                "Iron Head",
+                "Stomping Tantrum"
+            ],
+            "index": 174
+        }
+    },
+    "Armarouge": {
+        "Guitarist Shawn": {
+            "level": 30,
+            "item": "Clear Amulet",
+            "ability": "Flash Fire",
+            "nature": "Modest",
+            "moves": [
+                "Psyshock",
+                "Mystical Fire",
+                "Flash Cannon",
+                "Night Shade"
+            ],
+            "index": 175
+        },
+        "Sidney": {
+            "level": 55,
+            "item": "White Herb",
+            "ability": "Mega Launcher",
+            "nature": "Modest",
+            "moves": [
+                "Armor Cannon",
+                "Aura Sphere",
+                "Flash Cannon",
+                "Dark Pulse"
+            ],
+            "index": 358
+        },
+        "Swimmer Declan": {
+            "level": 68,
+            "item": "Weakness Policy",
+            "ability": "Weak Armor",
+            "nature": "Timid",
+            "moves": [
+                "Flamethrower",
+                "Psychic",
+                "Weather Ball",
+                "Calm Mind"
+            ],
+            "index": 608
+        },
+        "Gym Leader Tate and Liza": {
+            "level": 70,
+            "item": "Weakness Policy",
+            "ability": "Weak Armor",
+            "nature": "Modest",
+            "moves": [
+                "Expanding Force",
+                "Flamethrower",
+                "Aura Sphere",
+                "Protect"
+            ],
+            "index": 675
+        },
+        "Battler Girl Danielle": {
+            "level": 75,
+            "item": "Lum Berry",
+            "ability": "Weak Armor",
+            "nature": "Timid",
+            "moves": [
+                "Heat Wave",
+                "Psychic",
+                "Aura Sphere",
+                "Flame Charge"
+            ],
+            "index": 749
+        }
+    },
+    "Jolteon": {
+        "Guitarist Shawn": {
+            "level": 30,
+            "item": "Air Balloon",
+            "ability": "Volt Absorb",
+            "nature": "Timid",
+            "moves": [
+                "Thunderbolt",
+                "Alluring Voice",
+                "Swift",
+                "Thunder Wave"
+            ],
+            "index": 176
+        },
+        "Swimmer Isabella": {
+            "level": 68,
+            "item": "Lum Berry",
+            "ability": "Volt Absorb",
+            "nature": "Modest",
+            "moves": [
+                "Discharge",
+                "Weather Ball",
+                "Alluring Voice",
+                "Calm Mind"
+            ],
+            "index": 631
+        },
+        "Cooltrainer Katelynn": {
+            "level": 89,
+            "item": "Wise Glasses",
+            "ability": "Volt Absorb",
+            "nature": "Modest",
+            "moves": [
+                "Thunderbolt",
+                "Weather Ball",
+                "Alluring Voice",
+                "Electroweb"
+            ],
+            "index": 771
+        }
+    },
+    "Persian": {
+        "Guitarist Shawn": {
+            "level": 30,
+            "item": "Loaded Dice",
+            "ability": "Technician",
+            "nature": "NATURE_HARDY",
+            "moves": [
+                "Fury Swipes",
+                "Aerial Ace",
+                "Shock Wave",
+                "Fake Out"
+            ],
+            "index": 177
+        }
+    },
+    "Emolga": {
+        "Leader Wattson": {
+            "level": 32,
+            "item": "Wise Glasses",
+            "ability": "Motor Drive",
+            "nature": "Modest",
+            "moves": [
+                "Thunderbolt",
+                "Energy Ball",
+                "Air Slash",
+                "U-Turn"
+            ],
+            "index": 178
+        },
+        "Cooltrainer Marcel": {
+            "level": 70,
+            "item": "Covert Cloak",
+            "ability": "Motor Drive",
+            "nature": "Modest",
+            "moves": [
+                "Thunderbolt",
+                "Air Slash",
+                "Energy Ball",
+                "Volt Switch"
+            ],
+            "index": 590
+        },
+        "Cooltrainer Gerald": {
+            "level": 77,
+            "item": "Life Orb",
+            "ability": "Static",
+            "nature": "Timid",
+            "moves": [
+                "Discharge",
+                "Air Slash",
+                "Energy Ball",
+                "Thunder Wave"
+            ],
+            "index": 730
+        }
+    },
+    "Sandy Shocks": {
+        "Leader Wattson": {
+            "level": 31,
+            "item": "Leftovers",
+            "ability": "Protosynthesis",
+            "nature": "Timid",
+            "moves": [
+                "Discharge",
+                "Scorching Sands",
+                "Tri Attack",
+                "Charge Beam"
+            ],
+            "index": 179
+        },
+        "Challenger Phoebe": {
+            "level": 75,
+            "item": "Booster Energy",
+            "ability": "Protosynthesis",
+            "nature": "Timid",
+            "moves": [
+                "Earth Power",
+                "Thunderbolt",
+                "Tri Attack",
+                "Thunder Wave"
+            ],
+            "index": 712
+        },
+        "Elite Four Jasmine": {
+            "level": 90,
+            "item": "Booster Energy",
+            "ability": "Protosynthesis",
+            "nature": "Timid",
+            "moves": [
+                "Earth Power",
+                "Thunderbolt",
+                "Flash Cannon",
+                "Tri Attack"
+            ],
+            "index": 871
+        }
+    },
+    "Luxray": {
+        "Leader Wattson": {
+            "level": 30,
+            "item": "Electric Gem",
+            "ability": "Strong Jaw",
+            "nature": "Serious",
+            "moves": [
+                "Thunder Fang",
+                "Crunch",
+                "Ice Fang",
+                "Scary Face"
+            ],
+            "index": 180
+        },
+        "Picknicker Diana": {
+            "level": 38,
+            "item": "Electric Gem",
+            "ability": "Guts",
+            "nature": "Jolly",
+            "moves": [
+                "Thunder Fang",
+                "Psychic Fangs",
+                "Crunch",
+                "Howl"
+            ],
+            "index": 305
+        },
+        "Beauty Jessica": {
+            "level": 70,
+            "item": "Iapapa Berry",
+            "ability": "Guts",
+            "nature": "Jolly",
+            "moves": [
+                "Wild Charge",
+                "Play Rough",
+                "Crunch",
+                "Ice Fang"
+            ],
+            "index": 556
+        },
+        "Psychic Virgil": {
+            "level": 68,
+            "item": "Iron Ball",
+            "ability": "Intimidate",
+            "nature": "Brave",
+            "moves": [
+                "Zing Zap",
+                "Psychic Fangs",
+                "Ice Fang",
+                "Howl"
+            ],
+            "index": 651
+        }
+    },
+    "Arctozolt": {
+        "Leader Wattson": {
+            "level": 31,
+            "item": "Lum Berry",
+            "ability": "Volt Absorb",
+            "nature": "Jolly",
+            "moves": [
+                "Bolt Beak",
+                "Icicle Crash",
+                "Bulldoze",
+                "Rock Tomb"
+            ],
+            "index": 181
+        },
+        "Swimmer Sharon": {
+            "level": 70,
+            "item": "Clear Amulet",
+            "ability": "Slush Rush",
+            "nature": "Hasty",
+            "moves": [
+                "Icicle Crash",
+                "Bolt Beak",
+                "Freeze-Dry",
+                "Stone Edge"
+            ],
+            "index": 594
+        }
+    },
+    "Dracozolt": {
+        "Leader Wattson": {
+            "level": 31,
+            "item": "Magnet",
+            "ability": "Volt Absorb",
+            "nature": "Jolly",
+            "moves": [
+                "Dragon Claw",
+                "Thunder Punch",
+                "High Horsepower",
+                "Thunder Wave"
+            ],
+            "index": 182
+        },
+        "Ruin Maniac Bryan": {
+            "level": 52,
+            "item": "Focus Sash",
+            "ability": "Sand Rush",
+            "nature": "Adamant",
+            "moves": [
+                "Bolt Beak",
+                "Dragon Claw",
+                "Earthquake",
+                "Stone Edge"
+            ],
+            "index": 381
+        },
+        "Swimmer Richard": {
+            "level": 75,
+            "item": "Expert Belt",
+            "ability": "Volt Absorb",
+            "nature": "Adamant",
+            "moves": [
+                "Dragon Claw",
+                "Bolt Beak",
+                "Stone Edge",
+                "High Horsepower"
+            ],
+            "index": 696
+        }
+    },
+    "Pawmot": {
+        "Leader Wattson": {
+            "level": 32,
+            "item": "Focus Sash",
+            "ability": "Volt Absorb",
+            "nature": "Adamant",
+            "moves": [
+                "Double Shock",
+                "Drain Punch",
+                "Thunder Punch",
+                "Seed Bomb"
+            ],
+            "index": 183
+        },
+        "Cooltrainer Owen": {
+            "level": 89,
+            "item": "Punching Glove",
+            "ability": "Iron Fist",
+            "nature": "Jolly",
+            "moves": [
+                "Close Combat",
+                "Double Shock",
+                "Ice Punch",
+                "Thunder Punch"
+            ],
+            "index": 811
+        }
+    },
+    "Hippowdon": {
+        "Kindler Hayden": {
+            "level": 40,
+            "item": "Focus Sash",
+            "ability": "Sand Stream",
+            "nature": "Adamant",
+            "moves": [
+                "Stomping Tantrum",
+                "Crunch",
+                "Thunder Fang",
+                "Fire Fang"
+            ],
+            "index": 184
+        },
+        "Camper Drew": {
+            "level": 52,
+            "item": "Assault Vest",
+            "ability": "Sand Force",
+            "nature": "Adamant",
+            "moves": [
+                "Earthquake",
+                "Stone Edge",
+                "Substitute",
+                "Slack Off"
+            ],
+            "index": 389
+        },
+        "Cooltrainer Quincy": {
+            "level": 90,
+            "item": "Sitrus Berry",
+            "ability": "Sand Stream",
+            "nature": "Careful",
+            "moves": [
+                "High Horsepower",
+                "Stone Edge",
+                "Recover",
+                "Protect"
+            ],
+            "index": 774
+        }
+    },
+    "Lycanroc": {
+        "Camper Tyron": {
+            "level": 38,
+            "item": "Focus Sash",
+            "ability": "Sand Rush",
+            "nature": "Adamant",
+            "moves": [
+                "Rock Slide",
+                "Stomping Tantrum",
+                "Sucker Punch",
+                "Accelerock"
+            ],
+            "index": 186
+        },
+        "Picnicker Heidi": {
+            "level": 52,
+            "item": "Focus Sash",
+            "ability": "Sand Rush",
+            "nature": "Jolly",
+            "moves": [
+                "Stone Edge",
+                "Drill Run",
+                "Psychic Fangs",
+                "Ice Fang"
+            ],
+            "index": 383
+        },
+        "Collector Hector": {
+            "level": 53,
+            "item": "Covert Cloak",
+            "ability": "Sand Rush",
+            "nature": "Adamant",
+            "moves": [
+                "Stone Edge",
+                "Close Combat",
+                "Play Rough",
+                "Crunch"
+            ],
+            "index": 404
+        }
+    },
+    "Stoutland": {
+        "Camper Tyron": {
+            "level": 38,
+            "item": "Covert Cloak",
+            "ability": "Sand Rush",
+            "nature": "Adamant",
+            "moves": [
+                "Body Slam",
+                "Crunch",
+                "Stomping Tantrum",
+                "Reversal"
+            ],
+            "index": 187
+        },
+        "Camper Drew": {
+            "level": 52,
+            "item": "Safety Goggles",
+            "ability": "Sand Rush",
+            "nature": "Adamant",
+            "moves": [
+                "Retaliate",
+                "Play Rough",
+                "Brick Break",
+                "Work Up"
+            ],
+            "index": 387
+        },
+        "Hiker Eli": {
+            "level": 75,
+            "item": "Rocky Helmet",
+            "ability": "Sand Rush",
+            "nature": "Adamant",
+            "moves": [
+                "Retaliate",
+                "Play Rough",
+                "Rock Tomb",
+                "Attract"
+            ],
+            "index": 743
+        },
+        "Cooltrainer Dianne": {
+            "level": 90,
+            "item": "Assault Vest",
+            "ability": "Intimidate",
+            "nature": "Adamant",
+            "moves": [
+                "Play Rough",
+                "Superpower",
+                "Crunch",
+                "Return"
+            ],
+            "index": 819
+        }
+    },
+    "Ninetales-Alola": {
+        "Aroma Lady Celina": {
+            "level": 40,
+            "item": "Focus Sash",
+            "ability": "Snow Warning",
+            "nature": "Timid",
+            "moves": [
+                "Moonblast",
+                "Ice Beam",
+                "Freeze-Dry",
+                "Icy Wind"
+            ],
+            "index": 188
+        },
+        "Beauty Tiffany": {
+            "level": 38,
+            "item": "Light Clay",
+            "ability": "Snow Warning",
+            "nature": "Timid",
+            "moves": [
+                "Ice Beam",
+                "Moonblast",
+                "Freeze-Dry",
+                "Aurora Veil"
+            ],
+            "index": 329
+        },
+        "Cooltrainer Albert": {
+            "level": 89,
+            "item": "Light Clay",
+            "ability": "Snow Cloak",
+            "nature": "Timid",
+            "moves": [
+                "Blizzard",
+                "Moonblast",
+                "Freeze-Dry",
+                "Aurora Veil"
+            ],
+            "index": 762
+        }
+    },
+    "Sandslash-Alola": {
+        "Picnicker Bianca": {
+            "level": 38,
+            "item": "Focus Sash",
+            "ability": "Slush Rush",
+            "nature": "Adamant",
+            "moves": [
+                "Ice Punch",
+                "Iron Head",
+                "Drill Run",
+                "Ice Shard"
+            ],
+            "index": 189
+        },
+        "Swimmer Spencer": {
+            "level": 70,
+            "item": "Flying Gem",
+            "ability": "Slush Rush",
+            "nature": "Adamant",
+            "moves": [
+                "Icicle Crash",
+                "Iron Head",
+                "Rock Slide",
+                "Aerial Ace"
+            ],
+            "index": 614
+        },
+        "Cooltrainer Albert": {
+            "level": 89,
+            "item": "Focus Sash",
+            "ability": "Slush Rush",
+            "nature": "Adamant",
+            "moves": [
+                "Icicle Crash",
+                "Iron Head",
+                "Rock Slide",
+                "Spiky Shield"
+            ],
+            "index": 763
+        }
+    },
+    "Beartic": {
+        "Picnicker Bianca": {
+            "level": 38,
+            "item": "Focus Sash",
+            "ability": "Slush Rush",
+            "nature": "Adamant",
+            "moves": [
+                "Ice Punch",
+                "Brick Break",
+                "Throat Chop",
+                "Heavy Slam"
+            ],
+            "index": 190
+        },
+        "Beauty Tiffany": {
+            "level": 38,
+            "item": "Focus Sash",
+            "ability": "Slush Rush",
+            "nature": "Jolly",
+            "moves": [
+                "Icicle Crash",
+                "Liquidation",
+                "Throat Chop",
+                "Reversal"
+            ],
+            "index": 331
+        }
+    },
+    "Politoed": {
+        "Cooltrainer Wilton": {
+            "level": 40,
+            "item": "Focus Sash",
+            "ability": "Drizzle",
+            "nature": "Calm",
+            "moves": [
+                "Scald",
+                "Ice Beam",
+                "Earth Power",
+                "Hypnosis"
+            ],
+            "index": 192
+        },
+        "Leader Juan": {
+            "level": 39,
+            "item": "Iapapa Berry",
+            "ability": "Drizzle",
+            "nature": "Modest",
+            "moves": [
+                "Scald",
+                "Ice Beam",
+                "Earth Power",
+                "Hypnosis"
+            ],
+            "index": 350
+        },
+        "Cooltrainer Katelynn": {
+            "level": 90,
+            "item": "Aguav Berry",
+            "ability": "Drizzle",
+            "nature": "Bold",
+            "moves": [
+                "Hydro Pump",
+                "Ice Beam",
+                "Sleep Talk",
+                "Rest"
+            ],
+            "index": 768
+        }
+    },
+    "Mantine": {
+        "Camper Travis": {
+            "level": 38,
+            "item": "Focus Sash",
+            "ability": "Swift Swim",
+            "nature": "Modest",
+            "moves": [
+                "Air Slash",
+                "Surf",
+                "Ice Beam",
+                "Confuse Ray"
+            ],
+            "index": 194
+        },
+        "Swimmer Talia": {
+            "level": 77,
+            "item": "Covert Cloak",
+            "ability": "Swift Swim",
+            "nature": "Timid",
+            "moves": [
+                "Hydro Pump",
+                "Air Slash",
+                "Ice Beam",
+                "Bulldoze"
+            ],
+            "index": 693
+        }
+    },
+    "Drednaw": {
+        "Camper Travis": {
+            "level": 38,
+            "item": "Covert Cloak",
+            "ability": "Swift Swim",
+            "nature": "Adamant",
+            "moves": [
+                "Liquidation",
+                "Rock Slide",
+                "Skitter Smack",
+                "High Horsepower"
+            ],
+            "index": 195
+        }
+    },
+    "Ninetales": {
+        "Camper Larry": {
+            "level": 40,
+            "item": "Focus Sash",
+            "ability": "Drought",
+            "nature": "Modest",
+            "moves": [
+                "Flamethrower",
+                "Solar Beam",
+                "Extrasensory",
+                "Scorching Sands"
+            ],
+            "index": 196
+        },
+        "Ranger Jenna": {
+            "level": 70,
+            "item": "Wide Lens",
+            "ability": "Drought",
+            "nature": "Modest",
+            "moves": [
+                "Fire Blast",
+                "Solar Beam",
+                "Hex",
+                "Will-O-Wisp"
+            ],
+            "index": 538
+        },
+        "Roy Tuber": {
+            "level": 70,
+            "item": "Ice Gem",
+            "ability": "Flash Fire",
+            "nature": "Timid",
+            "moves": [
+                "Heat Wave",
+                "Weather Ball",
+                "Extrasensory",
+                "Nasty Plot"
+            ],
+            "index": 601
+        },
+        "Kindler Jeff": {
+            "level": 75,
+            "item": "Eject Button",
+            "ability": "Flash Fire",
+            "nature": "Timid",
+            "moves": [
+                "Heat Wave",
+                "Extrasensory",
+                "Hex",
+                "Will-O-Wisp"
+            ],
+            "index": 716
+        }
+    },
+    "Salazzle": {
+        "Picnicker Carol": {
+            "level": 38,
+            "item": "Focus Sash",
+            "ability": "Oblivious",
+            "nature": "Serious",
+            "moves": [
+                "Flamethrower",
+                "Sludge Bomb",
+                "Hyper Voice",
+                "Fake Out"
+            ],
+            "index": 197
+        }
+    },
+    "Leavanny": {
+        "Picnicker Carol": {
+            "level": 38,
+            "item": "Covert Cloak",
+            "ability": "Chlorophyll",
+            "nature": "Adamant",
+            "moves": [
+                "Solar Blade",
+                "X-Scissor",
+                "Poison Jab",
+                "Throat Chop"
+            ],
+            "index": 199
+        }
+    },
+    "Bombirdier": {
+        "Hiker Trent": {
+            "level": 40,
+            "item": "Black Glasses",
+            "ability": "Rocky Payload",
+            "nature": "Jolly",
+            "moves": [
+                "Dual Wingbeat",
+                "Knock Off",
+                "Stone Edge",
+                "Roost"
+            ],
+            "index": 200
+        },
+        "Bird Keeper Hugh": {
+            "level": 63,
+            "item": "Black Glasses",
+            "ability": "Rocky Payload",
+            "nature": "Adamant",
+            "moves": [
+                "Knock Off",
+                "Dual Wingbeat",
+                "Stone Edge",
+                "Sucker Punch"
+            ],
+            "index": 456
+        },
+        "Picnicker Ashley": {
+            "level": 64,
+            "item": "Sharp Beak",
+            "ability": "Big Pecks",
+            "nature": "Adamant",
+            "moves": [
+                "Dual Wingbeat",
+                "Knock Off",
+                "Stone Edge",
+                "Hone Claws"
+            ],
+            "index": 491
+        }
+    },
+    "Donphan": {
+        "Hiker Trent": {
+            "level": 38,
+            "item": "Grass Gem",
+            "ability": "Sturdy",
+            "nature": "Adamant",
+            "moves": [
+                "High Horsepower",
+                "Seed Bomb",
+                "Ice Spinner",
+                "Ice Shard"
+            ],
+            "index": 201
+        },
+        "Leader Steven": {
+            "level": 53,
+            "item": "Clear Amulet",
+            "ability": "Sturdy",
+            "nature": "Adamant",
+            "moves": [
+                "High Horsepower",
+                "Ice Spinner",
+                "Seed Bomb",
+                "Ice Shard"
+            ],
+            "index": 412
+        },
+        "Ranger Jackson": {
+            "level": 63,
+            "item": "Clear Amulet",
+            "ability": "Sturdy",
+            "nature": "Adamant",
+            "moves": [
+                "High Horsepower",
+                "Stone Edge",
+                "Seed Bomb",
+                "Ice Shard"
+            ],
+            "index": 452
+        },
+        "Psychic Maura": {
+            "level": 68,
+            "item": "Leftovers",
+            "ability": "Sturdy",
+            "nature": "Brave",
+            "moves": [
+                "High Horsepower",
+                "Play Rough",
+                "Ice Spinner",
+                "Protect"
+            ],
+            "index": 643
+        }
+    },
+    "Conkeldurr": {
+        "Hiker Brice": {
+            "level": 38,
+            "item": "Expert Belt",
+            "ability": "Iron Fist",
+            "nature": "Adamant",
+            "moves": [
+                "Drain Punch",
+                "Thunder Punch",
+                "Poison Jab",
+                "Mach Punch"
+            ],
+            "index": 202
+        }
+    },
+    "Duraludon": {
+        "Hiker Brice": {
+            "level": 38,
+            "item": "Covert Cloak",
+            "ability": "Stalwart",
+            "nature": "Adamant",
+            "moves": [
+                "Dragon Claw",
+                "Iron Head",
+                "Stone Edge",
+                "Thunder Wave"
+            ],
+            "index": 203
+        },
+        "Cooltrainer Jennifer": {
+            "level": 68,
+            "item": "Lum Berry",
+            "ability": "Light Metal",
+            "nature": "Modest",
+            "moves": [
+                "Flash Cannon",
+                "Dragon Pulse",
+                "Thunderbolt",
+                "Body Press"
+            ],
+            "index": 533
+        }
+    },
+    "Turtonator": {
+        "Kindler Bryant": {
+            "level": 38,
+            "item": "Quick Claw",
+            "ability": "Shell Armor",
+            "nature": "Serious",
+            "moves": [
+                "Flamethrower",
+                "Dragon Pulse",
+                "Scorching Sands",
+                "Scale Shot"
+            ],
+            "index": 204
+        },
+        "Ruin Maniac Bryan": {
+            "level": 55,
+            "item": "Eject Pack",
+            "ability": "Shell Armor",
+            "nature": "Quiet",
+            "moves": [
+                "Draco Meteor",
+                "Overheat"
+            ],
+            "index": 378
+        },
+        "Cooltrainer Halle": {
+            "level": 90,
+            "item": "Air Balloon",
+            "ability": "Shell Armor",
+            "nature": "Timid",
+            "moves": [
+                "Shell Smash",
+                "Fire Blast",
+                "Dragon Pulse",
+                "Flash Cannon"
+            ],
+            "index": 854
+        }
+    },
+    "Heatmor": {
+        "Kindler Bryant": {
+            "level": 38,
+            "item": "Lum Berry",
+            "ability": "White Smoke",
+            "nature": "Adamant",
+            "moves": [
+                "Overheat",
+                "Fire Lash",
+                "Stomping Tantrum",
+                "Rock Slide"
+            ],
+            "index": 205
+        },
+        "Hex Maniac Kathleen": {
+            "level": 68,
+            "item": "Weakness Policy",
+            "ability": "White Smoke",
+            "nature": "Quiet",
+            "moves": [
+                "Burning Jealousy",
+                "Scorching Sands",
+                "Giga Drain",
+                "Drain Punch"
+            ],
+            "index": 664
+        }
+    },
+    "Weezing": {
+        "Kindler Bryant": {
+            "level": 38,
+            "item": "Sitrus Berry",
+            "ability": "Levitate",
+            "nature": "Modest",
+            "moves": [
+                "Sludge Bomb",
+                "Heat Wave",
+                "Shadow Ball",
+                "Explosion"
+            ],
+            "index": 206
+        },
+        "Ninja Boy Takashi": {
+            "level": 64,
+            "item": "Wise Glasses",
+            "ability": "Levitate",
+            "nature": "Modest",
+            "moves": [
+                "Sludge Bomb",
+                "Thunderbolt",
+                "Dark Pulse",
+                "Destiny Bond"
+            ],
+            "index": 469
+        }
+    },
+    "Rotom-Heat": {
+        "Kindler Bryant": {
+            "level": 38,
+            "item": "White Herb",
+            "ability": "Levitate",
+            "nature": "Modest",
+            "moves": [
+                "Overheat",
+                "Thunderbolt",
+                "Volt Switch",
+                "Thunder Wave"
+            ],
+            "index": 207
+        }
+    },
+    "Vileplume": {
+        "Lady Shayla": {
+            "level": 38,
+            "item": "Lum Berry",
+            "ability": "Chlorophyll",
+            "nature": "Modest",
+            "moves": [
+                "Energy Ball",
+                "Sludge Bomb",
+                "Moonblast",
+                "Moonlight"
+            ],
+            "index": 208
+        }
+    },
+    "Appletun": {
+        "Lady Shayla": {
+            "level": 38,
+            "item": "Quick Claw",
+            "ability": "Thick Fat",
+            "nature": "Quiet",
+            "moves": [
+                "Apple Acid",
+                "Dragon Pulse",
+                "Heavy Slam",
+                "Growth"
+            ],
+            "index": 209
+        }
+    },
+    "Arboliva": {
+        "Lady Shayla": {
+            "level": 38,
+            "item": "Focus Sash",
+            "ability": "Seed Sower",
+            "nature": "Modest",
+            "moves": [
+                "Hyper Voice",
+                "Giga Drain",
+                "Earth Power",
+                "Mirror Coat"
+            ],
+            "index": 210
+        }
+    },
+    "Rotom-Mow": {
+        "Lady Shayla": {
+            "level": 38,
+            "item": "White Herb",
+            "ability": "Levitate",
+            "nature": "Timid",
+            "moves": [
+                "Leaf Storm",
+                "Thunderbolt",
+                "Volt Switch",
+                "Thunder Wave"
+            ],
+            "index": 211
+        }
+    },
+    "Farigiraf": {
+        "Picnicker Irene": {
+            "level": 38,
+            "item": "Throat Spray",
+            "ability": "Cud Chew",
+            "nature": "Modest",
+            "moves": [
+                "Hyper Voice",
+                "Twin Beam",
+                "Energy Ball",
+                "Nasty Plot"
+            ],
+            "index": 212
+        },
+        "Cory": {
+            "level": 0,
+            "item": "Colbur Berry",
+            "ability": "Sap Sipper",
+            "nature": "Bold",
+            "moves": [
+                "Skill Swap",
+                "Thunderbolt",
+                "Expanding Force",
+                "Energy Ball"
+            ],
+            "index": 415
+        },
+        "Psychic Samantha": {
+            "level": 68,
+            "item": "Throat Spray",
+            "ability": "Armor Tail",
+            "nature": "Quiet",
+            "moves": [
+                "Hyper Voice",
+                "Psychic Noise",
+                "Energy Ball",
+                "Shadow Ball"
+            ],
+            "index": 646
+        },
+        "Swimmer Kara": {
+            "level": 77,
+            "item": "Aguav Berry",
+            "ability": "Armor Tail",
+            "nature": "Modest",
+            "moves": [
+                "Hyper Voice",
+                "Twin Beam",
+                "Light Screen",
+                "Reflect"
+            ],
+            "index": 697
+        }
+    },
+    "Sudowoodo": {
+        "Picnicker Irene": {
+            "level": 38,
+            "item": "Quick Claw",
+            "ability": "Sturdy",
+            "nature": "Adamant",
+            "moves": [
+                "Stone Edge",
+                "Earthquake",
+                "Drain Punch",
+                "Trailblaze"
+            ],
+            "index": 214
+        },
+        "Camper Brandan": {
+            "level": 55,
+            "item": "Quick Claw",
+            "ability": "Sturdy",
+            "nature": "Adamant",
+            "moves": [
+                "Stone Edge",
+                "Earthquake",
+                "Ice Punch",
+                "Stealth Rock"
+            ],
+            "index": 374
+        },
+        "Pokemon Breeder Myles": {
+            "level": 70,
+            "item": "Quick Claw",
+            "ability": "Sturdy",
+            "nature": "Adamant",
+            "moves": [
+                "Stone Edge",
+                "Hammer Arm",
+                "High Horsepower",
+                "Ice Punch"
+            ],
+            "index": 569
+        },
+        "Psychic Hannah": {
+            "level": 70,
+            "item": "Covert Cloak",
+            "ability": "Sturdy",
+            "nature": "Brave",
+            "moves": [
+                "Stone Edge",
+                "Hammer Arm",
+                "Thunder Punch",
+                "Role Play"
+            ],
+            "index": 658
+        }
+    },
+    "Blastoise": {
+        "Picnicker Irene": {
+            "level": 38,
+            "item": "Power Herb",
+            "ability": "Torrent",
+            "nature": "Adamant",
+            "moves": [
+                "Waterfall",
+                "Ice Spinner",
+                "Zen Headbutt",
+                "Skull Bash"
+            ],
+            "index": 216
+        },
+        "Lady Brianna": {
+            "level": 38,
+            "item": "Life Orb",
+            "ability": "Torrent",
+            "nature": "Modest",
+            "moves": [
+                "Scald",
+                "Dragon Pulse",
+                "Flash Cannon",
+                "Aura Sphere"
+            ],
+            "index": 343
+        },
+        "Ranger Jackson": {
+            "level": 62,
+            "item": "White Herb",
+            "ability": "Rain Dish",
+            "nature": "Adamant",
+            "moves": [
+                "Liquidation",
+                "Ice Spinner",
+                "Zen Headbutt",
+                "Shell Smash"
+            ],
+            "index": 450
+        },
+        "Gentleman Nate": {
+            "level": 70,
+            "item": "Covert Cloak",
+            "ability": "Torrent",
+            "nature": "Brave",
+            "moves": [
+                "Liquidation",
+                "Ice Spinner",
+                "Rock Slide",
+                "Fake Out"
+            ],
+            "index": 656
+        },
+        "Swimmer Herman": {
+            "level": 75,
+            "item": "Covert Cloak",
+            "ability": "Torrent",
+            "nature": "Adamant",
+            "moves": [
+                "Wave Crash",
+                "Ice Spinner",
+                "Rock Slide",
+                "Fake Out"
+            ],
+            "index": 700
+        }
+    },
+    "Scolipede": {
+        "Camper Beau": {
+            "level": 40,
+            "item": "Clear Amulet",
+            "ability": "Speed Boost",
+            "nature": "Adamant",
+            "moves": [
+                "X-Scissor",
+                "Poison Jab",
+                "Earthquake",
+                "Throat Chop"
+            ],
+            "index": 217
+        },
+        "Swimmer Spencer": {
+            "level": 68,
+            "item": "White Herb",
+            "ability": "Speed Boost",
+            "nature": "Adamant",
+            "moves": [
+                "X-Scissor",
+                "Poison Jab",
+                "Smart Strike",
+                "Swords Dance"
+            ],
+            "index": 613
+        }
+    },
+    "Gogoat": {
+        "Camper Beau": {
+            "level": 40,
+            "item": "Miracle Seed",
+            "ability": "Sap Sipper",
+            "nature": "Adamant",
+            "moves": [
+                "Seed Bomb",
+                "Earthquake",
+                "Rock Slide",
+                "Milk Drink"
+            ],
+            "index": 218
+        },
+        "Ranger Catherine": {
+            "level": 62,
+            "item": "Miracle Seed",
+            "ability": "Grass Pelt",
+            "nature": "Adamant",
+            "moves": [
+                "Grassy Glide",
+                "Wild Charge",
+                "Stomping Tantrum",
+                "Synthesis"
+            ],
+            "index": 445
+        }
+    },
+    "Krookodile": {
+        "Camper Beau": {
+            "level": 40,
+            "item": "Dark Gem",
+            "ability": "Intimidate",
+            "nature": "Adamant",
+            "moves": [
+                "Crunch",
+                "Stomping Tantrum",
+                "Low Sweep",
+                "Dragon Tail"
+            ],
+            "index": 219
+        },
+        "Cooltrainer MBF": {
+            "level": 90,
+            "item": "Sitrus Berry",
+            "ability": "Intimidate",
+            "nature": "Jolly",
+            "moves": [
+                "High Horsepower",
+                "Crunch",
+                "Gunk Shot",
+                "Hone Claws"
+            ],
+            "index": 823
+        }
+    },
+    "Dubwool": {
+        "Camper Beau": {
+            "level": 40,
+            "item": "Sitrus Berry",
+            "ability": "Fluffy",
+            "nature": "Adamant",
+            "moves": [
+                "Retaliate",
+                "Grassy Glide",
+                "Payback",
+                "Reversal"
+            ],
+            "index": 220
+        },
+        "Ranger Catherine": {
+            "level": 62,
+            "item": "Grassy Seed",
+            "ability": "Fluffy",
+            "nature": "Adamant",
+            "moves": [
+                "Body Slam",
+                "Grassy Glide",
+                "Wild Charge",
+                "Swords Dance"
+            ],
+            "index": 446
+        }
+    },
+    "Urshifu": {
+        "Black Belt Daisuke": {
+            "level": 38,
+            "item": "Covert Cloak",
+            "ability": "Unseen Fist",
+            "nature": "Jolly",
+            "moves": [
+                "Wicked Blow",
+                "Brick Break",
+                "Thunder Punch",
+                "Fire Punch"
+            ],
+            "index": 222
+        },
+        "Sidney": {
+            "level": 53,
+            "item": "Focus Sash",
+            "ability": "Unseen Fist",
+            "nature": "Careful",
+            "moves": [
+                "Wicked Blow",
+                "Close Combat",
+                "Poison Jab",
+                "Bulk Up"
+            ],
+            "index": 360
+        }
+    },
+    "Ninjask": {
+        "Battle Girl Brooke": {
+            "level": 38,
+            "item": "Focus Sash",
+            "ability": "Speed Boost",
+            "nature": "Adamant",
+            "moves": [
+                "X-Scissor",
+                "Dual Wingbeat",
+                "Night Slash",
+                "Acrobatics"
+            ],
+            "index": 223
+        }
+    },
+    "Blaziken": {
+        "Battle Girl Brooke": {
+            "level": 38,
+            "item": "Focus Sash",
+            "ability": "Speed Boost",
+            "nature": "Adamant",
+            "moves": [
+                "Drain Punch",
+                "Fire Punch",
+                "Thunder Punch",
+                "Aerial Ace"
+            ],
+            "index": 224
+        },
+        "Champion May": {
+            "level": 90,
+            "item": "Focus Sash",
+            "ability": "Speed Boost",
+            "nature": "Adamant",
+            "moves": [
+                "Close Combat",
+                "Blaze Kick",
+                "Thunder Punch",
+                "Swords Dance"
+            ],
+            "index": 899
+        }
+    },
+    "Sharpedo": {
+        "Battle Girl Brooke": {
+            "level": 38,
+            "item": "Focus Sash",
+            "ability": "Speed Boost",
+            "nature": "Adamant",
+            "moves": [
+                "Liquidation",
+                "Crunch",
+                "Psychic Fangs",
+                "Ice Fang"
+            ],
+            "index": 225
+        },
+        "Lady Brianna": {
+            "level": 40,
+            "item": "Poison Barb",
+            "ability": "Strong Jaw",
+            "nature": "Jolly",
+            "moves": [
+                "Liquidation",
+                "Crunch",
+                "Psychic Fangs",
+                "Poison Fang"
+            ],
+            "index": 344
+        }
+    },
+    "Aggron": {
+        "Poke Maniac Wyatt": {
+            "level": 40,
+            "item": "Quick Claw",
+            "ability": "Sturdy",
+            "nature": "Adamant",
+            "moves": [
+                "Iron Head",
+                "Rock Slide",
+                "Ice Punch",
+                "Stealth Rock"
+            ],
+            "index": 226
+        }
+    },
+    "Carnivine": {
+        "Poke Maniac Wyatt": {
+            "level": 38,
+            "item": "Focus Sash",
+            "ability": "Levitate",
+            "nature": "Brave",
+            "moves": [
+                "Power Whip",
+                "Knock Off",
+                "Sludge Bomb",
+                "Growth"
+            ],
+            "index": 227
+        }
+    },
+    "Quaquaval": {
+        "Poke Maniac Wyatt": {
+            "level": 38,
+            "item": "Flying Gem",
+            "ability": "Moxie",
+            "nature": "Adamant",
+            "moves": [
+                "Aqua Cutter",
+                "Brick Break",
+                "Acrobatics",
+                "Aqua Jet"
+            ],
+            "index": 228
+        },
+        "Leader Juan": {
+            "level": 40,
+            "item": "Flying Gem",
+            "ability": "Moxie",
+            "nature": "Jolly",
+            "moves": [
+                "Brick Break",
+                "Aqua Cutter",
+                "Acrobatics",
+                "Roost"
+            ],
+            "index": 354
+        },
+        "Cooltrainer Julie": {
+            "level": 89,
+            "item": "White Herb",
+            "ability": "Torrent",
+            "nature": "Jolly",
+            "moves": [
+                "Close Combat",
+                "Aqua Step",
+                "Acrobatics",
+                "Aqua Jet"
+            ],
+            "index": 807
+        },
+        "Aqua Leader Archie": {
+            "level": 89,
+            "item": "Flying Gem",
+            "ability": "Torrent",
+            "nature": "Adamant",
+            "moves": [
+                "Close Combat",
+                "Aqua Step",
+                "Aqua Jet",
+                "Acrobatics"
+            ],
+            "index": 865
+        }
+    },
+    "Durant": {
+        "Poke Maniac Wyatt": {
+            "level": 38,
+            "item": "Occa Berry",
+            "ability": "Swarm",
+            "nature": "Serious",
+            "moves": [
+                "First Impression",
+                "X-Scissor",
+                "Iron Head",
+                "Stomping Tantrum"
+            ],
+            "index": 229
+        }
+    },
+    "Houndoom": {
+        "Camper Lawrence": {
+            "level": 38,
+            "item": "Life Orb",
+            "ability": "Eclipsate",
+            "nature": "Adamant",
+            "moves": [
+                "Body Slam",
+                "Fire Fang",
+                "Psychic Fangs",
+                "Thunder Fang"
+            ],
+            "index": 230
+        },
+        "Siblings Reli And Ian": {
+            "level": 75,
+            "item": "Eject Pack",
+            "ability": "Unnerve",
+            "nature": "Modest",
+            "moves": [
+                "Overheat",
+                "Flamethrower",
+                "Dark Pulse",
+                "Sludge Bomb"
+            ],
+            "index": 704
+        },
+        "Bug Maniac Axle": {
+            "level": 75,
+            "item": "Jaboca Berry",
+            "ability": "Unnerve",
+            "nature": "Timid",
+            "moves": [
+                "Flamethrower",
+                "Dark Pulse",
+                "Sludge Bomb",
+                "Destiny Bond"
+            ],
+            "index": 721
+        }
+    },
+    "Ampharos": {
+        "Camper Lawrence": {
+            "level": 38,
+            "item": "Leftovers",
+            "ability": "Mold Breaker",
+            "nature": "Modest",
+            "moves": [
+                "Thunderbolt",
+                "Dragon Pulse",
+                "Power Gem",
+                "Thunder Wave"
+            ],
+            "index": 231
+        },
+        "Ranger Catherine": {
+            "level": 62,
+            "item": "Air Balloon",
+            "ability": "Static",
+            "nature": "Modest",
+            "moves": [
+                "Thunderbolt",
+                "Focus Blast",
+                "Dragon Pulse",
+                "Thunder Wave"
+            ],
+            "index": 447
+        },
+        "Expert Keegan": {
+            "level": 75,
+            "item": "Rowap Berry",
+            "ability": "Static",
+            "nature": "Modest",
+            "moves": [
+                "Thunderbolt",
+                "Dazzling Gleam",
+                "Power Gem",
+                "Cotton Spore"
+            ],
+            "index": 752
+        }
+    },
+    "Pinsir": {
+        "Camper Lawrence": {
+            "level": 38,
+            "item": "Lum Berry",
+            "ability": "Moxie",
+            "nature": "Adamant",
+            "moves": [
+                "X-Scissor",
+                "Close Combat",
+                "Stone Edge",
+                "Swords Dance"
+            ],
+            "index": 233
+        }
+    },
+    "Banette": {
+        "Ninja Boy Lung": {
+            "level": 40,
+            "item": "Quick Claw",
+            "ability": "Cursed Body",
+            "nature": "Adamant",
+            "moves": [
+                "Shadow Claw",
+                "Gunk Shot",
+                "Will-O-Wisp",
+                "Destiny Bond"
+            ],
+            "index": 234
+        },
+        "Hex Maniac Tammy": {
+            "level": 70,
+            "item": "Muscle Band",
+            "ability": "Cursed Body",
+            "nature": "Brave",
+            "moves": [
+                "Poltergeist",
+                "Shadow Claw",
+                "Gunk Shot",
+                "Protect"
+            ],
+            "index": 551
+        },
+        "Psychic Hannah": {
+            "level": 70,
+            "item": "Focus Sash",
+            "ability": "Cursed Body",
+            "nature": "Brave",
+            "moves": [
+                "Poltergeist",
+                "Shadow Claw",
+                "Knock Off",
+                "Role Play"
+            ],
+            "index": 657
+        }
+    },
+    "Cacturne": {
+        "Ninja Boy Lung": {
+            "level": 40,
+            "item": "Focus Band",
+            "ability": "Water Absorb",
+            "nature": "Modest",
+            "moves": [
+                "Energy Ball",
+                "Dark Pulse",
+                "Focus Blast",
+                "Destiny Bond"
+            ],
+            "index": 235
+        },
+        "Camper Brandan": {
+            "level": 52,
+            "item": "Grass Gem",
+            "ability": "Sand Veil",
+            "nature": "Adamant",
+            "moves": [
+                "Seed Bomb",
+                "Knock Off",
+                "Poison Jab",
+                "Spiky Shield"
+            ],
+            "index": 375
+        }
+    },
+    "Grimmsnarl": {
+        "Ninja Boy Lao": {
+            "level": 38,
+            "item": "Covert Cloak",
+            "ability": "Prankster",
+            "nature": "Serious",
+            "moves": [
+                "False Surrender",
+                "Spirit Break",
+                "Light Screen",
+                "Reflect"
+            ],
+            "index": 236
+        },
+        "Camper Drew": {
+            "level": 55,
+            "item": "Light Clay",
+            "ability": "Prankster",
+            "nature": "Adamant",
+            "moves": [
+                "Spirit Break",
+                "Lash Out",
+                "Light Screen",
+                "Reflect"
+            ],
+            "index": 386
+        },
+        "Swimmer Jenny": {
+            "level": 68,
+            "item": "Focus Sash",
+            "ability": "Prankster",
+            "nature": "Adamant",
+            "moves": [
+                "False Surrender",
+                "Spirit Break",
+                "Light Screen",
+                "Reflect"
+            ],
+            "index": 619
+        },
+        "Hex Maniac Kathleen": {
+            "level": 70,
+            "item": "Fairy Feather",
+            "ability": "Prankster",
+            "nature": "Brave",
+            "moves": [
+                "Throat Chop",
+                "Spirit Break",
+                "Hammer Arm",
+                "Fake Out"
+            ],
+            "index": 665
+        },
+        "Cooltrainer Red": {
+            "level": 90,
+            "item": "Light Clay",
+            "ability": "Prankster",
+            "nature": "Bold",
+            "moves": [
+                "Foul Play",
+                "Body Press",
+                "Light Screen",
+                "Reflect"
+            ],
+            "index": 840
+        }
+    },
+    "Typhlosion-Hisui": {
+        "Ninja Boy Lao": {
+            "level": 38,
+            "item": "Bright Powder",
+            "ability": "Frisk",
+            "nature": "Serious",
+            "moves": [
+                "Burning Jealousy",
+                "Infernal Parade",
+                "Thunder Punch",
+                "Will-O-Wisp"
+            ],
+            "index": 237
+        },
+        "Swimmer Tanya": {
+            "level": 68,
+            "item": "Life Orb",
+            "ability": "Blaze",
+            "nature": "Serious",
+            "moves": [
+                "Flamethrower",
+                "Poltergeist",
+                "Shadow Ball",
+                "Extrasensory"
+            ],
+            "index": 603
+        },
+        "Elite Four Janine": {
+            "level": 89,
+            "item": "Eject Pack",
+            "ability": "Blaze",
+            "nature": "Timid",
+            "moves": [
+                "Overheat",
+                "Heat Wave",
+                "Extrasensory",
+                "Infernal Parade"
+            ],
+            "index": 886
+        }
+    },
+    "Rapidash": {
+        "Twins Tori and Tia": {
+            "level": 38,
+            "item": "Soft Sand",
+            "ability": "Flame Body",
+            "nature": "Jolly",
+            "moves": [
+                "Flare Blitz",
+                "Smart Strike",
+                "High Horsepower",
+                "Morning Sun"
+            ],
+            "index": 238
+        }
+    },
+    "Rapidash-Galar": {
+        "Twins Tori and Tia": {
+            "level": 38,
+            "item": "Soft Sand",
+            "ability": "Pastel Veil",
+            "nature": "Jolly",
+            "moves": [
+                "Play Rough",
+                "Psycho Cut",
+                "High Horsepower",
+                "Morning Sun"
+            ],
+            "index": 239
+        },
+        "Kindler Jeff": {
+            "level": 75,
+            "item": "Kebia Berry",
+            "ability": "Pastel Veil",
+            "nature": "Adamant",
+            "moves": [
+                "Play Rough",
+                "Zen Headbutt",
+                "High Horsepower",
+                "Will-O-Wisp"
+            ],
+            "index": 718
+        }
+    },
+    "Weavile": {
+        "Twins Tori and Tia": {
+            "level": 38,
+            "item": "Focus Sash",
+            "ability": "Inner Focus",
+            "nature": "Adamant",
+            "moves": [
+                "Throat Chop",
+                "Ice Punch",
+                "X-Scissor",
+                "Fake Out"
+            ],
+            "index": 240
+        },
+        "Roy Tuber": {
+            "level": 68,
+            "item": "Focus Sash",
+            "ability": "Pressure",
+            "nature": "Adamant",
+            "moves": [
+                "Icicle Crash",
+                "Knock Off",
+                "Low Kick",
+                "Ice Shard"
+            ],
+            "index": 598
+        },
+        "Swimmer Grace": {
+            "level": 70,
+            "item": "Choice Band",
+            "ability": "Pressure",
+            "nature": "Jolly",
+            "moves": [
+                "Icicle Crash",
+                "Throat Chop"
+            ],
+            "index": 617
+        },
+        "Cooltrainer Katelynn": {
+            "level": 89,
+            "item": "Focus Sash",
+            "ability": "Pressure",
+            "nature": "Adamant",
+            "moves": [
+                "Icicle Crash",
+                "Knock Off",
+                "Poison Jab",
+                "Fake Out"
+            ],
+            "index": 772
+        }
+    },
+    "Sneasler": {
+        "Twins Tori and Tia": {
+            "level": 38,
+            "item": "Focus Sash",
+            "ability": "Inner Focus",
+            "nature": "Adamant",
+            "moves": [
+                "Poison Jab",
+                "Brick Break",
+                "X-Scissor",
+                "Fake Out"
+            ],
+            "index": 241
+        },
+        "Gentleman Walter": {
+            "level": 68,
+            "item": "Misty Seed",
+            "ability": "Unburden",
+            "nature": "Jolly",
+            "moves": [
+                "Close Combat",
+                "Dire Claw",
+                "Brick Break",
+                "Acrobatics"
+            ],
+            "index": 582
+        },
+        "Aroma Lady Rachel": {
+            "level": 89,
+            "item": "Grassy Seed",
+            "ability": "Unburden",
+            "nature": "Adamant",
+            "moves": [
+                "Dire Claw",
+                "Close Combat",
+                "Acrobatics",
+                "Fake Out"
+            ],
+            "index": 789
+        },
+        "Cooltrainer Halle": {
+            "level": 90,
+            "item": "Misty Seed",
+            "ability": "Pressure",
+            "nature": "Adamant",
+            "moves": [
+                "Swords Dance",
+                "Acrobatics",
+                "Close Combat",
+                "Dire Claw"
+            ],
+            "index": 857
+        },
+        "Elite Four Janine": {
+            "level": 89,
+            "item": "Poison Barb",
+            "ability": "Pressure",
+            "nature": "Adamant",
+            "moves": [
+                "Dire Claw",
+                "Drain Punch",
+                "Rock Slide",
+                "Fake Out"
+            ],
+            "index": 885
+        }
+    },
+    "Vikavolt": {
+        "Bird Keeper Coby": {
+            "level": 38,
+            "item": "Sharp Beak",
+            "ability": "Speed Boost",
+            "nature": "Jolly",
+            "moves": [
+                "Thunderbolt",
+                "Bug Buzz",
+                "Air Slash",
+                "Roost"
+            ],
+            "index": 242
+        },
+        "Bug Maniac Brent": {
+            "level": 62,
+            "item": "Grassy Seed",
+            "ability": "Levitate",
+            "nature": "Modest",
+            "moves": [
+                "Thunderbolt",
+                "Bug Buzz",
+                "Air Slash",
+                "Roost"
+            ],
+            "index": 460
+        },
+        "Bug Maniac Cale": {
+            "level": 68,
+            "item": "Charti Berry",
+            "ability": "Levitate",
+            "nature": "Serious",
+            "moves": [
+                "Thunderbolt",
+                "Bug Buzz",
+                "Air Slash",
+                "Volt Switch"
+            ],
+            "index": 557
+        }
+    },
+    "Fearow": {
+        "Bird Keeper Coby": {
+            "level": 38,
+            "item": "Scope Lens",
+            "ability": "Sniper",
+            "nature": "Adamant",
+            "moves": [
+                "Drill Peck",
+                "Drill Run",
+                "Steel Wing",
+                "Roost"
+            ],
+            "index": 243
+        }
+    },
+    "Altaria": {
+        "Bird Keeper Coby": {
+            "level": 38,
+            "item": "Fairy Feather",
+            "ability": "Natural Cure",
+            "nature": "Modest",
+            "moves": [
+                "Hurricane",
+                "Dragon Pulse",
+                "Moonblast",
+                "Roost"
+            ],
+            "index": 244
+        }
+    },
+    "Shelgon": {
+        "Bird Keeper Coby": {
+            "level": 38,
+            "item": "Lum Berry",
+            "ability": "Rock Head",
+            "nature": "Adamant",
+            "moves": [
+                "Double-Edge",
+                "Dragon Claw",
+                "Zen Headbutt",
+                "Dragon Dance"
+            ],
+            "index": 245
+        }
+    },
+    "Silvally-Flying": {
+        "Bird Keeper Coby": {
+            "level": 38,
+            "item": "Flying Memory",
+            "ability": "Rks System",
+            "nature": "Serious",
+            "moves": [
+                "Air Slash",
+                "Tri Attack",
+                "Reversal",
+                "Substitute"
+            ],
+            "index": 246
+        },
+        "Expert Jared": {
+            "level": 64,
+            "item": "Flying Memory",
+            "ability": "Rks System",
+            "nature": "Adamant",
+            "moves": [
+                "Multi-Attack",
+                "Crush Claw",
+                "X-Scissor",
+                "Parting Shot"
+            ],
+            "index": 502
+        }
+    },
+    "Musharna": {
+        "Hex Maniac Madeline": {
+            "level": 38,
+            "item": "Covert Cloak",
+            "ability": "Telepathy",
+            "nature": "Relaxed",
+            "moves": [
+                "Psychic",
+                "Moonblast",
+                "Recover",
+                "Trick Room"
+            ],
+            "index": 247
+        }
+    },
+    "Perrserker": {
+        "Hex Maniac Madeline": {
+            "level": 38,
+            "item": "Focus Sash",
+            "ability": "Moxie",
+            "nature": "Brave",
+            "moves": [
+                "Iron Head",
+                "Close Combat",
+                "Play Rough",
+                "Fake Out"
+            ],
+            "index": 248
+        }
+    },
+    "Huntail": {
+        "Hex Maniac Madeline": {
+            "level": 38,
+            "item": "Mystic Water",
+            "ability": "Water Veil",
+            "nature": "Brave",
+            "moves": [
+                "Liquidation",
+                "Crunch",
+                "Ice Fang",
+                "Super Fang"
+            ],
+            "index": 249
+        }
+    },
+    "Marowak-Alola": {
+        "Hex Maniac Madeline": {
+            "level": 38,
+            "item": "Clear Amulet",
+            "ability": "Cursed Body",
+            "nature": "Brave",
+            "moves": [
+                "Shadow Bone",
+                "Fire Punch",
+                "Bonemerang",
+                "Thunder Punch"
+            ],
+            "index": 250
+        }
+    },
+    "Maractus": {
+        "Hex Maniac Madeline": {
+            "level": 38,
+            "item": "Grass Gem",
+            "ability": "Storm Drain",
+            "nature": "Brave",
+            "moves": [
+                "Leaf Storm",
+                "Seed Bomb",
+                "Drain Punch",
+                "Spiky Shield"
+            ],
+            "index": 251
+        }
+    },
+    "Rillaboom": {
+        "Picknicker Sophie": {
+            "level": 38,
+            "item": "Clear Amulet",
+            "ability": "Grassy Surge",
+            "nature": "Adamant",
+            "moves": [
+                "Drum Beating",
+                "Hammer Arm",
+                "High Horsepower",
+                "Fake Out"
+            ],
+            "index": 252
+        },
+        "Ranger Jackson": {
+            "level": 62,
+            "item": "Grassy Seed",
+            "ability": "Overgrow",
+            "nature": "Adamant",
+            "moves": [
+                "Grassy Glide",
+                "High Horsepower",
+                "Hammer Arm",
+                "Acrobatics"
+            ],
+            "index": 451
+        },
+        "Bird Keeper Presley": {
+            "level": 70,
+            "item": "Assault Vest",
+            "ability": "Grassy Surge",
+            "nature": "Jolly",
+            "moves": [
+                "Fake Out",
+                "Grassy Glide",
+                "Knock Off",
+                "High Horsepower"
+            ],
+            "index": 633
+        },
+        "Gentleman Nate": {
+            "level": 68,
+            "item": "Terrain Extender",
+            "ability": "Grassy Surge",
+            "nature": "Brave",
+            "moves": [
+                "Grassy Glide",
+                "Hammer Arm",
+                "High Horsepower",
+                "Fake Out"
+            ],
+            "index": 654
+        },
+        "Swimmer Susie": {
+            "level": 75,
+            "item": "Grassy Seed",
+            "ability": "Grassy Surge",
+            "nature": "Adamant",
+            "moves": [
+                "Wood Hammer",
+                "High Horsepower",
+                "Acrobatics",
+                "Fake Out"
+            ],
+            "index": 702
+        },
+        "Cooltrainer Caroline": {
+            "level": 90,
+            "item": "Focus Sash",
+            "ability": "Grassy Surge",
+            "nature": "Adamant",
+            "moves": [
+                "Grassy Glide",
+                "Fake Out",
+                "Earthquake",
+                "U-Turn"
+            ],
+            "index": 828
+        }
+    },
+    "Slowking-Galar": {
+        "Picknicker Sophie": {
+            "level": 39,
+            "item": "Leftovers",
+            "ability": "Curious Medicine",
+            "nature": "Serious",
+            "moves": [
+                "Sludge Bomb",
+                "Eerie Spell",
+                "Scald",
+                "Yawn"
+            ],
+            "index": 255
+        },
+        "Hex Maniac Tammy": {
+            "level": 68,
+            "item": "Leftovers",
+            "ability": "Own Tempo",
+            "nature": "Quiet",
+            "moves": [
+                "Sludge Bomb",
+                "Eerie Spell",
+                "Chilling Water",
+                "Slack Off"
+            ],
+            "index": 549
+        }
+    },
+    "Hitmontop": {
+        "Picknicker Sophie": {
+            "level": 39,
+            "item": "Expert Belt",
+            "ability": "Intimidate",
+            "nature": "Adamant",
+            "moves": [
+                "Close Combat",
+                "Triple Axel",
+                "Drill Run",
+                "Fake Out"
+            ],
+            "index": 256
+        },
+        "Pokemon Breeder Myles": {
+            "level": 70,
+            "item": "Sitrus Berry",
+            "ability": "Intimidate",
+            "nature": "Adamant",
+            "moves": [
+                "Close Combat",
+                "Throat Chop",
+                "Rock Slide",
+                "Bullet Punch"
+            ],
+            "index": 567
+        }
+    },
+    "Azumarill": {
+        "Fisherman Claude": {
+            "level": 38,
+            "item": "Expert Belt",
+            "ability": "Thick Fat",
+            "nature": "Adamant",
+            "moves": [
+                "Play Rough",
+                "Waterfall",
+                "Ice Spinner",
+                "Aqua Jet"
+            ],
+            "index": 257
+        },
+        "Pokemon Breeder Myles": {
+            "level": 70,
+            "item": "Misty Seed",
+            "ability": "Huge Power",
+            "nature": "Rash",
+            "moves": [
+                "Misty Explosion",
+                "Aqua Tail",
+                "Play Rough",
+                "Ice Punch"
+            ],
+            "index": 568
+        },
+        "Roy Tuber": {
+            "level": 68,
+            "item": "Fairy Feather",
+            "ability": "Huge Power",
+            "nature": "Adamant",
+            "moves": [
+                "Play Rough",
+                "Liquidation",
+                "Ice Spinner",
+                "Aqua Jet"
+            ],
+            "index": 599
+        },
+        "Hex Maniac Sylvia": {
+            "level": 68,
+            "item": "Covert Cloak",
+            "ability": "Huge Power",
+            "nature": "Brave",
+            "moves": [
+                "Play Rough",
+                "Liquidation",
+                "Ice Spinner",
+                "Belly Drum"
+            ],
+            "index": 661
+        }
+    },
+    "Wugtrio": {
+        "Fisherman Claude": {
+            "level": 38,
+            "item": "Choice Band",
+            "ability": "Good As Gold",
+            "nature": "Jolly",
+            "moves": [
+                "Triple Dive",
+                "Final Gambit"
+            ],
+            "index": 259
+        }
+    },
+    "Qwilfish": {
+        "Fisherman Claude": {
+            "level": 38,
+            "item": "Poison Gem",
+            "ability": "Intimidate",
+            "nature": "Adamant",
+            "moves": [
+                "Waterfall",
+                "Poison Jab",
+                "Fell Stinger",
+                "Aqua Jet"
+            ],
+            "index": 260
+        },
+        "Pokefan Bethany": {
+            "level": 39,
+            "item": "Bug Gem",
+            "ability": "Intimidate",
+            "nature": "Jolly",
+            "moves": [
+                "Gunk Shot",
+                "Waterfall",
+                "Icy Wind",
+                "Fell Stinger"
+            ],
+            "index": 335
+        }
+    },
+    "Tatsugiri": {
+        "Fisherman Claude": {
+            "level": 39,
+            "item": "Lum Berry",
+            "ability": "Storm Drain",
+            "nature": "Modest",
+            "moves": [
+                "Surf",
+                "Dragon Pulse",
+                "Icy Wind",
+                "Mirror Coat"
+            ],
+            "index": 261
+        }
+    },
+    "Torkoal": {
+        "Kindler Bernie": {
+            "level": 38,
+            "item": "Lum Berry",
+            "ability": "Drought",
+            "nature": "Timid",
+            "moves": [
+                "Heat Wave",
+                "Solar Beam",
+                "Earth Power",
+                "Stealth Rock"
+            ],
+            "index": 262
+        },
+        "Leader Flannery": {
+            "level": 77,
+            "item": "Covert Cloak",
+            "ability": "White Smoke",
+            "nature": "Modest",
+            "moves": [
+                "Weather Ball",
+                "Solar Beam",
+                "Earth Power",
+                "Protect"
+            ],
+            "index": 757
+        },
+        "Aroma Lady Rachel": {
+            "level": 90,
+            "item": "Focus Sash",
+            "ability": "Drought",
+            "nature": "Modest",
+            "moves": [
+                "Heat Wave",
+                "Earth Power",
+                "Body Press",
+                "Stealth Rock"
+            ],
+            "index": 786
+        }
+    },
+    "Coalossal": {
+        "Kindler Bernie": {
+            "level": 38,
+            "item": "Power Herb",
+            "ability": "Steam Engine",
+            "nature": "Modest",
+            "moves": [
+                "Meteor Beam",
+                "Power Gem",
+                "Incinerate",
+                "Solar Beam"
+            ],
+            "index": 263
+        }
+    },
+    "Castform": {
+        "Kindler Bernie": {
+            "level": 39,
+            "item": "Life Orb",
+            "ability": "Forecast",
+            "nature": "Modest",
+            "moves": [
+                "Fire Blast",
+                "Ice Beam",
+                "Thunderbolt",
+                "Energy Ball"
+            ],
+            "index": 264
+        }
+    },
+    "Bellossom": {
+        "Kindler Bernie": {
+            "level": 39,
+            "item": "Focus Sash",
+            "ability": "Chlorophyll",
+            "nature": "Hasty",
+            "moves": [
+                "Solar Beam",
+                "Moonblast",
+                "Weather Ball",
+                "Growth"
+            ],
+            "index": 265
+        },
+        "Swimmer Tanya": {
+            "level": 70,
+            "item": "Wise Glasses",
+            "ability": "Healer",
+            "nature": "Timid",
+            "moves": [
+                "Energy Ball",
+                "Moonblast",
+                "Weather Ball",
+                "Quiver Dance"
+            ],
+            "index": 606
+        }
+    },
+    "Overqwil": {
+        "Fisherman Nolan": {
+            "level": 38,
+            "item": "Sitrus Berry",
+            "ability": "Intimidate",
+            "nature": "Jolly",
+            "moves": [
+                "Crunch",
+                "Poison Jab",
+                "Barb Barrage",
+                "Toxic Spikes"
+            ],
+            "index": 266
+        }
+    },
+    "Alomomola": {
+        "Fisherman Nolan": {
+            "level": 38,
+            "item": "Assault Vest",
+            "ability": "Regenerator",
+            "nature": "Sassy",
+            "moves": [
+                "Flip Turn",
+                "Whirlpool",
+                "Aqua Ring"
+            ],
+            "index": 267
+        }
+    },
+    "Slowking": {
+        "Fisherman Nolan": {
+            "level": 38,
+            "item": "Leftovers",
+            "ability": "Regenerator",
+            "nature": "Relaxed",
+            "moves": [
+                "Psychic",
+                "Scald",
+                "Chilly Reception",
+                "Slack Off"
+            ],
+            "index": 268
+        }
+    },
+    "Walrein": {
+        "Fisherman Nolan": {
+            "level": 39,
+            "item": "Expert Belt",
+            "ability": "Ice Body",
+            "nature": "Adamant",
+            "moves": [
+                "Liquidation",
+                "Avalanche",
+                "Earthquake",
+                "Attract"
+            ],
+            "index": 269
+        }
+    },
+    "Basculin": {
+        "Fisherman Kai": {
+            "level": 38,
+            "item": "Life Orb",
+            "ability": "Adaptability",
+            "nature": "Jolly",
+            "moves": [
+                "Liquidation",
+                "Take Down",
+                "Crunch",
+                "Aqua Jet"
+            ],
+            "index": 270
+        }
+    },
+    "Veluza": {
+        "Fisherman Kai": {
+            "level": 38,
+            "item": "Scope Lens",
+            "ability": "Sharpness",
+            "nature": "Jolly",
+            "moves": [
+                "Aqua Cutter",
+                "Psycho Cut",
+                "Night Slash",
+                "Slash"
+            ],
+            "index": 271
+        }
+    },
+    "Starmie": {
+        "Fisherman Kai": {
+            "level": 38,
+            "item": "Lum Berry",
+            "ability": "Analytic",
+            "nature": "Modest",
+            "moves": [
+                "Surf",
+                "Psychic",
+                "Power Gem",
+                "Confuse Ray"
+            ],
+            "index": 272
+        },
+        "Camper Rhett": {
+            "level": 55,
+            "item": "Focus Sash",
+            "ability": "Analytic",
+            "nature": "Modest",
+            "moves": [
+                "Scald",
+                "Psyshock",
+                "Thunderbolt",
+                "Ice Beam"
+            ],
+            "index": 397
+        },
+        "Swimmer Clarence": {
+            "level": 75,
+            "item": "Mystic Water",
+            "ability": "Analytic",
+            "nature": "Modest",
+            "moves": [
+                "Psychic",
+                "Expanding Force",
+                "Chilling Water",
+                "Ice Beam"
+            ],
+            "index": 687
+        },
+        "Cooltrainer Owen": {
+            "level": 89,
+            "item": "Mystic Water",
+            "ability": "Analytic",
+            "nature": "Modest",
+            "moves": [
+                "Surf",
+                "Psyshock",
+                "Ice Beam",
+                "Thunderbolt"
+            ],
+            "index": 813
+        },
+        "Elite Four Misty": {
+            "level": 90,
+            "item": "Life Orb",
+            "ability": "Illuminate",
+            "nature": "Timid",
+            "moves": [
+                "Psychic",
+                "Scald",
+                "Power Gem",
+                "Thunderbolt"
+            ],
+            "index": 892
+        }
+    },
+    "Dondozo": {
+        "Fisherman Kai": {
+            "level": 39,
+            "item": "Leftovers",
+            "ability": "Unaware",
+            "nature": "Adamant",
+            "moves": [
+                "Liquidation",
+                "Earthquake",
+                "Zen Headbutt",
+                "Ice Fang"
+            ],
+            "index": 273
+        }
+    },
+    "Porygon2": {
+        "Pokemaniac Steve": {
+            "level": 38,
+            "item": "Eviolite",
+            "ability": "Analytic",
+            "nature": "Modest",
+            "moves": [
+                "Tri Attack",
+                "Ice Beam",
+                "Thunderbolt",
+                "Thunder Wave"
+            ],
+            "index": 274
+        }
+    },
+    "Espathra": {
+        "Pokemaniac Steve": {
+            "level": 38,
+            "item": "Fairy Feather",
+            "ability": "Speed Boost",
+            "nature": "Modest",
+            "moves": [
+                "Lumina Crash",
+                "Dazzling Gleam",
+                "Energy Ball",
+                "Hypnosis"
+            ],
+            "index": 275
+        }
+    },
+    "Clefable": {
+        "Pokemaniac Steve": {
+            "level": 40,
+            "item": "Leftovers",
+            "ability": "Unaware",
+            "nature": "Bold",
+            "moves": [
+                "Moonblast",
+                "Psychic",
+                "Fire Blast",
+                "Calm Mind"
+            ],
+            "index": 276
+        }
+    },
+    "Roserade": {
+        "Teammates Tyra and Ivy": {
+            "level": 42,
+            "item": "Focus Sash",
+            "ability": "Poison Point",
+            "nature": "Modest",
+            "moves": [
+                "Sludge Bomb",
+                "Energy Ball",
+                "Extrasensory",
+                "Dazzling Gleam"
+            ],
+            "index": 277
+        },
+        "Cooltrainer Quincy": {
+            "level": 89,
+            "item": "Focus Sash",
+            "ability": "Natural Cure",
+            "nature": "Timid",
+            "moves": [
+                "Energy Ball",
+                "Sludge Bomb",
+                "Weather Ball",
+                "Sleep Powder"
+            ],
+            "index": 777
+        }
+    },
+    "Golem": {
+        "Teammates Tyra and Ivy": {
+            "level": 42,
+            "item": "Covert Cloak",
+            "ability": "Sturdy",
+            "nature": "Adamant",
+            "moves": [
+                "Stone Edge",
+                "Stomping Tantrum",
+                "Hammer Arm",
+                "Fire Punch"
+            ],
+            "index": 278
+        }
+    },
+    "Flygon": {
+        "Hiker Lenny": {
+            "level": 40,
+            "item": "Focus Sash",
+            "ability": "Levitate",
+            "nature": "Jolly",
+            "moves": [
+                "Earthquake",
+                "Scale Shot",
+                "Crunch",
+                "Rock Slide"
+            ],
+            "index": 279
+        },
+        "Bird Keeper Humberto": {
+            "level": 62,
+            "item": "Yache Berry",
+            "ability": "Levitate",
+            "nature": "Jolly",
+            "moves": [
+                "Earthquake",
+                "Dragon Claw",
+                "First Impression",
+                "Dual Wingbeat"
+            ],
+            "index": 483
+        },
+        "Bird Keeper Edwardo": {
+            "level": 62,
+            "item": "Normal Gem",
+            "ability": "Levitate",
+            "nature": "Timid",
+            "moves": [
+                "Earth Power",
+                "Dragon Pulse",
+                "Boomburst",
+                "Roost"
+            ],
+            "index": 497
+        },
+        "Siblings Reli And Ian": {
+            "level": 75,
+            "item": "Life Orb",
+            "ability": "Levitate",
+            "nature": "Modest",
+            "moves": [
+                "Earth Power",
+                "Dragon Pulse",
+                "Bug Buzz",
+                "Air Slash"
+            ],
+            "index": 707
+        },
+        "Bug Maniac Axle": {
+            "level": 75,
+            "item": "Yache Berry",
+            "ability": "Levitate",
+            "nature": "Adamant",
+            "moves": [
+                "Earthquake",
+                "Dragon Claw",
+                "Fire Punch",
+                "U-Turn"
+            ],
+            "index": 724
+        }
+    },
+    "Gliscor": {
+        "Hiker Lucas": {
+            "level": 39,
+            "item": "Flying Gem",
+            "ability": "Hyper Cutter",
+            "nature": "Adamant",
+            "moves": [
+                "Earthquake",
+                "Acrobatics",
+                "X-Scissor",
+                "Night Slash"
+            ],
+            "index": 280
+        },
+        "Ruin Maniac Bryan": {
+            "level": 52,
+            "item": "Flying Gem",
+            "ability": "Hyper Cutter",
+            "nature": "Timid",
+            "moves": [
+                "High Horsepower",
+                "Acrobatics",
+                "Rock Slide",
+                "U-Turn"
+            ],
+            "index": 379
+        },
+        "Leader Winona": {
+            "level": 63,
+            "item": "Flying Gem",
+            "ability": "Poison Heal",
+            "nature": "Adamant",
+            "moves": [
+                "Earthquake",
+                "Acrobatics",
+                "Crabhammer",
+                "U-Turn"
+            ],
+            "index": 508
+        },
+        "Swimmer Talia": {
+            "level": 77,
+            "item": "Focus Sash",
+            "ability": "Hyper Cutter",
+            "nature": "Jolly",
+            "moves": [
+                "High Horsepower",
+                "Dual Wingbeat",
+                "Acrobatics",
+                "Bulldoze"
+            ],
+            "index": 694
+        },
+        "Cooltrainer Red": {
+            "level": 89,
+            "item": "Toxic Orb",
+            "ability": "Poison Heal",
+            "nature": "Jolly",
+            "moves": [
+                "Earthquake",
+                "Dual Wingbeat",
+                "Stealth Rock",
+                "Protect"
+            ],
+            "index": 842
+        }
+    },
+    "Crobat": {
+        "Hiker Lucas": {
+            "level": 39,
+            "item": "Scope Lens",
+            "ability": "Inner Focus",
+            "nature": "Adamant",
+            "moves": [
+                "Cross Poison",
+                "Dual Wingbeat",
+                "Leech Life",
+                "Steel Wing"
+            ],
+            "index": 281
+        },
+        "Ninja Boy Riley": {
+            "level": 70,
+            "item": "Scope Lens",
+            "ability": "Inner Focus",
+            "nature": "Jolly",
+            "moves": [
+                "Cross Poison",
+                "Dual Wingbeat",
+                "Leech Life",
+                "Steel Wing"
+            ],
+            "index": 519
+        }
+    },
+    "Braviary-Hisui": {
+        "Hiker Lucas": {
+            "level": 39,
+            "item": "Covert Cloak",
+            "ability": "Tinted Lens",
+            "nature": "Modest",
+            "moves": [
+                "Esper Wing",
+                "Air Slash",
+                "Heat Wave",
+                "Roost"
+            ],
+            "index": 282
+        }
+    },
+    "Electabuzz": {
+        "Picknicker Nancy": {
+            "level": 38,
+            "item": "Eviolite",
+            "ability": "Static",
+            "nature": "Bold",
+            "moves": [
+                "Thunderbolt",
+                "Psychic",
+                "Charge Beam",
+                "Follow Me"
+            ],
+            "index": 283
+        },
+        "Pokemon Breeder Pat": {
+            "level": 70,
+            "item": "Eviolite",
+            "ability": "Static",
+            "nature": "Adamant",
+            "moves": [
+                "Thunder Punch",
+                "Cross Chop",
+                "Fire Punch",
+                "Ice Punch"
+            ],
+            "index": 563
+        }
+    },
+    "Primarina": {
+        "Picknicker Nancy": {
+            "level": 38,
+            "item": "Lum Berry",
+            "ability": "Torrent",
+            "nature": "Modest",
+            "moves": [
+                "Alluring Voice",
+                "Chilling Water",
+                "Psychic Noise",
+                "Sing"
+            ],
+            "index": 284
+        },
+        "Fisherman Wade": {
+            "level": 64,
+            "item": "Throat Spray",
+            "ability": "Liquid Voice",
+            "nature": "Timid",
+            "moves": [
+                "Hyper Voice",
+                "Moonblast",
+                "Ice Beam",
+                "Sing"
+            ],
+            "index": 428
+        },
+        "Swimmer Jenny": {
+            "level": 68,
+            "item": "Lum Berry",
+            "ability": "Torrent",
+            "nature": "Modest",
+            "moves": [
+                "Sparkling Aria",
+                "Moonblast",
+                "Weather Ball",
+                "Flip Turn"
+            ],
+            "index": 621
+        }
+    },
+    "Magmar": {
+        "Picknicker Nancy": {
+            "level": 38,
+            "item": "Eviolite",
+            "ability": "Flame Body",
+            "nature": "Bold",
+            "moves": [
+                "Flamethrower",
+                "Psychic",
+                "Scorching Sands",
+                "Follow Me"
+            ],
+            "index": 285
+        },
+        "Pokemon Breeder Pat": {
+            "level": 70,
+            "item": "Eviolite",
+            "ability": "Flame Body",
+            "nature": "Adamant",
+            "moves": [
+                "Overheat",
+                "Fire Punch",
+                "Cross Chop",
+                "Thunder Punch"
+            ],
+            "index": 564
+        }
+    },
+    "Torterra": {
+        "Picknicker Charlotte": {
+            "level": 38,
+            "item": "Quick Claw",
+            "ability": "Overgrow",
+            "nature": "Adamant",
+            "moves": [
+                "Earthquake",
+                "Seed Bomb",
+                "Stone Edge",
+                "Stealth Rock"
+            ],
+            "index": 288
+        }
+    },
+    "Golisopod": {
+        "Picknicker Charlotte": {
+            "level": 38,
+            "item": "Silver Powder",
+            "ability": "Emergency Exit",
+            "nature": "Adamant",
+            "moves": [
+                "First Impression",
+                "X-Scissor",
+                "Razor Shell",
+                "Aqua Jet"
+            ],
+            "index": 290
+        },
+        "Bug Maniac Jeffrey": {
+            "level": 68,
+            "item": "Scope Lens",
+            "ability": "Emergency Exit",
+            "nature": "Adamant",
+            "moves": [
+                "First Impression",
+                "X-Scissor",
+                "Razor Shell",
+                "Aqua Jet"
+            ],
+            "index": 531
+        },
+        "Cooltrainer Dianne": {
+            "level": 89,
+            "item": "Leftovers",
+            "ability": "Emergency Exit",
+            "nature": "Careful",
+            "moves": [
+                "Leech Life",
+                "Liquidation",
+                "Swords Dance",
+                "Iron Head"
+            ],
+            "index": 818
+        }
+    },
+    "Klinklang": {
+        "Picknicker Charlotte": {
+            "level": 38,
+            "item": "Steel Gem",
+            "ability": "Clear Body",
+            "nature": "Adamant",
+            "moves": [
+                "Gear Grind",
+                "Wild Charge",
+                "Assurance",
+                "Shift Gear"
+            ],
+            "index": 291
+        }
+    },
+    "Infernape": {
+        "Camper Shane": {
+            "level": 38,
+            "item": "Focus Sash",
+            "ability": "Iron Fist",
+            "nature": "Jolly",
+            "moves": [
+                "Fire Punch",
+                "Drain Punch",
+                "Thunder Punch",
+                "Stealth Rock"
+            ],
+            "index": 293
+        },
+        "Pokefan Vanessa": {
+            "level": 68,
+            "item": "Air Balloon",
+            "ability": "Iron Fist",
+            "nature": "Jolly",
+            "moves": [
+                "Fire Punch",
+                "Drain Punch",
+                "Thunder Punch",
+                "Bulk Up"
+            ],
+            "index": 579
+        },
+        "Kindler Jeff": {
+            "level": 77,
+            "item": "Focus Sash",
+            "ability": "Blaze",
+            "nature": "Adamant",
+            "moves": [
+                "Fire Punch",
+                "Drain Punch",
+                "Fake Out",
+                "Stealth Rock"
+            ],
+            "index": 715
+        },
+        "Expert Magik": {
+            "level": 89,
+            "item": "Life Orb",
+            "ability": "Blaze",
+            "nature": "Naive",
+            "moves": [
+                "Close Combat",
+                "Flare Blitz",
+                "Poison Jab",
+                "U-Turn"
+            ],
+            "index": 794
+        }
+    },
+    "Vaporeon": {
+        "Camper Shane": {
+            "level": 38,
+            "item": "Leftovers",
+            "ability": "Water Absorb",
+            "nature": "Impish",
+            "moves": [
+                "Scald",
+                "Alluring Voice",
+                "Shadow Ball",
+                "Trailblaze"
+            ],
+            "index": 294
+        }
+    },
+    "Mudsdale": {
+        "Camper Shane": {
+            "level": 38,
+            "item": "Aguav Berry",
+            "ability": "Stamina",
+            "nature": "Adamant",
+            "moves": [
+                "High Horsepower",
+                "Heavy Slam",
+                "Body Press",
+                "Low Kick"
+            ],
+            "index": 296
+        }
+    },
+    "Copperajah": {
+        "Camper Shane": {
+            "level": 38,
+            "item": "Metal Coat",
+            "ability": "Heavy Metal",
+            "nature": "Adamant",
+            "moves": [
+                "Iron Head",
+                "High Horsepower",
+                "Play Rough",
+                "Zen Headbutt"
+            ],
+            "index": 297
+        },
+        "Lass Julia": {
+            "level": 53,
+            "item": "Covert Cloak",
+            "ability": "Heavy Metal",
+            "nature": "Adamant",
+            "moves": [
+                "Heavy Slam",
+                "Headlong Rush",
+                "Double-Edge",
+                "Power Whip"
+            ],
+            "index": 401
+        }
+    },
+    "Empoleon": {
+        "Picnicker Angelina": {
+            "level": 38,
+            "item": "Leftovers",
+            "ability": "Torrent",
+            "nature": "Timid",
+            "moves": [
+                "Surf",
+                "Flash Cannon",
+                "Roost",
+                "Stealth Rock"
+            ],
+            "index": 298
+        },
+        "Fisherman Barny": {
+            "level": 62,
+            "item": "Chople Berry",
+            "ability": "Competitive",
+            "nature": "Modest",
+            "moves": [
+                "Scald",
+                "Flash Cannon",
+                "Air Slash",
+                "Roost"
+            ],
+            "index": 422
+        },
+        "Expert Magik": {
+            "level": 90,
+            "item": "Shuca Berry",
+            "ability": "Torrent",
+            "nature": "Modest",
+            "moves": [
+                "Surf",
+                "Flash Cannon",
+                "Ice Beam",
+                "Stealth Rock"
+            ],
+            "index": 793
+        },
+        "Cooltrainer Caroline": {
+            "level": 89,
+            "item": "Life Orb",
+            "ability": "Torrent",
+            "nature": "Modest",
+            "moves": [
+                "Hydro Pump",
+                "Ice Beam",
+                "Stealth Rock",
+                "Flash Cannon"
+            ],
+            "index": 829
+        }
+    },
+    "Leafeon": {
+        "Picnicker Angelina": {
+            "level": 38,
+            "item": "Grass Gem",
+            "ability": "Leaf Guard",
+            "nature": "Adamant",
+            "moves": [
+                "Leaf Blade",
+                "X-Scissor",
+                "Trailblaze",
+                "Yawn"
+            ],
+            "index": 299
+        }
+    },
+    "Pyroar": {
+        "Picnicker Angelina": {
+            "level": 38,
+            "item": "Power Herb",
+            "ability": "Rivalry",
+            "nature": "Serious",
+            "moves": [
+                "Flamethrower",
+                "Hyper Voice",
+                "Solar Beam",
+                "Will-O-Wisp"
+            ],
+            "index": 300
+        }
+    },
+    "Hariyama": {
+        "Picnicker Angelina": {
+            "level": 38,
+            "item": "Flame Orb",
+            "ability": "Guts",
+            "nature": "Adamant",
+            "moves": [
+                "Brick Break",
+                "Shadow Punch",
+                "Bullet Punch",
+                "Fake Out"
+            ],
+            "index": 301
+        },
+        "Hex Maniac Tammy": {
+            "level": 68,
+            "item": "Focus Sash",
+            "ability": "Thick Fat",
+            "nature": "Brave",
+            "moves": [
+                "Close Combat",
+                "Headlong Rush",
+                "Heavy Slam",
+                "Fake Out"
+            ],
+            "index": 548
+        },
+        "Gentleman Nate": {
+            "level": 68,
+            "item": "White Herb",
+            "ability": "Thick Fat",
+            "nature": "Brave",
+            "moves": [
+                "Close Combat",
+                "Headlong Rush",
+                "Ice Punch",
+                "Fake Out"
+            ],
+            "index": 655
+        }
+    },
+    "Staraptor": {
+        "Picknicker Diana": {
+            "level": 38,
+            "item": "Flying Gem",
+            "ability": "Intimidate",
+            "nature": "Jolly",
+            "moves": [
+                "Take Down",
+                "Acrobatics",
+                "Close Combat",
+                "U-Turn"
+            ],
+            "index": 303
+        },
+        "Bird Keeper Humberto": {
+            "level": 64,
+            "item": "Clear Amulet",
+            "ability": "Intimidate",
+            "nature": "Adamant",
+            "moves": [
+                "Brave Bird",
+                "Close Combat",
+                "Steel Wing",
+                "Roost"
+            ],
+            "index": 482
+        },
+        "Elite Four Whitney": {
+            "level": 89,
+            "item": "Flying Gem",
+            "ability": "Intimidate",
+            "nature": "Jolly",
+            "moves": [
+                "Return",
+                "Acrobatics",
+                "U-Turn",
+                "Tailwind"
+            ],
+            "index": 877
+        }
+    },
+    "Arcanine": {
+        "Picknicker Diana": {
+            "level": 38,
+            "item": "Fire Gem",
+            "ability": "Intimidate",
+            "nature": "Jolly",
+            "moves": [
+                "Temper Flare",
+                "Play Rough",
+                "Extreme Speed",
+                "Howl"
+            ],
+            "index": 304
+        },
+        "Hiker Marcos": {
+            "level": 53,
+            "item": "Charcoal",
+            "ability": "Intimidate",
+            "nature": "Adamant",
+            "moves": [
+                "Temper Flare",
+                "Play Rough",
+                "Iron Head",
+                "Extreme Speed"
+            ],
+            "index": 393
+        },
+        "Ranger Jenna": {
+            "level": 68,
+            "item": "Clear Amulet",
+            "ability": "Intimidate",
+            "nature": "Adamant",
+            "moves": [
+                "Temper Flare",
+                "Close Combat",
+                "Play Rough",
+                "Extreme Speed"
+            ],
+            "index": 539
+        },
+        "Sr. and Jr. Kate & Joy": {
+            "level": 68,
+            "item": "Charcoal",
+            "ability": "Justified",
+            "nature": "Jolly",
+            "moves": [
+                "Temper Flare",
+                "Play Rough",
+                "Crunch",
+                "Extreme Speed"
+            ],
+            "index": 575
+        },
+        "Expert Keegan": {
+            "level": 75,
+            "item": "Sitrus Berry",
+            "ability": "Intimidate",
+            "nature": "Adamant",
+            "moves": [
+                "Temper Flare",
+                "Play Rough",
+                "Extreme Speed",
+                "Morning Sun"
+            ],
+            "index": 754
+        },
+        "Aroma Lady Rachel": {
+            "level": 89,
+            "item": "Assault Vest",
+            "ability": "Intimidate",
+            "nature": "Jolly",
+            "moves": [
+                "Flare Blitz",
+                "Close Combat",
+                "Extreme Speed",
+                "Play Rough"
+            ],
+            "index": 791
+        },
+        "Cooltrainer Caroline": {
+            "level": 89,
+            "item": "Aguav Berry",
+            "ability": "Intimidate",
+            "nature": "Mild",
+            "moves": [
+                "Overheat",
+                "Extreme Speed",
+                "Play Rough",
+                "Flare Blitz"
+            ],
+            "index": 830
+        }
+    },
+    "Kangaskhan": {
+        "Camper Ethan": {
+            "level": 38,
+            "item": "Lum Berry",
+            "ability": "Inner Focus",
+            "nature": "Adamant",
+            "moves": [
+                "Headbutt",
+                "Hammer Arm",
+                "Rock Tomb",
+                "Fake Out"
+            ],
+            "index": 306
+        },
+        "Parasol Lady Angelica": {
+            "level": 68,
+            "item": "Silk Scarf",
+            "ability": "Scrappy",
+            "nature": "Adamant",
+            "moves": [
+                "Last Resort",
+                "Fake Out"
+            ],
+            "index": 516
+        },
+        "Swimmer Chad": {
+            "level": 68,
+            "item": "Normal Gem",
+            "ability": "Scrappy",
+            "nature": "Adamant",
+            "moves": [
+                "Double-Edge",
+                "Body Slam",
+                "Hammer Arm",
+                "Crunch"
+            ],
+            "index": 626
+        },
+        "Psychic Nicholas": {
+            "level": 68,
+            "item": "Iron Ball",
+            "ability": "Gluttony",
+            "nature": "Adamant",
+            "moves": [
+                "Body Slam",
+                "Crunch",
+                "Fake Out",
+                "Surf"
+            ],
+            "index": 668
+        },
+        "Cooltrainer Gerald": {
+            "level": 75,
+            "item": "Silk Scarf",
+            "ability": "Scrappy",
+            "nature": "Adamant",
+            "moves": [
+                "Fake Out",
+                "Last Resort"
+            ],
+            "index": 733
+        }
+    },
+    "Meowstic-F": {
+        "Camper Ethan": {
+            "level": 38,
+            "item": "Wise Glasses",
+            "ability": "Mystic Charm",
+            "nature": "Adamant",
+            "moves": [
+                "Psychic",
+                "Energy Ball",
+                "Future Sight",
+                "Fake Out"
+            ],
+            "index": 307
+        }
+    },
+    "Tinkaton": {
+        "Camper Ethan": {
+            "level": 38,
+            "item": "Covert Cloak",
+            "ability": "Own Tempo",
+            "nature": "Adamant",
+            "moves": [
+                "Gigaton Hammer",
+                "Play Rough",
+                "Ice Hammer",
+                "Fake Out"
+            ],
+            "index": 308
+        },
+        "Cory": {
+            "level": -2,
+            "item": "Steel Gem",
+            "ability": "Mold Breaker",
+            "nature": "Jolly",
+            "moves": [
+                "Gigaton Hammer",
+                "Play Rough",
+                "Knock Off",
+                "Swords Dance"
+            ],
+            "index": 417
+        },
+        "Swimmer Jenny": {
+            "level": 68,
+            "item": "Muscle Band",
+            "ability": "Own Tempo",
+            "nature": "Adamant",
+            "moves": [
+                "Play Rough",
+                "Iron Head",
+                "Ice Hammer",
+                "Stone Edge"
+            ],
+            "index": 622
+        },
+        "Siblings Reli And Ian": {
+            "level": 75,
+            "item": "Expert Belt",
+            "ability": "Mold Breaker",
+            "nature": "Adamant",
+            "moves": [
+                "Gigaton Hammer",
+                "Play Rough",
+                "Knock Off",
+                "Fake Out"
+            ],
+            "index": 706
+        },
+        "Cooltrainer Quincy": {
+            "level": 89,
+            "item": "Metal Coat",
+            "ability": "Own Tempo",
+            "nature": "Adamant",
+            "moves": [
+                "Gigaton Hammer",
+                "Play Rough",
+                "Ice Hammer",
+                "Fake Out"
+            ],
+            "index": 776
+        },
+        "Cooltrainer Terra": {
+            "level": 90,
+            "item": "Focus Sash",
+            "ability": "Mold Breaker",
+            "nature": "Adamant",
+            "moves": [
+                "Stealth Rock",
+                "Gigaton Hammer",
+                "Play Rough",
+                "Knock Off"
+            ],
+            "index": 834
+        },
+        "Elite Four Jasmine": {
+            "level": 89,
+            "item": "Muscle Band",
+            "ability": "Mold Breaker",
+            "nature": "Adamant",
+            "moves": [
+                "Gigaton Hammer",
+                "Play Rough",
+                "Ice Hammer",
+                "Fake Out"
+            ],
+            "index": 872
+        }
+    },
+    "Feraligatr": {
+        "Beauty Connie": {
+            "level": 38,
+            "item": "Life Orb",
+            "ability": "Sheer Force",
+            "nature": "Adamant",
+            "moves": [
+                "Liquidation",
+                "Crunch",
+                "Ice Fang",
+                "Aqua Jet"
+            ],
+            "index": 309
+        },
+        "Cooltrainer Jennifer": {
+            "level": 70,
+            "item": "Never Melt Ice",
+            "ability": "Torrent",
+            "nature": "Adamant",
+            "moves": [
+                "Liquidation",
+                "Earthquake",
+                "Crunch",
+                "Ice Punch"
+            ],
+            "index": 536
+        }
+    },
+    "Gyarados": {
+        "Beauty Connie": {
+            "level": 38,
+            "item": "Sharp Beak",
+            "ability": "Moxie",
+            "nature": "Jolly",
+            "moves": [
+                "Bounce",
+                "Waterfall",
+                "Ice Fang",
+                "Dragon Dance"
+            ],
+            "index": 311
+        }
+    },
+    "Dragonair": {
+        "Beauty Connie": {
+            "level": 40,
+            "item": "Eviolite",
+            "ability": "Marvel Scale",
+            "nature": "Modest",
+            "moves": [
+                "Surf",
+                "Thunderbolt",
+                "Ice Beam",
+                "Thunder Wave"
+            ],
+            "index": 312
+        }
+    },
+    "Lapras": {
+        "Lass Andrea": {
+            "level": 38,
+            "item": "Assault Vest",
+            "ability": "Water Absorb",
+            "nature": "Bold",
+            "moves": [
+                "Surf",
+                "Ice Beam",
+                "Thunderbolt",
+                "Sing"
+            ],
+            "index": 313
+        },
+        "Parasol Lady Angelica": {
+            "level": 72,
+            "item": "Ground Gem",
+            "ability": "Water Absorb",
+            "nature": "Serious",
+            "moves": [
+                "Surf",
+                "Freeze-Dry",
+                "Thunderbolt",
+                "Drill Run"
+            ],
+            "index": 513
+        },
+        "Swimmer Tanya": {
+            "level": 70,
+            "item": "Assault Vest",
+            "ability": "Water Absorb",
+            "nature": "Bold",
+            "moves": [
+                "Blizzard",
+                "Surf",
+                "Thunderbolt",
+                "Freeze-Dry"
+            ],
+            "index": 605
+        },
+        "Cooltrainer Albert": {
+            "level": 89,
+            "item": "Leftovers",
+            "ability": "Water Absorb",
+            "nature": "Quiet",
+            "moves": [
+                "Ice Beam",
+                "Liquidation",
+                "Thunderbolt",
+                "Ancient Power"
+            ],
+            "index": 765
+        }
+    },
+    "Cinccino": {
+        "Lass Andrea": {
+            "level": 38,
+            "item": "Lum Berry",
+            "ability": "Skill Link",
+            "nature": "Jolly",
+            "moves": [
+                "Tail Slap",
+                "Bullet Seed",
+                "Rock Blast",
+                "Triple Axel"
+            ],
+            "index": 314
+        },
+        "Cooltrainer Shannon": {
+            "level": 90,
+            "item": "Wide Lens",
+            "ability": "Skill Link",
+            "nature": "Adamant",
+            "moves": [
+                "Tail Slap",
+                "Rock Blast",
+                "Bullet Seed",
+                "Triple Axel"
+            ],
+            "index": 802
+        }
+    },
+    "Virizion": {
+        "Lass Andrea": {
+            "level": 38,
+            "item": "Focus Sash",
+            "ability": "Justified",
+            "nature": "Modest",
+            "moves": [
+                "Aura Sphere",
+                "Giga Drain",
+                "Air Slash",
+                "Calm Mind"
+            ],
+            "index": 315
+        }
+    },
+    "Greninja": {
+        "Lass Andrea": {
+            "level": 39,
+            "item": "Loaded Dice",
+            "ability": "Torrent",
+            "nature": "Serious",
+            "moves": [
+                "Water Shuriken",
+                "Night Slash",
+                "Extrasensory",
+                "U-Turn"
+            ],
+            "index": 316
+        },
+        "Ninja Boy Takashi": {
+            "level": 62,
+            "item": "Loaded Dice",
+            "ability": "Protean",
+            "nature": "Modest",
+            "moves": [
+                "Water Shuriken",
+                "Dark Pulse",
+                "Ice Beam",
+                "Extrasensory"
+            ],
+            "index": 471
+        },
+        "Ninja Boy Hideo": {
+            "level": 60,
+            "item": "Loaded Dice",
+            "ability": "Torrent",
+            "nature": "Modest",
+            "moves": [
+                "Water Shuriken",
+                "Dark Pulse",
+                "Extrasensory",
+                "Mud Shot"
+            ],
+            "index": 481
+        },
+        "Ninja Boy Riley": {
+            "level": 68,
+            "item": "Focus Sash",
+            "ability": "Battle Bond",
+            "nature": "Timid",
+            "moves": [
+                "Water Shuriken",
+                "Dark Pulse",
+                "Extrasensory",
+                "Shadow Sneak"
+            ],
+            "index": 517
+        },
+        "Cooltrainer Terra": {
+            "level": 89,
+            "item": "Water Gem",
+            "ability": "Battle Bond",
+            "nature": "Timid",
+            "moves": [
+                "Surf",
+                "Grass Knot",
+                "Ice Beam",
+                "Dark Pulse"
+            ],
+            "index": 839
+        },
+        "Elite Four Janine": {
+            "level": 89,
+            "item": "Loaded Dice",
+            "ability": "Torrent",
+            "nature": "Modest",
+            "moves": [
+                "Water Shuriken",
+                "Dark Pulse",
+                "U-Turn",
+                "Stealth Rock"
+            ],
+            "index": 882
+        }
+    },
+    "Silvally-Water": {
+        "Lady Daphne": {
+            "level": 38,
+            "item": "Water Memory",
+            "ability": "Rks System",
+            "nature": "Serious",
+            "moves": [
+                "Multi-Attack",
+                "X-Scissor",
+                "Rock Slide",
+                "Tri Attack"
+            ],
+            "index": 317
+        }
+    },
+    "Swanna": {
+        "Lady Daphne": {
+            "level": 38,
+            "item": "Wise Glasses",
+            "ability": "No Guard",
+            "nature": "Timid",
+            "moves": [
+                "Hydro Pump",
+                "Hurricane",
+                "Blizzard",
+                "U-Turn"
+            ],
+            "index": 319
+        }
+    },
+    "Kingdra": {
+        "Lady Daphne": {
+            "level": 40,
+            "item": "Scope Lens",
+            "ability": "Sniper",
+            "nature": "Adamant",
+            "moves": [
+                "Draco Meteor",
+                "Liquidation",
+                "Breaking Swipe",
+                "Focus Energy"
+            ],
+            "index": 320
+        }
+    },
+    "Dhelmise": {
+        "Pokefan Annike": {
+            "level": 38,
+            "item": "Quick Claw",
+            "ability": "Steelworker",
+            "nature": "Adamant",
+            "moves": [
+                "Power Whip",
+                "Poltergeist",
+                "Shadow Claw",
+                "Anchor Shot"
+            ],
+            "index": 322
+        }
+    },
+    "Lanturn": {
+        "Pokefan Annike": {
+            "level": 40,
+            "item": "Air Balloon",
+            "ability": "Volt Absorb",
+            "nature": "Modest",
+            "moves": [
+                "Surf",
+                "Rising Voltage",
+                "Ice Beam",
+                "Volt Switch"
+            ],
+            "index": 323
+        }
+    },
+    "Clawitzer": {
+        "Lass Crissy": {
+            "level": 38,
+            "item": "Wise Glasses",
+            "ability": "Mega Launcher",
+            "nature": "Modest",
+            "moves": [
+                "Water Pulse",
+                "Dragon Pulse",
+                "Dark Pulse",
+                "Aura Sphere"
+            ],
+            "index": 327
+        },
+        "Bug Maniac Cale": {
+            "level": 68,
+            "item": "Wise Glasses",
+            "ability": "Mega Launcher",
+            "nature": "Modest",
+            "moves": [
+                "Water Pulse",
+                "Dark Pulse",
+                "Aura Sphere",
+                "Terrain Pulse"
+            ],
+            "index": 558
+        },
+        "Bird Keeper Presley": {
+            "level": 68,
+            "item": "Choice Scarf",
+            "ability": "Mega Launcher",
+            "nature": "Modest",
+            "moves": [
+                "Terrain Pulse",
+                "Water Pulse",
+                "Dark Pulse",
+                "Aura Sphere"
+            ],
+            "index": 634
+        },
+        "Swimmer Kevin": {
+            "level": 75,
+            "item": "Wise Glasses",
+            "ability": "Mega Launcher",
+            "nature": "Timid",
+            "moves": [
+                "Water Pulse",
+                "Dark Pulse",
+                "Aura Sphere",
+                "Sludge Bomb"
+            ],
+            "index": 692
+        },
+        "Cooltrainer Mitchell": {
+            "level": 90,
+            "item": "Expert Belt",
+            "ability": "Mega Launcher",
+            "nature": "Modest",
+            "moves": [
+                "Terrain Pulse",
+                "Water Pulse",
+                "Aura Sphere",
+                "Ice Beam"
+            ],
+            "index": 849
+        }
+    },
+    "Samurott": {
+        "Lass Crissy": {
+            "level": 40,
+            "item": "Black Belt",
+            "ability": "Torrent",
+            "nature": "Adamant",
+            "moves": [
+                "Liquidation",
+                "Sacred Sword",
+                "X-Scissor",
+                "Aqua Jet"
+            ],
+            "index": 328
+        },
+        "Sidney": {
+            "level": 55,
+            "item": "Assault Vest",
+            "ability": "Torrent",
+            "nature": "Adamant",
+            "moves": [
+                "Liquidation",
+                "Sacred Sword",
+                "Knock Off",
+                "X-Scissor"
+            ],
+            "index": 359
+        }
+    },
+    "Dewgong": {
+        "Beauty Tiffany": {
+            "level": 38,
+            "item": "Assault Vest",
+            "ability": "Ice Body",
+            "nature": "Modest",
+            "moves": [
+                "Blizzard",
+                "Hydro Pump",
+                "Alluring Voice",
+                "Flip Turn"
+            ],
+            "index": 330
+        },
+        "Roy Tuber": {
+            "level": 68,
+            "item": "Quick Claw",
+            "ability": "Ice Body",
+            "nature": "Serious",
+            "moves": [
+                "Hydro Pump",
+                "Blizzard",
+                "Alluring Voice",
+                "Knock Off"
+            ],
+            "index": 600
+        },
+        "Swimmer Allison": {
+            "level": 77,
+            "item": "Wide Lens",
+            "ability": "Thick Fat",
+            "nature": "Modest",
+            "moves": [
+                "Hydro Pump",
+                "Blizzard",
+                "Alluring Voice",
+                "Fake Out"
+            ],
+            "index": 682
+        }
+    },
+    "Mamoswine": {
+        "Beauty Tiffany": {
+            "level": 39,
+            "item": "Lum Berry",
+            "ability": "Thick Fat",
+            "nature": "Adamant",
+            "moves": [
+                "High Horsepower",
+                "Icicle Crash",
+                "Knock Off",
+                "Ice Shard"
+            ],
+            "index": 332
+        },
+        "Swimmer Grace": {
+            "level": 68,
+            "item": "Focus Sash",
+            "ability": "Thick Fat",
+            "nature": "Adamant",
+            "moves": [
+                "High Horsepower",
+                "Icicle Crash",
+                "Trailblaze",
+                "Stealth Rock"
+            ],
+            "index": 615
+        }
+    },
+    "Octillery": {
+        "Pokefan Bethany": {
+            "level": 39,
+            "item": "Quick Claw",
+            "ability": "Sniper",
+            "nature": "Serious",
+            "moves": [
+                "Hydro Pump",
+                "Fire Blast",
+                "Gunk Shot"
+            ],
+            "index": 333
+        }
+    },
+    "Eelektross": {
+        "Pokefan Bethany": {
+            "level": 39,
+            "item": "Leftovers",
+            "ability": "Levitate",
+            "nature": "Adamant",
+            "moves": [
+                "Thunder Punch",
+                "Fire Punch",
+                "Brick Break",
+                "Coil"
+            ],
+            "index": 334
+        }
+    },
+    "Milotic": {
+        "Beauty Olivia": {
+            "level": 38,
+            "item": "Leftovers",
+            "ability": "Marvel Scale",
+            "nature": "Calm",
+            "moves": [
+                "Scald",
+                "Dragon Breath",
+                "Recover",
+                "Wrap"
+            ],
+            "index": 337
+        }
+    },
+    "Cradily": {
+        "Beauty Olivia": {
+            "level": 38,
+            "item": "Chople Berry",
+            "ability": "Suction Cups",
+            "nature": "Bold",
+            "moves": [
+                "Giga Drain",
+                "Ancient Power",
+                "Recover",
+                "Wrap"
+            ],
+            "index": 338
+        }
+    },
+    "Slowbro-Galar": {
+        "Beauty Olivia": {
+            "level": 39,
+            "item": "Quick Claw",
+            "ability": "Quick Draw",
+            "nature": "Modest",
+            "moves": [
+                "Shell Side Arm",
+                "Psyshock",
+                "Surf",
+                "Slack Off"
+            ],
+            "index": 340
+        },
+        "Parasol Lady Rachel": {
+            "level": 62,
+            "item": "Grassy Seed",
+            "ability": "Quick Draw",
+            "nature": "Quiet",
+            "moves": [
+                "Shell Side Arm",
+                "Psychic",
+                "Surf",
+                "Slack Off"
+            ],
+            "index": 464
+        },
+        "Swimmer Tanya": {
+            "level": 68,
+            "item": "Quick Claw",
+            "ability": "Quick Draw",
+            "nature": "Modest",
+            "moves": [
+                "Sludge Bomb",
+                "Psychic",
+                "Blizzard",
+                "Slack Off"
+            ],
+            "index": 604
+        },
+        "Hex Maniac Cole": {
+            "level": 77,
+            "item": "Wide Lens",
+            "ability": "Quick Draw",
+            "nature": "Adamant",
+            "moves": [
+                "Gunk Shot",
+                "Fire Blast",
+                "Scald",
+                "Slack Off"
+            ],
+            "index": 735
+        }
+    },
+    "Mesprit": {
+        "Lady Brianna": {
+            "level": 38,
+            "item": "Light Clay",
+            "ability": "Levitate",
+            "nature": "Hardy",
+            "moves": [
+                "Future Sight",
+                "Dazzling Gleam",
+                "Light Screen",
+                "Reflect"
+            ],
+            "index": 341
+        }
+    },
+    "Stunfisk": {
+        "Lady Brianna": {
+            "level": 38,
+            "item": "Mystic Water",
+            "ability": "Static",
+            "nature": "Modest",
+            "moves": [
+                "Thunderbolt",
+                "Earth Power",
+                "Sludge Wave",
+                "Muddy Water"
+            ],
+            "index": 342
+        }
+    },
+    "Pelipper": {
+        "Beauty Bridget": {
+            "level": 40,
+            "item": "Focus Sash",
+            "ability": "Drizzle",
+            "nature": "Modest",
+            "moves": [
+                "Hurricane",
+                "Weather Ball",
+                "Tailwind",
+                "U-Turn"
+            ],
+            "index": 345
+        },
+        "Bird Keeper Hugh": {
+            "level": 63,
+            "item": "Focus Sash",
+            "ability": "Rain Dish",
+            "nature": "Modest",
+            "moves": [
+                "Hydro Pump",
+                "Hurricane",
+                "Ice Beam",
+                "Roost"
+            ],
+            "index": 457
+        }
+    },
+    "Gorebyss": {
+        "Beauty Bridget": {
+            "level": 38,
+            "item": "Throat Spray",
+            "ability": "Swift Swim",
+            "nature": "Timid",
+            "moves": [
+                "Sparkling Aria",
+                "Alluring Voice",
+                "Psychic Noise",
+                "Attract"
+            ],
+            "index": 346
+        },
+        "Camper Rhett": {
+            "level": 53,
+            "item": "Covert Cloak",
+            "ability": "Swift Swim",
+            "nature": "Modest",
+            "moves": [
+                "Hydro Pump",
+                "Ice Beam",
+                "Psychic",
+                "Icy Wind"
+            ],
+            "index": 398
+        },
+        "Swimmer Jenny": {
+            "level": 70,
+            "item": "Focus Sash",
+            "ability": "Swift Swim",
+            "nature": "Modest",
+            "moves": [
+                "Blizzard",
+                "Surf",
+                "Psychic",
+                "Shell Smash"
+            ],
+            "index": 623
+        }
+    },
+    "Phione": {
+        "Beauty Bridget": {
+            "level": 38,
+            "item": "Leftovers",
+            "ability": "Hydration",
+            "nature": "Timid",
+            "moves": [
+                "Surf",
+                "Alluring Voice",
+                "Grass Knot",
+                "Flip Turn"
+            ],
+            "index": 347
+        }
+    },
+    "Bellibolt": {
+        "Beauty Bridget": {
+            "level": 38,
+            "item": "Iapapa Berry",
+            "ability": "Electromorphosis",
+            "nature": "Modest",
+            "moves": [
+                "Thunder",
+                "Muddy Water",
+                "Mud Shot",
+                "Slack Off"
+            ],
+            "index": 348
+        },
+        "Parasol Lady Angelica": {
+            "level": 68,
+            "item": "Leftovers",
+            "ability": "Electromorphosis",
+            "nature": "Modest",
+            "moves": [
+                "Parabolic Charge",
+                "Weather Ball",
+                "Hyper Voice",
+                "Thunder Wave"
+            ],
+            "index": 515
+        }
+    },
+    "Basculegion-F": {
+        "Leader Juan": {
+            "level": 38,
+            "item": "Assault Vest",
+            "ability": "Swift Swim",
+            "nature": "Timid",
+            "moves": [
+                "Shadow Ball",
+                "Water Pulse",
+                "Ice Beam",
+                "Flip Turn"
+            ],
+            "index": 352
+        },
+        "Cooltrainer Katelynn": {
+            "level": 89,
+            "item": "Life Orb",
+            "ability": "Swift Swim",
+            "nature": "Modest",
+            "moves": [
+                "Shadow Ball",
+                "Chilling Water",
+                "Ice Beam",
+                "Pain Split"
+            ],
+            "index": 770
+        }
+    },
+    "Archaludon": {
+        "Leader Juan": {
+            "level": 40,
+            "item": "Lum Berry",
+            "ability": "Stalwart",
+            "nature": "Timid",
+            "moves": [
+                "Electro Shot",
+                "Dragon Pulse",
+                "Flash Cannon",
+                "Aura Sphere"
+            ],
+            "index": 355
+        },
+        "Cooltrainer Julie": {
+            "level": 89,
+            "item": "Power Herb",
+            "ability": "Sturdy",
+            "nature": "Timid",
+            "moves": [
+                "Electro Shot",
+                "Dragon Pulse",
+                "Flash Cannon",
+                "Thunderbolt"
+            ],
+            "index": 809
+        },
+        "Cooltrainer Caroline": {
+            "level": 89,
+            "item": "White Herb",
+            "ability": "Stamina",
+            "nature": "Relaxed",
+            "moves": [
+                "Body Press",
+                "Flash Cannon",
+                "Draco Meteor",
+                "Foul Play"
+            ],
+            "index": 831
+        }
+    },
+    "Ogerpon": {
+        "Sidney": {
+            "level": 53,
+            "item": "Scope Lens",
+            "ability": "Inner Focus",
+            "nature": "Jolly",
+            "moves": [
+                "Ivy Cudgel",
+                "Superpower",
+                "Knock Off",
+                "Spiky Shield"
+            ],
+            "index": 356
+        }
+    },
+    "Zoroark": {
+        "Sidney": {
+            "level": 53,
+            "item": "Black Glasses",
+            "ability": "Illusion",
+            "nature": "Naive",
+            "moves": [
+                "Night Daze",
+                "Extrasensory",
+                "Burning Jealousy",
+                "U-Turn"
+            ],
+            "index": 357
+        },
+        "Cooltrainer Cristin": {
+            "level": 68,
+            "item": "Focus Sash",
+            "ability": "Illusion",
+            "nature": "Jolly",
+            "moves": [
+                "Night Daze",
+                "Extrasensory",
+                "Burning Jealousy",
+                "Nasty Plot"
+            ],
+            "index": 586
+        }
+    },
+    "Hydreigon": {
+        "Sidney": {
+            "level": 55,
+            "item": "Pecha Berry",
+            "ability": "Levitate",
+            "nature": "Timid",
+            "moves": [
+                "Belch",
+                "Dragon Pulse",
+                "Dark Pulse",
+                "Tailwind"
+            ],
+            "index": 361
+        },
+        "Cooltrainer Dianne": {
+            "level": 89,
+            "item": "Roseli Berry",
+            "ability": "Levitate",
+            "nature": "Modest",
+            "moves": [
+                "Dark Pulse",
+                "Draco Meteor",
+                "Flamethrower",
+                "Flash Cannon"
+            ],
+            "index": 820
+        }
+    },
+    "Garganacl": {
+        "Picknicker Celia": {
+            "level": 55,
+            "item": "Assault Vest",
+            "ability": "Clear Body",
+            "nature": "Impish",
+            "moves": [
+                "Stone Edge",
+                "Hammer Arm",
+                "Salt Cure",
+                "Recover"
+            ],
+            "index": 362
+        },
+        "Leader Steven": {
+            "level": 53,
+            "item": "Assault Vest",
+            "ability": "Purifying Salt",
+            "nature": "Impish",
+            "moves": [
+                "Salt Cure",
+                "Avalanche",
+                "Hammer Arm",
+                "Recover"
+            ],
+            "index": 411
+        }
+    },
+    "Claydol": {
+        "Picknicker Celia": {
+            "level": 55,
+            "item": "Wise Glasses",
+            "ability": "Levitate",
+            "nature": "Modest",
+            "moves": [
+                "Earth Power",
+                "Psychic",
+                "Ice Beam",
+                "Calm Mind"
+            ],
+            "index": 363
+        }
+    },
+    "Aerodactyl": {
+        "Ruin Maniac Dusty": {
+            "level": 53,
+            "item": "Focus Sash",
+            "ability": "Unnerve",
+            "nature": "Adamant",
+            "moves": [
+                "Stone Edge",
+                "Dual Wingbeat",
+                "Iron Head",
+                "Rock Slide"
+            ],
+            "index": 364
+        },
+        "Bird Keeper Hugh": {
+            "level": 61,
+            "item": "Kings Rock",
+            "ability": "Unnerve",
+            "nature": "Jolly",
+            "moves": [
+                "Dual Wingbeat",
+                "Rock Blast",
+                "Iron Head",
+                "Thunder Fang"
+            ],
+            "index": 454
+        },
+        "Bird Keeper Darius": {
+            "level": 62,
+            "item": "Power Herb",
+            "ability": "Unnerve",
+            "nature": "Adamant",
+            "moves": [
+                "Sky Attack",
+                "Dual Wingbeat",
+                "Rock Slide",
+                "Iron Head"
+            ],
+            "index": 501
+        },
+        "Swimmer Isabella": {
+            "level": 68,
+            "item": "Flying Gem",
+            "ability": "Pressure",
+            "nature": "Jolly",
+            "moves": [
+                "Rock Slide",
+                "Dual Wingbeat",
+                "Steel Wing",
+                "Attract"
+            ],
+            "index": 629
+        }
+    },
+    "Goodra-Hisui": {
+        "Ruin Maniac Dusty": {
+            "level": 53,
+            "item": "Covert Cloak",
+            "ability": "Gooey",
+            "nature": "Modest",
+            "moves": [
+                "Flash Cannon",
+                "Dragon Pulse",
+                "Ice Beam",
+                "Substitute"
+            ],
+            "index": 365
+        },
+        "Cooltrainer Katelynn": {
+            "level": 89,
+            "item": "Leftovers",
+            "ability": "Gooey",
+            "nature": "Adamant",
+            "moves": [
+                "Dragon Pulse",
+                "Flash Cannon",
+                "Sludge Bomb",
+                "Protect"
+            ],
+            "index": 773
+        }
+    },
+    "Glimmora": {
+        "Picnicker Becky": {
+            "level": 55,
+            "item": "Focus Band",
+            "ability": "Toxic Debris",
+            "nature": "Jolly",
+            "moves": [
+                "Sludge Wave",
+                "Power Gem",
+                "Energy Ball",
+                "Stealth Rock"
+            ],
+            "index": 366
+        },
+        "Cooltrainer Julie": {
+            "level": 90,
+            "item": "Air Balloon",
+            "ability": "Toxic Debris",
+            "nature": "Timid",
+            "moves": [
+                "Sludge Wave",
+                "Power Gem",
+                "Energy Ball",
+                "Stealth Rock"
+            ],
+            "index": 805
+        },
+        "Elite Four Janine": {
+            "level": 89,
+            "item": "Focus Sash",
+            "ability": "Toxic Debris",
+            "nature": "Timid",
+            "moves": [
+                "Sludge Bomb",
+                "Power Gem",
+                "Energy Ball",
+                "Toxic Spikes"
+            ],
+            "index": 883
+        }
+    },
+    "Gigalith": {
+        "Picnicker Becky": {
+            "level": 53,
+            "item": "Normal Gem",
+            "ability": "Sturdy",
+            "nature": "Adamant",
+            "moves": [
+                "Stone Edge",
+                "Earthquake",
+                "Body Press",
+                "Explosion"
+            ],
+            "index": 367
+        },
+        "Hiker Eli": {
+            "level": 75,
+            "item": "Jaboca Berry",
+            "ability": "Sturdy",
+            "nature": "Adamant",
+            "moves": [
+                "Stone Edge",
+                "Earthquake",
+                "Explosion",
+                "Protect"
+            ],
+            "index": 744
+        }
+    },
+    "Archeops": {
+        "Picnicker Becky": {
+            "level": 53,
+            "item": "Sitrus Berry",
+            "ability": "Defeatist",
+            "nature": "Jolly",
+            "moves": [
+                "Rock Slide",
+                "Dual Wingbeat",
+                "Dragon Claw",
+                "U-Turn"
+            ],
+            "index": 368
+        },
+        "Expert Jared": {
+            "level": 62,
+            "item": "Flying Gem",
+            "ability": "Defeatist",
+            "nature": "Jolly",
+            "moves": [
+                "Rock Slide",
+                "Acrobatics",
+                "Dragon Claw",
+                "Substitute"
+            ],
+            "index": 504
+        }
+    },
+    "Lunatone": {
+        "Picnicker Becky": {
+            "level": 53,
+            "item": "Power Herb",
+            "ability": "Levitate",
+            "nature": "Timid",
+            "moves": [
+                "Meteor Beam",
+                "Weather Ball",
+                "Psychic",
+                "Ice Beam"
+            ],
+            "index": 369
+        }
+    },
+    "Garchomp": {
+        "Hiker Devan": {
+            "level": 51,
+            "item": "Yache Berry",
+            "ability": "Rough Skin",
+            "nature": "Jolly",
+            "moves": [
+                "Earthquake",
+                "Poison Jab",
+                "Rock Slide",
+                "Stealth Rock"
+            ],
+            "index": 370
+        },
+        "Cooltrainer Edgar": {
+            "level": 89,
+            "item": "Life Orb",
+            "ability": "Sand Veil",
+            "nature": "Jolly",
+            "moves": [
+                "Scale Shot",
+                "Swords Dance",
+                "Earthquake",
+                "Stone Edge"
+            ],
+            "index": 783
+        },
+        "Cooltrainer Mitchell": {
+            "level": 89,
+            "item": "Yache Berry",
+            "ability": "Rough Skin",
+            "nature": "Lonely",
+            "moves": [
+                "Stealth Rock",
+                "Earthquake",
+                "Stone Edge",
+                "Draco Meteor"
+            ],
+            "index": 846
+        }
+    },
+    "Iron Thorns": {
+        "Hiker Devan": {
+            "level": 53,
+            "item": "Loaded Dice",
+            "ability": "Quark Drive",
+            "nature": "Adamant",
+            "moves": [
+                "Wild Charge",
+                "Rock Blast",
+                "Pin Missile",
+                "Thunder Wave"
+            ],
+            "index": 372
+        }
+    },
+    "Magmortar": {
+        "Hiker Devan": {
+            "level": 53,
+            "item": "Safety Goggles",
+            "ability": "Mega Launcher",
+            "nature": "Timid",
+            "moves": [
+                "Flamethrower",
+                "Psychic",
+                "Aura Sphere",
+                "Weather Ball"
+            ],
+            "index": 373
+        }
+    },
+    "Sawk": {
+        "Ruin Maniac Bryan": {
+            "level": 52,
+            "item": "Safety Goggles",
+            "ability": "Sturdy",
+            "nature": "Jolly",
+            "moves": [
+                "Close Combat",
+                "Stone Edge",
+                "Throat Chop",
+                "Counter"
+            ],
+            "index": 380
+        }
+    },
+    "Kleavor": {
+        "Picnicker Heidi": {
+            "level": 55,
+            "item": "Clear Amulet",
+            "ability": "Sharpness",
+            "nature": "Jolly",
+            "moves": [
+                "X-Scissor",
+                "Stone Axe",
+                "Night Slash",
+                "Aerial Ace"
+            ],
+            "index": 382
+        },
+        "Challenger Phoebe": {
+            "level": 75,
+            "item": "Assault Vest",
+            "ability": "Sharpness",
+            "nature": "Careful",
+            "moves": [
+                "X-Scissor",
+                "Stone Axe",
+                "Aerial Ace",
+                "U-Turn"
+            ],
+            "index": 709
+        }
+    },
+    "Samurott-Hisui": {
+        "Picnicker Heidi": {
+            "level": 52,
+            "item": "Safety Goggles",
+            "ability": "Sharpness",
+            "nature": "Adamant",
+            "moves": [
+                "Liquidation",
+                "Ceaseless Edge",
+                "Sacred Sword",
+                "Aqua Jet"
+            ],
+            "index": 384
+        }
+    },
+    "Excadrill": {
+        "Picnicker Heidi": {
+            "level": 52,
+            "item": "Covert Cloak",
+            "ability": "Sand Rush",
+            "nature": "Jolly",
+            "moves": [
+                "Drill Run",
+                "Iron Head",
+                "Rock Slide",
+                "Substitute"
+            ],
+            "index": 385
+        },
+        "Collector Hector": {
+            "level": 53,
+            "item": "Focus Sash",
+            "ability": "Sand Rush",
+            "nature": "Adamant",
+            "moves": [
+                "Drill Run",
+                "Iron Head",
+                "Stone Edge",
+                "Poison Jab"
+            ],
+            "index": 403
+        },
+        "Cooltrainer Quincy": {
+            "level": 89,
+            "item": "Covert Cloak",
+            "ability": "Sand Rush",
+            "nature": "Adamant",
+            "moves": [
+                "Earthquake",
+                "High Horsepower",
+                "Iron Head",
+                "Rock Slide"
+            ],
+            "index": 779
+        },
+        "Cooltrainer Edgar": {
+            "level": 89,
+            "item": "Steel Gem",
+            "ability": "Sand Rush",
+            "nature": "Jolly",
+            "moves": [
+                "Iron Head",
+                "Earthquake",
+                "Swords Dance",
+                "X-Scissor"
+            ],
+            "index": 785
+        }
+    },
+    "Sirfetch'd": {
+        "Camper Drew": {
+            "level": 52,
+            "item": "Leek",
+            "ability": "Scrappy",
+            "nature": "Adamant",
+            "moves": [
+                "Close Combat",
+                "Leaf Blade",
+                "Dual Wingbeat",
+                "Focus Energy"
+            ],
+            "index": 388
+        },
+        "Swimmer Chad": {
+            "level": 68,
+            "item": "Eject Pack",
+            "ability": "Scrappy",
+            "nature": "Adamant",
+            "moves": [
+                "Close Combat",
+                "Leaf Blade",
+                "Dual Wingbeat",
+                "Knock Off"
+            ],
+            "index": 625
+        }
+    },
+    "Granbull": {
+        "Hiker Marcos": {
+            "level": 53,
+            "item": "Clear Amulet",
+            "ability": "Intimidate",
+            "nature": "Adamant",
+            "moves": [
+                "Play Rough",
+                "Close Combat",
+                "Iron Tail",
+                "Super Fang"
+            ],
+            "index": 391
+        },
+        "Dragon Tamer Jace": {
+            "level": 75,
+            "item": "Aguav Berry",
+            "ability": "Quick Feet",
+            "nature": "Jolly",
+            "moves": [
+                "Play Rough",
+                "Crunch",
+                "Facade",
+                "Ice Punch"
+            ],
+            "index": 728
+        }
+    },
+    "Toedscruel": {
+        "Picnicker Daisy": {
+            "level": 53,
+            "item": "White Herb",
+            "ability": "Mycelium Might",
+            "nature": "Modest",
+            "moves": [
+                "Leaf Storm",
+                "Energy Ball",
+                "Earth Power",
+                "Sludge Bomb"
+            ],
+            "index": 395
+        }
+    },
+    "Emboar": {
+        "Lass Julia": {
+            "level": 53,
+            "item": "Expert Belt",
+            "ability": "Blaze",
+            "nature": "Brave",
+            "moves": [
+                "Overheat",
+                "Fire Punch",
+                "Drain Punch",
+                "High Horsepower"
+            ],
+            "index": 400
+        }
+    },
+    "Revavroom": {
+        "Lass Julia": {
+            "level": 53,
+            "item": "Air Balloon",
+            "ability": "Filter",
+            "nature": "Jolly",
+            "moves": [
+                "Spin Out",
+                "Poison Jab",
+                "Zen Headbutt",
+                "Shift Gear"
+            ],
+            "index": 402
+        },
+        "Cooltrainer Marcel": {
+            "level": 68,
+            "item": "Air Balloon",
+            "ability": "Filter",
+            "nature": "Adamant",
+            "moves": [
+                "Spin Out",
+                "Poison Jab",
+                "High Horsepower",
+                "Swagger"
+            ],
+            "index": 592
+        },
+        "Hiker Eli": {
+            "level": 75,
+            "item": "Air Balloon",
+            "ability": "Overcoat",
+            "nature": "Jolly",
+            "moves": [
+                "Spin Out",
+                "Iron Head",
+                "Poison Jab",
+                "Shift Gear"
+            ],
+            "index": 742
+        }
+    },
+    "Golurk": {
+        "Collector Hector": {
+            "level": 53,
+            "item": "Punching Glove",
+            "ability": "Iron Fist",
+            "nature": "Adamant",
+            "moves": [
+                "High Horsepower",
+                "Shadow Punch",
+                "Drain Punch",
+                "Ice Punch"
+            ],
+            "index": 405
+        },
+        "Hex Maniac Kathleen": {
+            "level": 68,
+            "item": "Weakness Policy",
+            "ability": "Iron Fist",
+            "nature": "Sassy",
+            "moves": [
+                "High Horsepower",
+                "Shadow Punch",
+                "Hammer Arm",
+                "Thunder Punch"
+            ],
+            "index": 663
+        }
+    },
+    "Tyranitar": {
+        "Hex Maniac Nadia": {
+            "level": 55,
+            "item": "Clear Amulet",
+            "ability": "Sand Stream",
+            "nature": "Sassy",
+            "moves": [
+                "Stone Edge",
+                "Crunch",
+                "High Horsepower",
+                "Ice Punch"
+            ],
+            "index": 406
+        },
+        "Hiker Eli": {
+            "level": 77,
+            "item": "Chople Berry",
+            "ability": "Sand Stream",
+            "nature": "Adamant",
+            "moves": [
+                "Rock Slide",
+                "Knock Off",
+                "Fire Fang",
+                "Stealth Rock"
+            ],
+            "index": 740
+        },
+        "Cooltrainer Edgar": {
+            "level": 89,
+            "item": "Focus Band",
+            "ability": "Sand Stream",
+            "nature": "Impish",
+            "moves": [
+                "Stone Edge",
+                "Knock Off",
+                "Counter",
+                "Stealth Rock"
+            ],
+            "index": 780
+        }
+    },
+    "Gholdengo": {
+        "Hex Maniac Nadia": {
+            "level": 53,
+            "item": "White Herb",
+            "ability": "Good As Gold",
+            "nature": "Modest",
+            "moves": [
+                "Make It Rain",
+                "Flash Cannon",
+                "Shadow Ball",
+                "Thunderbolt"
+            ],
+            "index": 407
+        },
+        "Guitarist Dalton": {
+            "level": 62,
+            "item": "White Herb",
+            "ability": "Good As Gold",
+            "nature": "Modest",
+            "moves": [
+                "Make It Rain",
+                "Flash Cannon",
+                "Shadow Ball",
+                "Thunderbolt"
+            ],
+            "index": 436
+        },
+        "Challenger Phoebe": {
+            "level": 75,
+            "item": "White Herb",
+            "ability": "Good As Gold",
+            "nature": "Timid",
+            "moves": [
+                "Make It Rain",
+                "Flash Cannon",
+                "Shadow Ball",
+                "Nasty Plot"
+            ],
+            "index": 713
+        }
+    },
+    "Landorus": {
+        "Leader Steven": {
+            "level": 53,
+            "item": "Focus Sash",
+            "ability": "Sand Force",
+            "nature": "Naive",
+            "moves": [
+                "Earth Power",
+                "Sludge Bomb",
+                "Extrasensory",
+                "U-Turn"
+            ],
+            "index": 409
+        }
+    },
+    "Drapion": {
+        "Leader Steven": {
+            "level": 53,
+            "item": "Scope Lens",
+            "ability": "Sniper",
+            "nature": "Jolly",
+            "moves": [
+                "Cross Poison",
+                "Night Slash",
+                "X-Scissor",
+                "Bulldoze"
+            ],
+            "index": 410
+        },
+        "Bug Catcher Doug": {
+            "level": 62,
+            "item": "Scope Lens",
+            "ability": "Sniper",
+            "nature": "Adamant",
+            "moves": [
+                "Night Slash",
+                "Cross Poison",
+                "X-Scissor",
+                "Fell Stinger"
+            ],
+            "index": 438
+        }
+    },
+    "Iron Treads": {
+        "Leader Steven": {
+            "level": 55,
+            "item": "Muscle Band",
+            "ability": "Protosynthesis",
+            "nature": "Jolly",
+            "moves": [
+                "Iron Head",
+                "Stomping Tantrum",
+                "Rock Slide",
+                "Knock Off"
+            ],
+            "index": 413
+        },
+        "Cooltrainer Marcel": {
+            "level": 68,
+            "item": "Misty Seed",
+            "ability": "Quark Drive",
+            "nature": "Jolly",
+            "moves": [
+                "Iron Head",
+                "Stomping Tantrum",
+                "Ice Spinner",
+                "Knock Off"
+            ],
+            "index": 589
+        }
+    },
+    "Great Tusk": {
+        "Leader Steven": {
+            "level": 55,
+            "item": "Lum Berry",
+            "ability": "Protosynthesis",
+            "nature": "Serious",
+            "moves": [
+                "Headlong Rush",
+                "Close Combat",
+                "Stone Edge",
+                "Rapid Spin"
+            ],
+            "index": 414
+        },
+        "Ranger Jenna": {
+            "level": 68,
+            "item": "Covert Cloak",
+            "ability": "Protosynthesis",
+            "nature": "Jolly",
+            "moves": [
+                "Headlong Rush",
+                "Close Combat",
+                "Ice Spinner",
+                "Rapid Spin"
+            ],
+            "index": 540
+        }
+    },
+    "Gengar": {
+        "Cory": {
+            "level": -2,
+            "item": "Expert Belt",
+            "ability": "Cursed Body",
+            "nature": "Timid",
+            "moves": [
+                "Hypnosis",
+                "Sludge Bomb",
+                "Shadow Ball",
+                "Focus Blast"
+            ],
+            "index": 416
+        },
+        "Swimmer Chad": {
+            "level": 70,
+            "item": "Focus Sash",
+            "ability": "Cursed Body",
+            "nature": "Timid",
+            "moves": [
+                "Sludge Wave",
+                "Shadow Ball",
+                "Destiny Bond",
+                "Hypnosis"
+            ],
+            "index": 627
+        }
+    },
+    "Swampert": {
+        "Carolina": {
+            "level": 0,
+            "item": "Rindo Berry",
+            "ability": "Torrent",
+            "nature": "Careful",
+            "moves": [
+                "Protect",
+                "High Horsepower",
+                "Liquidation",
+                "Stone Edge"
+            ],
+            "index": 418
+        },
+        "Swimmer Reed": {
+            "level": 77,
+            "item": "Focus Sash",
+            "ability": "Torrent",
+            "nature": "Adamant",
+            "moves": [
+                "High Horsepower",
+                "Liquidation",
+                "Ice Punch",
+                "Stone Edge"
+            ],
+            "index": 684
+        }
+    },
+    "Flamigo": {
+        "Carolina": {
+            "level": -2,
+            "item": "Flying Gem",
+            "ability": "Scrappy",
+            "nature": "Jolly",
+            "moves": [
+                "Acrobatics",
+                "Close Combat",
+                "Tailwind",
+                "Throat Chop"
+            ],
+            "index": 419
+        },
+        "Cooltrainer Jennifer": {
+            "level": 68,
+            "item": "Eject Pack",
+            "ability": "Scrappy",
+            "nature": "Jolly",
+            "moves": [
+                "Close Combat",
+                "Acrobatics",
+                "Dual Wingbeat"
+            ],
+            "index": 535
+        }
+    },
+    "Avalugg-Hisui": {
+        "Carolina": {
+            "level": -2,
+            "item": "Choice Band",
+            "ability": "Sturdy",
+            "nature": "Adamant",
+            "moves": [
+                "Mountain Gale",
+                "Rock Slide"
+            ],
+            "index": 420
+        }
+    },
+    "Basculin-Blue-Striped": {
+        "Fisherman Barny": {
+            "level": 62,
+            "item": "Mystic Water",
+            "ability": "Rock Head",
+            "nature": "Jolly",
+            "moves": [
+                "Wave Crash",
+                "Double-Edge",
+                "Aqua Jet"
+            ],
+            "index": 423
+        }
+    },
+    "Bruxish": {
+        "Fisherman Barny": {
+            "level": 62,
+            "item": "Expert Belt",
+            "ability": "Strong Jaw",
+            "nature": "Adamant",
+            "moves": [
+                "Psychic Fangs",
+                "Liquidation",
+                "Crunch",
+                "Ice Fang"
+            ],
+            "index": 424
+        },
+        "Beauty Jessica": {
+            "level": 68,
+            "item": "Life Orb",
+            "ability": "Strong Jaw",
+            "nature": "Jolly",
+            "moves": [
+                "Psychic Fangs",
+                "Aqua Tail",
+                "Crunch",
+                "Aqua Jet"
+            ],
+            "index": 553
+        }
+    },
+    "Ursaring": {
+        "Aroma Lady Rose": {
+            "level": 63,
+            "item": "Chople Berry",
+            "ability": "Quick Feet",
+            "nature": "Jolly",
+            "moves": [
+                "Facade",
+                "Hammer Arm",
+                "High Horsepower",
+                "Play Rough"
+            ],
+            "index": 429
+        },
+        "Psychic Blake": {
+            "level": 68,
+            "item": "Covert Cloak",
+            "ability": "Guts",
+            "nature": "Brave",
+            "moves": [
+                "Body Slam",
+                "Hammer Arm",
+                "High Horsepower",
+                "Play Rough"
+            ],
+            "index": 648
+        }
+    },
+    "Tropius": {
+        "Aroma Lady Rose": {
+            "level": 65,
+            "item": "Yache Berry",
+            "ability": "Harvest",
+            "nature": "Modest",
+            "moves": [
+                "Leaf Blade",
+                "Dragon Hammer",
+                "Zen Headbutt",
+                "Dragon Dance"
+            ],
+            "index": 430
+        }
+    },
+    "Ribombee": {
+        "Aroma Lady Rose": {
+            "level": 65,
+            "item": "Kebia Berry",
+            "ability": "Shield Dust",
+            "nature": "Jolly",
+            "moves": [
+                "Pollen Puff",
+                "Moonblast",
+                "Energy Ball",
+                "Quiver Dance"
+            ],
+            "index": 431
+        }
+    },
+    "Grumpig": {
+        "Aroma Lady Rose": {
+            "level": 65,
+            "item": "Lum Berry",
+            "ability": "Thick Fat",
+            "nature": "Modest",
+            "moves": [
+                "Psychic",
+                "Power Gem",
+                "Dazzling Gleam",
+                "Nasty Plot"
+            ],
+            "index": 432
+        },
+        "Psychic Presont": {
+            "level": 68,
+            "item": "Iron Ball",
+            "ability": "Own Tempo",
+            "nature": "Quiet",
+            "moves": [
+                "Expanding Force",
+                "Power Gem",
+                "Flash Cannon",
+                "Future Sight"
+            ],
+            "index": 639
+        }
+    },
+    "Iron Hands": {
+        "Guitarist Dalton": {
+            "level": 64,
+            "item": "Assault Vest",
+            "ability": "Quark Drive",
+            "nature": "Careful",
+            "moves": [
+                "Drain Punch",
+                "Thunder Punch",
+                "Ice Punch",
+                "Seismic Toss"
+            ],
+            "index": 433
+        }
+    },
+    "Baxcalibur": {
+        "Guitarist Dalton": {
+            "level": 62,
+            "item": "Leftovers",
+            "ability": "Thermal Exchange",
+            "nature": "Jolly",
+            "moves": [
+                "Dragon Claw",
+                "Ice Punch",
+                "Stomping Tantrum",
+                "Breaking Swipe"
+            ],
+            "index": 434
+        },
+        "Swimmer Nolen": {
+            "level": 68,
+            "item": "Covert Cloak",
+            "ability": "Thermal Exchange",
+            "nature": "Adamant",
+            "moves": [
+                "Dragon Claw",
+                "Ice Punch",
+                "Dragon Tail",
+                "High Horsepower"
+            ],
+            "index": 597
+        },
+        "Champion May": {
+            "level": 89,
+            "item": "Weakness Policy",
+            "ability": "Thermal Exchange",
+            "nature": "Jolly",
+            "moves": [
+                "Glaive Rush",
+                "Icicle Crash",
+                "Earthquake",
+                "Ice Shard"
+            ],
+            "index": 898
+        }
+    },
+    "Ceruledge": {
+        "Guitarist Dalton": {
+            "level": 62,
+            "item": "Spell Tag",
+            "ability": "Weak Armor",
+            "nature": "Adamant",
+            "moves": [
+                "Bitter Blade",
+                "Shadow Claw",
+                "Dragon Claw",
+                "Shadow Sneak"
+            ],
+            "index": 435
+        },
+        "Gentleman Walter": {
+            "level": 70,
+            "item": "Scope Lens",
+            "ability": "Weak Armor",
+            "nature": "Adamant",
+            "moves": [
+                "Bitter Blade",
+                "Shadow Claw",
+                "Psycho Cut",
+                "Shadow Sneak"
+            ],
+            "index": 584
+        },
+        "Expert Auron": {
+            "level": 68,
+            "item": "Focus Sash",
+            "ability": "Weak Armor",
+            "nature": "Adamant",
+            "moves": [
+                "Bitter Blade",
+                "Poltergeist",
+                "Close Combat",
+                "Will-O-Wisp"
+            ],
+            "index": 638
+        },
+        "Leader Flannery": {
+            "level": 77,
+            "item": "Focus Sash",
+            "ability": "Weak Armor",
+            "nature": "Adamant",
+            "moves": [
+                "Bitter Blade",
+                "Poltergeist",
+                "Solar Blade",
+                "Destiny Bond"
+            ],
+            "index": 756
+        }
+    },
+    "Butterfree": {
+        "Bug Catcher Doug": {
+            "level": 65,
+            "item": "Focus Sash",
+            "ability": "Tinted Lens",
+            "nature": "Timid",
+            "moves": [
+                "Bug Buzz",
+                "Energy Ball",
+                "Tailwind",
+                "Sleep Powder"
+            ],
+            "index": 437
+        }
+    },
+    "Volcarona": {
+        "Bug Catcher Doug": {
+            "level": 62,
+            "item": "Lum Berry",
+            "ability": "Flame Body",
+            "nature": "Timid",
+            "moves": [
+                "Bug Buzz",
+                "Giga Drain",
+                "Air Slash",
+                "Quiver Dance"
+            ],
+            "index": 440
+        }
+    },
+    "Dragonite": {
+        "Fisherman Chris": {
+            "level": 60,
+            "item": "Lum Berry",
+            "ability": "Multiscale",
+            "nature": "Modest",
+            "moves": [
+                "Thunder",
+                "Ice Beam",
+                "Weather Ball",
+                "Extreme Speed"
+            ],
+            "index": 441
+        },
+        "Swimmer Allison": {
+            "level": 75,
+            "item": "Leftovers",
+            "ability": "Multiscale",
+            "nature": "Adamant",
+            "moves": [
+                "Dragon Claw",
+                "Dual Wingbeat",
+                "Aqua Tail",
+                "Thunder Punch"
+            ],
+            "index": 681
+        },
+        "Elite Four Misty": {
+            "level": 89,
+            "item": "Leftovers",
+            "ability": "Multiscale",
+            "nature": "Adamant",
+            "moves": [
+                "Dragon Claw",
+                "Dual Wingbeat",
+                "Aqua Tail",
+                "Extreme Speed"
+            ],
+            "index": 888
+        }
+    },
+    "Palafin": {
+        "Fisherman Chris": {
+            "level": 62,
+            "item": "Choice Scarf",
+            "ability": "Zero To Hero",
+            "nature": "Adamant",
+            "moves": [
+                "Liquidation",
+                "Flip Turn"
+            ],
+            "index": 443
+        },
+        "Cooltrainer Red": {
+            "level": 90,
+            "item": "Assault Vest",
+            "ability": "Zero To Hero",
+            "nature": "Jolly",
+            "moves": [
+                "Liquidation",
+                "Flip Turn",
+                "Drain Punch",
+                "Ice Punch"
+            ],
+            "index": 841
+        }
+    },
+    "Basculegion": {
+        "Fisherman Chris": {
+            "level": 62,
+            "item": "Liechi Berry",
+            "ability": "Swift Swim",
+            "nature": "Jolly",
+            "moves": [
+                "Phantom Force",
+                "Liquidation",
+                "Crunch",
+                "Whirlpool"
+            ],
+            "index": 444
+        },
+        "Aqua Leader Archie": {
+            "level": 89,
+            "item": "Clear Amulet",
+            "ability": "Swift Swim",
+            "nature": "Adamant",
+            "moves": [
+                "Liquidation",
+                "Phantom Force",
+                "Psychic Fangs",
+                "Flip Turn"
+            ],
+            "index": 868
+        }
+    },
+    "Miltank": {
+        "Ranger Catherine": {
+            "level": 62,
+            "item": "Silk Scarf",
+            "ability": "Scrappy",
+            "nature": "Jolly",
+            "moves": [
+                "Body Slam",
+                "Play Rough",
+                "Body Press",
+                "Milk Drink"
+            ],
+            "index": 448
+        }
+    },
+    "Okidogi": {
+        "Ranger Catherine": {
+            "level": 64,
+            "item": "Expert Belt",
+            "ability": "Guard Dog",
+            "nature": "Modest",
+            "moves": [
+                "Poison Jab",
+                "Drain Punch",
+                "Crunch",
+                "Scary Face"
+            ],
+            "index": 449
+        }
+    },
+    "Tyrantrum": {
+        "Ranger Jackson": {
+            "level": 63,
+            "item": "Grassy Seed",
+            "ability": "Sturdy",
+            "nature": "Jolly",
+            "moves": [
+                "Stone Edge",
+                "Dragon Claw",
+                "High Horsepower",
+                "Psychic Fangs"
+            ],
+            "index": 453
+        },
+        "Dragon Tamer Jace": {
+            "level": 75,
+            "item": "Loaded Dice",
+            "ability": "Strong Jaw",
+            "nature": "Adamant",
+            "moves": [
+                "Scale Shot",
+                "Rock Slide",
+                "Fire Fang",
+                "Ice Fang"
+            ],
+            "index": 729
+        }
+    },
+    "Beedrill": {
+        "Bug Maniac Brent": {
+            "level": 65,
+            "item": "Quick Claw",
+            "ability": "Swarm",
+            "nature": "Jolly",
+            "moves": [
+                "Poison Jab",
+                "X-Scissor",
+                "Drill Run",
+                "Toxic Spikes"
+            ],
+            "index": 458
+        }
+    },
+    "Scizor": {
+        "Bug Maniac Brent": {
+            "level": 62,
+            "item": "Metal Coat",
+            "ability": "Technician",
+            "nature": "Adamant",
+            "moves": [
+                "Bug Bite",
+                "Bullet Punch",
+                "Dual Wingbeat",
+                "Trailblaze"
+            ],
+            "index": 461
+        },
+        "Picnicker Ashley": {
+            "level": 62,
+            "item": "Focus Sash",
+            "ability": "Technician",
+            "nature": "Adamant",
+            "moves": [
+                "Bug Bite",
+                "Bullet Punch",
+                "Dual Wingbeat",
+                "U-Turn"
+            ],
+            "index": 490
+        }
+    },
+    "Haxorus": {
+        "Parasol Lady Rachel": {
+            "level": 62,
+            "item": "Grassy Seed",
+            "ability": "Rivalry",
+            "nature": "Jolly",
+            "moves": [
+                "Dragon Claw",
+                "Crunch",
+                "X-Scissor",
+                "Acrobatics"
+            ],
+            "index": 462
+        }
+    },
+    "Glaceon": {
+        "Parasol Lady Rachel": {
+            "level": 64,
+            "item": "Grassy Seed",
+            "ability": "Snow Cloak",
+            "nature": "Modest",
+            "moves": [
+                "Ice Beam",
+                "Freeze-Dry",
+                "Shadow Ball",
+                "Mud Shot"
+            ],
+            "index": 465
+        }
+    },
+    "Tornadus": {
+        "Bird Keeper Phil": {
+            "level": 64,
+            "item": "Covert Cloak",
+            "ability": "Prankster",
+            "nature": "Calm",
+            "moves": [
+                "Bleakwind Storm",
+                "Extrasensory",
+                "Weather Ball",
+                "Icy Wind"
+            ],
+            "index": 466
+        },
+        "Cooltrainer Julie": {
+            "level": 89,
+            "item": "Focus Sash",
+            "ability": "Prankster",
+            "nature": "Timid",
+            "moves": [
+                "Bleakwind Storm",
+                "Extrasensory",
+                "Grass Knot",
+                "Tailwind"
+            ],
+            "index": 804
+        }
+    },
+    "Thundurus": {
+        "Bird Keeper Phil": {
+            "level": 64,
+            "item": "Flying Gem",
+            "ability": "Prankster",
+            "nature": "Serious",
+            "moves": [
+                "Wildbolt Storm",
+                "Acrobatics",
+                "Weather Ball",
+                "Electroweb"
+            ],
+            "index": 467
+        }
+    },
+    "Kecleon": {
+        "Ninja Boy Takashi": {
+            "level": 64,
+            "item": "Lum Berry",
+            "ability": "Protean",
+            "nature": "Adamant",
+            "moves": [
+                "Body Slam",
+                "Drain Punch",
+                "Shadow Claw",
+                "Fake Out"
+            ],
+            "index": 468
+        }
+    },
+    "Sceptile": {
+        "Ninja Boy Takashi": {
+            "level": 62,
+            "item": "Grassy Seed",
+            "ability": "Unburden",
+            "nature": "Adamant",
+            "moves": [
+                "Leaf Storm",
+                "Leaf Blade",
+                "X-Scissor",
+                "Acrobatics"
+            ],
+            "index": 470
+        }
+    },
+    "Skeledirge": {
+        "Ninja Boy Takashi": {
+            "level": 62,
+            "item": "Utility Umbrella",
+            "ability": "Blaze",
+            "nature": "Modest",
+            "moves": [
+                "Torch Song",
+                "Shadow Ball",
+                "Alluring Voice",
+                "Substitute"
+            ],
+            "index": 472
+        }
+    },
+    "Exploud": {
+        "Guitarist Fabian": {
+            "level": 62,
+            "item": "Normal Gem",
+            "ability": "Scrappy",
+            "nature": "Modest",
+            "moves": [
+                "Boomburst",
+                "Terrain Pulse",
+                "Extrasensory"
+            ],
+            "index": 473
+        }
+    },
+    "Venusaur": {
+        "Guitarist Fabian": {
+            "level": 63,
+            "item": "Wide Lens",
+            "ability": "Overgrow",
+            "nature": "Modest",
+            "moves": [
+                "Terrain Pulse",
+                "Sludge Bomb",
+                "Earth Power",
+                "Sleep Powder"
+            ],
+            "index": 475
+        },
+        "Ranger Lorenzo": {
+            "level": 68,
+            "item": "Covert Cloak",
+            "ability": "Chlorophyll",
+            "nature": "Modest",
+            "moves": [
+                "Solar Beam",
+                "Sludge Bomb",
+                "Weather Ball",
+                "Sleep Powder"
+            ],
+            "index": 541
+        },
+        "Aroma Lady Rachel": {
+            "level": 89,
+            "item": "Life Orb",
+            "ability": "Chlorophyll",
+            "nature": "Modest",
+            "moves": [
+                "Solar Beam",
+                "Sludge Bomb",
+                "Weather Ball",
+                "Growth"
+            ],
+            "index": 788
+        }
+    },
+    "Silvally-Electric": {
+        "Guitarist Fabian": {
+            "level": 63,
+            "item": "Electric Memory",
+            "ability": "Rks System",
+            "nature": "Modest",
+            "moves": [
+                "Multi-Attack",
+                "Tri Attack",
+                "Flash Cannon",
+                "Air Slash"
+            ],
+            "index": 476
+        }
+    },
+    "Reuniclus": {
+        "Ninja Boy Hideo": {
+            "level": 64,
+            "item": "Grassy Seed",
+            "ability": "Regenerator",
+            "nature": "Modest",
+            "moves": [
+                "Psychic",
+                "Aura Sphere",
+                "Energy Ball",
+                "Shadow Ball"
+            ],
+            "index": 477
+        }
+    },
+    "Bisharp": {
+        "Ninja Boy Hideo": {
+            "level": 62,
+            "item": "Focus Sash",
+            "ability": "Defiant",
+            "nature": "Adamant",
+            "moves": [
+                "Iron Head",
+                "Throat Chop",
+                "X-Scissor",
+                "Scary Face"
+            ],
+            "index": 478
+        }
+    },
+    "Dusknoir": {
+        "Ninja Boy Hideo": {
+            "level": 62,
+            "item": "Punching Glove",
+            "ability": "Pressure",
+            "nature": "Adamant",
+            "moves": [
+                "Shadow Punch",
+                "Ice Punch",
+                "Thunder Punch",
+                "Destiny Bond"
+            ],
+            "index": 479
+        }
+    },
+    "Serperior": {
+        "Ninja Boy Hideo": {
+            "level": 60,
+            "item": "Focus Band",
+            "ability": "Contrary",
+            "nature": "Timid",
+            "moves": [
+                "Leaf Storm",
+                "Dragon Pulse",
+                "Knock Off",
+                "Glare"
+            ],
+            "index": 480
+        }
+    },
+    "Solrock": {
+        "Bird Keeper Humberto": {
+            "level": 62,
+            "item": "Flying Gem",
+            "ability": "Levitate",
+            "nature": "Adamant",
+            "moves": [
+                "Stone Edge",
+                "Zen Headbutt",
+                "Flare Blitz",
+                "Acrobatics"
+            ],
+            "index": 484
+        },
+        "Kindler Jeff": {
+            "level": 75,
+            "item": "Blunder Policy",
+            "ability": "Levitate",
+            "nature": "Jolly",
+            "moves": [
+                "Zen Headbutt",
+                "Rock Slide",
+                "Flare Blitz",
+                "Hypnosis"
+            ],
+            "index": 719
+        }
+    },
+    "Dodrio": {
+        "Bird Keeper Humberto": {
+            "level": 62,
+            "item": "Muscle Band",
+            "ability": "Early Bird",
+            "nature": "Jolly",
+            "moves": [
+                "Drill Peck",
+                "Drill Run",
+                "Double Hit",
+                "Swords Dance"
+            ],
+            "index": 485
+        }
+    },
+    "Rotom-Fan": {
+        "Bird Keeper Humberto": {
+            "level": 62,
+            "item": "Sharp Beak",
+            "ability": "Levitate",
+            "nature": "Modest",
+            "moves": [
+                "Thunderbolt",
+                "Air Slash",
+                "Shadow Ball",
+                "Thunder Wave"
+            ],
+            "index": 486
+        },
+        "Hex Maniac Cole": {
+            "level": 75,
+            "item": "Rocky Helmet",
+            "ability": "Levitate",
+            "nature": "Modest",
+            "moves": [
+                "Discharge",
+                "Air Slash",
+                "Hex",
+                "Thunder Wave"
+            ],
+            "index": 737
+        }
+    },
+    "Dragapult": {
+        "Picnicker Ashley": {
+            "level": 62,
+            "item": "Light Clay",
+            "ability": "Clear Body",
+            "nature": "Hardy",
+            "moves": [
+                "Dragon Claw",
+                "Shadow Ball",
+                "Reflect",
+                "Light Screen"
+            ],
+            "index": 487
+        },
+        "Cooltrainer Albert": {
+            "level": 90,
+            "item": "Choice Band",
+            "ability": "Clear Body",
+            "nature": "Jolly",
+            "moves": [
+                "Dragon Darts"
+            ],
+            "index": 767
+        }
+    },
+    "Azelf": {
+        "Picnicker Ashley": {
+            "level": 62,
+            "item": "Lum Berry",
+            "ability": "Levitate",
+            "nature": "Timid",
+            "moves": [
+                "Psychic",
+                "Dazzling Gleam",
+                "Future Sight",
+                "Stealth Rock"
+            ],
+            "index": 488
+        },
+        "Cooltrainer Owen": {
+            "level": 89,
+            "item": "Electric Seed",
+            "ability": "Levitate",
+            "nature": "Hasty",
+            "moves": [
+                "Acrobatics",
+                "Psychic",
+                "Explosion",
+                "Dazzling Gleam"
+            ],
+            "index": 812
+        }
+    },
+    "Weezing-Galar": {
+        "Picnicker Ashley": {
+            "level": 62,
+            "item": "Life Orb",
+            "ability": "Levitate",
+            "nature": "Modest",
+            "moves": [
+                "Strange Steam",
+                "Sludge Bomb",
+                "Heat Wave",
+                "Destiny Bond"
+            ],
+            "index": 489
+        },
+        "Ninja Boy Riley": {
+            "level": 70,
+            "item": "Lum Berry",
+            "ability": "Levitate",
+            "nature": "Modest",
+            "moves": [
+                "Strange Steam",
+                "Sludge Bomb",
+                "Thunderbolt",
+                "Dark Pulse"
+            ],
+            "index": 520
+        },
+        "Cooltrainer Halle": {
+            "level": 90,
+            "item": "Terrain Extender",
+            "ability": "Misty Surge",
+            "nature": "Sassy",
+            "moves": [
+                "Gunk Shot",
+                "Play Rough",
+                "Toxic Spikes",
+                "Misty Explosion"
+            ],
+            "index": 852
+        }
+    },
+    "Decidueye": {
+        "Camper Flint": {
+            "level": 64,
+            "item": "Sharp Beak",
+            "ability": "Overgrow",
+            "nature": "Adamant",
+            "moves": [
+                "Spirit Shackle",
+                "Leaf Blade",
+                "Dual Wingbeat",
+                "Roost"
+            ],
+            "index": 492
+        },
+        "Cooltrainer Shannon": {
+            "level": 90,
+            "item": "Flying Gem",
+            "ability": "Long Reach",
+            "nature": "Jolly",
+            "moves": [
+                "Leaf Storm",
+                "Leaf Blade",
+                "Spirit Shackle",
+                "Acrobatics"
+            ],
+            "index": 801
+        }
+    },
+    "Medicham": {
+        "Camper Flint": {
+            "level": 64,
+            "item": "Expert Belt",
+            "ability": "Telepathy",
+            "nature": "Adamant",
+            "moves": [
+                "Close Combat",
+                "Zen Headbutt",
+                "Stone Edge",
+                "Fake Out"
+            ],
+            "index": 493
+        },
+        "Hex Maniac Sylvia": {
+            "level": 68,
+            "item": "Iron Ball",
+            "ability": "Pure Power",
+            "nature": "Brave",
+            "moves": [
+                "Close Combat",
+                "Zen Headbutt",
+                "Rock Slide",
+                "Fake Out"
+            ],
+            "index": 660
+        },
+        "Siblings Reli And Ian": {
+            "level": 75,
+            "item": "White Herb",
+            "ability": "Pure Power",
+            "nature": "Adamant",
+            "moves": [
+                "Close Combat",
+                "Zen Headbutt",
+                "Thunder Punch",
+                "Fake Out"
+            ],
+            "index": 705
+        }
+    },
+    "Gardevoir": {
+        "Camper Flint": {
+            "level": 62,
+            "item": "Covert Cloak",
+            "ability": "Telepathy",
+            "nature": "Timid",
+            "moves": [
+                "Moonblast",
+                "Psychic",
+                "Hyper Voice",
+                "Thunderbolt"
+            ],
+            "index": 494
+        },
+        "Parasol Lady Clarissa": {
+            "level": 68,
+            "item": "Kebia Berry",
+            "ability": "Ethereal Echo",
+            "nature": "Serious",
+            "moves": [
+                "Psychic",
+                "Dazzling Gleam",
+                "Shadow Ball",
+                "Calm Mind"
+            ],
+            "index": 526
+        },
+        "Psychic Hannah": {
+            "level": 68,
+            "item": "Iron Ball",
+            "ability": "Ethereal Echo",
+            "nature": "Quiet",
+            "moves": [
+                "Alluring Voice",
+                "Psychic Noise",
+                "Hyper Voice",
+                "Destiny Bond"
+            ],
+            "index": 659
+        },
+        "Cooltrainer Albert": {
+            "level": 89,
+            "item": "Kebia Berry",
+            "ability": "Synchronize",
+            "nature": "Timid",
+            "moves": [
+                "Hyper Voice",
+                "Psychic",
+                "Draining Kiss",
+                "Destiny Bond"
+            ],
+            "index": 764
+        },
+        "Cooltrainer Julie": {
+            "level": 89,
+            "item": "Fire Gem",
+            "ability": "Pixilate",
+            "nature": "Timid",
+            "moves": [
+                "Hyper Voice",
+                "Psychic",
+                "Mystical Fire",
+                "Destiny Bond"
+            ],
+            "index": 806
+        }
+    },
+    "Noivern": {
+        "Bird Keeper Edwardo": {
+            "level": 62,
+            "item": "Silk Scarf",
+            "ability": "Infiltrator",
+            "nature": "Modest",
+            "moves": [
+                "Dragon Pulse",
+                "Air Slash",
+                "Boomburst",
+                "Flamethrower"
+            ],
+            "index": 496
+        }
+    },
+    "Skarmory": {
+        "Bird Keeper Darius": {
+            "level": 64,
+            "item": "Red Card",
+            "ability": "Sturdy",
+            "nature": "Careful",
+            "moves": [
+                "Body Press",
+                "Drill Peck",
+                "Spikes",
+                "Stealth Rock"
+            ],
+            "index": 498
+        }
+    },
+    "Mandibuzz": {
+        "Bird Keeper Darius": {
+            "level": 64,
+            "item": "Quick Claw",
+            "ability": "Big Pecks",
+            "nature": "Timid",
+            "moves": [
+                "Dark Pulse",
+                "Air Slash",
+                "Toxic",
+                "Roost"
+            ],
+            "index": 499
+        }
+    },
+    "Braviary": {
+        "Bird Keeper Darius": {
+            "level": 62,
+            "item": "White Herb",
+            "ability": "Defiant",
+            "nature": "Jolly",
+            "moves": [
+                "Brave Bird",
+                "Close Combat",
+                "Crush Claw",
+                "Bulk Up"
+            ],
+            "index": 500
+        }
+    },
+    "Drampa": {
+        "Expert Jared": {
+            "level": 62,
+            "item": "Lum Berry",
+            "ability": "Berserk",
+            "nature": "Modest",
+            "moves": [
+                "Hyper Voice",
+                "Dragon Pulse",
+                "Extrasensory",
+                "Icy Wind"
+            ],
+            "index": 503
+        },
+        "Cooltrainer Halle": {
+            "level": 90,
+            "item": "Custap Berry",
+            "ability": "Berserk",
+            "nature": "Modest",
+            "moves": [
+                "Roost",
+                "Hyper Voice",
+                "Ice Beam",
+                "Flamethrower"
+            ],
+            "index": 853
+        }
+    },
+    "Naganadel": {
+        "Expert Jared": {
+            "level": 62,
+            "item": "Wise Glasses",
+            "ability": "Beast Boost",
+            "nature": "Modest",
+            "moves": [
+                "Venoshock",
+                "Dragon Breath",
+                "Air Slash",
+                "Toxic"
+            ],
+            "index": 505
+        },
+        "Elite Four Janine": {
+            "level": 90,
+            "item": "Haban Berry",
+            "ability": "Beast Boost",
+            "nature": "Modest",
+            "moves": [
+                "Sludge Wave",
+                "Dragon Pulse",
+                "Venoshock",
+                "U-Turn"
+            ],
+            "index": 887
+        }
+    },
+    "Yanmega": {
+        "Expert Jared": {
+            "level": 62,
+            "item": "Scope Lens",
+            "ability": "Speed Boost",
+            "nature": "Modest",
+            "moves": [
+                "Bug Buzz",
+                "Air Cutter",
+                "Giga Drain",
+                "U-Turn"
+            ],
+            "index": 506
+        }
+    },
+    "Zapdos-Galar": {
+        "Leader Winona": {
+            "level": 64,
+            "item": "Sharp Beak",
+            "ability": "Defiant",
+            "nature": "Jolly",
+            "moves": [
+                "Thunderous Kick",
+                "Drill Peck",
+                "Stomping Tantrum",
+                "Detect"
+            ],
+            "index": 507
+        }
+    },
+    "Articuno-Galar": {
+        "Leader Winona": {
+            "level": 64,
+            "item": "Sharp Beak",
+            "ability": "Competitive",
+            "nature": "Timid",
+            "moves": [
+                "Freezing Glare",
+                "Air Slash",
+                "Shadow Ball",
+                "Hypnosis"
+            ],
+            "index": 509
+        }
+    },
+    "Moltres-Galar": {
+        "Leader Winona": {
+            "level": 64,
+            "item": "Sharp Beak",
+            "ability": "Berserk",
+            "nature": "Bold",
+            "moves": [
+                "Fiery Wrath",
+                "Dark Pulse",
+                "Air Slash",
+                "Roost"
+            ],
+            "index": 510
+        },
+        "Champion May": {
+            "level": 89,
+            "item": "Aguav Berry",
+            "ability": "Berserk",
+            "nature": "Timid",
+            "moves": [
+                "Fiery Wrath",
+                "Air Slash",
+                "Ancient Power",
+                "Roost"
+            ],
+            "index": 897
+        }
+    },
+    "Corviknight": {
+        "Leader Winona": {
+            "level": 63,
+            "item": "Expert Belt",
+            "ability": "Unnerve",
+            "nature": "Adamant",
+            "moves": [
+                "Iron Head",
+                "Drill Peck",
+                "Body Press",
+                "Tailwind"
+            ],
+            "index": 511
+        }
+    },
+    "Salamence": {
+        "Leader Winona": {
+            "level": 63,
+            "item": "Covert Cloak",
+            "ability": "Intimidate",
+            "nature": "Jolly",
+            "moves": [
+                "Dragon Claw",
+                "Dual Wingbeat",
+                "Earthquake",
+                "Fire Fang"
+            ],
+            "index": 512
+        },
+        "Cooltrainer Shannon": {
+            "level": 89,
+            "item": "Covert Cloak",
+            "ability": "Intimidate",
+            "nature": "Jolly",
+            "moves": [
+                "Dragon Claw",
+                "Dual Wingbeat",
+                "Bulldoze",
+                "Tailwind"
+            ],
+            "index": 798
+        }
+    },
+    "Omastar": {
+        "Parasol Lady Angelica": {
+            "level": 68,
+            "item": "Focus Sash",
+            "ability": "Swift Swim",
+            "nature": "Timid",
+            "moves": [
+                "Surf",
+                "Earth Power",
+                "Ice Beam",
+                "Shell Smash"
+            ],
+            "index": 514
+        }
+    },
+    "Iron Jugulis": {
+        "Ninja Boy Riley": {
+            "level": 68,
+            "item": "Flying Gem",
+            "ability": "Quark Drive",
+            "nature": "Adamant",
+            "moves": [
+                "Crunch",
+                "Acrobatics",
+                "Iron Head",
+                "Knock Off"
+            ],
+            "index": 518
+        },
+        "Swimmer Tisha": {
+            "level": 75,
+            "item": "Booster Energy",
+            "ability": "Quark Drive",
+            "nature": "Modest",
+            "moves": [
+                "Dark Pulse",
+                "Air Slash",
+                "Fire Blast",
+                "Air Cutter"
+            ],
+            "index": 689
+        },
+        "Elite Four Janine": {
+            "level": 89,
+            "item": "Booster Energy",
+            "ability": "Quark Drive",
+            "nature": "Calm",
+            "moves": [
+                "Dark Pulse",
+                "Air Slash",
+                "Heat Wave",
+                "Substitute"
+            ],
+            "index": 884
+        }
+    },
+    "Iron Valiant": {
+        "Battle Girl Callie": {
+            "level": 68,
+            "item": "Fighting Gem",
+            "ability": "Quark Drive",
+            "nature": "Rash",
+            "moves": [
+                "Aura Sphere",
+                "Spirit Break",
+                "Leaf Blade",
+                "Liquidation"
+            ],
+            "index": 521
+        },
+        "Gym Leader Tate and Liza": {
+            "level": 70,
+            "item": "Booster Energy",
+            "ability": "Quark Drive",
+            "nature": "Jolly",
+            "moves": [
+                "Spirit Break",
+                "Brick Break",
+                "Psycho Cut",
+                "Destiny Bond"
+            ],
+            "index": 680
+        },
+        "Cooltrainer Owen": {
+            "level": 89,
+            "item": "Clear Amulet",
+            "ability": "Quark Drive",
+            "nature": "Rash",
+            "moves": [
+                "Close Combat",
+                "Moonblast",
+                "Thunderbolt",
+                "Liquidation"
+            ],
+            "index": 815
+        },
+        "Cooltrainer Dianne": {
+            "level": 89,
+            "item": "Life Orb",
+            "ability": "Quark Drive",
+            "nature": "Jolly",
+            "moves": [
+                "Close Combat",
+                "Spirit Break",
+                "Shadow Sneak",
+                "Knock Off"
+            ],
+            "index": 817
+        },
+        "Elite Four Whitney": {
+            "level": 90,
+            "item": "Life Orb",
+            "ability": "Quark Drive",
+            "nature": "Timid",
+            "moves": [
+                "Moonblast",
+                "Aura Sphere",
+                "Psychic",
+                "Thunderbolt"
+            ],
+            "index": 881
+        }
+    },
+    "Heracross": {
+        "Battle Girl Callie": {
+            "level": 68,
+            "item": "Coba Berry",
+            "ability": "Moxie",
+            "nature": "Jolly",
+            "moves": [
+                "Megahorn",
+                "Close Combat",
+                "Stone Edge",
+                "Smart Strike"
+            ],
+            "index": 522
+        },
+        "Expert Magik": {
+            "level": 89,
+            "item": "Choice Scarf",
+            "ability": "Guts",
+            "nature": "Adamant",
+            "moves": [
+                "Megahorn",
+                "Close Combat",
+                "Stone Edge",
+                "High Horsepower"
+            ],
+            "index": 796
+        }
+    },
+    "Rotom-Wash": {
+        "Parasol Lady Clarissa": {
+            "level": 68,
+            "item": "Leftovers",
+            "ability": "Levitate",
+            "nature": "Modest",
+            "moves": [
+                "Hydro Pump",
+                "Thunder",
+                "Volt Switch",
+                "Thunder Wave"
+            ],
+            "index": 525
+        },
+        "Elite Four Jasmine": {
+            "level": 89,
+            "item": "Aguav Berry",
+            "ability": "Levitate",
+            "nature": "Modest",
+            "moves": [
+                "Hydro Pump",
+                "Thunderbolt",
+                "Shadow Ball",
+                "Nasty Plot"
+            ],
+            "index": 873
+        }
+    },
+    "Seismitoad": {
+        "Parasol Lady Clarissa": {
+            "level": 68,
+            "item": "Rindo Berry",
+            "ability": "Swift Swim",
+            "nature": "Mild",
+            "moves": [
+                "Surf",
+                "Earth Power",
+                "Ice Punch",
+                "Mud Shot"
+            ],
+            "index": 527
+        }
+    },
+    "Heliolisk": {
+        "Parasol Lady Clarissa": {
+            "level": 70,
+            "item": "Iapapa Berry",
+            "ability": "Dry Skin",
+            "nature": "Impish",
+            "moves": [
+                "Thunder",
+                "Hyper Voice",
+                "Weather Ball",
+                "Thunder Wave"
+            ],
+            "index": 528
+        },
+        "Aroma Lady Rachel": {
+            "level": 90,
+            "item": "Throat Spray",
+            "ability": "Solar Power",
+            "nature": "Timid",
+            "moves": [
+                "Thunderbolt",
+                "Overdrive",
+                "Solar Beam",
+                "Weather Ball"
+            ],
+            "index": 787
+        }
+    },
+    "Kabutops": {
+        "Bug Maniac Jeffrey": {
+            "level": 68,
+            "item": "Focus Sash",
+            "ability": "Swift Swim",
+            "nature": "Adamant",
+            "moves": [
+                "Stone Edge",
+                "Liquidation",
+                "Leech Life",
+                "Aqua Jet"
+            ],
+            "index": 530
+        },
+        "Battler Girl Danielle": {
+            "level": 75,
+            "item": "Flying Gem",
+            "ability": "Sharpness",
+            "nature": "Jolly",
+            "moves": [
+                "Razor Shell",
+                "Rock Slide",
+                "Aerial Ace",
+                "Protect"
+            ],
+            "index": 746
+        }
+    },
+    "Goodra": {
+        "Cooltrainer Jennifer": {
+            "level": 68,
+            "item": "Iapapa Berry",
+            "ability": "Hydration",
+            "nature": "Modest",
+            "moves": [
+                "Dragon Pulse",
+                "Sludge Wave",
+                "Weather Ball",
+                "Mud Shot"
+            ],
+            "index": 534
+        }
+    },
+    "Lurantis": {
+        "Cooltrainer Jennifer": {
+            "level": 70,
+            "item": "Focus Sash",
+            "ability": "Contrary",
+            "nature": "Rash",
+            "moves": [
+                "Leaf Storm",
+                "Superpower",
+                "Weather Ball",
+                "X-Scissor"
+            ],
+            "index": 537
+        }
+    },
+    "Shiftry": {
+        "Ranger Lorenzo": {
+            "level": 68,
+            "item": "Focus Sash",
+            "ability": "Chlorophyll",
+            "nature": "Adamant",
+            "moves": [
+                "Leaf Blade",
+                "Foul Play",
+                "Night Slash",
+                "Fake Out"
+            ],
+            "index": 542
+        }
+    },
+    "Regirock": {
+        "Ruin Maniac Chip": {
+            "level": 70,
+            "item": "Muscle Band",
+            "ability": "Clear Body",
+            "nature": "Adamant",
+            "moves": [
+                "Rock Slide",
+                "Stomping Tantrum",
+                "Drain Punch",
+                "Stealth Rock"
+            ],
+            "index": 544
+        }
+    },
+    "Registeel": {
+        "Ruin Maniac Chip": {
+            "level": 70,
+            "item": "Muscle Band",
+            "ability": "Clear Body",
+            "nature": "Adamant",
+            "moves": [
+                "Iron Head",
+                "Earthquake",
+                "Hammer Arm",
+                "Counter"
+            ],
+            "index": 545
+        }
+    },
+    "Regice": {
+        "Ruin Maniac Chip": {
+            "level": 70,
+            "item": "Chesto Berry",
+            "ability": "Clear Body",
+            "nature": "Modest",
+            "moves": [
+                "Ice Beam",
+                "Thunderbolt",
+                "Rest",
+                "Sleep Talk"
+            ],
+            "index": 546
+        }
+    },
+    "Cresselia": {
+        "Hex Maniac Tammy": {
+            "level": 68,
+            "item": "Covert Cloak",
+            "ability": "Levitate",
+            "nature": "Relaxed",
+            "moves": [
+                "Psychic",
+                "Moonblast",
+                "Moonlight",
+                "Trick Room"
+            ],
+            "index": 547
+        }
+    },
+    "Meowscarada": {
+        "Beauty Jessica": {
+            "level": 68,
+            "item": "Focus Sash",
+            "ability": "Protean",
+            "nature": "Adamant",
+            "moves": [
+                "Flower Trick",
+                "Knock Off",
+                "Play Rough",
+                "U-Turn"
+            ],
+            "index": 552
+        },
+        "Cooltrainer Red": {
+            "level": 89,
+            "item": "Life Orb",
+            "ability": "Protean",
+            "nature": "Jolly",
+            "moves": [
+                "Flower Trick",
+                "Knock Off",
+                "Play Rough",
+                "U-Turn"
+            ],
+            "index": 844
+        }
+    },
+    "Sylveon": {
+        "Beauty Jessica": {
+            "level": 68,
+            "item": "Misty Seed",
+            "ability": "Pixilate",
+            "nature": "Timid",
+            "moves": [
+                "Hyper Voice",
+                "Psychic",
+                "Mystical Fire",
+                "Misty Explosion"
+            ],
+            "index": 554
+        },
+        "Elite Four Whitney": {
+            "level": 89,
+            "item": "Fairy Feather",
+            "ability": "Pixilate",
+            "nature": "Modest",
+            "moves": [
+                "Hyper Voice",
+                "Psychic",
+                "Draining Kiss",
+                "Protect"
+            ],
+            "index": 876
+        }
+    },
+    "Delphox": {
+        "Beauty Jessica": {
+            "level": 68,
+            "item": "Fire Gem",
+            "ability": "Magician",
+            "nature": "Modest",
+            "moves": [
+                "Psychic",
+                "Mystical Fire",
+                "Shadow Ball",
+                "Future Sight"
+            ],
+            "index": 555
+        }
+    },
+    "Mimikyu": {
+        "Bug Maniac Cale": {
+            "level": 68,
+            "item": "Focus Sash",
+            "ability": "Disguise",
+            "nature": "Timid",
+            "moves": [
+                "Play Rough",
+                "Shadow Claw",
+                "Wood Hammer",
+                "Destiny Bond"
+            ],
+            "index": 560
+        },
+        "Swimmer Susie": {
+            "level": 77,
+            "item": "Fairy Feather",
+            "ability": "Disguise",
+            "nature": "Adamant",
+            "moves": [
+                "Play Rough",
+                "Shadow Claw",
+                "Leech Life",
+                "Destiny Bond"
+            ],
+            "index": 701
+        },
+        "Magma Leader Maxie": {
+            "level": 89,
+            "item": "Spell Tag",
+            "ability": "Disguise",
+            "nature": "Adamant",
+            "moves": [
+                "Play Rough",
+                "Shadow Claw",
+                "Wood Hammer",
+                "Dazzling Gleam"
+            ],
+            "index": 860
+        }
+    },
+    "Snorlax": {
+        "Pokemon Breeder Pat": {
+            "level": 70,
+            "item": "Sitrus Berry",
+            "ability": "Gluttony",
+            "nature": "Adamant",
+            "moves": [
+                "Body Slam",
+                "Crunch",
+                "Heavy Slam",
+                "High Horsepower"
+            ],
+            "index": 566
+        }
+    },
+    "Chimecho": {
+        "Pokemon Breeder Myles": {
+            "level": 72,
+            "item": "Sitrus Berry",
+            "ability": "Levitate",
+            "nature": "Modest",
+            "moves": [
+                "Psychic",
+                "Dazzling Gleam",
+                "Charge Beam",
+                "Recover"
+            ],
+            "index": 570
+        }
+    },
+    "Roselia": {
+        "Pokemon Breeder Myles": {
+            "level": 72,
+            "item": "Eviolite",
+            "ability": "Poison Point",
+            "nature": "Timid",
+            "moves": [
+                "Sludge Bomb",
+                "Energy Ball",
+                "Extrasensory",
+                "Round"
+            ],
+            "index": 571
+        }
+    },
+    "Maushold": {
+        "Sr. and Jr. Kate & Joy": {
+            "level": 70,
+            "item": "Covert Cloak",
+            "ability": "Friend Guard",
+            "nature": "Timid",
+            "moves": [
+                "Population Bomb",
+                "Super Fang",
+                "Beat Up",
+                "Tickle"
+            ],
+            "index": 573
+        }
+    },
+    "Terrakion": {
+        "Sr. and Jr. Kate & Joy": {
+            "level": 68,
+            "item": "Normal Gem",
+            "ability": "Justified",
+            "nature": "Serious",
+            "moves": [
+                "Stone Edge",
+                "Sacred Sword",
+                "Retaliate"
+            ],
+            "index": 576
+        }
+    },
+    "Silvally-Fairy": {
+        "Pokefan Vanessa": {
+            "level": 68,
+            "item": "Fairy Memory",
+            "ability": "Rks System",
+            "nature": "Jolly",
+            "moves": [
+                "Multi-Attack",
+                "Psychic Fangs",
+                "X-Scissor",
+                "Parting Shot"
+            ],
+            "index": 577
+        }
+    },
+    "Lycanroc-Dusk": {
+        "Pokefan Vanessa": {
+            "level": 68,
+            "item": "Focus Sash",
+            "ability": "Tough Claws",
+            "nature": "Jolly",
+            "moves": [
+                "Stone Edge",
+                "High Horsepower",
+                "Play Rough",
+                "Reversal"
+            ],
+            "index": 578
+        }
+    },
+    "Gothitelle": {
+        "Pokefan Vanessa": {
+            "level": 70,
+            "item": "Life Orb",
+            "ability": "Shadow Tag",
+            "nature": "Modest",
+            "moves": [
+                "Future Sight",
+                "Psychic",
+                "Energy Ball",
+                "Dark Pulse"
+            ],
+            "index": 580
+        },
+        "Psychic Samantha": {
+            "level": 68,
+            "item": "Focus Sash",
+            "ability": "Competitive",
+            "nature": "Quiet",
+            "moves": [
+                "Psychic",
+                "Focus Blast",
+                "Dark Pulse",
+                "Fake Out"
+            ],
+            "index": 645
+        }
+    },
+    "Alcremie": {
+        "Gentleman Walter": {
+            "level": 68,
+            "item": "Quick Claw",
+            "ability": "Sweet Veil",
+            "nature": "Modest",
+            "moves": [
+                "Misty Explosion",
+                "Dazzling Gleam",
+                "Psychic",
+                "Energy Ball"
+            ],
+            "index": 581
+        }
+    },
+    "Wyrdeer": {
+        "Gentleman Walter": {
+            "level": 68,
+            "item": "Life Orb",
+            "ability": "Intimidate",
+            "nature": "Adamant",
+            "moves": [
+                "Double-Edge",
+                "Body Slam",
+                "Psyshield Bash",
+                "Trailblaze"
+            ],
+            "index": 583
+        }
+    },
+    "Iron Moth": {
+        "Cooltrainer Cristin": {
+            "level": 68,
+            "item": "Air Balloon",
+            "ability": "Quark Drive",
+            "nature": "Timid",
+            "moves": [
+                "Sludge Wave",
+                "Fiery Dance",
+                "Bug Buzz",
+                "Discharge"
+            ],
+            "index": 585
+        },
+        "Leader Flannery": {
+            "level": 77,
+            "item": "Air Balloon",
+            "ability": "Quark Drive",
+            "nature": "Timid",
+            "moves": [
+                "Fiery Dance",
+                "Venoshock",
+                "Bug Buzz",
+                "Energy Ball"
+            ],
+            "index": 761
+        },
+        "Cooltrainer Owen": {
+            "level": 89,
+            "item": "Air Balloon",
+            "ability": "Quark Drive",
+            "nature": "Timid",
+            "moves": [
+                "Heat Wave",
+                "Energy Ball",
+                "Sludge Wave",
+                "U-Turn"
+            ],
+            "index": 814
+        },
+        "Cooltrainer Terra": {
+            "level": 89,
+            "item": "Booster Energy",
+            "ability": "Quark Drive",
+            "nature": "Timid",
+            "moves": [
+                "Psychic",
+                "Sludge Wave",
+                "Energy Ball",
+                "Fiery Dance"
+            ],
+            "index": 835
+        }
+    },
+    "Slurpuff": {
+        "Cooltrainer Cristin": {
+            "level": 68,
+            "item": "Misty Seed",
+            "ability": "Unburden",
+            "nature": "Modest",
+            "moves": [
+                "Misty Explosion",
+                "Draining Kiss",
+                "Flamethrower",
+                "Calm Mind"
+            ],
+            "index": 587
+        }
+    },
+    "Typhlosion": {
+        "Cooltrainer Cristin": {
+            "level": 70,
+            "item": "Fire Gem",
+            "ability": "Blaze",
+            "nature": "Timid",
+            "moves": [
+                "Flamethrower",
+                "Extrasensory",
+                "Shadow Ball",
+                "Scorching Sands"
+            ],
+            "index": 588
+        },
+        "Cooltrainer Mitchell": {
+            "level": 89,
+            "item": "Power Herb",
+            "ability": "Blaze",
+            "nature": "Timid",
+            "moves": [
+                "Eruption",
+                "Solar Beam",
+                "Nature Power",
+                "Flamethrower"
+            ],
+            "index": 850
+        }
+    },
+    "Incineroar": {
+        "Cooltrainer Marcel": {
+            "level": 68,
+            "item": "Assault Vest",
+            "ability": "Intimidate",
+            "nature": "Adamant",
+            "moves": [
+                "Blaze Kick",
+                "Darkest Lariat",
+                "Parting Shot",
+                "Fake Out"
+            ],
+            "index": 591
+        },
+        "Psychic Blake": {
+            "level": 68,
+            "item": "Sitrus Berry",
+            "ability": "Intimidate",
+            "nature": "Brave",
+            "moves": [
+                "Darkest Lariat",
+                "Blaze Kick",
+                "Cross Chop",
+                "Fake Out"
+            ],
+            "index": 649
+        },
+        "Elite Four Whitney": {
+            "level": 89,
+            "item": "Sitrus Berry",
+            "ability": "Blaze",
+            "nature": "Timid",
+            "moves": [
+                "Blaze Kick",
+                "Darkest Lariat",
+                "Parting Shot",
+                "Fake Out"
+            ],
+            "index": 880
+        }
+    },
+    "Roaring Moon": {
+        "Cooltrainer Marcel": {
+            "level": 68,
+            "item": "Flying Gem",
+            "ability": "Protosynthesis",
+            "nature": "Adamant",
+            "moves": [
+                "Dragon Claw",
+                "Crunch",
+                "Acrobatics",
+                "Dragon Dance"
+            ],
+            "index": 593
+        },
+        "Cooltrainer Julie": {
+            "level": 89,
+            "item": "Flying Gem",
+            "ability": "Protosynthesis",
+            "nature": "Jolly",
+            "moves": [
+                "Dragon Claw",
+                "Knock Off",
+                "Acrobatics",
+                "Dragon Dance"
+            ],
+            "index": 808
+        }
+    },
+    "Mr. Rime": {
+        "Swimmer Nolen": {
+            "level": 70,
+            "item": "Salac Berry",
+            "ability": "Ice Body",
+            "nature": "Modest",
+            "moves": [
+                "Psyshock",
+                "Freeze-Dry",
+                "Shadow Ball",
+                "Fake Out"
+            ],
+            "index": 596
+        }
+    },
+    "Cramorant": {
+        "Roy Tuber": {
+            "level": 70,
+            "item": "Lum Berry",
+            "ability": "Gulp Missile",
+            "nature": "Modest",
+            "moves": [
+                "Surf",
+                "Weather Ball",
+                "Air Slash",
+                "Agility"
+            ],
+            "index": 602
+        }
+    },
+    "Frosmoth": {
+        "Swimmer Declan": {
+            "level": 68,
+            "item": "Quick Claw",
+            "ability": "Ice Scales",
+            "nature": "Bold",
+            "moves": [
+                "Blizzard",
+                "Bug Buzz",
+                "Air Slash",
+                "Aurora Veil"
+            ],
+            "index": 607
+        }
+    },
+    "Articuno": {
+        "Swimmer Declan": {
+            "level": 70,
+            "item": "Lum Berry",
+            "ability": "Snow Cloak",
+            "nature": "Timid",
+            "moves": [
+                "Air Slash",
+                "Freeze-Dry",
+                "Extrasensory",
+                "U-Turn"
+            ],
+            "index": 610
+        }
+    },
+    "Alakazam": {
+        "Swimmer Spencer": {
+            "level": 68,
+            "item": "Focus Sash",
+            "ability": "Synchronize",
+            "nature": "Modest",
+            "moves": [
+                "Psychic",
+                "Focus Blast",
+                "Dazzling Gleam",
+                "Reflect"
+            ],
+            "index": 611
+        }
+    },
+    "Charizard": {
+        "Swimmer Spencer": {
+            "level": 68,
+            "item": "Focus Band",
+            "ability": "Blaze",
+            "nature": "Timid",
+            "moves": [
+                "Flamethrower",
+                "Air Slash",
+                "Weather Ball",
+                "Counter"
+            ],
+            "index": 612
+        }
+    },
+    "Cinderace": {
+        "Swimmer Grace": {
+            "level": 70,
+            "item": "Flying Gem",
+            "ability": "Protean",
+            "nature": "Jolly",
+            "moves": [
+                "Blaze Kick",
+                "Double-Edge",
+                "Acrobatics",
+                "Bulk Up"
+            ],
+            "index": 618
+        }
+    },
+    "Glalie": {
+        "Swimmer Jenny": {
+            "level": 68,
+            "item": "Focus Band",
+            "ability": "Inner Focus",
+            "nature": "Adamant",
+            "moves": [
+                "Icicle Crash",
+                "Earthquake",
+                "Crunch",
+                "Explosion"
+            ],
+            "index": 620
+        }
+    },
+    "Rotom-Frost": {
+        "Swimmer Chad": {
+            "level": 68,
+            "item": "Salac Berry",
+            "ability": "Levitate",
+            "nature": "Timid",
+            "moves": [
+                "Blizzard",
+                "Thunderbolt",
+                "Hex",
+                "Volt Switch"
+            ],
+            "index": 624
+        }
+    },
+    "Cryogonal": {
+        "Swimmer Isabella": {
+            "level": 68,
+            "item": "Light Clay",
+            "ability": "Levitate",
+            "nature": "Timid",
+            "moves": [
+                "Ice Beam",
+                "Freeze-Dry",
+                "Ancient Power",
+                "Aurora Veil"
+            ],
+            "index": 628
+        }
+    },
+    "Kommo-o": {
+        "Swimmer Isabella": {
+            "level": 68,
+            "item": "Focus Sash",
+            "ability": "Soundproof",
+            "nature": "Adamant",
+            "moves": [
+                "Drain Punch",
+                "Poison Jab",
+                "Thunder Punch",
+                "Dragon Dance"
+            ],
+            "index": 630
+        },
+        "Cooltrainer Red": {
+            "level": 89,
+            "item": "Throat Spray",
+            "ability": "Overcoat",
+            "nature": "Timid",
+            "moves": [
+                "Clanging Scales",
+                "Aura Sphere",
+                "Boomburst",
+                "Flash Cannon"
+            ],
+            "index": 843
+        }
+    },
+    "Cetitan": {
+        "Swimmer Isabella": {
+            "level": 70,
+            "item": "Sitrus Berry",
+            "ability": "Slush Rush",
+            "nature": "Adamant",
+            "moves": [
+                "Ice Spinner",
+                "High Horsepower",
+                "Ice Shard",
+                "Belly Drum"
+            ],
+            "index": 632
+        }
+    },
+    "Kingambit": {
+        "Bird Keeper Presley": {
+            "level": 68,
+            "item": "Life Orb",
+            "ability": "Supreme Overlord",
+            "nature": "Adamant",
+            "moves": [
+                "Kowtow Cleave",
+                "Sucker Punch",
+                "Iron Head",
+                "Brick Break"
+            ],
+            "index": 635
+        },
+        "Cooltrainer MBF": {
+            "level": 90,
+            "item": "Chople Berry",
+            "ability": "Supreme Overlord",
+            "nature": "Adamant",
+            "moves": [
+                "Kowtow Cleave",
+                "Iron Head",
+                "Sucker Punch",
+                "Swords Dance"
+            ],
+            "index": 827
+        }
+    },
+    "Ogerpon-Cornerstone": {
+        "Expert Auron": {
+            "level": 68,
+            "item": "Cornerstone Mask",
+            "ability": "Sturdy",
+            "nature": "Jolly",
+            "moves": [
+                "Ivy Cudgel",
+                "U-Turn",
+                "Spiky Shield",
+                "Horn Leech"
+            ],
+            "index": 636
+        }
+    },
+    "Indeedee-F": {
+        "Psychic Maura": {
+            "level": 68,
+            "item": "Terrain Extender",
+            "ability": "Psychic Surge",
+            "nature": "Quiet",
+            "moves": [
+                "Expanding Force",
+                "Hyper Voice",
+                "Alluring Voice",
+                "Psychic Terrain"
+            ],
+            "index": 642
+        },
+        "Swimmer Tisha": {
+            "level": 77,
+            "item": "Psychic Seed",
+            "ability": "Psychic Surge",
+            "nature": "Bold",
+            "moves": [
+                "Expanding Force",
+                "Hyper Voice",
+                "Dazzling Gleam",
+                "Skill Swap"
+            ],
+            "index": 688
+        }
+    },
+    "Hypno": {
+        "Psychic Maura": {
+            "level": 70,
+            "item": "Life Orb",
+            "ability": "Inner Focus",
+            "nature": "Quiet",
+            "moves": [
+                "Expanding Force",
+                "Focus Blast",
+                "Dazzling Gleam",
+                "Hypnosis"
+            ],
+            "index": 644
+        }
+    },
+    "Houndstone": {
+        "Psychic Virgil": {
+            "level": 68,
+            "item": "Leftovers",
+            "ability": "Fluffy",
+            "nature": "Brave",
+            "moves": [
+                "Last Respects",
+                "Psychic Fangs",
+                "Play Rough",
+                "Howl"
+            ],
+            "index": 652
+        }
+    },
+    "Camerupt": {
+        "Psychic Virgil": {
+            "level": 70,
+            "item": "Focus Sash",
+            "ability": "Solid Rock",
+            "nature": "Brave",
+            "moves": [
+                "Temper Flare",
+                "Stomping Tantrum",
+                "Zen Headbutt",
+                "Howl"
+            ],
+            "index": 653
+        },
+        "Hiker Eli": {
+            "level": 75,
+            "item": "Quick Claw",
+            "ability": "Solid Rock",
+            "nature": "Quiet",
+            "moves": [
+                "Eruption",
+                "Heat Wave",
+                "Earth Power",
+                "Ancient Power"
+            ],
+            "index": 741
+        }
+    },
+    "Rhyperior": {
+        "Psychic Nicholas": {
+            "level": 68,
+            "item": "Covert Cloak",
+            "ability": "Lightning Rod",
+            "nature": "Adamant",
+            "moves": [
+                "Drill Run",
+                "Rock Slide",
+                "Fire Punch",
+                "Surf"
+            ],
+            "index": 666
+        }
+    },
+    "Druddigon": {
+        "Psychic Nicholas": {
+            "level": 68,
+            "item": "Covert Cloak",
+            "ability": "Sheer Force",
+            "nature": "Adamant",
+            "moves": [
+                "Dragon Claw",
+                "Poison Jab",
+                "Crunch",
+                "Surf"
+            ],
+            "index": 667
+        },
+        "Dragon Tamer Jace": {
+            "level": 75,
+            "item": "Rocky Helmet",
+            "ability": "Rough Skin",
+            "nature": "Careful",
+            "moves": [
+                "Dragon Tail",
+                "Poison Jab",
+                "Protect",
+                "Toxic"
+            ],
+            "index": 727
+        }
+    },
+    "Amoonguss": {
+        "Psychic Macey": {
+            "level": 68,
+            "item": "Sitrus Berry",
+            "ability": "Effect Spore",
+            "nature": "Quiet",
+            "moves": [
+                "Energy Ball",
+                "Sludge Bomb",
+                "Pollen Puff",
+                "Spore"
+            ],
+            "index": 673
+        }
+    },
+    "Bronzong": {
+        "Psychic Macey": {
+            "level": 68,
+            "item": "Occa Berry",
+            "ability": "Levitate",
+            "nature": "Brave",
+            "moves": [
+                "Gyro Ball",
+                "Body Press",
+                "Future Sight",
+                "Hypnosis"
+            ],
+            "index": 674
+        }
+    },
+    "Tapu Lele": {
+        "Gym Leader Tate and Liza": {
+            "level": 69,
+            "item": "Terrain Extender",
+            "ability": "Psychic Surge",
+            "nature": "Jolly",
+            "moves": [
+                "Moonblast",
+                "Extrasensory",
+                "Shadow Ball",
+                "Psychic Terrain"
+            ],
+            "index": 676
+        },
+        "Cooltrainer Dianne": {
+            "level": 89,
+            "item": "Focus Sash",
+            "ability": "Psychic Surge",
+            "nature": "Timid",
+            "moves": [
+                "Psychic",
+                "Moonblast",
+                "Focus Blast",
+                "Thunderbolt"
+            ],
+            "index": 816
+        }
+    },
+    "Iron Leaves": {
+        "Gym Leader Tate and Liza": {
+            "level": 68,
+            "item": "Power Herb",
+            "ability": "Quark Drive",
+            "nature": "Jolly",
+            "moves": [
+                "Solar Blade",
+                "Psyblade",
+                "X-Scissor",
+                "Psychic Terrain"
+            ],
+            "index": 677
+        }
+    },
+    "Iron Boulder": {
+        "Gym Leader Tate and Liza": {
+            "level": 68,
+            "item": "Clear Amulet",
+            "ability": "Quark Drive",
+            "nature": "Adamant",
+            "moves": [
+                "Mighty Cleave",
+                "Zen Headbutt",
+                "Night Slash",
+                "Rock Tomb"
+            ],
+            "index": 678
+        },
+        "Cooltrainer Quincy": {
+            "level": 89,
+            "item": "Booster Energy",
+            "ability": "Quark Drive",
+            "nature": "Adamant",
+            "moves": [
+                "Mighty Cleave",
+                "Zen Headbutt",
+                "Sacred Sword",
+                "X-Scissor"
+            ],
+            "index": 775
+        }
+    },
+    "Iron Crown": {
+        "Gym Leader Tate and Liza": {
+            "level": 68,
+            "item": "Throat Spray",
+            "ability": "Quark Drive",
+            "nature": "Modest",
+            "moves": [
+                "Psychic Noise",
+                "Tachyon Cutter",
+                "Air Slash",
+                "Scary Face"
+            ],
+            "index": 679
+        },
+        "Cooltrainer Red": {
+            "level": 89,
+            "item": "Booster Energy",
+            "ability": "Quark Drive",
+            "nature": "Timid",
+            "moves": [
+                "Expanding Force",
+                "Tachyon Cutter",
+                "Focus Blast",
+                "Volt Switch"
+            ],
+            "index": 845
+        }
+    },
+    "Machamp": {
+        "Swimmer Reed": {
+            "level": 77,
+            "item": "Fire Gem",
+            "ability": "No Guard",
+            "nature": "Adamant",
+            "moves": [
+                "Dynamic Punch",
+                "High Horsepower",
+                "Fire Punch",
+                "Low Kick"
+            ],
+            "index": 683
+        }
+    },
+    "Slaking": {
+        "Swimmer Clarence": {
+            "level": 75,
+            "item": "Psychic Seed",
+            "ability": "Truant",
+            "nature": "Adamant",
+            "moves": [
+                "Body Slam",
+                "High Horsepower",
+                "Play Rough",
+                "Drain Punch"
+            ],
+            "index": 685
+        }
+    },
+    "Iron Bundle": {
+        "Swimmer Clarence": {
+            "level": 75,
+            "item": "Focus Sash",
+            "ability": "Quark Drive",
+            "nature": "Modest",
+            "moves": [
+                "Hydro Pump",
+                "Ice Beam",
+                "Freeze-Dry",
+                "Chilling Water"
+            ],
+            "index": 686
+        },
+        "Elite Four Misty": {
+            "level": 89,
+            "item": "Booster Energy",
+            "ability": "Quark Drive",
+            "nature": "Modest",
+            "moves": [
+                "Freeze-Dry",
+                "Water Pulse",
+                "Flip Turn",
+                "Agility"
+            ],
+            "index": 889
+        }
+    },
+    "Metagross": {
+        "Swimmer Kevin": {
+            "level": 75,
+            "item": "Weakness Policy",
+            "ability": "Clear Body",
+            "nature": "Careful",
+            "moves": [
+                "Meteor Mash",
+                "Zen Headbutt",
+                "Earthquake",
+                "Rock Slide"
+            ],
+            "index": 691
+        },
+        "Cooltrainer Shannon": {
+            "level": 89,
+            "item": "Weakness Policy",
+            "ability": "Clear Body",
+            "nature": "Jolly",
+            "moves": [
+                "Meteor Mash",
+                "Psychic Fangs",
+                "Ice Punch",
+                "Rock Slide"
+            ],
+            "index": 799
+        },
+        "Elite Four Jasmine": {
+            "level": 89,
+            "item": "Air Balloon",
+            "ability": "Clear Body",
+            "nature": "Adamant",
+            "moves": [
+                "Meteor Mash",
+                "Psychic Fangs",
+                "Ice Punch",
+                "Trailblaze"
+            ],
+            "index": 874
+        }
+    },
+    "Urshifu-Rapid-Strike": {
+        "Swimmer Richard": {
+            "level": 75,
+            "item": "Focus Sash",
+            "ability": "Unseen Fist",
+            "nature": "Adamant",
+            "moves": [
+                "Close Combat",
+                "Surging Strikes",
+                "Ice Spinner",
+                "Poison Jab"
+            ],
+            "index": 695
+        }
+    },
+    "Dudunsparce": {
+        "Siblings Reli And Ian": {
+            "level": 75,
+            "item": "Normal Gem",
+            "ability": "Serene Grace",
+            "nature": "Adamant",
+            "moves": [
+                "Hyper Drill",
+                "Drill Run",
+                "Zen Headbutt",
+                "Poison Jab"
+            ],
+            "index": 703
+        }
+    },
+    "Cloyster": {
+        "Siblings Reli And Ian": {
+            "level": 75,
+            "item": "Scope Lens",
+            "ability": "Skill Link",
+            "nature": "Adamant",
+            "moves": [
+                "Icicle Spear",
+                "Razor Shell",
+                "Rock Blast",
+                "Smart Strike"
+            ],
+            "index": 708
+        }
+    },
+    "Chien-Pao": {
+        "Challenger Phoebe": {
+            "level": 77,
+            "item": "Choice Band",
+            "ability": "Sword Of Ruin",
+            "nature": "Adamant",
+            "moves": [
+                "Ice Spinner",
+                "Lash Out"
+            ],
+            "index": 710
+        }
+    },
+    "Terapagos": {
+        "Challenger Phoebe": {
+            "level": 77,
+            "item": "Lum Berry",
+            "ability": "Tera Shift",
+            "nature": "Timid",
+            "moves": [
+                "Tera Starstorm",
+                "Dazzling Gleam",
+                "Earth Power",
+                "Energy Ball"
+            ],
+            "index": 714
+        }
+    },
+    "Orbeetle": {
+        "Bug Maniac Axle": {
+            "level": 77,
+            "item": "Light Clay",
+            "ability": "Swarm",
+            "nature": "Modest",
+            "moves": [
+                "Psychic",
+                "Bug Buzz",
+                "Light Screen",
+                "Reflect"
+            ],
+            "index": 720
+        }
+    },
+    "Muk": {
+        "Bug Maniac Axle": {
+            "level": 75,
+            "item": "Quick Claw",
+            "ability": "Poison Touch",
+            "nature": "Timid",
+            "moves": [
+                "Poison Jab",
+                "Crunch",
+                "Drain Punch",
+                "Ice Punch"
+            ],
+            "index": 722
+        }
+    },
+    "Spidops": {
+        "Bug Maniac Axle": {
+            "level": 75,
+            "item": "Focus Sash",
+            "ability": "Stakeout",
+            "nature": "Timid",
+            "moves": [
+                "First Impression",
+                "Circle Throw",
+                "Knock Off",
+                "Silk Trap"
+            ],
+            "index": 723
+        }
+    },
+    "Aurorus": {
+        "Dragon Tamer Jace": {
+            "level": 75,
+            "item": "Choice Specs",
+            "ability": "Refrigerate",
+            "nature": "Timid",
+            "moves": [
+                "Hyper Voice",
+                "Ancient Power"
+            ],
+            "index": 726
+        }
+    },
+    "Mabosstiff": {
+        "Cooltrainer Gerald": {
+            "level": 75,
+            "item": "Aguav Berry",
+            "ability": "Stakeout",
+            "nature": "Careful",
+            "moves": [
+                "Crunch",
+                "Play Rough",
+                "Body Slam",
+                "Hone Claws"
+            ],
+            "index": 731
+        }
+    },
+    "Meowstic": {
+        "Cooltrainer Gerald": {
+            "level": 75,
+            "item": "Wise Glasses",
+            "ability": "Mystic Charm",
+            "nature": "Modest",
+            "moves": [
+                "Psychic",
+                "Energy Ball",
+                "Dark Pulse",
+                "Alluring Voice"
+            ],
+            "index": 732
+        }
+    },
+    "Togekiss": {
+        "Hex Maniac Cole": {
+            "level": 75,
+            "item": "Blunder Policy",
+            "ability": "Serene Grace",
+            "nature": "Timid",
+            "moves": [
+                "Air Slash",
+                "Fire Blast",
+                "Extrasensory",
+                "Ancient Power"
+            ],
+            "index": 736
+        },
+        "Elite Four Misty": {
+            "level": 90,
+            "item": "Lum Berry",
+            "ability": "Serene Grace",
+            "nature": "Modest",
+            "moves": [
+                "Alluring Voice",
+                "Air Slash",
+                "Extrasensory",
+                "Tri Attack"
+            ],
+            "index": 893
+        }
+    },
+    "Pangoro": {
+        "Battler Girl Danielle": {
+            "level": 75,
+            "item": "Focus Sash",
+            "ability": "Iron Fist",
+            "nature": "Adamant",
+            "moves": [
+                "Knock Off",
+                "Circle Throw",
+                "Poison Jab",
+                "Bullet Punch"
+            ],
+            "index": 748
+        }
+    },
+    "Ursaluna": {
+        "Expert Keegan": {
+            "level": 75,
+            "item": "Eject Pack",
+            "ability": "Bulletproof",
+            "nature": "Careful",
+            "moves": [
+                "Headlong Rush",
+                "Close Combat",
+                "Ice Punch",
+                "Trailblaze"
+            ],
+            "index": 751
+        }
+    },
+    "Reshiram": {
+        "Expert Keegan": {
+            "level": 77,
+            "item": "Haban Berry",
+            "ability": "Turboblaze",
+            "nature": "Jolly",
+            "moves": [
+                "Fusion Flare",
+                "Dragon Pulse",
+                "Earth Power",
+                "Dragon Tail"
+            ],
+            "index": 755
+        }
+    },
+    "Walking Wake": {
+        "Leader Flannery": {
+            "level": 75,
+            "item": "Charcoal",
+            "ability": "Protosynthesis",
+            "nature": "Modest",
+            "moves": [
+                "Hydro Steam",
+                "Dragon Pulse",
+                "Flamethrower",
+                "Sleep Talk"
+            ],
+            "index": 758
+        },
+        "Aroma Lady Rachel": {
+            "level": 89,
+            "item": "White Herb",
+            "ability": "Protosynthesis",
+            "nature": "Timid",
+            "moves": [
+                "Hydro Steam",
+                "Draco Meteor",
+                "Flamethrower",
+                "Protect"
+            ],
+            "index": 790
+        },
+        "Cooltrainer MBF": {
+            "level": 89,
+            "item": "White Herb",
+            "ability": "Protosynthesis",
+            "nature": "Modest",
+            "moves": [
+                "Hydro Steam",
+                "Draco Meteor",
+                "Flamethrower",
+                "Protect"
+            ],
+            "index": 826
+        }
+    },
+    "Raging Bolt": {
+        "Leader Flannery": {
+            "level": 75,
+            "item": "Lum Berry",
+            "ability": "Protosynthesis",
+            "nature": "Serious",
+            "moves": [
+                "Thunderbolt",
+                "Dragon Pulse",
+                "Solar Beam",
+                "Ancient Power"
+            ],
+            "index": 759
+        },
+        "Aqua Leader Archie": {
+            "level": 89,
+            "item": "Lum Berry",
+            "ability": "Protosynthesis",
+            "nature": "Modest",
+            "moves": [
+                "Thunderbolt",
+                "Thunderclap",
+                "Dragon Pulse",
+                "Calm Mind"
+            ],
+            "index": 867
+        }
+    },
+    "Gouging Fire": {
+        "Leader Flannery": {
+            "level": 75,
+            "item": "Leftovers",
+            "ability": "Protosynthesis",
+            "nature": "Adamant",
+            "moves": [
+                "Dragon Claw",
+                "Temper Flare",
+                "Stomping Tantrum",
+                "Burning Bulwark"
+            ],
+            "index": 760
+        },
+        "Magma Leader Maxie": {
+            "level": 89,
+            "item": "Lum Berry",
+            "ability": "Protosynthesis",
+            "nature": "Adamant",
+            "moves": [
+                "Flare Blitz",
+                "Dragon Claw",
+                "Earthquake",
+                "Howl"
+            ],
+            "index": 861
+        }
+    },
+    "Zapdos": {
+        "Cooltrainer Quincy": {
+            "level": 89,
+            "item": "Safety Goggles",
+            "ability": "Pressure",
+            "nature": "Timid",
+            "moves": [
+                "Thunderbolt",
+                "Air Slash",
+                "Weather Ball",
+                "Heat Wave"
+            ],
+            "index": 778
+        }
+    },
+    "Enamorus-Therian": {
+        "Cooltrainer Edgar": {
+            "level": 89,
+            "item": "Leftovers",
+            "ability": "Overcoat",
+            "nature": "Modest",
+            "moves": [
+                "Draining Kiss",
+                "Moonblast",
+                "Calm Mind",
+                "Mystical Fire"
+            ],
+            "index": 781
+        }
+    },
+    "Ferrothorn": {
+        "Cooltrainer Edgar": {
+            "level": 90,
+            "item": "Quick Claw",
+            "ability": "Iron Barbs",
+            "nature": "Relaxed",
+            "moves": [
+                "Power Whip",
+                "Body Press",
+                "Gyro Ball",
+                "Curse"
+            ],
+            "index": 782
+        }
+    },
+    "Dracovish": {
+        "Cooltrainer Edgar": {
+            "level": 90,
+            "item": "Choice Band",
+            "ability": "Sand Rush",
+            "nature": "Adamant",
+            "moves": [
+                "Fishious Rend"
+            ],
+            "index": 784
+        }
+    },
+    "Heatran": {
+        "Expert Magik": {
+            "level": 89,
+            "item": "Focus Sash",
+            "ability": "Flash Fire",
+            "nature": "Naive",
+            "moves": [
+                "Magma Storm",
+                "Flash Cannon",
+                "Earth Power",
+                "Flame Charge"
+            ],
+            "index": 792
+        }
+    },
+    "Latias": {
+        "Expert Magik": {
+            "level": 89,
+            "item": "Soul Dew",
+            "ability": "Levitate",
+            "nature": "Timid",
+            "moves": [
+                "Mist Ball",
+                "Dragon Pulse",
+                "Aura Sphere",
+                "Alluring Voice"
+            ],
+            "index": 795
+        },
+        "Champion May": {
+            "level": 89,
+            "item": "Soul Dew",
+            "ability": "Levitate",
+            "nature": "Timid",
+            "moves": [
+                "Mist Ball",
+                "Dragon Pulse",
+                "Alluring Voice",
+                "Calm Mind"
+            ],
+            "index": 896
+        }
+    },
+    "Jirachi": {
+        "Expert Magik": {
+            "level": 89,
+            "item": "Power Herb",
+            "ability": "Serene Grace",
+            "nature": "Timid",
+            "moves": [
+                "Meteor Beam",
+                "Psychic",
+                "Flash Cannon",
+                "Calm Mind"
+            ],
+            "index": 797
+        }
+    },
+    "Mienshao": {
+        "Cooltrainer Shannon": {
+            "level": 89,
+            "item": "Focus Sash",
+            "ability": "Inner Focus",
+            "nature": "Jolly",
+            "moves": [
+                "Close Combat",
+                "Poison Jab",
+                "Ice Spinner",
+                "Fake Out"
+            ],
+            "index": 800
+        }
+    },
+    "Entei": {
+        "Cooltrainer Shannon": {
+            "level": 89,
+            "item": "Sitrus Berry",
+            "ability": "Inner Focus",
+            "nature": "Adamant",
+            "moves": [
+                "Sacred Fire",
+                "Stone Edge",
+                "Extreme Speed",
+                "Flame Charge"
+            ],
+            "index": 803
+        }
+    },
+    "Flutter Mane": {
+        "Cooltrainer MBF": {
+            "level": 89,
+            "item": "Focus Sash",
+            "ability": "Protosynthesis",
+            "nature": "Modest",
+            "moves": [
+                "Shadow Ball",
+                "Dazzling Gleam",
+                "Mystical Fire",
+                "Protect"
+            ],
+            "index": 824
+        },
+        "Cooltrainer Mitchell": {
+            "level": 89,
+            "item": "Booster Energy",
+            "ability": "Protosynthesis",
+            "nature": "Timid",
+            "moves": [
+                "Moonblast",
+                "Draining Kiss",
+                "Shadow Ball",
+                "Mystical Fire"
+            ],
+            "index": 851
+        },
+        "Champion May": {
+            "level": 89,
+            "item": "Lum Berry",
+            "ability": "Protosynthesis",
+            "nature": "Timid",
+            "moves": [
+                "Moonblast",
+                "Shadow Ball",
+                "Thunderbolt",
+                "Mystical Fire"
+            ],
+            "index": 895
+        }
+    },
+    "Comfey": {
+        "Cooltrainer Caroline": {
+            "level": 89,
+            "item": "Life Orb",
+            "ability": "Triage",
+            "nature": "Bold",
+            "moves": [
+                "Calm Mind",
+                "Draining Kiss",
+                "Knock Off",
+                "U-Turn"
+            ],
+            "index": 833
+        }
+    },
+    "Shaymin-Sky": {
+        "Cooltrainer Terra": {
+            "level": 89,
+            "item": "Grass Gem",
+            "ability": "Serene Grace",
+            "nature": "Timid",
+            "moves": [
+                "Seed Flare",
+                "Air Slash",
+                "Earth Power",
+                "Grass Whistle"
+            ],
+            "index": 836
+        }
+    },
+    "Cyclizar": {
+        "Cooltrainer Terra": {
+            "level": 89,
+            "item": "Sitrus Berry",
+            "ability": "Regenerator",
+            "nature": "Jolly",
+            "moves": [
+                "Shed Tail",
+                "Dragon Rush",
+                "Iron Head",
+                "Rain Dance"
+            ],
+            "index": 837
+        }
+    },
+    "Marshadow": {
+        "Cooltrainer Terra": {
+            "level": 89,
+            "item": "Eject Pack",
+            "ability": "Technician",
+            "nature": "Jolly",
+            "moves": [
+                "Close Combat",
+                "Spectral Thief",
+                "Shadow Sneak",
+                "Knock Off"
+            ],
+            "index": 838
+        }
+    },
+    "Magearna": {
+        "Cooltrainer Mitchell": {
+            "level": 89,
+            "item": "Custap Berry",
+            "ability": "Soul Heart",
+            "nature": "Modest",
+            "moves": [
+                "Aura Sphere",
+                "Misty Explosion",
+                "Psychic",
+                "Substitute"
+            ],
+            "index": 847
+        }
+    },
+    "Enamorus": {
+        "Cooltrainer Halle": {
+            "level": 90,
+            "item": "Choice Specs",
+            "ability": "Cute Charm",
+            "nature": "Timid",
+            "moves": [
+                "Misty Explosion",
+                "Hurricane"
+            ],
+            "index": 856
+        }
+    },
+    "Groudon": {
+        "Magma Leader Maxie": {
+            "level": 89,
+            "item": "Wide Lens",
+            "ability": "Drought",
+            "nature": "Jolly",
+            "moves": [
+                "Precipice Blades",
+                "Fire Punch",
+                "Thunder Punch",
+                "Hammer Arm"
+            ],
+            "index": 858
+        }
+    },
+    "Honchkrow": {
+        "Magma Leader Maxie": {
+            "level": 89,
+            "item": "Wise Glasses",
+            "ability": "Super Luck",
+            "nature": "Modest",
+            "moves": [
+                "Dark Pulse",
+                "Air Slash",
+                "Heat Wave",
+                "U-Turn"
+            ],
+            "index": 859
+        }
+    },
+    "Scovillain": {
+        "Magma Leader Maxie": {
+            "level": 89,
+            "item": "Chesto Berry",
+            "ability": "Chlorophyll",
+            "nature": "Hardy",
+            "moves": [
+                "Solar Beam",
+                "Flamethrower",
+                "Zen Headbutt",
+                "Rest"
+            ],
+            "index": 862
+        }
+    },
+    "Ogerpon-Hearthflame": {
+        "Magma Leader Maxie": {
+            "level": 90,
+            "item": "Hearthflame Mask",
+            "ability": "Mold Breaker",
+            "nature": "Adamant",
+            "moves": [
+                "Ivy Cudgel",
+                "Horn Leech",
+                "Superpower",
+                "Spiky Shield"
+            ],
+            "index": 863
+        }
+    },
+    "Kyogre": {
+        "Aqua Leader Archie": {
+            "level": 89,
+            "item": "Aguav Berry",
+            "ability": "Drizzle",
+            "nature": "Timid",
+            "moves": [
+                "Water Spout",
+                "Origin Pulse",
+                "Thunder",
+                "Ice Beam"
+            ],
+            "index": 864
+        }
+    },
+    "Eiscue": {
+        "Aqua Leader Archie": {
+            "level": 89,
+            "item": "Muscle Band",
+            "ability": "Ice Face",
+            "nature": "Adamant",
+            "moves": [
+                "Ice Spinner",
+                "Freeze-Dry",
+                "Head Smash",
+                "Liquidation"
+            ],
+            "index": 866
+        }
+    },
+    "Ogerpon-Wellspring": {
+        "Aqua Leader Archie": {
+            "level": 90,
+            "item": "Wellspring Mask",
+            "ability": "Water Absorb",
+            "nature": "Adamant",
+            "moves": [
+                "Ivy Cudgel",
+                "Horn Leech",
+                "Superpower",
+                "Spiky Shield"
+            ],
+            "index": 869
+        }
+    },
+    "Landorus-Therian": {
+        "Elite Four Jasmine": {
+            "level": 89,
+            "item": "Focus Sash",
+            "ability": "Intimidate",
+            "nature": "Jolly",
+            "moves": [
+                "Stomping Tantrum",
+                "Hammer Arm",
+                "Rock Slide",
+                "U-Turn"
+            ],
+            "index": 870
+        }
+    },
+    "Melmetal": {
+        "Elite Four Jasmine": {
+            "level": 90,
+            "item": "White Herb",
+            "ability": "Iron Fist",
+            "nature": "Careful",
+            "moves": [
+                "Double Iron Bash",
+                "Thunder Punch",
+                "Superpower",
+                "Protect"
+            ],
+            "index": 875
+        }
+    },
+    "Bewear": {
+        "Elite Four Whitney": {
+            "level": 89,
+            "item": "Normal Gem",
+            "ability": "Fluffy",
+            "nature": "Adamant",
+            "moves": [
+                "Hammer Arm",
+                "Return",
+                "High Horsepower",
+                "Iron Head"
+            ],
+            "index": 878
+        }
+    },
+    "Munkidori": {
+        "Elite Four Whitney": {
+            "level": 89,
+            "item": "Focus Sash",
+            "ability": "Toxic Chain",
+            "nature": "Timid",
+            "moves": [
+                "Sludge Bomb",
+                "Psychic",
+                "Future Sight",
+                "Fake Out"
+            ],
+            "index": 879
+        }
+    },
+    "Manaphy": {
+        "Elite Four Misty": {
+            "level": 89,
+            "item": "Mystic Water",
+            "ability": "Hydration",
+            "nature": "Timid",
+            "moves": [
+                "Scald",
+                "Energy Ball",
+                "Ice Beam",
+                "Alluring Voice"
+            ],
+            "index": 891
+        }
+    },
+    "Koraidon": {
+        "Champion May": {
+            "level": 89,
+            "item": "Haban Berry",
+            "ability": "Orichalcum Pulse",
+            "nature": "Jolly",
+            "moves": [
+                "Collision Course",
+                "Dragon Claw",
+                "Flare Blitz",
+                "Iron Head"
+            ],
+            "index": 894
+        }
+    }
+}
