@@ -137,6 +137,32 @@ var SETDEX_SV = {
             "index": 10
         }
     },
+    "Larvesta": {
+        "Bug Catcher Lyle": {
+            "level": 12,
+            "item": "Lum Berry",
+            "ability": "Flame Body",
+            "nature": "Adamant",
+            "moves": [
+                "Flame Wheel",
+                "Bug Bite"
+            ],
+            "index": 11
+        }
+    },
+    "Venipede": {
+        "Bug Catcher Lyle": {
+            "level": 12,
+            "item": "Lum Berry",
+            "ability": "Poison Point",
+            "nature": "Adamant",
+            "moves": [
+                "Pin Missile",
+                "Poison Tail"
+            ],
+            "index": 12
+        }
+    },
     "Dewpider": {
         "Bug Catchter James": {
             "level": 12,
@@ -147,7 +173,7 @@ var SETDEX_SV = {
                 "Bubble Beam",
                 "Silver Wind"
             ],
-            "index": 11
+            "index": 13
         }
     },
     "Dustox": {
@@ -160,32 +186,6 @@ var SETDEX_SV = {
                 "Bug Bite",
                 "Toxic",
                 "Moonlight"
-            ],
-            "index": 12
-        }
-    },
-    "Larvesta": {
-        "Bug Catcher Lyle": {
-            "level": 12,
-            "item": "Lum Berry",
-            "ability": "Flame Body",
-            "nature": "Adamant",
-            "moves": [
-                "Flame Wheel",
-                "Bug Bite"
-            ],
-            "index": 13
-        }
-    },
-    "Venipede": {
-        "Bug Catcher Lyle": {
-            "level": 12,
-            "item": "Lum Berry",
-            "ability": "Poison Point",
-            "nature": "Adamant",
-            "moves": [
-                "Pin Missile",
-                "Poison Tail"
             ],
             "index": 14
         }
@@ -425,19 +425,6 @@ var SETDEX_SV = {
             ],
             "index": 31
         },
-        "Leader Roxanne": {
-            "level": 15,
-            "item": "Quick Claw",
-            "ability": "Sturdy",
-            "nature": "Impish",
-            "moves": [
-                "Iron Head",
-                "Rock Slide",
-                "Body Press",
-                "Endeavor"
-            ],
-            "index": 35
-        },
         "Hiker Clark": {
             "level": 0,
             "item": "Expert Belt",
@@ -495,6 +482,21 @@ var SETDEX_SV = {
                 "Recover"
             ],
             "index": 34
+        }
+    },
+    "Drilbur": {
+        "Leader Roxanne": {
+            "level": 15,
+            "item": "Steel Gem",
+            "ability": "Sturdy",
+            "nature": "Jolly",
+            "moves": [
+                "Drill Run",
+                "Iron Head",
+                "Aerial Ace",
+                "Rapid Spin"
+            ],
+            "index": 35
         }
     },
     "Kabuto": {
@@ -589,8 +591,8 @@ var SETDEX_SV = {
             "ability": "Pickpocket",
             "nature": "Serious",
             "moves": [
+                "Play Rough",
                 "Metal Claw",
-                "Draining Kiss",
                 "Rock Tomb",
                 "Swords Dance"
             ],
@@ -1653,19 +1655,6 @@ var SETDEX_SV = {
                 "Fake Out"
             ],
             "index": 750
-        },
-        "Elite Four Misty": {
-            "level": 89,
-            "item": "Focus Sash",
-            "ability": "Anticipation",
-            "nature": "Adamant",
-            "moves": [
-                "Close Combat",
-                "Poison Jab",
-                "X-Scissor",
-                "Fake Out"
-            ],
-            "index": 890
         }
     },
     "Falinks": {
@@ -1989,7 +1978,7 @@ var SETDEX_SV = {
             "ability": "Moxie",
             "nature": "Adamant",
             "moves": [
-                "Brick Break",
+                "Drain Punch",
                 "Payback",
                 "Iron Head",
                 "Thunder Punch"
@@ -2222,7 +2211,7 @@ var SETDEX_SV = {
         }
     },
     "Azurill": {
-        "Lola Tuber(F)": {
+        "Tuber(F) Lola": {
             "level": 32,
             "item": "Choice Band",
             "ability": "Huge Power",
@@ -2237,7 +2226,7 @@ var SETDEX_SV = {
         }
     },
     "Ponyta-Galar": {
-        "Lola Tuber(F)": {
+        "Tuber(F) Lola": {
             "level": 32,
             "item": "Choice Band",
             "ability": "Pastel Veil",
@@ -2252,7 +2241,7 @@ var SETDEX_SV = {
         }
     },
     "Mawile": {
-        "Lola Tuber(F)": {
+        "Tuber(F) Lola": {
             "level": 32,
             "item": "Choice Band",
             "ability": "Intimidate",
@@ -2280,7 +2269,7 @@ var SETDEX_SV = {
         }
     },
     "Wigglytuff": {
-        "Lola Tuber(F)": {
+        "Tuber(F) Lola": {
             "level": 32,
             "item": "Choice Band",
             "ability": "Competitive",
@@ -2319,7 +2308,7 @@ var SETDEX_SV = {
         }
     },
     "Tentacruel": {
-        "Ricky Tuber(M)": {
+        "Tuber(M) Ricky": {
             "level": 30,
             "item": "Poison Barb",
             "ability": "Liquid Ooze",
@@ -2373,7 +2362,7 @@ var SETDEX_SV = {
         }
     },
     "Golduck": {
-        "Ricky Tuber(M)": {
+        "Tuber(M) Ricky": {
             "level": 30,
             "item": "Twisted Spoon",
             "ability": "Swift Swim",
@@ -2414,7 +2403,7 @@ var SETDEX_SV = {
         }
     },
     "Seaking": {
-        "Chandler Tuber(M)": {
+        "Tuber(M) Chandler": {
             "level": 30,
             "item": "Life Orb",
             "ability": "Lightning Rod",
@@ -2455,7 +2444,7 @@ var SETDEX_SV = {
         }
     },
     "Ludicolo": {
-        "Chandler Tuber(M)": {
+        "Tuber(M) Chandler": {
             "level": 30,
             "item": "Wise Glasses",
             "ability": "Swift Swim",
@@ -2509,7 +2498,7 @@ var SETDEX_SV = {
         }
     },
     "Masquerain": {
-        "Hailey Tuber (F)": {
+        "Tuber (F) Hailey": {
             "level": 30,
             "item": "Water Gem",
             "ability": "Unnerve",
@@ -2563,7 +2552,7 @@ var SETDEX_SV = {
         }
     },
     "Sunflora": {
-        "Hailey Tuber (F)": {
+        "Tuber (F) Hailey": {
             "level": 30,
             "item": "Quick Claw",
             "ability": "Chlorophyll",
@@ -2578,7 +2567,7 @@ var SETDEX_SV = {
         }
     },
     "Froslass": {
-        "Hailey Tuber (F)": {
+        "Tuber (F) Hailey": {
             "level": 30,
             "item": "Ghost Gem",
             "ability": "Cursed Body",
@@ -2619,7 +2608,7 @@ var SETDEX_SV = {
         }
     },
     "Armaldo": {
-        "Hailey Tuber (F)": {
+        "Tuber (F) Hailey": {
             "level": 30,
             "item": "Rock Gem",
             "ability": "Battle Armor",
@@ -2673,7 +2662,7 @@ var SETDEX_SV = {
         }
     },
     "Simipour": {
-        "Hailey Tuber (F)": {
+        "Tuber (F) Hailey": {
             "level": 30,
             "item": "Flying Gem",
             "ability": "Torrent",
@@ -4464,7 +4453,7 @@ var SETDEX_SV = {
             ],
             "index": 538
         },
-        "Roy Tuber": {
+        "Tuber Roy": {
             "level": 70,
             "item": "Ice Gem",
             "ability": "Flash Fire",
@@ -5645,7 +5634,7 @@ var SETDEX_SV = {
             ],
             "index": 240
         },
-        "Roy Tuber": {
+        "Tuber Roy": {
             "level": 68,
             "item": "Focus Sash",
             "ability": "Pressure",
@@ -6102,7 +6091,7 @@ var SETDEX_SV = {
             ],
             "index": 568
         },
-        "Roy Tuber": {
+        "Tuber Roy": {
             "level": 68,
             "item": "Fairy Feather",
             "ability": "Huge Power",
@@ -7849,7 +7838,7 @@ var SETDEX_SV = {
             ],
             "index": 330
         },
-        "Roy Tuber": {
+        "Tuber Roy": {
             "level": 68,
             "item": "Quick Claw",
             "ability": "Ice Body",
@@ -10323,6 +10312,19 @@ var SETDEX_SV = {
                 "Hypnosis"
             ],
             "index": 509
+        },
+        "Elite Four Jasmine": {
+            "level": 89,
+            "item": "Wise Glasses",
+            "ability": "Competitive",
+            "nature": "Timid",
+            "moves": [
+                "Freezing Glare",
+                "Air Slash",
+                "Shadow Ball",
+                "Hypnosis"
+            ],
+            "index": 873
         }
     },
     "Moltres-Galar": {
@@ -10560,19 +10562,6 @@ var SETDEX_SV = {
                 "Thunder Wave"
             ],
             "index": 525
-        },
-        "Elite Four Jasmine": {
-            "level": 89,
-            "item": "Aguav Berry",
-            "ability": "Levitate",
-            "nature": "Modest",
-            "moves": [
-                "Hydro Pump",
-                "Thunderbolt",
-                "Shadow Ball",
-                "Nasty Plot"
-            ],
-            "index": 873
         }
     },
     "Seismitoad": {
@@ -11207,7 +11196,7 @@ var SETDEX_SV = {
         }
     },
     "Cramorant": {
-        "Roy Tuber": {
+        "Tuber Roy": {
             "level": 70,
             "item": "Lum Berry",
             "ability": "Gulp Missile",
@@ -12552,6 +12541,21 @@ var SETDEX_SV = {
                 "Fake Out"
             ],
             "index": 879
+        }
+    },
+    "Zeraora": {
+        "Elite Four Misty": {
+            "level": 89,
+            "item": "White Herb",
+            "ability": "Volt Absorb",
+            "nature": "Adamant",
+            "moves": [
+                "Plasma Fists",
+                "Close Combat",
+                "Ice Punch",
+                "Fake Out"
+            ],
+            "index": 890
         }
     },
     "Manaphy": {
