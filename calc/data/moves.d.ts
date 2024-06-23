@@ -33,6 +33,7 @@ export interface MoveData {
     readonly isPulse?: boolean;
     readonly isSlicing?: boolean;
     readonly isWind?: boolean;
+    readonly isKick?: boolean;
 }
 export declare const MOVES: {
     [name: string]: MoveData;

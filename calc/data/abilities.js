@@ -369,6 +369,13 @@ var SV = SS.concat([
     'Wind Power',
     'Wind Rider',
     'Zero to Hero',
+    'Mystic Charm',
+    'Leaf Rush',
+    'Fiery Charge',
+    'Ethereal Echo',
+    'Striker',
+    'Acid Coat',
+    'Eclipsate',
 ]);
 exports.ABILITIES = [[], RBY, GSC, ADV, DPP, BW, XY, SM, SS, SV];
 var Abilities = (function () {

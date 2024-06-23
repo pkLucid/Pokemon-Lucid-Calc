@@ -144,6 +144,8 @@ function calculateSMSSSV(gen, attacker, defender, move, field) {
     var isGalvanize = false;
     var isLiquidVoice = false;
     var isNormalize = false;
+    var isAcidCoat = false;
+    var Eclipsate = false;
     var noTypeChange = move.named('Revelation Dance', 'Judgment', 'Nature Power', 'Techno Blast', 'Multi Attack', 'Natural Gift', 'Weather Ball', 'Terrain Pulse') || (move.named('Tera Blast') && attacker.teraType);
     if (!move.isZ && !noTypeChange) {
         var normal = move.hasType('Normal');
@@ -165,7 +167,13 @@ function calculateSMSSSV(gen, attacker, defender, move, field) {
         else if ((isNormalize = attacker.hasAbility('Normalize'))) {
             type = 'Normal';
         }
-        if (isGalvanize || isPixilate || isRefrigerate || isAerilate || isNormalize) {
+        else if ((isAcidCoat = attacker.hasAbility('Acid Coat'))) {
+            type = 'Poison';
+        }
+        else if ((Eclipsate = attacker.hasAbility('Eclipsate'))) {
+            type = 'Dark';
+        }
+        if (isGalvanize || isPixilate || isRefrigerate || isAerilate || isNormalize || isAcidCoat || Eclipsate) {
             desc.attackerAbility = attacker.ability;
             hasAteAbilityTypeChange = true;
         }
@@ -819,6 +827,10 @@ function calculateBPModsSMSSSV(gen, attacker, defender, move, field, desc, baseP
         bpMods.push(4915);
         desc.attackerAbility = attacker.ability;
     }
+    if (attacker.hasAbility('Striker') && move.flags.kick) {
+        bpMods.push(5325);
+        desc.attackerAbility = attacker.ability;
+    }
     if (attacker.hasItem('Punching Glove') && move.flags.punch) {
         bpMods.push(4506);
         desc.attackerItem = attacker.item;
@@ -838,7 +850,7 @@ function calculateBPModsSMSSSV(gen, attacker, defender, move, field, desc, baseP
         desc.alliesFainted = attacker.alliesFainted;
     }
     if (attacker.hasItem("".concat(move.type, " Gem"))) {
-        bpMods.push(6144);
+        bpMods.push(5325);
         desc.attackerItem = attacker.item;
     }
     else if (((attacker.hasItem('Adamant Crystal') && attacker.named('Dialga-Origin')) ||
