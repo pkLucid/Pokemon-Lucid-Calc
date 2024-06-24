@@ -167,10 +167,10 @@ function calculateSMSSSV(gen, attacker, defender, move, field) {
         else if ((isNormalize = attacker.hasAbility('Normalize'))) {
             type = 'Normal';
         }
-        else if ((isAcidCoat = attacker.hasAbility('Acid Coat'))) {
+        else if ((isAcidCoat = attacker.hasAbility('Acid Coat') && normal)) {
             type = 'Poison';
         }
-        else if ((Eclipsate = attacker.hasAbility('Eclipsate'))) {
+        else if ((Eclipsate = attacker.hasAbility('Eclipsate') && normal)) {
             type = 'Dark';
         }
         if (isGalvanize || isPixilate || isRefrigerate || isAerilate || isNormalize || isAcidCoat || Eclipsate) {
