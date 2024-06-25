@@ -4233,7 +4233,7 @@ var SV_PATCH = {
         secondaries: true
     },
     'Bitter Blade': {
-        bp: 90,
+        bp: 60,
         type: 'Fire',
         category: 'Physical',
         zp: 175,
