@@ -1902,7 +1902,7 @@ var SETDEX_SV = {
                 "Dragon Pulse",
                 "Extreme Speed"
             ],
-            "index": 392
+            "index": 395
         },
         "Pokemon Breeder Pat": {
             "level": 68,
@@ -2051,7 +2051,7 @@ var SETDEX_SV = {
             "index": 848
         }
     },
-    "Tauros-Paldea-Water": {
+    "Tauros-Paldea-Aqua": {
         "Leader Brawly": {
             "level": 25,
             "item": "Black Belt",
@@ -2077,21 +2077,6 @@ var SETDEX_SV = {
                 "Aqua Jet"
             ],
             "index": 232
-        }
-    },
-    "Tauros-Paldea-Fire": {
-        "Leader Brawly": {
-            "level": 25,
-            "item": "Black Belt",
-            "ability": "Intimidate",
-            "nature": "Hardy",
-            "moves": [
-                "Temper Flare",
-                "Double Kick",
-                "Lash Out",
-                "Reversal"
-            ],
-            "index": 108
         },
         "Ranger Lorenzo": {
             "level": 68,
@@ -2105,6 +2090,21 @@ var SETDEX_SV = {
                 "Flame Charge"
             ],
             "index": 543
+        }
+    },
+    "Tauros-Paldea-Blaze": {
+        "Leader Brawly": {
+            "level": 25,
+            "item": "Black Belt",
+            "ability": "Intimidate",
+            "nature": "Hardy",
+            "moves": [
+                "Temper Flare",
+                "Double Kick",
+                "Lash Out",
+                "Reversal"
+            ],
+            "index": 108
         }
     },
     "Fraxure": {
@@ -2792,7 +2792,7 @@ var SETDEX_SV = {
                 "Flamethrower",
                 "Thunderbolt"
             ],
-            "index": 394
+            "index": 391
         }
     },
     "Raichu": {
@@ -3322,7 +3322,7 @@ var SETDEX_SV = {
                 "Energy Ball",
                 "Fake Out"
             ],
-            "index": 396
+            "index": 393
         },
         "Swimmer Sharon": {
             "level": 68,
@@ -7351,7 +7351,7 @@ var SETDEX_SV = {
                 "Iron Head",
                 "Extreme Speed"
             ],
-            "index": 393
+            "index": 396
         },
         "Ranger Jenna": {
             "level": 68,
@@ -8708,7 +8708,7 @@ var SETDEX_SV = {
             "index": 785
         }
     },
-    "Sirfetch'd": {
+    "Sirfetch\u2019d": {
         "Camper Drew": {
             "level": 52,
             "item": "Leek",
@@ -8736,6 +8736,21 @@ var SETDEX_SV = {
             "index": 625
         }
     },
+    "Toedscruel": {
+        "Picnicker Daisy": {
+            "level": 53,
+            "item": "White Herb",
+            "ability": "Mycelium Might",
+            "nature": "Modest",
+            "moves": [
+                "Leaf Storm",
+                "Energy Ball",
+                "Earth Power",
+                "Sludge Bomb"
+            ],
+            "index": 392
+        }
+    },
     "Granbull": {
         "Hiker Marcos": {
             "level": 53,
@@ -8748,7 +8763,7 @@ var SETDEX_SV = {
                 "Iron Tail",
                 "Super Fang"
             ],
-            "index": 391
+            "index": 394
         },
         "Dragon Tamer Jace": {
             "level": 75,
@@ -8762,21 +8777,6 @@ var SETDEX_SV = {
                 "Ice Punch"
             ],
             "index": 728
-        }
-    },
-    "Toedscruel": {
-        "Picnicker Daisy": {
-            "level": 53,
-            "item": "White Herb",
-            "ability": "Mycelium Might",
-            "nature": "Modest",
-            "moves": [
-                "Leaf Storm",
-                "Energy Ball",
-                "Earth Power",
-                "Sludge Bomb"
-            ],
-            "index": 395
         }
     },
     "Emboar": {
