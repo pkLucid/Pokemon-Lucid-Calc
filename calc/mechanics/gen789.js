@@ -625,10 +625,6 @@ function calculateBasePowerSMSSSV(gen, attacker, defender, move, field, hasAteAb
                     desc.moveName = 'Tri Attack';
             }
             break;
-        case 'Water Shuriken':
-            basePower = attacker.named('Greninja-Ash') && attacker.hasAbility('Battle Bond') ? 20 : 15;
-            desc.moveBP = basePower;
-            break;
         case 'Triple Axel':
             basePower = move.hits === 2 ? 30 : move.hits === 3 ? 40 : 20;
             desc.moveBP = basePower;
