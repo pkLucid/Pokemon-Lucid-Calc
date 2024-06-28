@@ -1845,7 +1845,7 @@ var SETDEX_SV = {
             "moves": [
                 "Brick Break",
                 "Take Down",
-                "U-Turn",
+                "U-turn",
                 "Acrobatics"
             ],
             "index": 102
@@ -1927,7 +1927,7 @@ var SETDEX_SV = {
             "moves": [
                 "Low Sweep",
                 "Wing Attack",
-                "U-Turn"
+                "U-turn"
             ],
             "index": 104
         },
@@ -3377,7 +3377,7 @@ var SETDEX_SV = {
             "moves": [
                 "Energy Ball",
                 "Moonblast",
-                "U-Turn",
+                "U-turn",
                 "Attract"
             ],
             "index": 155
@@ -3432,7 +3432,7 @@ var SETDEX_SV = {
                 "Dragon Pulse",
                 "Shadow Ball",
                 "Fire Blast",
-                "U-Turn"
+                "U-turn"
             ],
             "index": 156
         }
@@ -3459,7 +3459,7 @@ var SETDEX_SV = {
             "moves": [
                 "Headbutt",
                 "Retaliate",
-                "U-Turn",
+                "U-turn",
                 "Fake Out"
             ],
             "index": 745
@@ -3575,7 +3575,7 @@ var SETDEX_SV = {
             "moves": [
                 "Zing Zap",
                 "Iron Head",
-                "U-Turn",
+                "U-turn",
                 "Magnet Rise"
             ],
             "index": 164
@@ -3873,7 +3873,7 @@ var SETDEX_SV = {
                 "Thunderbolt",
                 "Energy Ball",
                 "Air Slash",
-                "U-Turn"
+                "U-turn"
             ],
             "index": 178
         },
@@ -6003,7 +6003,7 @@ var SETDEX_SV = {
                 "Grassy Glide",
                 "Fake Out",
                 "Earthquake",
-                "U-Turn"
+                "U-turn"
             ],
             "index": 828
         }
@@ -6555,7 +6555,7 @@ var SETDEX_SV = {
                 "High Horsepower",
                 "Acrobatics",
                 "Rock Slide",
-                "U-Turn"
+                "U-turn"
             ],
             "index": 379
         },
@@ -6568,7 +6568,7 @@ var SETDEX_SV = {
                 "Earthquake",
                 "Acrobatics",
                 "Crabhammer",
-                "U-Turn"
+                "U-turn"
             ],
             "index": 508
         },
@@ -6704,7 +6704,7 @@ var SETDEX_SV = {
                 "Earthquake",
                 "Dragon Claw",
                 "Fire Punch",
-                "U-Turn"
+                "U-turn"
             ],
             "index": 724
         }
@@ -6926,7 +6926,7 @@ var SETDEX_SV = {
                 "Close Combat",
                 "Flare Blitz",
                 "Poison Jab",
-                "U-Turn"
+                "U-turn"
             ],
             "index": 794
         }
@@ -7295,7 +7295,7 @@ var SETDEX_SV = {
                 "Take Down",
                 "Acrobatics",
                 "Close Combat",
-                "U-Turn"
+                "U-turn"
             ],
             "index": 306
         },
@@ -7320,7 +7320,7 @@ var SETDEX_SV = {
             "moves": [
                 "Return",
                 "Acrobatics",
-                "U-Turn",
+                "U-turn",
                 "Tailwind"
             ],
             "index": 877
@@ -7584,7 +7584,7 @@ var SETDEX_SV = {
                 "Water Shuriken",
                 "Night Slash",
                 "Extrasensory",
-                "U-Turn"
+                "U-turn"
             ],
             "index": 316
         },
@@ -7648,7 +7648,7 @@ var SETDEX_SV = {
             "moves": [
                 "Water Shuriken",
                 "Dark Pulse",
-                "U-Turn",
+                "U-turn",
                 "Stealth Rock"
             ],
             "index": 882
@@ -7679,7 +7679,7 @@ var SETDEX_SV = {
                 "Hydro Pump",
                 "Hurricane",
                 "Blizzard",
-                "U-Turn"
+                "U-turn"
             ],
             "index": 319
         }
@@ -8046,7 +8046,7 @@ var SETDEX_SV = {
                 "Hurricane",
                 "Weather Ball",
                 "Tailwind",
-                "U-Turn"
+                "U-turn"
             ],
             "index": 345
         },
@@ -8242,7 +8242,7 @@ var SETDEX_SV = {
                 "Night Daze",
                 "Extrasensory",
                 "Burning Jealousy",
-                "U-Turn"
+                "U-turn"
             ],
             "index": 357
         },
@@ -8492,7 +8492,7 @@ var SETDEX_SV = {
                 "Rock Slide",
                 "Dual Wingbeat",
                 "Dragon Claw",
-                "U-Turn"
+                "U-turn"
             ],
             "index": 368
         },
@@ -8634,7 +8634,7 @@ var SETDEX_SV = {
                 "X-Scissor",
                 "Stone Axe",
                 "Aerial Ace",
-                "U-Turn"
+                "U-turn"
             ],
             "index": 709
         }
@@ -8955,7 +8955,7 @@ var SETDEX_SV = {
                 "Earth Power",
                 "Sludge Bomb",
                 "Extrasensory",
-                "U-Turn"
+                "U-turn"
             ],
             "index": 409
         }
@@ -9599,7 +9599,7 @@ var SETDEX_SV = {
                 "Bug Bite",
                 "Bullet Punch",
                 "Dual Wingbeat",
-                "U-Turn"
+                "U-turn"
             ],
             "index": 490
         }
@@ -10264,7 +10264,7 @@ var SETDEX_SV = {
                 "Sludge Wave",
                 "Dragon Pulse",
                 "Venoshock",
-                "U-Turn"
+                "U-turn"
             ],
             "index": 887
         }
@@ -10279,7 +10279,7 @@ var SETDEX_SV = {
                 "Bug Buzz",
                 "Air Cutter",
                 "Giga Drain",
-                "U-Turn"
+                "U-turn"
             ],
             "index": 506
         }
@@ -10750,7 +10750,7 @@ var SETDEX_SV = {
                 "Flower Trick",
                 "Knock Off",
                 "Play Rough",
-                "U-Turn"
+                "U-turn"
             ],
             "index": 552
         },
@@ -10763,7 +10763,7 @@ var SETDEX_SV = {
                 "Flower Trick",
                 "Knock Off",
                 "Play Rough",
-                "U-Turn"
+                "U-turn"
             ],
             "index": 844
         }
@@ -11050,7 +11050,7 @@ var SETDEX_SV = {
                 "Heat Wave",
                 "Energy Ball",
                 "Sludge Wave",
-                "U-Turn"
+                "U-turn"
             ],
             "index": 814
         },
@@ -11235,7 +11235,7 @@ var SETDEX_SV = {
                 "Air Slash",
                 "Freeze-Dry",
                 "Extrasensory",
-                "U-Turn"
+                "U-turn"
             ],
             "index": 610
         }
@@ -11409,7 +11409,7 @@ var SETDEX_SV = {
             "nature": "Jolly",
             "moves": [
                 "Ivy Cudgel",
-                "U-Turn",
+                "U-turn",
                 "Spiky Shield",
                 "Horn Leech"
             ],
@@ -12300,7 +12300,7 @@ var SETDEX_SV = {
                 "Calm Mind",
                 "Draining Kiss",
                 "Knock Off",
-                "U-Turn"
+                "U-turn"
             ],
             "index": 833
         }
@@ -12403,7 +12403,7 @@ var SETDEX_SV = {
                 "Dark Pulse",
                 "Air Slash",
                 "Heat Wave",
-                "U-Turn"
+                "U-turn"
             ],
             "index": 859
         }
@@ -12493,7 +12493,7 @@ var SETDEX_SV = {
                 "Stomping Tantrum",
                 "Hammer Arm",
                 "Rock Slide",
-                "U-Turn"
+                "U-turn"
             ],
             "index": 870
         }
