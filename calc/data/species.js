@@ -9342,6 +9342,13 @@ var SV_PATCH = {
         gender: 'N',
         abilities: { 0: 'Quark Drive' }
     },
+    'Iron Leaves': {
+        types: ['Grass', 'Psychic'],
+        bs: {hp: 90, at: 130, df: 88, sa: 70, sd: 108, sp: 104},
+        weightkg: 125,
+        gender: 'N',
+        abilities: {0: 'Quark Drive'},
+    },
     'Iron Crown': {
         types: ['Steel', 'Psychic'],
         bs: { hp: 90, at: 72, df: 100, sa: 122, sd: 108, sp: 98 },

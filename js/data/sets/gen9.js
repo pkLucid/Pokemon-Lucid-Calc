@@ -5348,7 +5348,7 @@ var SETDEX_SV = {
         "Camper Lawrence": {
             "level": 38,
             "item": "Leftovers",
-            "ability": "Mold Breaker",
+            "ability": "Static",
             "nature": "Modest",
             "moves": [
                 "Thunderbolt",
