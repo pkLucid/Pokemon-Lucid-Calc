@@ -452,7 +452,7 @@ var ADV_PATCH = {
     'Vital Throw': { makesContact: true },
     'Wing Attack': { makesContact: true },
     'Arm Thrust': {
-        bp: 25,
+        bp: 15,
         type: 'Fighting',
         multihit: [2, 5],
         makesContact: true
@@ -4533,6 +4533,15 @@ var SV_PATCH = {
         type: 'Rock',
         category: 'Physical',
         zp: 175,
+        maxPower: 130,
+        makesContact: true,
+        isSlicing: true
+    },
+    'Psyblade': {
+        bp: 80,
+        type: 'Rock',
+        category: 'Physical',
+        zp: 160,
         maxPower: 130,
         makesContact: true,
         isSlicing: true

@@ -3285,7 +3285,7 @@ var SETDEX_SV = {
     "Floatzel": {
         "Fisherman Andrew": {
             "level": 30,
-            "item": "Never Melt Ice",
+            "item": "Never-Melt Ice",
             "ability": "Water Veil",
             "nature": "Jolly",
             "moves": [
@@ -7435,7 +7435,7 @@ var SETDEX_SV = {
         },
         "Cooltrainer Jennifer": {
             "level": 70,
-            "item": "Never Melt Ice",
+            "item": "Never-Melt Ice",
             "ability": "Torrent",
             "nature": "Adamant",
             "moves": [
