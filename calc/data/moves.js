@@ -4539,7 +4539,7 @@ var SV_PATCH = {
     },
     'Psyblade': {
         bp: 80,
-        type: 'Rock',
+        type: 'Psychic',
         category: 'Physical',
         zp: 160,
         maxPower: 130,
