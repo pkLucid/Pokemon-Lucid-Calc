@@ -6099,7 +6099,7 @@ var SETDEX_SV = {
         "Cooltrainer Tyler": {
             "level": 74,
             "item": "Sitrus Berry",
-            "ability": "Thick Fat",
+            "ability": "Huge Power",
             "nature": "Adamant",
             "moves": [
                 "Play Rough",
