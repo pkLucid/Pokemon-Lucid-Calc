@@ -9700,6 +9700,13 @@ var SV_PATCH = {
         gender: 'N',
         abilities: { 0: 'Protosynthesis' }
     },
+    'Walking Wake': {
+        types: ['Water', 'Dragon'],
+        bs: { hp: 99, at: 83, df: 91, sa: 125, sd: 83, sp: 109 },
+        weightkg: 280,
+        gender: 'N',
+        abilities: { 0: 'Protosynthesis' }
+    },
     Rellor: {
         types: ['Bug'],
         bs: { hp: 41, at: 50, df: 60, sa: 31, sd: 58, sp: 30 },
