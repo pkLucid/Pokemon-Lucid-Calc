@@ -621,7 +621,7 @@ var SETDEX_SV = {
             ],
             "index": 395
         },
-        "Swimmer Kevin": {
+        "Swimmer Kevin and Swimmer Talia": {
             "level": 75,
             "ivs": null,
             "item": "Weakness Policy",
@@ -657,7 +657,7 @@ var SETDEX_SV = {
         }
     },
     "Skiddo": {
-        "School Kid Jerry": {
+        "School Kid Jerry and Youngster Johnson": {
             "level": -2,
             "ivs": null,
             "item": "Oran Berry",
@@ -674,7 +674,7 @@ var SETDEX_SV = {
         }
     },
     "Chatot": {
-        "School Kid Jerry": {
+        "School Kid Jerry and Youngster Johnson": {
             "level": -2,
             "ivs": null,
             "item": "Silk Scarf",
@@ -705,7 +705,7 @@ var SETDEX_SV = {
             ],
             "index": 158
         },
-        "Bird Keeper Edwardo": {
+        "Camper Flint and Bird Keeper Edwardo": {
             "level": 64,
             "ivs": null,
             "item": "Choice Scarf",
@@ -720,7 +720,7 @@ var SETDEX_SV = {
         }
     },
     "Rattata-Alola": {
-        "Youngster Johnson": {
+        "School Kid Jerry and Youngster Johnson": {
             "level": -2,
             "ivs": null,
             "item": "Silk Scarf",
@@ -737,7 +737,7 @@ var SETDEX_SV = {
         }
     },
     "Croagunk": {
-        "Youngster Johnson": {
+        "School Kid Jerry and Youngster Johnson": {
             "level": -2,
             "ivs": null,
             "item": "Black Belt",
@@ -754,7 +754,7 @@ var SETDEX_SV = {
         }
     },
     "Sizzlipede": {
-        "Bug Catcher Jose": {
+        "Bug Catcher Jose and Battle Girl Karen": {
             "level": 0,
             "ivs": null,
             "item": "Charcoal",
@@ -771,7 +771,7 @@ var SETDEX_SV = {
         }
     },
     "Trapinch": {
-        "Bug Catcher Jose": {
+        "Bug Catcher Jose and Battle Girl Karen": {
             "level": 0,
             "ivs": null,
             "item": "Lum Berry",
@@ -788,7 +788,7 @@ var SETDEX_SV = {
         }
     },
     "Buneary": {
-        "Battle Girl Karen": {
+        "Bug Catcher Jose and Battle Girl Karen": {
             "level": 0,
             "ivs": null,
             "item": "Black Belt",
@@ -805,7 +805,7 @@ var SETDEX_SV = {
         }
     },
     "Oddish": {
-        "Battle Girl Karen": {
+        "Bug Catcher Jose and Battle Girl Karen": {
             "level": 0,
             "ivs": null,
             "item": "Black Sludge",
@@ -903,7 +903,7 @@ var SETDEX_SV = {
             ],
             "index": 488
         },
-        "Swimmer Kara": {
+        "Swimmer Richard and Swimmer Kara": {
             "level": 77,
             "ivs": null,
             "item": "Wide Lens",
@@ -989,7 +989,7 @@ var SETDEX_SV = {
         }
     },
     "Ponyta": {
-        "Triathlete Maria": {
+        "Triathlete Maria and Triathlete Melina": {
             "level": 0,
             "ivs": null,
             "item": "Berry Juice",
@@ -1006,7 +1006,7 @@ var SETDEX_SV = {
         }
     },
     "Yanma": {
-        "Triathlete Maria": {
+        "Triathlete Maria and Triathlete Melina": {
             "level": 0,
             "ivs": null,
             "item": "Berry Juice",
@@ -1023,7 +1023,7 @@ var SETDEX_SV = {
         }
     },
     "Snivy": {
-        "Triathlete Melina": {
+        "Triathlete Maria and Triathlete Melina": {
             "level": 0,
             "ivs": null,
             "item": "Berry Juice",
@@ -1040,7 +1040,7 @@ var SETDEX_SV = {
         }
     },
     "Froakie": {
-        "Triathlete Melina": {
+        "Triathlete Maria and Triathlete Melina": {
             "level": 0,
             "ivs": null,
             "item": "Berry Juice",
@@ -1057,7 +1057,7 @@ var SETDEX_SV = {
         }
     },
     "Chimchar": {
-        "Triathlete Melina": {
+        "Triathlete Maria and Triathlete Melina": {
             "level": 0,
             "ivs": null,
             "item": "Berry Juice",
@@ -1571,7 +1571,7 @@ var SETDEX_SV = {
             ],
             "index": 78
         },
-        "Hex Maniac Nadia": {
+        "Collector Hector and Hex Maniac Nadia": {
             "level": 53,
             "ivs": null,
             "item": "Scope Lens",
@@ -1966,7 +1966,7 @@ var SETDEX_SV = {
             ],
             "index": 92
         },
-        "Youngster Jaylen": {
+        "Youngster Jaylen and Youngster Dillon": {
             "level": 30,
             "ivs": null,
             "item": "Choice Scarf",
@@ -2200,7 +2200,7 @@ var SETDEX_SV = {
             ],
             "index": 312
         },
-        "Hiker Marcos": {
+        "Hiker Marcos and Picnicker Daisy": {
             "level": 53,
             "ivs": null,
             "item": "Metal Coat",
@@ -2281,7 +2281,7 @@ var SETDEX_SV = {
             ],
             "index": 480
         },
-        "Expert Auron": {
+        "Bird Keeper Presley and Expert Auron": {
             "level": 68,
             "ivs": null,
             "item": "Grassy Seed",
@@ -2495,7 +2495,7 @@ var SETDEX_SV = {
             ],
             "index": 103
         },
-        "Ranger Lorenzo": {
+        "Ranger Lorenzo and Ranger Jenna": {
             "level": 68,
             "ivs": null,
             "item": "White Herb",
@@ -2689,7 +2689,7 @@ var SETDEX_SV = {
             ],
             "index": 113
         },
-        "Gentleman Clifford": {
+        "Gentleman Clifford and Psychic Macey": {
             "level": 68,
             "ivs": {
                 "sp": 0
@@ -2739,7 +2739,7 @@ var SETDEX_SV = {
             ],
             "index": 590
         },
-        "Psychic Macey": {
+        "Gentleman Clifford and Psychic Macey": {
             "level": 68,
             "ivs": {
                 "sp": 0
@@ -2759,7 +2759,7 @@ var SETDEX_SV = {
         }
     },
     "Tentacruel": {
-        "Ricky Tuber(M)": {
+        "Ricky Tuber(M) and Chandler Tuber(M)": {
             "level": 30,
             "ivs": null,
             "item": "Poison Barb",
@@ -2825,7 +2825,7 @@ var SETDEX_SV = {
         }
     },
     "Golduck": {
-        "Ricky Tuber(M)": {
+        "Ricky Tuber(M) and Chandler Tuber(M)": {
             "level": 30,
             "ivs": null,
             "item": "Twisted Spoon",
@@ -2841,7 +2841,7 @@ var SETDEX_SV = {
             ],
             "index": 116
         },
-        "Camper Travis": {
+        "Camper Travis and Cooltrainer Wilton": {
             "level": 38,
             "ivs": null,
             "item": "Focus Sash",
@@ -2875,7 +2875,7 @@ var SETDEX_SV = {
         }
     },
     "Seaking": {
-        "Chandler Tuber(M)": {
+        "Ricky Tuber(M) and Chandler Tuber(M)": {
             "level": 30,
             "ivs": null,
             "item": "Life Orb",
@@ -2909,7 +2909,7 @@ var SETDEX_SV = {
         }
     },
     "Ludicolo": {
-        "Chandler Tuber(M)": {
+        "Ricky Tuber(M) and Chandler Tuber(M)": {
             "level": 30,
             "ivs": null,
             "item": "Wise Glasses",
@@ -2941,7 +2941,7 @@ var SETDEX_SV = {
             ],
             "index": 140
         },
-        "Camper Rhett": {
+        "Lass Julia and Camper Rhett": {
             "level": 53,
             "ivs": null,
             "item": "Mystic Water",
@@ -3239,7 +3239,7 @@ var SETDEX_SV = {
         }
     },
     "Raichu-Alola": {
-        "Pokefan Isabel": {
+        "Pokefan Isabel and Pokefan Kaleb": {
             "level": 30,
             "ivs": null,
             "item": "Focus Sash",
@@ -3305,7 +3305,7 @@ var SETDEX_SV = {
         }
     },
     "Nidoqueen": {
-        "Pokefan Isabel": {
+        "Pokefan Isabel and Pokefan Kaleb": {
             "level": 30,
             "ivs": null,
             "item": "Lum Berry",
@@ -3337,7 +3337,7 @@ var SETDEX_SV = {
             ],
             "index": 288
         },
-        "Picnicker Daisy": {
+        "Hiker Marcos and Picnicker Daisy": {
             "level": 55,
             "ivs": null,
             "item": "Life Orb",
@@ -3371,7 +3371,7 @@ var SETDEX_SV = {
         }
     },
     "Raichu": {
-        "Pokefan Kaleb": {
+        "Pokefan Isabel and Pokefan Kaleb": {
             "level": 30,
             "ivs": null,
             "item": "Air Balloon",
@@ -3389,7 +3389,7 @@ var SETDEX_SV = {
         }
     },
     "Nidoking": {
-        "Pokefan Kaleb": {
+        "Pokefan Isabel and Pokefan Kaleb": {
             "level": 30,
             "ivs": null,
             "item": "Lum Berry",
@@ -3437,7 +3437,7 @@ var SETDEX_SV = {
             ],
             "index": 499
         },
-        "Swimmer Herman": {
+        "Swimmer Herman and Swimmer Susie": {
             "level": 75,
             "ivs": null,
             "item": "Life Orb",
@@ -3525,7 +3525,7 @@ var SETDEX_SV = {
         }
     },
     "Lumineon": {
-        "Youngster Jaylen": {
+        "Youngster Jaylen and Youngster Dillon": {
             "level": 30,
             "ivs": null,
             "item": "Flying Gem",
@@ -3559,7 +3559,7 @@ var SETDEX_SV = {
         }
     },
     "Sawsbuck": {
-        "Youngster Dillon": {
+        "Youngster Jaylen and Youngster Dillon": {
             "level": 30,
             "ivs": null,
             "item": "White Herb",
@@ -3575,7 +3575,7 @@ var SETDEX_SV = {
             ],
             "index": 134
         },
-        "Picnicker Carol": {
+        "Camper Larry and Picnicker Carol": {
             "level": 38,
             "ivs": null,
             "item": "Focus Sash",
@@ -3593,7 +3593,7 @@ var SETDEX_SV = {
         }
     },
     "Sandslash": {
-        "Youngster Dillon": {
+        "Youngster Jaylen and Youngster Dillon": {
             "level": 30,
             "ivs": null,
             "item": "Soft Sand",
@@ -3609,7 +3609,7 @@ var SETDEX_SV = {
             ],
             "index": 135
         },
-        "Camper Tyron": {
+        "Camper Tyron and Kindler Hayden": {
             "level": 38,
             "ivs": null,
             "item": "Focus Sash",
@@ -3657,7 +3657,7 @@ var SETDEX_SV = {
             ],
             "index": 401
         },
-        "Gentleman Clifford": {
+        "Gentleman Clifford and Psychic Macey": {
             "level": 70,
             "ivs": {
                 "sp": 0
@@ -3709,7 +3709,7 @@ var SETDEX_SV = {
             ],
             "index": 136
         },
-        "Picnicker Bianca": {
+        "Aroma Lady Celina and Picnicker Bianca": {
             "level": 38,
             "ivs": null,
             "item": "Covert Cloak",
@@ -3791,7 +3791,7 @@ var SETDEX_SV = {
             ],
             "index": 451
         },
-        "Gentleman Clifford": {
+        "Gentleman Clifford and Psychic Macey": {
             "level": 68,
             "ivs": {
                 "sp": 0
@@ -3961,7 +3961,7 @@ var SETDEX_SV = {
             ],
             "index": 142
         },
-        "Picnicker Daisy": {
+        "Hiker Marcos and Picnicker Daisy": {
             "level": 53,
             "ivs": null,
             "item": "Lum Berry",
@@ -3977,7 +3977,7 @@ var SETDEX_SV = {
             ],
             "index": 421
         },
-        "Swimmer Sharon": {
+        "Swimmer Sharon and Swimmer Nolen": {
             "level": 68,
             "ivs": null,
             "item": "Assault Vest",
@@ -4269,7 +4269,7 @@ var SETDEX_SV = {
             ],
             "index": 307
         },
-        "Hex Maniac Sylvia": {
+        "Hex Maniac Sylvia and Psychic Hannah": {
             "level": 70,
             "ivs": {
                 "sp": 0
@@ -4445,7 +4445,7 @@ var SETDEX_SV = {
             ],
             "index": 161
         },
-        "Psychic Samantha": {
+        "Psychic Blake and Psychic Samantha": {
             "level": 68,
             "ivs": {
                 "sp": 0
@@ -4533,7 +4533,7 @@ var SETDEX_SV = {
             ],
             "index": 165
         },
-        "Hex Maniac Sylvia": {
+        "Hex Maniac Sylvia and Psychic Hannah": {
             "level": 68,
             "ivs": {
                 "sp": 0
@@ -4835,7 +4835,7 @@ var SETDEX_SV = {
             ],
             "index": 171
         },
-        "Picknicker Diana": {
+        "Picknicker Diana and Camper Ethan": {
             "level": 38,
             "ivs": null,
             "item": "Electric Gem",
@@ -4867,7 +4867,7 @@ var SETDEX_SV = {
             ],
             "index": 581
         },
-        "Psychic Virgil": {
+        "Psychic Virgil and Gentleman Nate": {
             "level": 68,
             "ivs": {
                 "sp": 0
@@ -4903,7 +4903,7 @@ var SETDEX_SV = {
             ],
             "index": 172
         },
-        "Swimmer Sharon": {
+        "Swimmer Sharon and Swimmer Nolen": {
             "level": 70,
             "ivs": null,
             "item": "Clear Amulet",
@@ -4953,7 +4953,7 @@ var SETDEX_SV = {
             ],
             "index": 405
         },
-        "Swimmer Richard": {
+        "Swimmer Richard and Swimmer Kara": {
             "level": 75,
             "ivs": null,
             "item": "Expert Belt",
@@ -5021,7 +5021,7 @@ var SETDEX_SV = {
         }
     },
     "Lycanroc": {
-        "Camper Tyron": {
+        "Camper Tyron and Kindler Hayden": {
             "level": 38,
             "ivs": null,
             "item": "Focus Sash",
@@ -5053,7 +5053,7 @@ var SETDEX_SV = {
             ],
             "index": 407
         },
-        "Collector Hector": {
+        "Collector Hector and Hex Maniac Nadia": {
             "level": 53,
             "ivs": null,
             "item": "Covert Cloak",
@@ -5071,7 +5071,7 @@ var SETDEX_SV = {
         }
     },
     "Stoutland": {
-        "Camper Tyron": {
+        "Camper Tyron and Kindler Hayden": {
             "level": 38,
             "ivs": null,
             "item": "Covert Cloak",
@@ -5137,7 +5137,7 @@ var SETDEX_SV = {
         }
     },
     "Hippowdon": {
-        "Kindler Hayden": {
+        "Camper Tyron and Kindler Hayden": {
             "level": 40,
             "ivs": null,
             "item": "Focus Sash",
@@ -5187,7 +5187,7 @@ var SETDEX_SV = {
         }
     },
     "Ninetales-Alola": {
-        "Aroma Lady Celina": {
+        "Aroma Lady Celina and Picnicker Bianca": {
             "level": 40,
             "ivs": null,
             "item": "Focus Sash",
@@ -5237,7 +5237,7 @@ var SETDEX_SV = {
         }
     },
     "Sandslash-Alola": {
-        "Picnicker Bianca": {
+        "Aroma Lady Celina and Picnicker Bianca": {
             "level": 38,
             "ivs": null,
             "item": "Focus Sash",
@@ -5287,7 +5287,7 @@ var SETDEX_SV = {
         }
     },
     "Beartic": {
-        "Picnicker Bianca": {
+        "Aroma Lady Celina and Picnicker Bianca": {
             "level": 38,
             "ivs": null,
             "item": "Focus Sash",
@@ -5321,7 +5321,7 @@ var SETDEX_SV = {
         }
     },
     "Mantine": {
-        "Camper Travis": {
+        "Camper Travis and Cooltrainer Wilton": {
             "level": 38,
             "ivs": null,
             "item": "Focus Sash",
@@ -5337,7 +5337,7 @@ var SETDEX_SV = {
             ],
             "index": 184
         },
-        "Swimmer Talia": {
+        "Swimmer Kevin and Swimmer Talia": {
             "level": 77,
             "ivs": null,
             "item": "Covert Cloak",
@@ -5355,7 +5355,7 @@ var SETDEX_SV = {
         }
     },
     "Drednaw": {
-        "Camper Travis": {
+        "Camper Travis and Cooltrainer Wilton": {
             "level": 38,
             "ivs": null,
             "item": "Covert Cloak",
@@ -5373,7 +5373,7 @@ var SETDEX_SV = {
         }
     },
     "Politoed": {
-        "Cooltrainer Wilton": {
+        "Camper Travis and Cooltrainer Wilton": {
             "level": 40,
             "ivs": null,
             "item": "Focus Sash",
@@ -5423,7 +5423,7 @@ var SETDEX_SV = {
         }
     },
     "Ninetales": {
-        "Camper Larry": {
+        "Camper Larry and Picnicker Carol": {
             "level": 40,
             "ivs": null,
             "item": "Focus Sash",
@@ -5439,7 +5439,7 @@ var SETDEX_SV = {
             ],
             "index": 187
         },
-        "Ranger Jenna": {
+        "Ranger Lorenzo and Ranger Jenna": {
             "level": 70,
             "ivs": null,
             "item": "Wide Lens",
@@ -5489,7 +5489,7 @@ var SETDEX_SV = {
         }
     },
     "Salazzle": {
-        "Picnicker Carol": {
+        "Camper Larry and Picnicker Carol": {
             "level": 38,
             "ivs": null,
             "item": "Focus Sash",
@@ -5507,7 +5507,7 @@ var SETDEX_SV = {
         }
     },
     "Leavanny": {
-        "Picnicker Carol": {
+        "Camper Larry and Picnicker Carol": {
             "level": 38,
             "ivs": null,
             "item": "Covert Cloak",
@@ -5525,7 +5525,7 @@ var SETDEX_SV = {
         }
     },
     "Conkeldurr": {
-        "Hiker Brice": {
+        "Hiker Brice and Hiker Trent": {
             "level": 38,
             "ivs": null,
             "item": "Expert Belt",
@@ -5559,7 +5559,7 @@ var SETDEX_SV = {
         }
     },
     "Duraludon": {
-        "Hiker Brice": {
+        "Hiker Brice and Hiker Trent": {
             "level": 38,
             "ivs": null,
             "item": "Covert Cloak",
@@ -5593,7 +5593,7 @@ var SETDEX_SV = {
         }
     },
     "Bombirdier": {
-        "Hiker Trent": {
+        "Hiker Brice and Hiker Trent": {
             "level": 40,
             "ivs": null,
             "item": "Black Glasses",
@@ -5659,7 +5659,7 @@ var SETDEX_SV = {
         }
     },
     "Donphan": {
-        "Hiker Trent": {
+        "Hiker Brice and Hiker Trent": {
             "level": 38,
             "ivs": null,
             "item": "Grass Gem",
@@ -5707,7 +5707,7 @@ var SETDEX_SV = {
             ],
             "index": 477
         },
-        "Psychic Maura": {
+        "Psychic Presont and Psychic Maura": {
             "level": 68,
             "ivs": {
                 "sp": 0
@@ -5791,7 +5791,7 @@ var SETDEX_SV = {
             ],
             "index": 196
         },
-        "Hex Maniac Kathleen": {
+        "Hex Maniac Kathleen and Psychic Nicholas": {
             "level": 68,
             "ivs": {
                 "sp": 0
@@ -6015,7 +6015,7 @@ var SETDEX_SV = {
             ],
             "index": 344
         },
-        "Sailor Cory": {
+        "Sailor Cory and Cooltrainer Carolina": {
             "level": 0,
             "ivs": null,
             "item": "Colbur Berry",
@@ -6031,7 +6031,7 @@ var SETDEX_SV = {
             ],
             "index": 440
         },
-        "Psychic Samantha": {
+        "Psychic Blake and Psychic Samantha": {
             "level": 68,
             "ivs": {
                 "sp": 0
@@ -6049,7 +6049,7 @@ var SETDEX_SV = {
             ],
             "index": 679
         },
-        "Swimmer Kara": {
+        "Swimmer Richard and Swimmer Kara": {
             "level": 77,
             "ivs": null,
             "item": "Aguav Berry",
@@ -6165,7 +6165,7 @@ var SETDEX_SV = {
             ],
             "index": 475
         },
-        "Gentleman Nate": {
+        "Psychic Virgil and Gentleman Nate": {
             "level": 70,
             "ivs": {
                 "sp": 0
@@ -6183,7 +6183,7 @@ var SETDEX_SV = {
             ],
             "index": 687
         },
-        "Swimmer Herman": {
+        "Swimmer Herman and Swimmer Susie": {
             "level": 75,
             "ivs": null,
             "item": "Covert Cloak",
@@ -6559,7 +6559,7 @@ var SETDEX_SV = {
         }
     },
     "Grimmsnarl": {
-        "Ninja Boy Lao": {
+        "Ninja Boy Lao and Ninja Boy Lung": {
             "level": 38,
             "ivs": null,
             "item": "Covert Cloak",
@@ -6607,7 +6607,7 @@ var SETDEX_SV = {
             ],
             "index": 650
         },
-        "Hex Maniac Kathleen": {
+        "Hex Maniac Kathleen and Psychic Nicholas": {
             "level": 70,
             "ivs": {
                 "sp": 0
@@ -6643,7 +6643,7 @@ var SETDEX_SV = {
         }
     },
     "Typhlosion-Hisui": {
-        "Ninja Boy Lao": {
+        "Ninja Boy Lao and Ninja Boy Lung": {
             "level": 38,
             "ivs": null,
             "item": "Bright Powder",
@@ -6693,7 +6693,7 @@ var SETDEX_SV = {
         }
     },
     "Banette": {
-        "Ninja Boy Lung": {
+        "Ninja Boy Lao and Ninja Boy Lung": {
             "level": 40,
             "ivs": null,
             "item": "Quick Claw",
@@ -6729,7 +6729,7 @@ var SETDEX_SV = {
         }
     },
     "Cacturne": {
-        "Ninja Boy Lung": {
+        "Ninja Boy Lao and Ninja Boy Lung": {
             "level": 40,
             "ivs": null,
             "item": "Focus Band",
@@ -7263,7 +7263,7 @@ var SETDEX_SV = {
             ],
             "index": 476
         },
-        "Bird Keeper Presley": {
+        "Bird Keeper Presley and Expert Auron": {
             "level": 70,
             "ivs": null,
             "item": "Assault Vest",
@@ -7279,7 +7279,7 @@ var SETDEX_SV = {
             ],
             "index": 664
         },
-        "Gentleman Nate": {
+        "Psychic Virgil and Gentleman Nate": {
             "level": 68,
             "ivs": {
                 "sp": 0
@@ -7399,7 +7399,7 @@ var SETDEX_SV = {
             ],
             "index": 592
         },
-        "Psychic Blake": {
+        "Psychic Blake and Psychic Samantha": {
             "level": 70,
             "ivs": {
                 "sp": 0
@@ -7828,7 +7828,7 @@ var SETDEX_SV = {
             ],
             "index": 340
         },
-        "Camper Rhett": {
+        "Lass Julia and Camper Rhett": {
             "level": 55,
             "ivs": null,
             "item": "Focus Sash",
@@ -7844,7 +7844,7 @@ var SETDEX_SV = {
             ],
             "index": 425
         },
-        "Swimmer Clarence": {
+        "Swimmer Tisha and Swimmer Clarence": {
             "level": 75,
             "ivs": null,
             "item": "Mystic Water",
@@ -8066,7 +8066,7 @@ var SETDEX_SV = {
         }
     },
     "Flygon": {
-        "Hiker Lenny": {
+        "Hiker Lenny and Hiker Lucas": {
             "level": 40,
             "ivs": null,
             "item": "Focus Sash",
@@ -8114,7 +8114,7 @@ var SETDEX_SV = {
             ],
             "index": 508
         },
-        "Bird Keeper Edwardo": {
+        "Camper Flint and Bird Keeper Edwardo": {
             "level": 62,
             "ivs": null,
             "item": "Normal Gem",
@@ -8180,7 +8180,7 @@ var SETDEX_SV = {
         }
     },
     "Gliscor": {
-        "Hiker Lucas": {
+        "Hiker Lenny and Hiker Lucas": {
             "level": 39,
             "ivs": null,
             "item": "Flying Gem",
@@ -8244,7 +8244,7 @@ var SETDEX_SV = {
             ],
             "index": 619
         },
-        "Swimmer Talia": {
+        "Swimmer Kevin and Swimmer Talia": {
             "level": 77,
             "ivs": null,
             "item": "Focus Sash",
@@ -8278,7 +8278,7 @@ var SETDEX_SV = {
         }
     },
     "Crobat": {
-        "Hiker Lucas": {
+        "Hiker Lenny and Hiker Lucas": {
             "level": 39,
             "ivs": null,
             "item": "Scope Lens",
@@ -8312,7 +8312,7 @@ var SETDEX_SV = {
         }
     },
     "Braviary-Hisui": {
-        "Hiker Lucas": {
+        "Hiker Lenny and Hiker Lucas": {
             "level": 39,
             "ivs": null,
             "item": "Covert Cloak",
@@ -8464,7 +8464,7 @@ var SETDEX_SV = {
             ],
             "index": 274
         },
-        "Psychic Hannah": {
+        "Hex Maniac Sylvia and Psychic Hannah": {
             "level": 68,
             "ivs": {
                 "sp": 0
@@ -8670,7 +8670,7 @@ var SETDEX_SV = {
             ],
             "index": 283
         },
-        "Lass Julia": {
+        "Lass Julia and Camper Rhett": {
             "level": 53,
             "ivs": null,
             "item": "Covert Cloak",
@@ -8824,7 +8824,7 @@ var SETDEX_SV = {
             ],
             "index": 573
         },
-        "Gentleman Nate": {
+        "Psychic Virgil and Gentleman Nate": {
             "level": 68,
             "ivs": {
                 "sp": 0
@@ -8844,7 +8844,7 @@ var SETDEX_SV = {
         }
     },
     "Staraptor": {
-        "Picknicker Diana": {
+        "Picknicker Diana and Camper Ethan": {
             "level": 38,
             "ivs": null,
             "item": "Flying Gem",
@@ -8894,7 +8894,7 @@ var SETDEX_SV = {
         }
     },
     "Arcanine": {
-        "Picknicker Diana": {
+        "Picknicker Diana and Camper Ethan": {
             "level": 38,
             "ivs": null,
             "item": "Fire Gem",
@@ -8910,7 +8910,7 @@ var SETDEX_SV = {
             ],
             "index": 290
         },
-        "Hiker Marcos": {
+        "Hiker Marcos and Picnicker Daisy": {
             "level": 53,
             "ivs": null,
             "item": "Charcoal",
@@ -8926,7 +8926,7 @@ var SETDEX_SV = {
             ],
             "index": 418
         },
-        "Ranger Jenna": {
+        "Ranger Lorenzo and Ranger Jenna": {
             "level": 68,
             "ivs": null,
             "item": "Clear Amulet",
@@ -9024,7 +9024,7 @@ var SETDEX_SV = {
         }
     },
     "Kangaskhan": {
-        "Camper Ethan": {
+        "Picknicker Diana and Camper Ethan": {
             "level": 38,
             "ivs": null,
             "item": "Lum Berry",
@@ -9070,7 +9070,7 @@ var SETDEX_SV = {
             ],
             "index": 657
         },
-        "Psychic Nicholas": {
+        "Hex Maniac Kathleen and Psychic Nicholas": {
             "level": 68,
             "ivs": {
                 "sa": 0,
@@ -9091,7 +9091,7 @@ var SETDEX_SV = {
         }
     },
     "Meowstic-F": {
-        "Camper Ethan": {
+        "Picknicker Diana and Camper Ethan": {
             "level": 38,
             "ivs": null,
             "item": "Wise Glasses",
@@ -9109,7 +9109,7 @@ var SETDEX_SV = {
         }
     },
     "Tinkaton": {
-        "Camper Ethan": {
+        "Picknicker Diana and Camper Ethan": {
             "level": 38,
             "ivs": null,
             "item": "Covert Cloak",
@@ -9141,7 +9141,7 @@ var SETDEX_SV = {
             ],
             "index": 369
         },
-        "Sailor Cory": {
+        "Sailor Cory and Cooltrainer Carolina": {
             "level": -2,
             "ivs": null,
             "item": "Steel Gem",
@@ -9661,7 +9661,7 @@ var SETDEX_SV = {
             ],
             "index": 309
         },
-        "Psychic Hannah": {
+        "Hex Maniac Sylvia and Psychic Hannah": {
             "level": 68,
             "ivs": {
                 "sp": 0
@@ -9729,7 +9729,7 @@ var SETDEX_SV = {
             ],
             "index": 583
         },
-        "Bird Keeper Presley": {
+        "Bird Keeper Presley and Expert Auron": {
             "level": 68,
             "ivs": null,
             "item": "Choice Scarf",
@@ -9745,7 +9745,7 @@ var SETDEX_SV = {
             ],
             "index": 665
         },
-        "Swimmer Kevin": {
+        "Swimmer Kevin and Swimmer Talia": {
             "level": 75,
             "ivs": null,
             "item": "Wise Glasses",
@@ -9845,7 +9845,7 @@ var SETDEX_SV = {
             ],
             "index": 631
         },
-        "Swimmer Allison": {
+        "Swimmer Allison and Swimmer Reed": {
             "level": 77,
             "ivs": null,
             "item": "Wide Lens",
@@ -10186,7 +10186,7 @@ var SETDEX_SV = {
             ],
             "index": 332
         },
-        "Camper Rhett": {
+        "Lass Julia and Camper Rhett": {
             "level": 53,
             "ivs": null,
             "item": "Covert Cloak",
@@ -10270,7 +10270,7 @@ var SETDEX_SV = {
             ],
             "index": 540
         },
-        "Psychic Hannah": {
+        "Hex Maniac Sylvia and Psychic Hannah": {
             "level": 68,
             "ivs": {
                 "sp": 0
@@ -10390,7 +10390,7 @@ var SETDEX_SV = {
             ],
             "index": 345
         },
-        "Swimmer Reed": {
+        "Swimmer Allison and Swimmer Reed": {
             "level": 77,
             "ivs": null,
             "item": "Fire Gem",
@@ -10526,7 +10526,7 @@ var SETDEX_SV = {
             ],
             "index": 410
         },
-        "Collector Hector": {
+        "Collector Hector and Hex Maniac Nadia": {
             "level": 53,
             "ivs": null,
             "item": "Focus Sash",
@@ -10660,7 +10660,7 @@ var SETDEX_SV = {
             ],
             "index": 355
         },
-        "Bird Keeper Edwardo": {
+        "Camper Flint and Bird Keeper Edwardo": {
             "level": 62,
             "ivs": null,
             "item": "Silk Scarf",
@@ -10796,7 +10796,7 @@ var SETDEX_SV = {
             ],
             "index": 500
         },
-        "Ranger Lorenzo": {
+        "Ranger Lorenzo and Ranger Jenna": {
             "level": 68,
             "ivs": null,
             "item": "Covert Cloak",
@@ -10812,7 +10812,7 @@ var SETDEX_SV = {
             ],
             "index": 563
         },
-        "Hex Maniac Sylvia": {
+        "Hex Maniac Sylvia and Psychic Hannah": {
             "level": 68,
             "ivs": {
                 "sp": 0
@@ -11249,7 +11249,7 @@ var SETDEX_SV = {
             ],
             "index": 376
         },
-        "Psychic Virgil": {
+        "Psychic Virgil and Gentleman Nate": {
             "level": 68,
             "ivs": {
                 "sp": 0
@@ -11321,7 +11321,7 @@ var SETDEX_SV = {
             ],
             "index": 379
         },
-        "Psychic Nicholas": {
+        "Hex Maniac Kathleen and Psychic Nicholas": {
             "level": 68,
             "ivs": {
                 "sa": 0,
@@ -11786,7 +11786,7 @@ var SETDEX_SV = {
         }
     },
     "Granbull": {
-        "Hiker Marcos": {
+        "Hiker Marcos and Picnicker Daisy": {
             "level": 53,
             "ivs": null,
             "item": "Clear Amulet",
@@ -11820,7 +11820,7 @@ var SETDEX_SV = {
         }
     },
     "Toedscruel": {
-        "Picnicker Daisy": {
+        "Hiker Marcos and Picnicker Daisy": {
             "level": 53,
             "ivs": null,
             "item": "White Herb",
@@ -11838,7 +11838,7 @@ var SETDEX_SV = {
         }
     },
     "Emboar": {
-        "Lass Julia": {
+        "Lass Julia and Camper Rhett": {
             "level": 53,
             "ivs": null,
             "item": "Expert Belt",
@@ -11856,7 +11856,7 @@ var SETDEX_SV = {
         }
     },
     "Revavroom": {
-        "Lass Julia": {
+        "Lass Julia and Camper Rhett": {
             "level": 53,
             "ivs": null,
             "item": "Air Balloon",
@@ -11906,7 +11906,7 @@ var SETDEX_SV = {
         }
     },
     "Golurk": {
-        "Collector Hector": {
+        "Collector Hector and Hex Maniac Nadia": {
             "level": 53,
             "ivs": null,
             "item": "Punching Glove",
@@ -11922,7 +11922,7 @@ var SETDEX_SV = {
             ],
             "index": 430
         },
-        "Hex Maniac Kathleen": {
+        "Hex Maniac Kathleen and Psychic Nicholas": {
             "level": 68,
             "ivs": {
                 "sp": 0
@@ -11942,7 +11942,7 @@ var SETDEX_SV = {
         }
     },
     "Tyranitar": {
-        "Hex Maniac Nadia": {
+        "Collector Hector and Hex Maniac Nadia": {
             "level": 55,
             "ivs": null,
             "item": "Clear Amulet",
@@ -11992,7 +11992,7 @@ var SETDEX_SV = {
         }
     },
     "Gholdengo": {
-        "Hex Maniac Nadia": {
+        "Collector Hector and Hex Maniac Nadia": {
             "level": 53,
             "ivs": null,
             "item": "White Herb",
@@ -12076,7 +12076,7 @@ var SETDEX_SV = {
             ],
             "index": 435
         },
-        "Swimmer Kevin": {
+        "Swimmer Kevin and Swimmer Talia": {
             "level": 75,
             "ivs": null,
             "item": "Weakness Policy",
@@ -12258,7 +12258,7 @@ var SETDEX_SV = {
             ],
             "index": 439
         },
-        "Ranger Jenna": {
+        "Ranger Lorenzo and Ranger Jenna": {
             "level": 68,
             "ivs": null,
             "item": "Covert Cloak",
@@ -12292,7 +12292,7 @@ var SETDEX_SV = {
         }
     },
     "Gengar": {
-        "Sailor Cory": {
+        "Sailor Cory and Cooltrainer Carolina": {
             "level": -2,
             "ivs": null,
             "item": "Expert Belt",
@@ -12342,7 +12342,7 @@ var SETDEX_SV = {
         }
     },
     "Swampert": {
-        "Cooltrainer Carolina": {
+        "Sailor Cory and Cooltrainer Carolina": {
             "level": 0,
             "ivs": null,
             "item": "Rindo Berry",
@@ -12358,7 +12358,7 @@ var SETDEX_SV = {
             ],
             "index": 443
         },
-        "Swimmer Reed": {
+        "Swimmer Allison and Swimmer Reed": {
             "level": 77,
             "ivs": null,
             "item": "Focus Sash",
@@ -12376,7 +12376,7 @@ var SETDEX_SV = {
         }
     },
     "Flamigo": {
-        "Cooltrainer Carolina": {
+        "Sailor Cory and Cooltrainer Carolina": {
             "level": -2,
             "ivs": null,
             "item": "Flying Gem",
@@ -12409,7 +12409,7 @@ var SETDEX_SV = {
         }
     },
     "Avalugg-Hisui": {
-        "Cooltrainer Carolina": {
+        "Sailor Cory and Cooltrainer Carolina": {
             "level": -2,
             "ivs": null,
             "item": "Choice Band",
@@ -12582,7 +12582,7 @@ var SETDEX_SV = {
             ],
             "index": 459
         },
-        "Swimmer Nolen": {
+        "Swimmer Sharon and Swimmer Nolen": {
             "level": 68,
             "ivs": null,
             "item": "Covert Cloak",
@@ -12664,7 +12664,7 @@ var SETDEX_SV = {
             ],
             "index": 609
         },
-        "Expert Auron": {
+        "Bird Keeper Presley and Expert Auron": {
             "level": 68,
             "ivs": null,
             "item": "Focus Sash",
@@ -12766,7 +12766,7 @@ var SETDEX_SV = {
             ],
             "index": 466
         },
-        "Swimmer Allison": {
+        "Swimmer Allison and Swimmer Reed": {
             "level": 75,
             "ivs": null,
             "item": "Leftovers",
@@ -13297,7 +13297,7 @@ var SETDEX_SV = {
             ],
             "index": 505
         },
-        "Swimmer Susie": {
+        "Swimmer Herman and Swimmer Susie": {
             "level": 75,
             "ivs": null,
             "item": "Watmel Berry",
@@ -13532,7 +13532,7 @@ var SETDEX_SV = {
         }
     },
     "Decidueye": {
-        "Camper Flint": {
+        "Camper Flint and Bird Keeper Edwardo": {
             "level": 64,
             "ivs": null,
             "item": "Sharp Beak",
@@ -13582,7 +13582,7 @@ var SETDEX_SV = {
         }
     },
     "Medicham": {
-        "Camper Flint": {
+        "Camper Flint and Bird Keeper Edwardo": {
             "level": 64,
             "ivs": null,
             "item": "Expert Belt",
@@ -13598,7 +13598,7 @@ var SETDEX_SV = {
             ],
             "index": 518
         },
-        "Psychic Presont": {
+        "Psychic Presont and Psychic Maura": {
             "level": 70,
             "ivs": {
                 "sp": 0
@@ -13634,7 +13634,7 @@ var SETDEX_SV = {
         }
     },
     "Gardevoir": {
-        "Camper Flint": {
+        "Camper Flint and Bird Keeper Edwardo": {
             "level": 62,
             "ivs": null,
             "item": "Covert Cloak",
@@ -14060,7 +14060,7 @@ var SETDEX_SV = {
             ],
             "index": 543
         },
-        "Swimmer Tisha": {
+        "Swimmer Tisha and Swimmer Clarence": {
             "level": 75,
             "ivs": null,
             "item": "Booster Energy",
@@ -14282,7 +14282,7 @@ var SETDEX_SV = {
         }
     },
     "Shiftry": {
-        "Ranger Lorenzo": {
+        "Ranger Lorenzo and Ranger Jenna": {
             "level": 68,
             "ivs": null,
             "item": "Focus Sash",
@@ -14424,7 +14424,7 @@ var SETDEX_SV = {
             ],
             "index": 579
         },
-        "Psychic Samantha": {
+        "Psychic Blake and Psychic Samantha": {
             "level": 68,
             "ivs": {
                 "sp": 0
@@ -14476,7 +14476,7 @@ var SETDEX_SV = {
             ],
             "index": 585
         },
-        "Swimmer Susie": {
+        "Swimmer Herman and Swimmer Susie": {
             "level": 77,
             "ivs": null,
             "item": "Spell Tag",
@@ -14651,7 +14651,7 @@ var SETDEX_SV = {
             ],
             "index": 605
         },
-        "Psychic Blake": {
+        "Psychic Blake and Psychic Samantha": {
             "level": 70,
             "ivs": {
                 "sp": 0
@@ -14823,7 +14823,7 @@ var SETDEX_SV = {
             ],
             "index": 616
         },
-        "Psychic Presont": {
+        "Psychic Presont and Psychic Maura": {
             "level": 68,
             "ivs": {
                 "sp": 0
@@ -14927,7 +14927,7 @@ var SETDEX_SV = {
             ],
             "index": 622
         },
-        "Swimmer Clarence": {
+        "Swimmer Tisha and Swimmer Clarence": {
             "level": 75,
             "ivs": null,
             "item": "Psychic Seed",
@@ -14982,7 +14982,7 @@ var SETDEX_SV = {
         }
     },
     "Mr. Rime": {
-        "Swimmer Nolen": {
+        "Swimmer Sharon and Swimmer Nolen": {
             "level": 70,
             "ivs": null,
             "item": "Salac Berry",
@@ -15262,7 +15262,7 @@ var SETDEX_SV = {
         }
     },
     "Kingambit": {
-        "Bird Keeper Presley": {
+        "Bird Keeper Presley and Expert Auron": {
             "level": 68,
             "ivs": null,
             "item": "Life Orb",
@@ -15328,7 +15328,7 @@ var SETDEX_SV = {
         }
     },
     "Ogerpon-Cornerstone": {
-        "Expert Auron": {
+        "Bird Keeper Presley and Expert Auron": {
             "level": 68,
             "ivs": null,
             "item": "Cornerstone Mask",
@@ -15346,7 +15346,7 @@ var SETDEX_SV = {
         }
     },
     "Hatterene": {
-        "Psychic Presont": {
+        "Psychic Presont and Psychic Maura": {
             "level": 68,
             "ivs": {
                 "sp": 0
@@ -15366,7 +15366,7 @@ var SETDEX_SV = {
         }
     },
     "Indeedee-F": {
-        "Psychic Maura": {
+        "Psychic Presont and Psychic Maura": {
             "level": 68,
             "ivs": {
                 "sp": 0
@@ -15384,7 +15384,7 @@ var SETDEX_SV = {
             ],
             "index": 673
         },
-        "Swimmer Tisha": {
+        "Swimmer Tisha and Swimmer Clarence": {
             "level": 77,
             "ivs": null,
             "item": "Psychic Seed",
@@ -15402,7 +15402,7 @@ var SETDEX_SV = {
         }
     },
     "Hypno": {
-        "Psychic Maura": {
+        "Psychic Presont and Psychic Maura": {
             "level": 70,
             "ivs": {
                 "sp": 0
@@ -15422,7 +15422,7 @@ var SETDEX_SV = {
         }
     },
     "Pachirisu": {
-        "Psychic Blake": {
+        "Psychic Blake and Psychic Samantha": {
             "level": 70,
             "ivs": {
                 "sp": 0
@@ -15442,7 +15442,7 @@ var SETDEX_SV = {
         }
     },
     "Camerupt": {
-        "Psychic Virgil": {
+        "Psychic Virgil and Gentleman Nate": {
             "level": 70,
             "ivs": {
                 "sp": 0
@@ -15478,7 +15478,7 @@ var SETDEX_SV = {
         }
     },
     "Druddigon": {
-        "Psychic Nicholas": {
+        "Hex Maniac Kathleen and Psychic Nicholas": {
             "level": 68,
             "ivs": {
                 "sa": 0,
@@ -15515,7 +15515,7 @@ var SETDEX_SV = {
         }
     },
     "Amoonguss": {
-        "Psychic Macey": {
+        "Gentleman Clifford and Psychic Macey": {
             "level": 68,
             "ivs": {
                 "sp": 0
@@ -15535,7 +15535,7 @@ var SETDEX_SV = {
         }
     },
     "Bronzong": {
-        "Psychic Macey": {
+        "Gentleman Clifford and Psychic Macey": {
             "level": 68,
             "ivs": {
                 "sp": 0
@@ -15709,7 +15709,7 @@ var SETDEX_SV = {
         }
     },
     "Iron Bundle": {
-        "Swimmer Clarence": {
+        "Swimmer Tisha and Swimmer Clarence": {
             "level": 75,
             "ivs": null,
             "item": "Focus Sash",
@@ -15743,7 +15743,7 @@ var SETDEX_SV = {
         }
     },
     "Urshifu-Rapid-Strike": {
-        "Swimmer Richard": {
+        "Swimmer Richard and Swimmer Kara": {
             "level": 75,
             "ivs": null,
             "item": "Focus Sash",
