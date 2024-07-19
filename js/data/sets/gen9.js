@@ -2,9 +2,12 @@ var SETDEX_SV = {
     "Poochyena": {
         "Youngster Calvin": {
             "level": 12,
+            "ivs": null,
             "item": "Oran Berry",
             "ability": "Run Away",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Bite",
                 "Howl"
@@ -15,9 +18,12 @@ var SETDEX_SV = {
     "Mudkip": {
         "Youngster Calvin": {
             "level": 12,
+            "ivs": null,
             "item": "Oran Berry",
             "ability": "Torrent",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Water Pulse",
                 "Mud Shot"
@@ -28,9 +34,12 @@ var SETDEX_SV = {
     "Taillow": {
         "Youngster Allen": {
             "level": 12,
+            "ivs": null,
             "item": "Oran Berry",
             "ability": "Guts",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Aerial Ace",
                 "Facade"
@@ -41,9 +50,12 @@ var SETDEX_SV = {
     "Treecko": {
         "Youngster Allen": {
             "level": 12,
+            "ivs": null,
             "item": "Oran Berry",
             "ability": "Overgrow",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Giga Drain",
                 "Growth"
@@ -54,9 +66,12 @@ var SETDEX_SV = {
     "Shroomish": {
         "Lass Tiana": {
             "level": 12,
+            "ivs": null,
             "item": "Oran Berry",
             "ability": "Effect Spore",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Spore",
                 "Bullet Seed"
@@ -67,9 +82,12 @@ var SETDEX_SV = {
     "Torchic": {
         "Lass Tiana": {
             "level": 12,
+            "ivs": null,
             "item": "Oran Berry",
             "ability": "Blaze",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Flame Charge",
                 "Aerial Ace"
@@ -80,9 +98,12 @@ var SETDEX_SV = {
     "Larvesta": {
         "Bug Catcher Lyle": {
             "level": 12,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Flame Body",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Flame Wheel",
                 "Bug Bite"
@@ -93,9 +114,12 @@ var SETDEX_SV = {
     "Venipede": {
         "Bug Catcher Lyle": {
             "level": 12,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Poison Point",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Pin Missile",
                 "Poison Tail"
@@ -106,9 +130,12 @@ var SETDEX_SV = {
     "Dewpider": {
         "Bug Catchter James": {
             "level": 12,
+            "ivs": null,
             "item": "Berry Juice",
             "ability": "Water Bubble",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Bubble Beam",
                 "Silver Wind"
@@ -119,9 +146,12 @@ var SETDEX_SV = {
     "Dustox": {
         "Bug Catchter James": {
             "level": 12,
+            "ivs": null,
             "item": "Oran Berry",
             "ability": "Shield Dust",
             "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Bug Bite",
                 "Toxic",
@@ -133,9 +163,12 @@ var SETDEX_SV = {
     "Meowth": {
         "Rich Boy Windston": {
             "level": 12,
+            "ivs": null,
             "item": "Amulet Coin",
             "ability": "Technician",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Pay Day",
                 "Bite"
@@ -146,9 +179,12 @@ var SETDEX_SV = {
     "Skitty": {
         "Rich Boy Windston": {
             "level": 12,
+            "ivs": null,
             "item": "Amulet Coin",
             "ability": "Cute Charm",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Pay Day",
                 "Disarming Voice"
@@ -159,9 +195,12 @@ var SETDEX_SV = {
     "Litten": {
         "Rich Boy Windston": {
             "level": 12,
+            "ivs": null,
             "item": "Amulet Coin",
             "ability": "Intimidate",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Pay Day",
                 "Fire Fang"
@@ -172,9 +211,12 @@ var SETDEX_SV = {
     "Spritzee": {
         "Lass Haley": {
             "level": 12,
+            "ivs": null,
             "item": "Oran Berry",
             "ability": "Healer",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Draining Kiss",
                 "Sweet Kiss"
@@ -185,9 +227,12 @@ var SETDEX_SV = {
     "Salandit": {
         "Lass Haley": {
             "level": 12,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Corrosion",
             "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Venoshock",
                 "Toxic"
@@ -198,9 +243,12 @@ var SETDEX_SV = {
     "Pichu": {
         "Lass Haley": {
             "level": 12,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Lightning Rod",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Spark",
                 "Nuzzle"
@@ -211,9 +259,12 @@ var SETDEX_SV = {
     "Spheal": {
         "Lass Haley": {
             "level": 12,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Thick Fat",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Water Gun",
                 "Powder Snow",
@@ -226,9 +277,12 @@ var SETDEX_SV = {
     "Mew": {
         "Twins Gina and Mia": {
             "level": 15,
+            "ivs": null,
             "item": "Oran Berry",
             "ability": "Synchronize",
             "nature": "Hardy",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Transform"
             ],
@@ -238,9 +292,12 @@ var SETDEX_SV = {
     "Ditto": {
         "Twins Gina and Mia": {
             "level": 15,
+            "ivs": null,
             "item": "Oran Berry",
             "ability": "Imposter",
             "nature": "Hardy",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Transform"
             ],
@@ -250,9 +307,12 @@ var SETDEX_SV = {
     "Hippopotas": {
         "Youngster Josh": {
             "level": 15,
+            "ivs": null,
             "item": "Berry Juice",
             "ability": "Sand Force",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Stomping Tantrum",
                 "Crunch",
@@ -265,9 +325,12 @@ var SETDEX_SV = {
     "Slugma": {
         "Youngster Josh": {
             "level": 15,
+            "ivs": null,
             "item": "Eviolite",
             "ability": "Flame Body",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Incinerate",
                 "Ancient Power",
@@ -280,9 +343,12 @@ var SETDEX_SV = {
     "Sandshrew-Alola": {
         "Youngster Josh": {
             "level": 15,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Snow Cloak",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Ice Punch",
                 "Metal Claw",
@@ -294,9 +360,12 @@ var SETDEX_SV = {
     "Chewtle": {
         "Youngster Tommy": {
             "level": 14,
+            "ivs": null,
             "item": "Eviolite",
             "ability": "Strong Jaw",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Rock Tomb",
                 "Bite",
@@ -309,9 +378,12 @@ var SETDEX_SV = {
     "Geodude-Alola": {
         "Youngster Tommy": {
             "level": 14,
+            "ivs": null,
             "item": "Magnet",
             "ability": "Sturdy",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Rock Blast",
                 "Spark",
@@ -324,9 +396,12 @@ var SETDEX_SV = {
     "Sandile": {
         "Youngster Tommy": {
             "level": 14,
+            "ivs": null,
             "item": "Ground Gem",
             "ability": "Moxie",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Bulldoze",
                 "Rock Tomb",
@@ -339,9 +414,12 @@ var SETDEX_SV = {
     "Anorith": {
         "Youngster Tommy": {
             "level": 14,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Battle Armor",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Bug Bite",
                 "Rock Tomb",
@@ -354,9 +432,12 @@ var SETDEX_SV = {
     "Aron": {
         "Hiker Marc": {
             "level": 15,
+            "ivs": null,
             "item": "Hard Stone",
             "ability": "Sturdy",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Rock Tomb",
                 "Metal Claw",
@@ -367,9 +448,12 @@ var SETDEX_SV = {
         },
         "Hiker Clark": {
             "level": 0,
+            "ivs": null,
             "item": "Expert Belt",
             "ability": "Sturdy",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Iron Head",
                 "Rock Slide",
@@ -382,9 +466,12 @@ var SETDEX_SV = {
     "Larvitar": {
         "Hiker Marc": {
             "level": 15,
+            "ivs": null,
             "item": "Muscle Band",
             "ability": "Guts",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Rock Slide",
                 "Stomping Tantrum",
@@ -397,9 +484,12 @@ var SETDEX_SV = {
     "Archen": {
         "Hiker Marc": {
             "level": 15,
+            "ivs": null,
             "item": "Clear Amulet",
             "ability": "Defeatist",
             "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Wing Attack",
                 "Rock Throw",
@@ -412,9 +502,12 @@ var SETDEX_SV = {
     "Lileep": {
         "Hiker Marc": {
             "level": 15,
+            "ivs": null,
             "item": "Leftovers",
             "ability": "Storm Drain",
             "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Mega Drain",
                 "Rock Slide",
@@ -427,9 +520,12 @@ var SETDEX_SV = {
     "Drilbur": {
         "Leader Roxanne": {
             "level": 15,
+            "ivs": null,
             "item": "Steel Gem",
             "ability": "Mold Breaker",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Drill Run",
                 "Iron Head",
@@ -442,9 +538,12 @@ var SETDEX_SV = {
     "Kabuto": {
         "Leader Roxanne": {
             "level": 15,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Battle Armor",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Razor Shell",
                 "Rock Tomb",
@@ -457,9 +556,12 @@ var SETDEX_SV = {
     "Dwebble": {
         "Leader Roxanne": {
             "level": 15,
+            "ivs": null,
             "item": "Rock Gem",
             "ability": "Sturdy",
             "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Bug Bite",
                 "Smack Down",
@@ -472,9 +574,12 @@ var SETDEX_SV = {
     "Tyrunt": {
         "Leader Roxanne": {
             "level": 15,
+            "ivs": null,
             "item": "Hard Stone",
             "ability": "Sturdy",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Ice Fang",
                 "Thunder Fang",
@@ -487,9 +592,12 @@ var SETDEX_SV = {
     "Klawf": {
         "Leader Roxanne": {
             "level": 14,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Anger Shell",
             "nature": "Hardy",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Rock Throw",
                 "Trailblaze",
@@ -499,9 +607,12 @@ var SETDEX_SV = {
         },
         "Hiker Devan": {
             "level": 53,
+            "ivs": null,
             "item": "Salac Berry",
             "ability": "Anger Shell",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Stone Edge",
                 "Crabhammer",
@@ -512,9 +623,12 @@ var SETDEX_SV = {
         },
         "Swimmer Kevin": {
             "level": 75,
+            "ivs": null,
             "item": "Weakness Policy",
             "ability": "Anger Shell",
             "nature": "Impish",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Rock Slide",
                 "Earthquake",
@@ -527,9 +641,12 @@ var SETDEX_SV = {
     "Tinkatuff": {
         "Leader Roxanne": {
             "level": 16,
+            "ivs": null,
             "item": "Metal Coat",
             "ability": "Pickpocket",
             "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Play Rough",
                 "Metal Claw",
@@ -542,9 +659,12 @@ var SETDEX_SV = {
     "Skiddo": {
         "School Kid Jerry": {
             "level": -2,
+            "ivs": null,
             "item": "Oran Berry",
             "ability": "Sap Sipper",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Seed Bomb",
                 "Stomping Tantrum",
@@ -556,9 +676,12 @@ var SETDEX_SV = {
     "Chatot": {
         "School Kid Jerry": {
             "level": -2,
+            "ivs": null,
             "item": "Silk Scarf",
             "ability": "Keen Eye",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Echoed Voice",
                 "Air Cutter",
@@ -568,9 +691,12 @@ var SETDEX_SV = {
         },
         "Guitarist Kirk": {
             "level": 30,
+            "ivs": null,
             "item": "Flying Gem",
             "ability": "Keen Eye",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hyper Voice",
                 "Chatter",
@@ -581,9 +707,12 @@ var SETDEX_SV = {
         },
         "Bird Keeper Edwardo": {
             "level": 64,
+            "ivs": null,
             "item": "Choice Scarf",
             "ability": "Keen Eye",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Boomburst"
             ],
@@ -593,9 +722,12 @@ var SETDEX_SV = {
     "Rattata-Alola": {
         "Youngster Johnson": {
             "level": -2,
+            "ivs": null,
             "item": "Silk Scarf",
             "ability": "Hustle",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hyper Fang",
                 "Feint Attack",
@@ -607,9 +739,12 @@ var SETDEX_SV = {
     "Croagunk": {
         "Youngster Johnson": {
             "level": -2,
+            "ivs": null,
             "item": "Black Belt",
             "ability": "Poison Touch",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Vacuum Wave",
                 "Venoshock",
@@ -621,9 +756,12 @@ var SETDEX_SV = {
     "Sizzlipede": {
         "Bug Catcher Jose": {
             "level": 0,
+            "ivs": null,
             "item": "Charcoal",
             "ability": "Flame Body",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Fire Lash",
                 "X-Scissor",
@@ -635,9 +773,12 @@ var SETDEX_SV = {
     "Trapinch": {
         "Bug Catcher Jose": {
             "level": 0,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Arena Trap",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Crunch",
                 "Bug Bite",
@@ -649,9 +790,12 @@ var SETDEX_SV = {
     "Buneary": {
         "Battle Girl Karen": {
             "level": 0,
+            "ivs": null,
             "item": "Black Belt",
             "ability": "Run Away",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dizzy Punch",
                 "Drain Punch",
@@ -663,9 +807,12 @@ var SETDEX_SV = {
     "Oddish": {
         "Battle Girl Karen": {
             "level": 0,
+            "ivs": null,
             "item": "Black Sludge",
             "ability": "Chlorophyll",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Venoshock",
                 "Giga Drain",
@@ -677,9 +824,12 @@ var SETDEX_SV = {
     "Aromatisse": {
         "Lass Janice": {
             "level": 0,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Healer",
             "nature": "NATURE_HARDY",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Energy Ball",
                 "Drain Punch"
@@ -688,9 +838,14 @@ var SETDEX_SV = {
         },
         "Hex Maniac Tammy": {
             "level": 70,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Misty Seed",
             "ability": "Healer",
             "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Moonblast",
                 "Psychic",
@@ -703,9 +858,12 @@ var SETDEX_SV = {
     "Tsareena": {
         "Lass Janice": {
             "level": 0,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Queenly Majesty",
             "nature": "NATURE_HARDY",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Stomp",
                 "Low Sweep",
@@ -715,9 +873,12 @@ var SETDEX_SV = {
         },
         "Picknicker Nancy": {
             "level": 38,
+            "ivs": null,
             "item": "Wide Lens",
             "ability": "Queenly Majesty",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Trop Kick",
                 "Knock Off",
@@ -728,9 +889,12 @@ var SETDEX_SV = {
         },
         "Parasol Lady Rachel": {
             "level": 62,
+            "ivs": null,
             "item": "Grassy Seed",
             "ability": "Queenly Majesty",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Power Whip",
                 "Grassy Glide",
@@ -741,9 +905,12 @@ var SETDEX_SV = {
         },
         "Swimmer Kara": {
             "level": 77,
+            "ivs": null,
             "item": "Wide Lens",
             "ability": "Queenly Majesty",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Power Whip",
                 "Play Rough",
@@ -756,9 +923,12 @@ var SETDEX_SV = {
     "Rockruff": {
         "Hiker Clark": {
             "level": 0,
+            "ivs": null,
             "item": "Eviolite",
             "ability": "Vital Spirit",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Fire Fang",
                 "Ice Fang",
@@ -771,9 +941,12 @@ var SETDEX_SV = {
     "Geodude": {
         "Hiker Clark": {
             "level": 0,
+            "ivs": null,
             "item": "Hard Stone",
             "ability": "Sturdy",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Earthquake",
                 "Stone Edge",
@@ -785,9 +958,12 @@ var SETDEX_SV = {
     "Gible": {
         "Hiker Clark": {
             "level": 0,
+            "ivs": null,
             "item": "Ground Gem",
             "ability": "Sand Veil",
             "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Bulldoze",
                 "Dragon Breath"
@@ -798,9 +974,12 @@ var SETDEX_SV = {
     "Klink": {
         "Hiker Clark": {
             "level": 0,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Clear Body",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Gear Grind",
                 "Wild Charge",
@@ -812,9 +991,12 @@ var SETDEX_SV = {
     "Ponyta": {
         "Triathlete Maria": {
             "level": 0,
+            "ivs": null,
             "item": "Berry Juice",
             "ability": "Fiery Charge",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Flame Wheel",
                 "Low Kick",
@@ -826,9 +1008,12 @@ var SETDEX_SV = {
     "Yanma": {
         "Triathlete Maria": {
             "level": 0,
+            "ivs": null,
             "item": "Berry Juice",
             "ability": "Speed Boost",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Leech Life",
                 "Wing Attack",
@@ -840,9 +1025,12 @@ var SETDEX_SV = {
     "Snivy": {
         "Triathlete Melina": {
             "level": 0,
+            "ivs": null,
             "item": "Berry Juice",
             "ability": "Overgrow",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Seed Bomb",
                 "Aqua Tail",
@@ -854,9 +1042,12 @@ var SETDEX_SV = {
     "Froakie": {
         "Triathlete Melina": {
             "level": 0,
+            "ivs": null,
             "item": "Berry Juice",
             "ability": "Torrent",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Liquidation",
                 "Acrobatics",
@@ -868,9 +1059,12 @@ var SETDEX_SV = {
     "Chimchar": {
         "Triathlete Melina": {
             "level": 0,
+            "ivs": null,
             "item": "Berry Juice",
             "ability": "Iron Fist",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Fire Punch",
                 "Drain Punch",
@@ -882,9 +1076,12 @@ var SETDEX_SV = {
     "Riolu": {
         "Pokemon Breeder Lydia": {
             "level": 0,
+            "ivs": null,
             "item": "Oran Berry",
             "ability": "Inner Focus",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Close Combat",
                 "Blaze Kick"
@@ -895,9 +1092,12 @@ var SETDEX_SV = {
     "Elekid": {
         "Pokemon Breeder Lydia": {
             "level": 0,
+            "ivs": null,
             "item": "Oran Berry",
             "ability": "Static",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunder Punch",
                 "Ice Punch"
@@ -908,9 +1108,12 @@ var SETDEX_SV = {
     "Magby": {
         "Pokemon Breeder Lydia": {
             "level": 0,
+            "ivs": null,
             "item": "Oran Berry",
             "ability": "Flame Body",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Fire Punch",
                 "Brick Break"
@@ -921,9 +1124,12 @@ var SETDEX_SV = {
     "Bonsly": {
         "Pokemon Breeder Lydia": {
             "level": 0,
+            "ivs": null,
             "item": "Oran Berry",
             "ability": "Sturdy",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Rock Slide",
                 "Earthquake"
@@ -934,9 +1140,12 @@ var SETDEX_SV = {
     "Munchlax": {
         "Pokemon Breeder Lydia": {
             "level": 0,
+            "ivs": null,
             "item": "Oran Berry",
             "ability": "Gluttony",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Slam"
             ],
@@ -946,9 +1155,12 @@ var SETDEX_SV = {
     "Voltorb-Hisui": {
         "Bug Maniac Anthony": {
             "level": 22,
+            "ivs": null,
             "item": "Silk Scarf",
             "ability": "Static",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Wild Charge",
                 "Seed Bomb",
@@ -961,9 +1173,12 @@ var SETDEX_SV = {
     "Porygon": {
         "Bug Maniac Anthony": {
             "level": 22,
+            "ivs": null,
             "item": "Chople Berry",
             "ability": "Trace",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Psybeam",
                 "Icy Wind",
@@ -976,9 +1191,12 @@ var SETDEX_SV = {
     "Wormadam-Sandy": {
         "Bug Maniac Anthony": {
             "level": 23,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Overcoat",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Bug Bite",
                 "Bulldoze",
@@ -991,9 +1209,12 @@ var SETDEX_SV = {
     "Lokix": {
         "Bug Maniac Anthony": {
             "level": 23,
+            "ivs": null,
             "item": "Berry Juice",
             "ability": "Swarm",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Bug Bite",
                 "Assurance",
@@ -1006,9 +1227,12 @@ var SETDEX_SV = {
     "Abra": {
         "Hex Maniac Betty": {
             "level": 22,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Inner Focus",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Psyshock",
                 "Dazzling Gleam",
@@ -1021,9 +1245,12 @@ var SETDEX_SV = {
     "Poltchageist": {
         "Hex Maniac Betty": {
             "level": 22,
+            "ivs": null,
             "item": "Big Root",
             "ability": "Heatproof",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Giga Drain",
                 "Hex",
@@ -1036,9 +1263,12 @@ var SETDEX_SV = {
     "Noctowl": {
         "Hex Maniac Betty": {
             "level": 23,
+            "ivs": null,
             "item": "Wide Lens",
             "ability": "Insomnia",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Moonblast",
                 "Air Slash",
@@ -1049,9 +1279,12 @@ var SETDEX_SV = {
         },
         "Picknicker Nancy": {
             "level": 38,
+            "ivs": null,
             "item": "Wise Glasses",
             "ability": "Tinted Lens",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hyper Voice",
                 "Air Slash",
@@ -1062,9 +1295,12 @@ var SETDEX_SV = {
         },
         "Ranger Luella": {
             "level": 53,
+            "ivs": null,
             "item": "Expert Belt",
             "ability": "Tinted Lens",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hyper Voice",
                 "Air Slash",
@@ -1077,9 +1313,12 @@ var SETDEX_SV = {
     "Absol": {
         "Hex Maniac Betty": {
             "level": 23,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Super Luck",
             "nature": "Hardy",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Knock Off",
                 "Retaliate",
@@ -1090,9 +1329,12 @@ var SETDEX_SV = {
         },
         "Sidney": {
             "level": 53,
+            "ivs": null,
             "item": "Black Glasses",
             "ability": "Sharpness",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Night Slash",
                 "Psycho Cut",
@@ -1103,9 +1345,12 @@ var SETDEX_SV = {
         },
         "Bug Maniac Cale": {
             "level": 68,
+            "ivs": null,
             "item": "Quick Claw",
             "ability": "Sharpness",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Night Slash",
                 "X-Scissor",
@@ -1118,9 +1363,12 @@ var SETDEX_SV = {
     "Venomoth": {
         "Bug Catcher Oliver": {
             "level": 22,
+            "ivs": null,
             "item": "Black Sludge",
             "ability": "Tinted Lens",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Venoshock",
                 "Silver Wind",
@@ -1133,9 +1381,12 @@ var SETDEX_SV = {
     "Kricketune": {
         "Bug Catcher Oliver": {
             "level": 22,
+            "ivs": null,
             "item": "Scope Lens",
             "ability": "Technician",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Bug Bite",
                 "Aerial Ace",
@@ -1148,9 +1399,12 @@ var SETDEX_SV = {
     "Volbeat": {
         "Bug Catcher Oliver": {
             "level": 23,
+            "ivs": null,
             "item": "Expert Belt",
             "ability": "Prankster",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunder Punch",
                 "Ice Punch",
@@ -1163,9 +1417,12 @@ var SETDEX_SV = {
     "Illumise": {
         "Bug Catcher Oliver": {
             "level": 23,
+            "ivs": null,
             "item": "Wise Glasses",
             "ability": "Prankster",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dazzling Gleam",
                 "Struggle Bug",
@@ -1178,9 +1435,12 @@ var SETDEX_SV = {
     "Espeon": {
         "Lady Cindy": {
             "level": 23,
+            "ivs": null,
             "item": "Fairy Feather",
             "ability": "Magic Bounce",
             "nature": "Quirky",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Psybeam",
                 "Draining Kiss",
@@ -1191,9 +1451,12 @@ var SETDEX_SV = {
         },
         "Cycling Triathlete Abigail": {
             "level": 30,
+            "ivs": null,
             "item": "Light Clay",
             "ability": "Magic Bounce",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Psychic Noise",
                 "Draining Kiss",
@@ -1206,9 +1469,12 @@ var SETDEX_SV = {
     "Umbreon": {
         "Lady Cindy": {
             "level": 23,
+            "ivs": null,
             "item": "Dark Gem",
             "ability": "Inner Focus",
             "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Snarl",
                 "Alluring Voice",
@@ -1221,9 +1487,12 @@ var SETDEX_SV = {
     "Ivysaur": {
         "Youngster Billy": {
             "level": 23,
+            "ivs": null,
             "item": "Miracle Seed",
             "ability": "Overgrow",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Grass Pledge",
                 "Venoshock",
@@ -1236,9 +1505,12 @@ var SETDEX_SV = {
     "Charmeleon": {
         "Youngster Billy": {
             "level": 23,
+            "ivs": null,
             "item": "Charcoal",
             "ability": "Blaze",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Fire Pledge",
                 "Dragon Pulse",
@@ -1249,9 +1521,12 @@ var SETDEX_SV = {
         },
         "Guitarist Joseph": {
             "level": 30,
+            "ivs": null,
             "item": "Muscle Band",
             "ability": "Blaze",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Fire Punch",
                 "Thunder Punch",
@@ -1264,9 +1539,12 @@ var SETDEX_SV = {
     "Wartortle": {
         "Youngster Billy": {
             "level": 23,
+            "ivs": null,
             "item": "Mystic Water",
             "ability": "Torrent",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Water Pledge",
                 "Ice Beam",
@@ -1279,9 +1557,12 @@ var SETDEX_SV = {
     "Gallade": {
         "Sailor Brenden": {
             "level": 21,
+            "ivs": null,
             "item": "White Herb",
             "ability": "Justified",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Brick Break",
                 "Psycho Cut",
@@ -1292,9 +1573,12 @@ var SETDEX_SV = {
         },
         "Hex Maniac Nadia": {
             "level": 53,
+            "ivs": null,
             "item": "Scope Lens",
             "ability": "Sharpness",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Sacred Sword",
                 "Psycho Cut",
@@ -1305,9 +1589,12 @@ var SETDEX_SV = {
         },
         "Brendan": {
             "level": 68,
+            "ivs": null,
             "item": "Scope Lens",
             "ability": "Sharpness",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Sacred Sword",
                 "Psycho Cut",
@@ -1318,9 +1605,12 @@ var SETDEX_SV = {
         },
         "Aidan": {
             "level": 77,
+            "ivs": null,
             "item": "Expert Belt",
             "ability": "Sharpness",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Sacred Sword",
                 "Psycho Cut",
@@ -1333,9 +1623,12 @@ var SETDEX_SV = {
     "Poliwrath": {
         "Sailor Brenden": {
             "level": 23,
+            "ivs": null,
             "item": "Black Belt",
             "ability": "Water Absorb",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Surf",
                 "Ice Beam",
@@ -1346,9 +1639,12 @@ var SETDEX_SV = {
         },
         "Sailor Huey": {
             "level": 30,
+            "ivs": null,
             "item": "Expert Belt",
             "ability": "Water Absorb",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Wake-Up Slap",
                 "Waterfall",
@@ -1361,9 +1657,12 @@ var SETDEX_SV = {
     "Grapploct": {
         "Sailor Brenden": {
             "level": 24,
+            "ivs": null,
             "item": "Leftovers",
             "ability": "Limber",
             "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Revenge",
                 "Waterfall",
@@ -1374,9 +1673,12 @@ var SETDEX_SV = {
         },
         "Battle Girl Callie": {
             "level": 72,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Limber",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Close Combat",
                 "Liquidation",
@@ -1389,9 +1691,12 @@ var SETDEX_SV = {
     "Timburr": {
         "Battle Girl Lilith": {
             "level": 23,
+            "ivs": null,
             "item": "Punching Glove",
             "ability": "Iron Fist",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Drain Punch",
                 "Ice Punch",
@@ -1404,9 +1709,12 @@ var SETDEX_SV = {
     "Makuhita": {
         "Battle Girl Lilith": {
             "level": 23,
+            "ivs": null,
             "item": "Eviolite",
             "ability": "Guts",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Burned",
             "moves": [
                 "Force Palm",
                 "Rock Tomb",
@@ -1419,9 +1727,12 @@ var SETDEX_SV = {
     "Meditite": {
         "Battle Girl Lilith": {
             "level": 23,
+            "ivs": null,
             "item": "Black Belt",
             "ability": "Pure Power",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Force Palm",
                 "Psycho Cut",
@@ -1434,9 +1745,12 @@ var SETDEX_SV = {
     "Kubfu": {
         "Battle Girl Lilith": {
             "level": 24,
+            "ivs": null,
             "item": "Expert Belt",
             "ability": "Inner Focus",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Brick Break",
                 "Iron Head",
@@ -1449,9 +1763,12 @@ var SETDEX_SV = {
     "Charjabug": {
         "Black Belt Takao": {
             "level": 23,
+            "ivs": null,
             "item": "Eviolite",
             "ability": "Battery",
             "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Electroweb",
                 "Sticky Web",
@@ -1463,9 +1780,12 @@ var SETDEX_SV = {
     "Crabrawler": {
         "Black Belt Takao": {
             "level": 23,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Iron Fist",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Drain Punch",
                 "Ice Punch",
@@ -1478,9 +1798,12 @@ var SETDEX_SV = {
     "Mankey": {
         "Black Belt Takao": {
             "level": 23,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Defiant",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Cross Chop",
                 "Stone Edge",
@@ -1493,9 +1816,12 @@ var SETDEX_SV = {
     "Lilligant-Hisui": {
         "Battle Girl Jocelyn": {
             "level": 23,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Striker",
             "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Seed Bomb",
                 "Low Sweep",
@@ -1506,9 +1832,12 @@ var SETDEX_SV = {
         },
         "Camper Shane": {
             "level": 38,
+            "ivs": null,
             "item": "White Herb",
             "ability": "Leaf Guard",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Close Combat",
                 "Leaf Blade",
@@ -1519,9 +1848,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer MBF": {
             "level": 89,
+            "ivs": null,
             "item": "Life Orb",
             "ability": "Chlorophyll",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Leaf Blade",
                 "Close Combat",
@@ -1534,9 +1866,12 @@ var SETDEX_SV = {
     "Hakamo-o": {
         "Battle Girl Jocelyn": {
             "level": 23,
+            "ivs": null,
             "item": "Roseli Berry",
             "ability": "Bulletproof",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dragon Claw",
                 "Brick Break",
@@ -1549,9 +1884,12 @@ var SETDEX_SV = {
     "Toxicroak": {
         "Battle Girl Jocelyn": {
             "level": 25,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Poison Touch",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Venoshock",
                 "Vacuum Wave",
@@ -1562,9 +1900,12 @@ var SETDEX_SV = {
         },
         "Battle Girl Callie": {
             "level": 70,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Dry Skin",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Gunk Shot",
                 "Drain Punch",
@@ -1577,9 +1918,12 @@ var SETDEX_SV = {
     "Falinks": {
         "Black Belt Cristian": {
             "level": 23,
+            "ivs": null,
             "item": "Expert Belt",
             "ability": "Defiant",
             "nature": "Hardy",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "First Impression",
                 "Brick Break",
@@ -1590,9 +1934,12 @@ var SETDEX_SV = {
         },
         "Picnicker Irene": {
             "level": 38,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Defiant",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Close Combat",
                 "First Impression",
@@ -1605,9 +1952,12 @@ var SETDEX_SV = {
     "Flareon": {
         "Black Belt Cristian": {
             "level": 23,
+            "ivs": null,
             "item": "Black Belt",
             "ability": "Guts",
             "nature": "Hardy",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Fire Fang",
                 "Double Kick",
@@ -1618,9 +1968,12 @@ var SETDEX_SV = {
         },
         "Youngster Jaylen": {
             "level": 30,
+            "ivs": null,
             "item": "Choice Scarf",
             "ability": "Flash Fire",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Burning Jealousy",
                 "Scorching Sands"
@@ -1629,9 +1982,12 @@ var SETDEX_SV = {
         },
         "Picknicker Charlotte": {
             "level": 38,
+            "ivs": null,
             "item": "White Herb",
             "ability": "Flash Fire",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Flare Blitz",
                 "Double-Edge",
@@ -1642,9 +1998,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Gerald": {
             "level": 75,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Flash Fire",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Flare Blitz",
                 "Double-Edge",
@@ -1657,9 +2016,12 @@ var SETDEX_SV = {
     "Primeape": {
         "Black Belt Cristian": {
             "level": 23,
+            "ivs": null,
             "item": "Scope Lens",
             "ability": "Vital Spirit",
             "nature": "Hardy",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Brick Break",
                 "Rage Fist",
@@ -1670,9 +2032,12 @@ var SETDEX_SV = {
         },
         "Collector Damon": {
             "level": 53,
+            "ivs": null,
             "item": "Eviolite",
             "ability": "Vital Spirit",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Cross Chop",
                 "Rage Fist",
@@ -1683,9 +2048,12 @@ var SETDEX_SV = {
         },
         "Swimmer Declan": {
             "level": 68,
+            "ivs": null,
             "item": "Eviolite",
             "ability": "Defiant",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Cross Chop",
                 "Stone Edge",
@@ -1698,9 +2066,12 @@ var SETDEX_SV = {
     "Quilladin": {
         "Battle Girl Laura": {
             "level": 23,
+            "ivs": null,
             "item": "Eviolite",
             "ability": "Overgrow",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Seed Bomb",
                 "Brick Break",
@@ -1713,9 +2084,12 @@ var SETDEX_SV = {
     "Quaxwell": {
         "Battle Girl Laura": {
             "level": 23,
+            "ivs": null,
             "item": "Flying Gem",
             "ability": "Moxie",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Aqua Cutter",
                 "Low Sweep",
@@ -1728,9 +2102,12 @@ var SETDEX_SV = {
     "Combusken": {
         "Battle Girl Laura": {
             "level": 23,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Speed Boost",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Drain Punch",
                 "Fire Punch",
@@ -1741,9 +2118,12 @@ var SETDEX_SV = {
         },
         "Battle Girl Vivian": {
             "level": 30,
+            "ivs": null,
             "item": "Black Belt",
             "ability": "Speed Boost",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Fire Punch",
                 "Drain Punch",
@@ -1756,9 +2136,12 @@ var SETDEX_SV = {
     "Passimian": {
         "Battle Girl Laura": {
             "level": 23,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Defiant",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Brick Break",
                 "Take Down",
@@ -1769,9 +2152,12 @@ var SETDEX_SV = {
         },
         "Picknicker Charlotte": {
             "level": 38,
+            "ivs": null,
             "item": "Liechi Berry",
             "ability": "Defiant",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Close Combat",
                 "Earthquake",
@@ -1784,9 +2170,12 @@ var SETDEX_SV = {
     "Lucario": {
         "Leader Brawly": {
             "level": 23,
+            "ivs": null,
             "item": "Fighting Gem",
             "ability": "Inner Focus",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Force Palm",
                 "Metal Claw",
@@ -1797,9 +2186,12 @@ var SETDEX_SV = {
         },
         "Lass Crissy": {
             "level": 38,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Inner Focus",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Close Combat",
                 "Meteor Mash",
@@ -1810,9 +2202,12 @@ var SETDEX_SV = {
         },
         "Hiker Marcos": {
             "level": 53,
+            "ivs": null,
             "item": "Metal Coat",
             "ability": "Inner Focus",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Flash Cannon",
                 "Aura Sphere",
@@ -1823,9 +2218,12 @@ var SETDEX_SV = {
         },
         "Pokemon Breeder Pat": {
             "level": 68,
+            "ivs": null,
             "item": "Sitrus Berry",
             "ability": "Inner Focus",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Close Combat",
                 "Meteor Mash",
@@ -1836,9 +2234,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Tyler": {
             "level": 75,
+            "ivs": null,
             "item": "Wise Glasses",
             "ability": "Justified",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Flash Cannon",
                 "Aura Sphere",
@@ -1851,9 +2252,12 @@ var SETDEX_SV = {
     "Hawlucha": {
         "Leader Brawly": {
             "level": 23,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Mold Breaker",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Low Sweep",
                 "Wing Attack",
@@ -1863,9 +2267,12 @@ var SETDEX_SV = {
         },
         "Bird Keeper Hugh": {
             "level": 61,
+            "ivs": null,
             "item": "Grassy Seed",
             "ability": "Unburden",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Close Combat",
                 "Acrobatics",
@@ -1876,9 +2283,12 @@ var SETDEX_SV = {
         },
         "Expert Auron": {
             "level": 68,
+            "ivs": null,
             "item": "Grassy Seed",
             "ability": "Unburden",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Close Combat",
                 "Acrobatics",
@@ -1889,9 +2299,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Dianne": {
             "level": 90,
+            "ivs": null,
             "item": "Psychic Seed",
             "ability": "Unburden",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Swords Dance",
                 "Acrobatics",
@@ -1904,9 +2317,12 @@ var SETDEX_SV = {
     "Scrafty": {
         "Leader Brawly": {
             "level": 23,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Moxie",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Drain Punch",
                 "Payback",
@@ -1917,9 +2333,12 @@ var SETDEX_SV = {
         },
         "Swimmer Grace": {
             "level": 68,
+            "ivs": null,
             "item": "Focus Band",
             "ability": "Moxie",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Close Combat",
                 "Payback",
@@ -1932,9 +2351,12 @@ var SETDEX_SV = {
     "Annihilape": {
         "Leader Brawly": {
             "level": 23,
+            "ivs": null,
             "item": "Fighting Gem",
             "ability": "Defiant",
             "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Rage Fist",
                 "Rock Smash"
@@ -1943,9 +2365,12 @@ var SETDEX_SV = {
         },
         "Sr. and Jr. Kate & Joy": {
             "level": 70,
+            "ivs": null,
             "item": "Misty Seed",
             "ability": "Defiant",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Cross Chop",
                 "Rage Fist",
@@ -1956,9 +2381,12 @@ var SETDEX_SV = {
         },
         "Challenger Phoebe": {
             "level": 75,
+            "ivs": null,
             "item": "Eject Button",
             "ability": "Defiant",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Close Combat",
                 "Drain Punch",
@@ -1969,9 +2397,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Mitchell": {
             "level": 90,
+            "ivs": null,
             "item": "Leftovers",
             "ability": "Defiant",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Bulk Up",
                 "Drain Punch",
@@ -1982,9 +2413,12 @@ var SETDEX_SV = {
         },
         "Drewd": {
             "level": 90,
+            "ivs": null,
             "item": "Weakness Policy",
             "ability": "Defiant",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Rage Fist",
                 "Drain Punch",
@@ -1997,9 +2431,12 @@ var SETDEX_SV = {
     "Tauros-Paldea-Aqua": {
         "Leader Brawly": {
             "level": 25,
+            "ivs": null,
             "item": "Black Belt",
             "ability": "Intimidate",
             "nature": "Hardy",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Double Kick",
                 "Aqua Jet",
@@ -2010,9 +2447,12 @@ var SETDEX_SV = {
         },
         "Camper Lawrence": {
             "level": 38,
+            "ivs": null,
             "item": "Liechi Berry",
             "ability": "Intimidate",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Close Combat",
                 "Raging Bull",
@@ -2023,9 +2463,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Teddy": {
             "level": 75,
+            "ivs": null,
             "item": "White Herb",
             "ability": "Intimidate",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Close Combat",
                 "Raging Bull",
@@ -2038,9 +2481,12 @@ var SETDEX_SV = {
     "Tauros-Paldea-Blaze": {
         "Leader Brawly": {
             "level": 25,
+            "ivs": null,
             "item": "Black Belt",
             "ability": "Intimidate",
             "nature": "Hardy",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Temper Flare",
                 "Double Kick",
@@ -2051,9 +2497,12 @@ var SETDEX_SV = {
         },
         "Ranger Lorenzo": {
             "level": 68,
+            "ivs": null,
             "item": "White Herb",
             "ability": "Intimidate",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Close Combat",
                 "Raging Bull",
@@ -2066,9 +2515,12 @@ var SETDEX_SV = {
     "Fraxure": {
         "Sailor Huey": {
             "level": 30,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Mold Breaker",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dragon Claw",
                 "Poison Jab",
@@ -2081,9 +2533,12 @@ var SETDEX_SV = {
     "Oinkologne": {
         "Sailor Huey": {
             "level": 30,
+            "ivs": null,
             "item": "Chople Berry",
             "ability": "Thick Fat",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Take Down",
                 "High Horsepower",
@@ -2096,9 +2551,12 @@ var SETDEX_SV = {
     "Kingler": {
         "Sailor Edmond": {
             "level": 30,
+            "ivs": null,
             "item": "Expert Belt",
             "ability": "Shell Armor",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Razor Shell",
                 "X-Scissor",
@@ -2111,9 +2569,12 @@ var SETDEX_SV = {
     "Machoke": {
         "Sailor Edmond": {
             "level": 30,
+            "ivs": null,
             "item": "Flame Orb",
             "ability": "Guts",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Drain Punch",
                 "Poison Jab",
@@ -2126,9 +2587,12 @@ var SETDEX_SV = {
     "Arbok": {
         "Sailor Edmond": {
             "level": 30,
+            "ivs": null,
             "item": "Life Orb",
             "ability": "Intimidate",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Poison Jab",
                 "Earthquake",
@@ -2141,9 +2605,12 @@ var SETDEX_SV = {
     "Palossand": {
         "Sailor Edmond": {
             "level": 30,
+            "ivs": null,
             "item": "Weakness Policy",
             "ability": "Water Compaction",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Scorching Sands",
                 "Giga Drain",
@@ -2154,9 +2621,12 @@ var SETDEX_SV = {
         },
         "Camper Brandan": {
             "level": 52,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Sand Veil",
             "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Shadow Ball",
                 "Scorching Sands",
@@ -2169,9 +2639,12 @@ var SETDEX_SV = {
     "Azurill": {
         "Lola Tuber(F)": {
             "level": 32,
+            "ivs": null,
             "item": "Choice Band",
             "ability": "Huge Power",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Play Rough",
                 "Body Slam",
@@ -2184,9 +2657,12 @@ var SETDEX_SV = {
     "Ponyta-Galar": {
         "Lola Tuber(F)": {
             "level": 32,
+            "ivs": null,
             "item": "Choice Band",
             "ability": "Pastel Veil",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Play Rough",
                 "Psycho Cut",
@@ -2199,9 +2675,12 @@ var SETDEX_SV = {
     "Mawile": {
         "Lola Tuber(F)": {
             "level": 32,
+            "ivs": null,
             "item": "Choice Band",
             "ability": "Intimidate",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Play Rough",
                 "Fire Fang",
@@ -2212,9 +2691,14 @@ var SETDEX_SV = {
         },
         "Gentleman Clifford": {
             "level": 68,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Life Orb",
             "ability": "Sheer Force",
             "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Play Rough",
                 "Iron Head",
@@ -2227,9 +2711,12 @@ var SETDEX_SV = {
     "Wigglytuff": {
         "Lola Tuber(F)": {
             "level": 32,
+            "ivs": null,
             "item": "Choice Band",
             "ability": "Competitive",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Play Rough",
                 "Body Slam"
@@ -2238,9 +2725,12 @@ var SETDEX_SV = {
         },
         "Pokemon Breeder Pat": {
             "level": 70,
+            "ivs": null,
             "item": "Quick Claw",
             "ability": "Competitive",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Misty Explosion",
                 "Moonblast",
@@ -2251,9 +2741,14 @@ var SETDEX_SV = {
         },
         "Psychic Macey": {
             "level": 68,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Lum Berry",
             "ability": "Competitive",
             "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Moonblast",
                 "Hyper Voice",
@@ -2266,9 +2761,12 @@ var SETDEX_SV = {
     "Tentacruel": {
         "Ricky Tuber(M)": {
             "level": 30,
+            "ivs": null,
             "item": "Poison Barb",
             "ability": "Liquid Ooze",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Scald",
                 "Venoshock",
@@ -2279,9 +2777,12 @@ var SETDEX_SV = {
         },
         "Lass Crissy": {
             "level": 38,
+            "ivs": null,
             "item": "Air Balloon",
             "ability": "Clear Body",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Sludge Wave",
                 "Surf",
@@ -2292,9 +2793,12 @@ var SETDEX_SV = {
         },
         "Leader Juan": {
             "level": 40,
+            "ivs": null,
             "item": "Leftovers",
             "ability": "Rain Dish",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Sludge Wave",
                 "Scald",
@@ -2305,9 +2809,12 @@ var SETDEX_SV = {
         },
         "Hex Maniac Cole": {
             "level": 75,
+            "ivs": null,
             "item": "Life Orb",
             "ability": "Clear Body",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Scald",
                 "Venoshock",
@@ -2320,9 +2827,12 @@ var SETDEX_SV = {
     "Golduck": {
         "Ricky Tuber(M)": {
             "level": 30,
+            "ivs": null,
             "item": "Twisted Spoon",
             "ability": "Swift Swim",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Waterfall",
                 "Zen Headbutt",
@@ -2333,9 +2843,12 @@ var SETDEX_SV = {
         },
         "Camper Travis": {
             "level": 38,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Swift Swim",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Scald",
                 "Ice Beam",
@@ -2346,9 +2859,12 @@ var SETDEX_SV = {
         },
         "Beauty Bridget": {
             "level": 38,
+            "ivs": null,
             "item": "Twisted Spoon",
             "ability": "Swift Swim",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Surf",
                 "Psychic",
@@ -2361,9 +2877,12 @@ var SETDEX_SV = {
     "Seaking": {
         "Chandler Tuber(M)": {
             "level": 30,
+            "ivs": null,
             "item": "Life Orb",
             "ability": "Lightning Rod",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Waterfall",
                 "Drill Run",
@@ -2374,9 +2893,12 @@ var SETDEX_SV = {
         },
         "Fisherman Claude": {
             "level": 38,
+            "ivs": null,
             "item": "Dragon Fang",
             "ability": "Lightning Rod",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Liquidation",
                 "Poison Jab",
@@ -2389,9 +2911,12 @@ var SETDEX_SV = {
     "Ludicolo": {
         "Chandler Tuber(M)": {
             "level": 30,
+            "ivs": null,
             "item": "Wise Glasses",
             "ability": "Swift Swim",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Bubble Beam",
                 "Magical Leaf",
@@ -2402,9 +2927,12 @@ var SETDEX_SV = {
         },
         "Fisherman Andrew": {
             "level": 30,
+            "ivs": null,
             "item": "Tanga Berry",
             "ability": "Own Tempo",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Seed Bomb",
                 "Waterfall",
@@ -2415,9 +2943,12 @@ var SETDEX_SV = {
         },
         "Camper Rhett": {
             "level": 53,
+            "ivs": null,
             "item": "Mystic Water",
-            "ability": "Water Absorb",
+            "ability": "Own Tempo",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Energy Ball",
                 "Scald",
@@ -2428,9 +2959,12 @@ var SETDEX_SV = {
         },
         "Pokemon Ranger Tyree": {
             "level": 75,
+            "ivs": null,
             "item": "Big Root",
             "ability": "Swift Swim",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Surf",
                 "Giga Drain",
@@ -2441,9 +2975,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Katelynn": {
             "level": 90,
+            "ivs": null,
             "item": "Covert Cloak",
             "ability": "Swift Swim",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Energy Ball",
                 "Chilling Water",
@@ -2456,9 +2993,12 @@ var SETDEX_SV = {
     "Masquerain": {
         "Hailey Tuber (F)": {
             "level": 30,
+            "ivs": null,
             "item": "Water Gem",
             "ability": "Unnerve",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Bug Buzz",
                 "Air Slash",
@@ -2469,9 +3009,12 @@ var SETDEX_SV = {
         },
         "Bug Catcher Angelo": {
             "level": 30,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Intimidate",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Air Cutter",
                 "Silver Wind",
@@ -2482,9 +3025,12 @@ var SETDEX_SV = {
         },
         "Bug Maniac Brent": {
             "level": 62,
+            "ivs": null,
             "item": "Charti Berry",
             "ability": "Intimidate",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hurricane",
                 "Bug Buzz",
@@ -2495,9 +3041,12 @@ var SETDEX_SV = {
         },
         "Bug Maniac Jeffrey": {
             "level": 72,
+            "ivs": null,
             "item": "Mystic Water",
             "ability": "Intimidate",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hurricane",
                 "Bug Buzz",
@@ -2510,9 +3059,12 @@ var SETDEX_SV = {
     "Sunflora": {
         "Hailey Tuber (F)": {
             "level": 30,
+            "ivs": null,
             "item": "Quick Claw",
             "ability": "Chlorophyll",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Giga Drain",
                 "Sludge Bomb",
@@ -2525,9 +3077,12 @@ var SETDEX_SV = {
     "Froslass": {
         "Hailey Tuber (F)": {
             "level": 30,
+            "ivs": null,
             "item": "Ghost Gem",
             "ability": "Cursed Body",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hex",
                 "Icy Wind",
@@ -2538,9 +3093,12 @@ var SETDEX_SV = {
         },
         "Lady Daphne": {
             "level": 38,
+            "ivs": null,
             "item": "Life Orb",
             "ability": "Cursed Body",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Ice Beam",
                 "Shadow Ball",
@@ -2551,9 +3109,12 @@ var SETDEX_SV = {
         },
         "Hex Maniac Cole": {
             "level": 75,
+            "ivs": null,
             "item": "Quick Claw",
             "ability": "Snow Cloak",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Ice Beam",
                 "Hex",
@@ -2566,9 +3127,12 @@ var SETDEX_SV = {
     "Armaldo": {
         "Hailey Tuber (F)": {
             "level": 30,
+            "ivs": null,
             "item": "Rock Gem",
             "ability": "Battle Armor",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Rock Tomb",
                 "Bug Bite",
@@ -2579,9 +3143,12 @@ var SETDEX_SV = {
         },
         "Pokefan Bethany": {
             "level": 39,
+            "ivs": null,
             "item": "Quick Claw",
             "ability": "Swift Swim",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "X-Scissor",
                 "Rock Slide",
@@ -2592,9 +3159,12 @@ var SETDEX_SV = {
         },
         "Bug Maniac Jeffrey": {
             "level": 68,
+            "ivs": null,
             "item": "Water Gem",
             "ability": "Swift Swim",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Stone Edge",
                 "X-Scissor",
@@ -2605,9 +3175,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Albert": {
             "level": 89,
+            "ivs": null,
             "item": "Assault Vest",
             "ability": "Battle Armor",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Stone Edge",
                 "X-Scissor",
@@ -2620,9 +3193,12 @@ var SETDEX_SV = {
     "Simipour": {
         "Hailey Tuber (F)": {
             "level": 30,
+            "ivs": null,
             "item": "Flying Gem",
             "ability": "Torrent",
             "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Scald",
                 "Acrobatics"
@@ -2631,9 +3207,12 @@ var SETDEX_SV = {
         },
         "Picknicker Sophie": {
             "level": 38,
+            "ivs": null,
             "item": "Water Gem",
             "ability": "Torrent",
             "nature": "Naive",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Scald",
                 "Ice Beam",
@@ -2644,9 +3223,12 @@ var SETDEX_SV = {
         },
         "Fisherman Barny": {
             "level": 64,
+            "ivs": null,
             "item": "Water Gem",
             "ability": "Gluttony",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Wave Crash",
                 "Acrobatics",
@@ -2659,9 +3241,12 @@ var SETDEX_SV = {
     "Raichu-Alola": {
         "Pokefan Isabel": {
             "level": 30,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Surge Surfer",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunderbolt",
                 "Psyshock",
@@ -2672,9 +3257,12 @@ var SETDEX_SV = {
         },
         "Pokefan Annike": {
             "level": 40,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": null,
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Rising Voltage",
                 "Psychic",
@@ -2685,9 +3273,12 @@ var SETDEX_SV = {
         },
         "Dragon Tamer Jace": {
             "level": 77,
+            "ivs": null,
             "item": "Mystic Water",
             "ability": "Surge Surfer",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunderbolt",
                 "Volt Switch",
@@ -2698,9 +3289,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Owen": {
             "level": 90,
+            "ivs": null,
             "item": "Light Clay",
             "ability": "Surge Surfer",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Reflect",
                 "Light Screen",
@@ -2713,9 +3307,12 @@ var SETDEX_SV = {
     "Nidoqueen": {
         "Pokefan Isabel": {
             "level": 30,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Poison Point",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Earth Power",
                 "Sludge Bomb",
@@ -2726,9 +3323,12 @@ var SETDEX_SV = {
         },
         "Picnicker Angelina": {
             "level": 38,
+            "ivs": null,
             "item": "Wise Glasses",
             "ability": "Sheer Force",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Flamethrower",
                 "Ice Beam",
@@ -2739,9 +3339,12 @@ var SETDEX_SV = {
         },
         "Picnicker Daisy": {
             "level": 55,
+            "ivs": null,
             "item": "Life Orb",
             "ability": "Sheer Force",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Earth Power",
                 "Sludge Bomb",
@@ -2752,9 +3355,12 @@ var SETDEX_SV = {
         },
         "Hiker Eric": {
             "level": 77,
+            "ivs": null,
             "item": "Life Orb",
             "ability": "Poison Point",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Sludge Bomb",
                 "Earth Power",
@@ -2767,9 +3373,12 @@ var SETDEX_SV = {
     "Raichu": {
         "Pokefan Kaleb": {
             "level": 30,
+            "ivs": null,
             "item": "Air Balloon",
             "ability": "Static",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunder Punch",
                 "Iron Tail",
@@ -2782,9 +3391,12 @@ var SETDEX_SV = {
     "Nidoking": {
         "Pokefan Kaleb": {
             "level": 30,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Poison Point",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Drill Run",
                 "Poison Jab",
@@ -2795,9 +3407,12 @@ var SETDEX_SV = {
         },
         "Camper Drew": {
             "level": 52,
+            "ivs": null,
             "item": "Life Orb",
             "ability": "Sheer Force",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Earth Power",
                 "Sludge Bomb",
@@ -2808,9 +3423,12 @@ var SETDEX_SV = {
         },
         "Guitarist Fabian": {
             "level": 62,
+            "ivs": null,
             "item": "Life Orb",
             "ability": "Sheer Force",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Sludge Bomb",
                 "Earth Power",
@@ -2821,9 +3439,12 @@ var SETDEX_SV = {
         },
         "Swimmer Herman": {
             "level": 75,
+            "ivs": null,
             "item": "Life Orb",
             "ability": "Sheer Force",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Earth Power",
                 "Sludge Bomb",
@@ -2836,9 +3457,12 @@ var SETDEX_SV = {
     "Toxtricity": {
         "Guitarist Joseph": {
             "level": 30,
+            "ivs": null,
             "item": "Magnet",
             "ability": "Punk Rock",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunder Punch",
                 "Ice Punch",
@@ -2851,9 +3475,12 @@ var SETDEX_SV = {
     "Simisage": {
         "Guitarist Joseph": {
             "level": 30,
+            "ivs": null,
             "item": "Grass Gem",
             "ability": "Gluttony",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Seed Bomb",
                 "Brick Break",
@@ -2864,9 +3491,12 @@ var SETDEX_SV = {
         },
         "Picnicker Irene": {
             "level": 38,
+            "ivs": null,
             "item": "Grass Gem",
             "ability": "Overgrow",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Seed Bomb",
                 "Acrobatics",
@@ -2879,9 +3509,12 @@ var SETDEX_SV = {
     "Croconaw": {
         "Guitarist Joseph": {
             "level": 30,
+            "ivs": null,
             "item": "Expert Belt",
             "ability": "Torrent",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Waterfall",
                 "Ice Punch",
@@ -2894,9 +3527,12 @@ var SETDEX_SV = {
     "Lumineon": {
         "Youngster Jaylen": {
             "level": 30,
+            "ivs": null,
             "item": "Flying Gem",
             "ability": "Storm Drain",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hydro Pump",
                 "Ice Beam",
@@ -2907,9 +3543,12 @@ var SETDEX_SV = {
         },
         "Fisherman Chris": {
             "level": 62,
+            "ivs": null,
             "item": "Wise Glasses",
             "ability": "Swift Swim",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Surf",
                 "Ice Beam",
@@ -2922,9 +3561,12 @@ var SETDEX_SV = {
     "Sawsbuck": {
         "Youngster Dillon": {
             "level": 30,
+            "ivs": null,
             "item": "White Herb",
             "ability": "Leaf Rush",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Seed Bomb",
                 "Headbutt",
@@ -2935,9 +3577,12 @@ var SETDEX_SV = {
         },
         "Picnicker Carol": {
             "level": 38,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Leaf Rush",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Solar Blade",
                 "Body Slam",
@@ -2950,9 +3595,12 @@ var SETDEX_SV = {
     "Sandslash": {
         "Youngster Dillon": {
             "level": 30,
+            "ivs": null,
             "item": "Soft Sand",
             "ability": "Sand Rush",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Drill Run",
                 "Poison Jab",
@@ -2963,9 +3611,12 @@ var SETDEX_SV = {
         },
         "Camper Tyron": {
             "level": 38,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Sand Rush",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Drill Run",
                 "Rock Slide",
@@ -2976,9 +3627,12 @@ var SETDEX_SV = {
         },
         "Picknicker Sophie": {
             "level": 39,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Sand Rush",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Drill Run",
                 "Poison Jab",
@@ -2989,9 +3643,12 @@ var SETDEX_SV = {
         },
         "Camper Brandan": {
             "level": 52,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Sand Rush",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Earthquake",
                 "Stone Edge",
@@ -3002,9 +3659,14 @@ var SETDEX_SV = {
         },
         "Gentleman Clifford": {
             "level": 70,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Bug Gem",
             "ability": "Sand Veil",
             "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "High Horsepower",
                 "Stone Edge",
@@ -3015,9 +3677,12 @@ var SETDEX_SV = {
         },
         "Battler Girl Danielle": {
             "level": 75,
+            "ivs": null,
             "item": "Assault Vest",
             "ability": "Sand Veil",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Earthquake",
                 "Stone Edge",
@@ -3030,9 +3695,12 @@ var SETDEX_SV = {
     "Arctovish": {
         "Fisherman Dale": {
             "level": 30,
+            "ivs": null,
             "item": "Life Orb",
             "ability": "Water Absorb",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Brine",
                 "Icy Wind",
@@ -3043,9 +3711,12 @@ var SETDEX_SV = {
         },
         "Picnicker Bianca": {
             "level": 38,
+            "ivs": null,
             "item": "Covert Cloak",
             "ability": "Slush Rush",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Icicle Crash",
                 "Waterfall",
@@ -3056,9 +3727,12 @@ var SETDEX_SV = {
         },
         "Fisherman Wade": {
             "level": 62,
+            "ivs": null,
             "item": "Life Orb",
             "ability": "Water Absorb",
             "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Fishious Rend",
                 "Icicle Crash",
@@ -3071,9 +3745,12 @@ var SETDEX_SV = {
     "Crawdaunt": {
         "Fisherman Dale": {
             "level": 30,
+            "ivs": null,
             "item": "Mystic Water",
             "ability": "Hyper Cutter",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Razor Shell",
                 "Knock Off",
@@ -3084,9 +3761,12 @@ var SETDEX_SV = {
         },
         "Beauty Olivia": {
             "level": 38,
+            "ivs": null,
             "item": "White Herb",
             "ability": "Adaptability",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Razor Shell",
                 "Knock Off",
@@ -3097,9 +3777,12 @@ var SETDEX_SV = {
         },
         "Fisherman Wade": {
             "level": 62,
+            "ivs": null,
             "item": "Mystic Water",
             "ability": "Adaptability",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Razor Shell",
                 "Knock Off",
@@ -3110,9 +3793,14 @@ var SETDEX_SV = {
         },
         "Gentleman Clifford": {
             "level": 68,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Scope Lens",
             "ability": "Adaptability",
             "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Razor Shell",
                 "Night Slash",
@@ -3125,9 +3813,12 @@ var SETDEX_SV = {
     "Dragalge": {
         "Fisherman Dale": {
             "level": 30,
+            "ivs": null,
             "item": "Water Gem",
             "ability": "Poison Point",
             "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Venoshock",
                 "Dragon Tail",
@@ -3138,9 +3829,12 @@ var SETDEX_SV = {
         },
         "Beauty Connie": {
             "level": 38,
+            "ivs": null,
             "item": "Quick Claw",
             "ability": "Poison Touch",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Sludge Wave",
                 "Dragon Pulse",
@@ -3151,9 +3845,12 @@ var SETDEX_SV = {
         },
         "Ranger Emory": {
             "level": 53,
+            "ivs": null,
             "item": "Wise Glasses",
             "ability": "Poison Point",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Sludge Wave",
                 "Scald",
@@ -3164,9 +3861,12 @@ var SETDEX_SV = {
         },
         "Fisherman Wade": {
             "level": 62,
+            "ivs": null,
             "item": "Air Balloon",
             "ability": "Adaptability",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Sludge Wave",
                 "Dragon Pulse",
@@ -3177,9 +3877,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Caroline": {
             "level": 89,
+            "ivs": null,
             "item": "Quick Claw",
             "ability": "Adaptability",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dragon Pulse",
                 "Sludge Wave",
@@ -3192,9 +3895,12 @@ var SETDEX_SV = {
     "Brionne": {
         "Fisherman Dale": {
             "level": 30,
+            "ivs": null,
             "item": "Throat Spray",
             "ability": "Liquid Voice",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hyper Voice",
                 "Moonblast",
@@ -3207,9 +3913,12 @@ var SETDEX_SV = {
     "Floatzel": {
         "Fisherman Andrew": {
             "level": 30,
+            "ivs": null,
             "item": "Never-Melt Ice",
             "ability": "Water Veil",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Liquidation",
                 "Crunch",
@@ -3220,9 +3929,12 @@ var SETDEX_SV = {
         },
         "Breeder Melinda": {
             "level": 53,
+            "ivs": null,
             "item": "Mystic Water",
             "ability": "Water Veil",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Liquidation",
                 "Ice Spinner",
@@ -3235,9 +3947,12 @@ var SETDEX_SV = {
     "Jynx": {
         "Fisherman Andrew": {
             "level": 30,
+            "ivs": null,
             "item": "Petaya Berry",
             "ability": "Rain Dish",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Psyshock",
                 "Icy Wind",
@@ -3248,9 +3963,12 @@ var SETDEX_SV = {
         },
         "Picnicker Daisy": {
             "level": 53,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Oblivious",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Psychic",
                 "Ice Beam",
@@ -3261,9 +3979,12 @@ var SETDEX_SV = {
         },
         "Swimmer Sharon": {
             "level": 68,
+            "ivs": null,
             "item": "Assault Vest",
             "ability": "Oblivious",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Blizzard",
                 "Psychic",
@@ -3276,9 +3997,12 @@ var SETDEX_SV = {
     "Dewott": {
         "Fisherman Andrew": {
             "level": 30,
+            "ivs": null,
             "item": "Flying Gem",
             "ability": "Torrent",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Liquidation",
                 "Sacred Sword",
@@ -3291,9 +4015,12 @@ var SETDEX_SV = {
     "Zebstrika": {
         "Cycling Triathlete Abigail": {
             "level": 30,
+            "ivs": null,
             "item": "Air Balloon",
             "ability": "Motor Drive",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Wild Charge",
                 "Bounce",
@@ -3306,9 +4033,12 @@ var SETDEX_SV = {
     "Whimsicott": {
         "Cycling Triathlete Abigail": {
             "level": 30,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Prankster",
             "nature": "Rash",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Energy Ball",
                 "Moonblast",
@@ -3319,9 +4049,14 @@ var SETDEX_SV = {
         },
         "Sr. and Jr. Kate & Joy": {
             "level": 68,
+            "ivs": {
+                "at": 0
+            },
             "item": "Focus Sash",
             "ability": "Prankster",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Moonblast",
                 "Energy Ball",
@@ -3332,9 +4067,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer MBF": {
             "level": 90,
+            "ivs": null,
             "item": "Covert Cloak",
             "ability": "Prankster",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Moonblast",
                 "Tickle",
@@ -3345,9 +4083,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Halle": {
             "level": 90,
+            "ivs": null,
             "item": "Lagging Tail",
             "ability": "Prankster",
             "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Nature Power",
                 "Memento",
@@ -3360,9 +4101,12 @@ var SETDEX_SV = {
     "Drakloak": {
         "Cycling Triathlete Abigail": {
             "level": 32,
+            "ivs": null,
             "item": "Wise Glasses",
             "ability": "Cursed Body",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dragon Pulse",
                 "Shadow Ball",
@@ -3375,9 +4119,12 @@ var SETDEX_SV = {
     "Lopunny": {
         "Cycling Triathlete Abigail": {
             "level": 32,
+            "ivs": null,
             "item": "Fighting Gem",
             "ability": "Limber",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Retaliate",
                 "Sky Uppercut",
@@ -3390,9 +4137,12 @@ var SETDEX_SV = {
     "Galvantula": {
         "Bug Catcher Angelo": {
             "level": 32,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Compound Eyes",
             "nature": "Naughty",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Discharge",
                 "X-Scissor",
@@ -3403,9 +4153,12 @@ var SETDEX_SV = {
         },
         "Bug Catcher Doug": {
             "level": 62,
+            "ivs": null,
             "item": "Magnet",
             "ability": "Compound Eyes",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunderbolt",
                 "Bug Buzz",
@@ -3416,9 +4169,12 @@ var SETDEX_SV = {
         },
         "Guitarist Kendall": {
             "level": 75,
+            "ivs": null,
             "item": "Charti Berry",
             "ability": "Compound Eyes",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunderbolt",
                 "Bug Buzz",
@@ -3431,9 +4187,12 @@ var SETDEX_SV = {
     "Crustle": {
         "Bug Catcher Angelo": {
             "level": 30,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Sturdy",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Rock Wrecker",
                 "X-Scissor",
@@ -3444,9 +4203,12 @@ var SETDEX_SV = {
         },
         "Picnicker Heidi": {
             "level": 52,
+            "ivs": null,
             "item": "Wide Lens",
             "ability": "Weak Armor",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Stone Edge",
                 "Leech Life",
@@ -3459,9 +4221,12 @@ var SETDEX_SV = {
     "Rabsca": {
         "Bug Catcher Angelo": {
             "level": 30,
+            "ivs": null,
             "item": "Bug Gem",
             "ability": "Synchronize",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Bug Buzz",
                 "Extrasensory",
@@ -3474,9 +4239,12 @@ var SETDEX_SV = {
     "Pincurchin": {
         "Youngster Ben": {
             "level": 32,
+            "ivs": null,
             "item": "Terrain Extender",
             "ability": "Electric Surge",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Zing Zap",
                 "Liquidation",
@@ -3487,9 +4255,12 @@ var SETDEX_SV = {
         },
         "Pokefan Annike": {
             "level": 38,
+            "ivs": null,
             "item": "Terrain Extender",
             "ability": "Electric Surge",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Rising Voltage",
                 "Muddy Water",
@@ -3500,9 +4271,14 @@ var SETDEX_SV = {
         },
         "Hex Maniac Sylvia": {
             "level": 70,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Terrain Extender",
             "ability": "Electric Surge",
             "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Rising Voltage",
                 "Muddy Water",
@@ -3515,9 +4291,12 @@ var SETDEX_SV = {
     "Dedenne": {
         "Youngster Ben": {
             "level": 31,
+            "ivs": null,
             "item": "Sitrus Berry",
             "ability": "Cheek Pouch",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Rising Voltage",
                 "Dazzling Gleam",
@@ -3530,9 +4309,12 @@ var SETDEX_SV = {
     "Togedemaru": {
         "Youngster Ben": {
             "level": 31,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Iron Barbs",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Zing Zap",
                 "Iron Head",
@@ -3543,9 +4325,12 @@ var SETDEX_SV = {
         },
         "Elite Four Jasmine": {
             "level": 89,
+            "ivs": null,
             "item": "Rocky Helmet",
             "ability": "Sturdy",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Iron Head",
                 "Nuzzle",
@@ -3558,9 +4343,12 @@ var SETDEX_SV = {
     "Rotom": {
         "Youngster Ben": {
             "level": 31,
+            "ivs": null,
             "item": "Electric Gem",
             "ability": "Levitate",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Discharge",
                 "Hex",
@@ -3573,9 +4361,12 @@ var SETDEX_SV = {
     "Zweilous": {
         "Guitarist Kirk": {
             "level": 31,
+            "ivs": null,
             "item": "Roseli Berry",
             "ability": "Hustle",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dragon Pulse",
                 "Dark Pulse",
@@ -3588,9 +4379,12 @@ var SETDEX_SV = {
     "Manectric": {
         "Guitarist Kirk": {
             "level": 30,
+            "ivs": null,
             "item": "Throat Spray",
             "ability": "Static",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Discharge",
                 "Volt Switch",
@@ -3601,9 +4395,12 @@ var SETDEX_SV = {
         },
         "Kindler Jeff": {
             "level": 75,
+            "ivs": null,
             "item": "Air Balloon",
             "ability": "Strong Jaw",
             "nature": "Lonely",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunderbolt",
                 "Flamethrower",
@@ -3616,9 +4413,12 @@ var SETDEX_SV = {
     "Crabominable": {
         "Battle Girl Vivian": {
             "level": 31,
+            "ivs": null,
             "item": "Expert Belt",
             "ability": "Hyper Cutter",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Drain Punch",
                 "Ice Punch",
@@ -3631,9 +4431,12 @@ var SETDEX_SV = {
     "Diggersby": {
         "Battle Girl Vivian": {
             "level": 28,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Huge Power",
             "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Stomping Tantrum",
                 "Body Slam",
@@ -3644,9 +4447,14 @@ var SETDEX_SV = {
         },
         "Psychic Samantha": {
             "level": 68,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Room Service",
             "ability": "Huge Power",
             "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Body Slam",
                 "Stomping Tantrum",
@@ -3659,9 +4467,12 @@ var SETDEX_SV = {
     "Toxtricity-Low-Key": {
         "Battle Girl Vivian": {
             "level": 30,
+            "ivs": null,
             "item": "Punching Glove",
             "ability": "Technician",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunder Punch",
                 "Fire Punch",
@@ -3672,9 +4483,12 @@ var SETDEX_SV = {
         },
         "Bug Maniac Cale": {
             "level": 70,
+            "ivs": null,
             "item": "Throat Spray",
             "ability": "Punk Rock",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Overdrive",
                 "Hyper Voice",
@@ -3687,9 +4501,12 @@ var SETDEX_SV = {
     "Victreebel": {
         "Guitarist Shawn": {
             "level": 32,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Chlorophyll",
             "nature": "NATURE_HARDY",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Leaf Tornado",
                 "Venoshock",
@@ -3702,9 +4519,12 @@ var SETDEX_SV = {
     "Golem-Alola": {
         "Guitarist Shawn": {
             "level": 30,
+            "ivs": null,
             "item": "Magnet",
             "ability": "Sturdy",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunder Punch",
                 "Rock Slide",
@@ -3715,9 +4535,14 @@ var SETDEX_SV = {
         },
         "Hex Maniac Sylvia": {
             "level": 68,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Electric Gem",
             "ability": "Galvanize",
             "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Explosion",
                 "Body Slam",
@@ -3730,9 +4555,12 @@ var SETDEX_SV = {
     "Armarouge": {
         "Guitarist Shawn": {
             "level": 30,
+            "ivs": null,
             "item": "Clear Amulet",
             "ability": "Flash Fire",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Psyshock",
                 "Mystical Fire",
@@ -3743,9 +4571,12 @@ var SETDEX_SV = {
         },
         "Sidney": {
             "level": 55,
+            "ivs": null,
             "item": "White Herb",
             "ability": "Mega Launcher",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Armor Cannon",
                 "Psychic",
@@ -3756,9 +4587,12 @@ var SETDEX_SV = {
         },
         "Swimmer Declan": {
             "level": 68,
+            "ivs": null,
             "item": "Weakness Policy",
             "ability": "Weak Armor",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Flamethrower",
                 "Psychic",
@@ -3769,9 +4603,12 @@ var SETDEX_SV = {
         },
         "Gym Leader Tate and Liza": {
             "level": 70,
+            "ivs": null,
             "item": "Weakness Policy",
             "ability": "Weak Armor",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Expanding Force",
                 "Flamethrower",
@@ -3782,9 +4619,12 @@ var SETDEX_SV = {
         },
         "Battler Girl Danielle": {
             "level": 75,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Weak Armor",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Heat Wave",
                 "Psychic",
@@ -3797,9 +4637,12 @@ var SETDEX_SV = {
     "Jolteon": {
         "Guitarist Shawn": {
             "level": 30,
+            "ivs": null,
             "item": "Air Balloon",
             "ability": "Volt Absorb",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunderbolt",
                 "Alluring Voice",
@@ -3810,9 +4653,12 @@ var SETDEX_SV = {
         },
         "Collector Damon": {
             "level": 53,
+            "ivs": null,
             "item": "Weakness Policy",
             "ability": "Volt Absorb",
             "nature": "Timid",
+            "teraType": "Grass",
+            "status": "Healthy",
             "moves": [
                 "Thunderbolt",
                 "Tera Blast",
@@ -3823,9 +4669,12 @@ var SETDEX_SV = {
         },
         "Swimmer Isabella": {
             "level": 68,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Volt Absorb",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Discharge",
                 "Weather Ball",
@@ -3836,9 +4685,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Katelynn": {
             "level": 89,
+            "ivs": null,
             "item": "Wise Glasses",
             "ability": "Volt Absorb",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunderbolt",
                 "Weather Ball",
@@ -3851,9 +4703,12 @@ var SETDEX_SV = {
     "Persian": {
         "Guitarist Shawn": {
             "level": 30,
+            "ivs": null,
             "item": "Loaded Dice",
             "ability": "Technician",
             "nature": "NATURE_HARDY",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Fury Swipes",
                 "Aerial Ace",
@@ -3866,9 +4721,12 @@ var SETDEX_SV = {
     "Emolga": {
         "Leader Wattson": {
             "level": 32,
+            "ivs": null,
             "item": "Wise Glasses",
             "ability": "Motor Drive",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunderbolt",
                 "Energy Ball",
@@ -3879,9 +4737,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Marcel": {
             "level": 70,
+            "ivs": null,
             "item": "Covert Cloak",
             "ability": "Motor Drive",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunderbolt",
                 "Air Slash",
@@ -3892,9 +4753,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Gerald": {
             "level": 77,
+            "ivs": null,
             "item": "Life Orb",
             "ability": "Static",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Discharge",
                 "Air Slash",
@@ -3907,9 +4771,12 @@ var SETDEX_SV = {
     "Sandy Shocks": {
         "Leader Wattson": {
             "level": 31,
+            "ivs": null,
             "item": "Leftovers",
             "ability": "Protosynthesis",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Discharge",
                 "Scorching Sands",
@@ -3920,9 +4787,12 @@ var SETDEX_SV = {
         },
         "Challenger Phoebe": {
             "level": 75,
+            "ivs": null,
             "item": "Booster Energy",
             "ability": "Protosynthesis",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Earth Power",
                 "Thunderbolt",
@@ -3933,9 +4803,12 @@ var SETDEX_SV = {
         },
         "Elite Four Jasmine": {
             "level": 90,
+            "ivs": null,
             "item": "Booster Energy",
             "ability": "Protosynthesis",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Earth Power",
                 "Thunderbolt",
@@ -3948,9 +4821,12 @@ var SETDEX_SV = {
     "Luxray": {
         "Leader Wattson": {
             "level": 30,
+            "ivs": null,
             "item": "Electric Gem",
             "ability": "Strong Jaw",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunder Fang",
                 "Crunch",
@@ -3961,9 +4837,12 @@ var SETDEX_SV = {
         },
         "Picknicker Diana": {
             "level": 38,
+            "ivs": null,
             "item": "Electric Gem",
             "ability": "Guts",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Poisoned",
             "moves": [
                 "Thunder Fang",
                 "Psychic Fangs",
@@ -3974,9 +4853,12 @@ var SETDEX_SV = {
         },
         "Beauty Jessica": {
             "level": 70,
+            "ivs": null,
             "item": "Iapapa Berry",
             "ability": "Guts",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Poisoned",
             "moves": [
                 "Wild Charge",
                 "Play Rough",
@@ -3987,9 +4869,14 @@ var SETDEX_SV = {
         },
         "Psychic Virgil": {
             "level": 68,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Iron Ball",
             "ability": "Intimidate",
             "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Zing Zap",
                 "Psychic Fangs",
@@ -4002,9 +4889,12 @@ var SETDEX_SV = {
     "Arctozolt": {
         "Leader Wattson": {
             "level": 31,
+            "ivs": null,
             "item": "White Herb",
             "ability": "Volt Absorb",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Bolt Beak",
                 "Icicle Crash",
@@ -4015,9 +4905,12 @@ var SETDEX_SV = {
         },
         "Swimmer Sharon": {
             "level": 70,
+            "ivs": null,
             "item": "Clear Amulet",
             "ability": "Slush Rush",
             "nature": "Hasty",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Icicle Crash",
                 "Bolt Beak",
@@ -4030,9 +4923,12 @@ var SETDEX_SV = {
     "Dracozolt": {
         "Leader Wattson": {
             "level": 31,
+            "ivs": null,
             "item": "Magnet",
             "ability": "Volt Absorb",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dragon Claw",
                 "Thunder Punch",
@@ -4043,9 +4939,12 @@ var SETDEX_SV = {
         },
         "Ruin Maniac Bryan": {
             "level": 52,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Sand Rush",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Bolt Beak",
                 "Dragon Claw",
@@ -4056,9 +4955,12 @@ var SETDEX_SV = {
         },
         "Swimmer Richard": {
             "level": 75,
+            "ivs": null,
             "item": "Expert Belt",
             "ability": "Volt Absorb",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dragon Claw",
                 "Bolt Beak",
@@ -4071,9 +4973,12 @@ var SETDEX_SV = {
     "Pawmot": {
         "Leader Wattson": {
             "level": 32,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Volt Absorb",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Double Shock",
                 "Drain Punch",
@@ -4084,9 +4989,12 @@ var SETDEX_SV = {
         },
         "Battle Girl Aisha": {
             "level": 75,
+            "ivs": null,
             "item": "Muscle Band",
             "ability": "Volt Absorb",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Double Shock",
                 "Close Combat",
@@ -4097,9 +5005,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Owen": {
             "level": 89,
+            "ivs": null,
             "item": "Punching Glove",
             "ability": "Iron Fist",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Close Combat",
                 "Double Shock",
@@ -4112,9 +5023,12 @@ var SETDEX_SV = {
     "Lycanroc": {
         "Camper Tyron": {
             "level": 38,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Sand Rush",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Rock Slide",
                 "Stomping Tantrum",
@@ -4125,9 +5039,12 @@ var SETDEX_SV = {
         },
         "Picnicker Heidi": {
             "level": 52,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Sand Rush",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Stone Edge",
                 "Drill Run",
@@ -4138,9 +5055,12 @@ var SETDEX_SV = {
         },
         "Collector Hector": {
             "level": 53,
+            "ivs": null,
             "item": "Covert Cloak",
             "ability": "Sand Rush",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Stone Edge",
                 "Close Combat",
@@ -4153,9 +5073,12 @@ var SETDEX_SV = {
     "Stoutland": {
         "Camper Tyron": {
             "level": 38,
+            "ivs": null,
             "item": "Covert Cloak",
             "ability": "Sand Rush",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Body Slam",
                 "Crunch",
@@ -4166,9 +5089,12 @@ var SETDEX_SV = {
         },
         "Camper Drew": {
             "level": 52,
+            "ivs": null,
             "item": "Safety Goggles",
             "ability": "Sand Rush",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Retaliate",
                 "Play Rough",
@@ -4179,9 +5105,12 @@ var SETDEX_SV = {
         },
         "Hiker Eli": {
             "level": 75,
+            "ivs": null,
             "item": "Silk Scarf",
             "ability": "Sand Rush",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Retaliate",
                 "Play Rough",
@@ -4192,9 +5121,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Dianne": {
             "level": 90,
+            "ivs": null,
             "item": "Assault Vest",
             "ability": "Intimidate",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Play Rough",
                 "Superpower",
@@ -4207,9 +5139,12 @@ var SETDEX_SV = {
     "Hippowdon": {
         "Kindler Hayden": {
             "level": 40,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Sand Stream",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Stomping Tantrum",
                 "Crunch",
@@ -4220,9 +5155,12 @@ var SETDEX_SV = {
         },
         "Camper Drew": {
             "level": 52,
+            "ivs": null,
             "item": "Assault Vest",
             "ability": "Sand Force",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Earthquake",
                 "Stone Edge",
@@ -4233,9 +5171,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Quincy": {
             "level": 90,
+            "ivs": null,
             "item": "Sitrus Berry",
             "ability": "Sand Stream",
             "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "High Horsepower",
                 "Stone Edge",
@@ -4248,9 +5189,12 @@ var SETDEX_SV = {
     "Ninetales-Alola": {
         "Aroma Lady Celina": {
             "level": 40,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Snow Warning",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Moonblast",
                 "Ice Beam",
@@ -4261,9 +5205,12 @@ var SETDEX_SV = {
         },
         "Beauty Tiffany": {
             "level": 38,
+            "ivs": null,
             "item": "Light Clay",
             "ability": "Snow Warning",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Ice Beam",
                 "Moonblast",
@@ -4274,9 +5221,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Albert": {
             "level": 89,
+            "ivs": null,
             "item": "Light Clay",
-            "ability": "Snow Cloak",
+            "ability": "Snow Warning",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Blizzard",
                 "Moonblast",
@@ -4289,9 +5239,12 @@ var SETDEX_SV = {
     "Sandslash-Alola": {
         "Picnicker Bianca": {
             "level": 38,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Slush Rush",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Ice Punch",
                 "Iron Head",
@@ -4302,9 +5255,12 @@ var SETDEX_SV = {
         },
         "Swimmer Spencer": {
             "level": 70,
+            "ivs": null,
             "item": "Flying Gem",
             "ability": "Slush Rush",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Icicle Crash",
                 "Iron Head",
@@ -4315,9 +5271,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Albert": {
             "level": 89,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Slush Rush",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Icicle Crash",
                 "Iron Head",
@@ -4330,9 +5289,12 @@ var SETDEX_SV = {
     "Beartic": {
         "Picnicker Bianca": {
             "level": 38,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Slush Rush",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Ice Punch",
                 "Brick Break",
@@ -4343,9 +5305,12 @@ var SETDEX_SV = {
         },
         "Beauty Tiffany": {
             "level": 38,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Slush Rush",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Icicle Crash",
                 "Liquidation",
@@ -4358,9 +5323,12 @@ var SETDEX_SV = {
     "Mantine": {
         "Camper Travis": {
             "level": 38,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Swift Swim",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Air Slash",
                 "Surf",
@@ -4371,9 +5339,12 @@ var SETDEX_SV = {
         },
         "Swimmer Talia": {
             "level": 77,
+            "ivs": null,
             "item": "Covert Cloak",
             "ability": "Swift Swim",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hydro Pump",
                 "Air Slash",
@@ -4386,9 +5357,12 @@ var SETDEX_SV = {
     "Drednaw": {
         "Camper Travis": {
             "level": 38,
+            "ivs": null,
             "item": "Covert Cloak",
             "ability": "Swift Swim",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Liquidation",
                 "Rock Slide",
@@ -4401,9 +5375,12 @@ var SETDEX_SV = {
     "Politoed": {
         "Cooltrainer Wilton": {
             "level": 40,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Drizzle",
             "nature": "Calm",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Scald",
                 "Ice Beam",
@@ -4414,9 +5391,12 @@ var SETDEX_SV = {
         },
         "Leader Juan": {
             "level": 39,
+            "ivs": null,
             "item": "Iapapa Berry",
             "ability": "Drizzle",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Scald",
                 "Ice Beam",
@@ -4427,9 +5407,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Katelynn": {
             "level": 90,
+            "ivs": null,
             "item": "Aguav Berry",
             "ability": "Drizzle",
             "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hydro Pump",
                 "Ice Beam",
@@ -4442,9 +5425,12 @@ var SETDEX_SV = {
     "Ninetales": {
         "Camper Larry": {
             "level": 40,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Drought",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Flamethrower",
                 "Solar Beam",
@@ -4455,9 +5441,12 @@ var SETDEX_SV = {
         },
         "Ranger Jenna": {
             "level": 70,
+            "ivs": null,
             "item": "Wide Lens",
             "ability": "Drought",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Fire Blast",
                 "Solar Beam",
@@ -4468,9 +5457,12 @@ var SETDEX_SV = {
         },
         "Tuber Roy": {
             "level": 70,
+            "ivs": null,
             "item": "Ice Gem",
             "ability": "Flash Fire",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Heat Wave",
                 "Weather Ball",
@@ -4481,9 +5473,12 @@ var SETDEX_SV = {
         },
         "Kindler Jeff": {
             "level": 75,
+            "ivs": null,
             "item": "Eject Pack",
             "ability": "Flash Fire",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Overheat",
                 "Extrasensory",
@@ -4496,9 +5491,12 @@ var SETDEX_SV = {
     "Salazzle": {
         "Picnicker Carol": {
             "level": 38,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Oblivious",
             "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Flamethrower",
                 "Sludge Bomb",
@@ -4511,9 +5509,12 @@ var SETDEX_SV = {
     "Leavanny": {
         "Picnicker Carol": {
             "level": 38,
+            "ivs": null,
             "item": "Covert Cloak",
             "ability": "Chlorophyll",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Solar Blade",
                 "X-Scissor",
@@ -4526,9 +5527,12 @@ var SETDEX_SV = {
     "Conkeldurr": {
         "Hiker Brice": {
             "level": 38,
+            "ivs": null,
             "item": "Expert Belt",
             "ability": "Iron Fist",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Drain Punch",
                 "Thunder Punch",
@@ -4539,9 +5543,12 @@ var SETDEX_SV = {
         },
         "Psychic Brandi": {
             "level": 75,
+            "ivs": null,
             "item": "Assault Vest",
             "ability": "Iron Fist",
             "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Drain Punch",
                 "Poison Jab",
@@ -4554,9 +5561,12 @@ var SETDEX_SV = {
     "Duraludon": {
         "Hiker Brice": {
             "level": 38,
+            "ivs": null,
             "item": "Covert Cloak",
             "ability": "Stalwart",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dragon Claw",
                 "Iron Head",
@@ -4567,9 +5577,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Jennifer": {
             "level": 68,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Light Metal",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Flash Cannon",
                 "Dragon Pulse",
@@ -4582,9 +5595,12 @@ var SETDEX_SV = {
     "Bombirdier": {
         "Hiker Trent": {
             "level": 40,
+            "ivs": null,
             "item": "Black Glasses",
             "ability": "Rocky Payload",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dual Wingbeat",
                 "Knock Off",
@@ -4595,9 +5611,12 @@ var SETDEX_SV = {
         },
         "Bird Keeper Hugh": {
             "level": 63,
+            "ivs": null,
             "item": "Black Glasses",
             "ability": "Rocky Payload",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Knock Off",
                 "Dual Wingbeat",
@@ -4608,9 +5627,12 @@ var SETDEX_SV = {
         },
         "Picnicker Ashley": {
             "level": 64,
+            "ivs": null,
             "item": "Sharp Beak",
             "ability": "Big Pecks",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dual Wingbeat",
                 "Knock Off",
@@ -4621,9 +5643,12 @@ var SETDEX_SV = {
         },
         "Guitarist Kendall": {
             "level": 77,
+            "ivs": null,
             "item": "Life Orb",
             "ability": "Rocky Payload",
             "nature": "Jolly",
+            "teraType": "Rock",
+            "status": "Healthy",
             "moves": [
                 "Rock Slide",
                 "Dual Wingbeat",
@@ -4636,9 +5661,12 @@ var SETDEX_SV = {
     "Donphan": {
         "Hiker Trent": {
             "level": 38,
+            "ivs": null,
             "item": "Grass Gem",
             "ability": "Sturdy",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "High Horsepower",
                 "Seed Bomb",
@@ -4649,9 +5677,12 @@ var SETDEX_SV = {
         },
         "Leader Steven": {
             "level": 53,
+            "ivs": null,
             "item": "Clear Amulet",
             "ability": "Sturdy",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "High Horsepower",
                 "Ice Spinner",
@@ -4662,9 +5693,12 @@ var SETDEX_SV = {
         },
         "Ranger Jackson": {
             "level": 63,
+            "ivs": null,
             "item": "Clear Amulet",
             "ability": "Sturdy",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "High Horsepower",
                 "Stone Edge",
@@ -4675,9 +5709,14 @@ var SETDEX_SV = {
         },
         "Psychic Maura": {
             "level": 68,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Leftovers",
             "ability": "Sturdy",
             "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "High Horsepower",
                 "Play Rough",
@@ -4690,9 +5729,12 @@ var SETDEX_SV = {
     "Turtonator": {
         "Kindler Bryant": {
             "level": 38,
+            "ivs": null,
             "item": "Quick Claw",
             "ability": "Shell Armor",
             "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Flamethrower",
                 "Dragon Pulse",
@@ -4703,9 +5745,12 @@ var SETDEX_SV = {
         },
         "Ruin Maniac Bryan": {
             "level": 55,
+            "ivs": null,
             "item": "Eject Pack",
             "ability": "Shell Armor",
             "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Draco Meteor",
                 "Overheat"
@@ -4714,9 +5759,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Halle": {
             "level": 90,
+            "ivs": null,
             "item": "Air Balloon",
             "ability": "Shell Armor",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Shell Smash",
                 "Fire Blast",
@@ -4729,9 +5777,12 @@ var SETDEX_SV = {
     "Heatmor": {
         "Kindler Bryant": {
             "level": 38,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "White Smoke",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Overheat",
                 "Fire Lash",
@@ -4742,9 +5793,14 @@ var SETDEX_SV = {
         },
         "Hex Maniac Kathleen": {
             "level": 68,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Weakness Policy",
             "ability": "White Smoke",
             "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Burning Jealousy",
                 "Scorching Sands",
@@ -4755,9 +5811,12 @@ var SETDEX_SV = {
         },
         "Bug Maniac Axle": {
             "level": 75,
+            "ivs": null,
             "item": "Jaboca Berry",
             "ability": "White Smoke",
             "nature": "Hardy",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Overheat",
                 "Fire Punch",
@@ -4770,9 +5829,12 @@ var SETDEX_SV = {
     "Weezing": {
         "Kindler Bryant": {
             "level": 38,
+            "ivs": null,
             "item": "Sitrus Berry",
             "ability": "Levitate",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Sludge Bomb",
                 "Heat Wave",
@@ -4783,9 +5845,12 @@ var SETDEX_SV = {
         },
         "Ninja Boy Takashi": {
             "level": 64,
+            "ivs": null,
             "item": "Wise Glasses",
             "ability": "Levitate",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Sludge Bomb",
                 "Thunderbolt",
@@ -4798,9 +5863,12 @@ var SETDEX_SV = {
     "Rotom-Heat": {
         "Kindler Bryant": {
             "level": 38,
+            "ivs": null,
             "item": "White Herb",
             "ability": "Levitate",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Overheat",
                 "Thunderbolt",
@@ -4813,9 +5881,12 @@ var SETDEX_SV = {
     "Vileplume": {
         "Lady Shayla": {
             "level": 38,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Chlorophyll",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Energy Ball",
                 "Sludge Bomb",
@@ -4826,9 +5897,12 @@ var SETDEX_SV = {
         },
         "Ranger Luella": {
             "level": 53,
+            "ivs": null,
             "item": "Quick Claw",
             "ability": "Chlorophyll",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Sludge Bomb",
                 "Giga Drain",
@@ -4841,9 +5915,12 @@ var SETDEX_SV = {
     "Appletun": {
         "Lady Shayla": {
             "level": 38,
+            "ivs": null,
             "item": "Quick Claw",
             "ability": "Thick Fat",
             "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Apple Acid",
                 "Dragon Pulse",
@@ -4856,9 +5933,12 @@ var SETDEX_SV = {
     "Arboliva": {
         "Lady Shayla": {
             "level": 38,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Seed Sower",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hyper Voice",
                 "Giga Drain",
@@ -4871,9 +5951,12 @@ var SETDEX_SV = {
     "Rotom-Mow": {
         "Lady Shayla": {
             "level": 38,
+            "ivs": null,
             "item": "White Herb",
             "ability": "Levitate",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Leaf Storm",
                 "Thunderbolt",
@@ -4884,9 +5967,12 @@ var SETDEX_SV = {
         },
         "Aroma Lady Mia": {
             "level": 53,
+            "ivs": null,
             "item": "Eject Pack",
             "ability": "Levitate",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Leaf Storm",
                 "Thunderbolt",
@@ -4899,9 +5985,12 @@ var SETDEX_SV = {
     "Farigiraf": {
         "Picnicker Irene": {
             "level": 38,
+            "ivs": null,
             "item": "Throat Spray",
             "ability": "Cud Chew",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hyper Voice",
                 "Twin Beam",
@@ -4912,9 +6001,12 @@ var SETDEX_SV = {
         },
         "Aroma Lady Mia": {
             "level": 53,
+            "ivs": null,
             "item": "Throat Spray",
             "ability": "Armor Tail",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hyper Voice",
                 "Twin Beam",
@@ -4925,9 +6017,12 @@ var SETDEX_SV = {
         },
         "Sailor Cory": {
             "level": 0,
+            "ivs": null,
             "item": "Colbur Berry",
             "ability": "Sap Sipper",
             "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Skill Swap",
                 "Thunderbolt",
@@ -4938,9 +6033,14 @@ var SETDEX_SV = {
         },
         "Psychic Samantha": {
             "level": 68,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Throat Spray",
             "ability": "Armor Tail",
             "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hyper Voice",
                 "Psychic Noise",
@@ -4951,9 +6051,12 @@ var SETDEX_SV = {
         },
         "Swimmer Kara": {
             "level": 77,
+            "ivs": null,
             "item": "Aguav Berry",
             "ability": "Armor Tail",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hyper Voice",
                 "Twin Beam",
@@ -4966,9 +6069,12 @@ var SETDEX_SV = {
     "Sudowoodo": {
         "Picnicker Irene": {
             "level": 38,
+            "ivs": null,
             "item": "Quick Claw",
             "ability": "Sturdy",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Stone Edge",
                 "Earthquake",
@@ -4979,9 +6085,12 @@ var SETDEX_SV = {
         },
         "Camper Brandan": {
             "level": 55,
+            "ivs": null,
             "item": "Quick Claw",
             "ability": "Sturdy",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Stone Edge",
                 "Earthquake",
@@ -4992,9 +6101,12 @@ var SETDEX_SV = {
         },
         "Pokemon Breeder Myles": {
             "level": 70,
+            "ivs": null,
             "item": "Quick Claw",
             "ability": "Sturdy",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Stone Edge",
                 "Hammer Arm",
@@ -5007,9 +6119,12 @@ var SETDEX_SV = {
     "Blastoise": {
         "Picnicker Irene": {
             "level": 38,
+            "ivs": null,
             "item": "Power Herb",
             "ability": "Torrent",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Waterfall",
                 "Ice Spinner",
@@ -5020,9 +6135,12 @@ var SETDEX_SV = {
         },
         "Lady Brianna": {
             "level": 38,
+            "ivs": null,
             "item": "Life Orb",
             "ability": "Torrent",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Scald",
                 "Dragon Pulse",
@@ -5033,9 +6151,12 @@ var SETDEX_SV = {
         },
         "Ranger Jackson": {
             "level": 62,
+            "ivs": null,
             "item": "White Herb",
             "ability": "Rain Dish",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Liquidation",
                 "Ice Spinner",
@@ -5046,9 +6167,14 @@ var SETDEX_SV = {
         },
         "Gentleman Nate": {
             "level": 70,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Covert Cloak",
             "ability": "Torrent",
             "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Liquidation",
                 "Ice Spinner",
@@ -5059,9 +6185,12 @@ var SETDEX_SV = {
         },
         "Swimmer Herman": {
             "level": 75,
+            "ivs": null,
             "item": "Covert Cloak",
             "ability": "Torrent",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Wave Crash",
                 "Ice Spinner",
@@ -5074,9 +6203,12 @@ var SETDEX_SV = {
     "Scolipede": {
         "Camper Beau": {
             "level": 40,
+            "ivs": null,
             "item": "Clear Amulet",
             "ability": "Speed Boost",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "X-Scissor",
                 "Poison Jab",
@@ -5087,9 +6219,12 @@ var SETDEX_SV = {
         },
         "Swimmer Spencer": {
             "level": 68,
+            "ivs": null,
             "item": "White Herb",
             "ability": "Speed Boost",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "X-Scissor",
                 "Poison Jab",
@@ -5102,9 +6237,12 @@ var SETDEX_SV = {
     "Gogoat": {
         "Camper Beau": {
             "level": 40,
+            "ivs": null,
             "item": "Miracle Seed",
             "ability": "Sap Sipper",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Seed Bomb",
                 "Earthquake",
@@ -5115,9 +6253,12 @@ var SETDEX_SV = {
         },
         "Ranger Catherine": {
             "level": 62,
+            "ivs": null,
             "item": "Miracle Seed",
             "ability": "Grass Pelt",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Grassy Glide",
                 "Wild Charge",
@@ -5130,9 +6271,12 @@ var SETDEX_SV = {
     "Krookodile": {
         "Camper Beau": {
             "level": 40,
+            "ivs": null,
             "item": "Dark Gem",
             "ability": "Intimidate",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Crunch",
                 "Stomping Tantrum",
@@ -5143,9 +6287,12 @@ var SETDEX_SV = {
         },
         "Battle Girl Aisha": {
             "level": 75,
+            "ivs": null,
             "item": "Assault Vest",
             "ability": "Intimidate",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Earthquake",
                 "Knock Off",
@@ -5156,9 +6303,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer MBF": {
             "level": 90,
+            "ivs": null,
             "item": "Sitrus Berry",
             "ability": "Intimidate",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "High Horsepower",
                 "Crunch",
@@ -5171,9 +6321,12 @@ var SETDEX_SV = {
     "Dubwool": {
         "Camper Beau": {
             "level": 40,
+            "ivs": null,
             "item": "Sitrus Berry",
             "ability": "Fluffy",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Retaliate",
                 "Grassy Glide",
@@ -5184,9 +6337,12 @@ var SETDEX_SV = {
         },
         "Ranger Catherine": {
             "level": 62,
+            "ivs": null,
             "item": "Grassy Seed",
             "ability": "Fluffy",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Body Slam",
                 "Grassy Glide",
@@ -5199,9 +6355,12 @@ var SETDEX_SV = {
     "Aggron": {
         "Poke Maniac Wyatt": {
             "level": 40,
+            "ivs": null,
             "item": "Quick Claw",
             "ability": "Sturdy",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Iron Head",
                 "Rock Slide",
@@ -5214,9 +6373,12 @@ var SETDEX_SV = {
     "Carnivine": {
         "Poke Maniac Wyatt": {
             "level": 38,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Levitate",
             "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Power Whip",
                 "Knock Off",
@@ -5229,9 +6391,12 @@ var SETDEX_SV = {
     "Quaquaval": {
         "Poke Maniac Wyatt": {
             "level": 38,
+            "ivs": null,
             "item": "Flying Gem",
             "ability": "Moxie",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Aqua Cutter",
                 "Brick Break",
@@ -5242,9 +6407,12 @@ var SETDEX_SV = {
         },
         "Leader Juan": {
             "level": 39,
+            "ivs": null,
             "item": "Flying Gem",
             "ability": "Moxie",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Brick Break",
                 "Aqua Cutter",
@@ -5255,9 +6423,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Julie": {
             "level": 89,
+            "ivs": null,
             "item": "White Herb",
             "ability": "Torrent",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Close Combat",
                 "Aqua Step",
@@ -5268,9 +6439,12 @@ var SETDEX_SV = {
         },
         "Aqua Leader Archie": {
             "level": 89,
+            "ivs": null,
             "item": "Flying Gem",
             "ability": "Torrent",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Close Combat",
                 "Aqua Step",
@@ -5283,9 +6457,12 @@ var SETDEX_SV = {
     "Durant": {
         "Poke Maniac Wyatt": {
             "level": 38,
+            "ivs": null,
             "item": "Occa Berry",
             "ability": "Swarm",
             "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "First Impression",
                 "X-Scissor",
@@ -5298,9 +6475,12 @@ var SETDEX_SV = {
     "Houndoom": {
         "Camper Lawrence": {
             "level": 38,
+            "ivs": null,
             "item": "Life Orb",
             "ability": "Eclipsate",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Body Slam",
                 "Fire Fang",
@@ -5311,9 +6491,12 @@ var SETDEX_SV = {
         },
         "Siblings Reli And Ian": {
             "level": 75,
+            "ivs": null,
             "item": "Eject Pack",
             "ability": "Unnerve",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Overheat",
                 "Flamethrower",
@@ -5326,9 +6509,12 @@ var SETDEX_SV = {
     "Ampharos": {
         "Camper Lawrence": {
             "level": 38,
+            "ivs": null,
             "item": "Leftovers",
             "ability": "Static",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunderbolt",
                 "Dragon Pulse",
@@ -5339,9 +6525,12 @@ var SETDEX_SV = {
         },
         "Ranger Catherine": {
             "level": 62,
+            "ivs": null,
             "item": "Air Balloon",
             "ability": "Static",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunderbolt",
                 "Focus Blast",
@@ -5354,9 +6543,12 @@ var SETDEX_SV = {
     "Pinsir": {
         "Camper Lawrence": {
             "level": 38,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Moxie",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "X-Scissor",
                 "Close Combat",
@@ -5369,9 +6561,12 @@ var SETDEX_SV = {
     "Grimmsnarl": {
         "Ninja Boy Lao": {
             "level": 38,
+            "ivs": null,
             "item": "Covert Cloak",
             "ability": "Prankster",
             "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "False Surrender",
                 "Spirit Break",
@@ -5382,9 +6577,12 @@ var SETDEX_SV = {
         },
         "Camper Drew": {
             "level": 55,
+            "ivs": null,
             "item": "Light Clay",
             "ability": "Prankster",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Spirit Break",
                 "Lash Out",
@@ -5395,9 +6593,12 @@ var SETDEX_SV = {
         },
         "Swimmer Jenny": {
             "level": 68,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Prankster",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "False Surrender",
                 "Spirit Break",
@@ -5408,9 +6609,14 @@ var SETDEX_SV = {
         },
         "Hex Maniac Kathleen": {
             "level": 70,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Fairy Feather",
             "ability": "Prankster",
             "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Throat Chop",
                 "Spirit Break",
@@ -5421,9 +6627,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Red": {
             "level": 90,
+            "ivs": null,
             "item": "Light Clay",
             "ability": "Prankster",
             "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Foul Play",
                 "Body Press",
@@ -5436,9 +6645,12 @@ var SETDEX_SV = {
     "Typhlosion-Hisui": {
         "Ninja Boy Lao": {
             "level": 38,
+            "ivs": null,
             "item": "Bright Powder",
             "ability": "Frisk",
             "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Burning Jealousy",
                 "Infernal Parade",
@@ -5449,9 +6661,12 @@ var SETDEX_SV = {
         },
         "Swimmer Tanya": {
             "level": 68,
+            "ivs": null,
             "item": "Life Orb",
             "ability": "Blaze",
             "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Flamethrower",
                 "Poltergeist",
@@ -5462,9 +6677,12 @@ var SETDEX_SV = {
         },
         "Elite Four Janine": {
             "level": 89,
+            "ivs": null,
             "item": "Eject Pack",
             "ability": "Blaze",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Overheat",
                 "Heat Wave",
@@ -5477,9 +6695,12 @@ var SETDEX_SV = {
     "Banette": {
         "Ninja Boy Lung": {
             "level": 40,
+            "ivs": null,
             "item": "Quick Claw",
             "ability": "Cursed Body",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Shadow Claw",
                 "Gunk Shot",
@@ -5490,9 +6711,14 @@ var SETDEX_SV = {
         },
         "Hex Maniac Tammy": {
             "level": 70,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Muscle Band",
             "ability": "Cursed Body",
             "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Poltergeist",
                 "Shadow Claw",
@@ -5505,9 +6731,12 @@ var SETDEX_SV = {
     "Cacturne": {
         "Ninja Boy Lung": {
             "level": 40,
+            "ivs": null,
             "item": "Focus Band",
             "ability": "Water Absorb",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Energy Ball",
                 "Dark Pulse",
@@ -5518,9 +6747,12 @@ var SETDEX_SV = {
         },
         "Camper Brandan": {
             "level": 52,
+            "ivs": null,
             "item": "Grass Gem",
             "ability": "Sand Veil",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Seed Bomb",
                 "Knock Off",
@@ -5533,9 +6765,12 @@ var SETDEX_SV = {
     "Rapidash": {
         "Twins Tori and Tia": {
             "level": 38,
+            "ivs": null,
             "item": "Soft Sand",
             "ability": "Flame Body",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Flare Blitz",
                 "Smart Strike",
@@ -5546,9 +6781,12 @@ var SETDEX_SV = {
         },
         "Aroma Lady Mia": {
             "level": 53,
+            "ivs": null,
             "item": "Liechi Berry",
             "ability": "Flame Body",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Flare Blitz",
                 "Double-Edge",
@@ -5561,9 +6799,12 @@ var SETDEX_SV = {
     "Rapidash-Galar": {
         "Twins Tori and Tia": {
             "level": 38,
+            "ivs": null,
             "item": "Soft Sand",
             "ability": "Pastel Veil",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Play Rough",
                 "Psycho Cut",
@@ -5574,9 +6815,12 @@ var SETDEX_SV = {
         },
         "Kindler Jeff": {
             "level": 75,
+            "ivs": null,
             "item": "Kebia Berry",
             "ability": "Pastel Veil",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Play Rough",
                 "Zen Headbutt",
@@ -5589,9 +6833,12 @@ var SETDEX_SV = {
     "Weavile": {
         "Twins Tori and Tia": {
             "level": 38,
+            "ivs": null,
             "item": "Focus Sash",
-            "ability": "Inner Focus",
+            "ability": "Pressure",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Throat Chop",
                 "Ice Punch",
@@ -5602,9 +6849,12 @@ var SETDEX_SV = {
         },
         "Tuber Roy": {
             "level": 68,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Pressure",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Icicle Crash",
                 "Knock Off",
@@ -5615,9 +6865,12 @@ var SETDEX_SV = {
         },
         "Swimmer Grace": {
             "level": 70,
+            "ivs": null,
             "item": "Choice Band",
             "ability": "Pressure",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Icicle Crash",
                 "Throat Chop"
@@ -5626,9 +6879,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Katelynn": {
             "level": 89,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Pressure",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Icicle Crash",
                 "Knock Off",
@@ -5641,9 +6897,12 @@ var SETDEX_SV = {
     "Sneasler": {
         "Twins Tori and Tia": {
             "level": 38,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Unburden",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Poison Jab",
                 "Brick Break",
@@ -5654,9 +6913,12 @@ var SETDEX_SV = {
         },
         "Gentleman Walter": {
             "level": 68,
+            "ivs": null,
             "item": "Misty Seed",
             "ability": "Unburden",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Close Combat",
                 "Dire Claw",
@@ -5667,9 +6929,12 @@ var SETDEX_SV = {
         },
         "Aroma Lady Rachel": {
             "level": 89,
+            "ivs": null,
             "item": "Grassy Seed",
             "ability": "Unburden",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dire Claw",
                 "Close Combat",
@@ -5680,9 +6945,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Halle": {
             "level": 90,
+            "ivs": null,
             "item": "Misty Seed",
             "ability": "Unburden",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Swords Dance",
                 "Acrobatics",
@@ -5693,9 +6961,12 @@ var SETDEX_SV = {
         },
         "Elite Four Janine": {
             "level": 89,
+            "ivs": null,
             "item": "Poison Barb",
             "ability": "Unburden",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dire Claw",
                 "Drain Punch",
@@ -5708,9 +6979,12 @@ var SETDEX_SV = {
     "Vikavolt": {
         "Bird Keeper Coby": {
             "level": 38,
+            "ivs": null,
             "item": "Sharp Beak",
             "ability": "Levitate",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunderbolt",
                 "Bug Buzz",
@@ -5721,9 +6995,12 @@ var SETDEX_SV = {
         },
         "Bug Maniac Brent": {
             "level": 62,
+            "ivs": null,
             "item": "Grassy Seed",
             "ability": "Levitate",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunderbolt",
                 "Bug Buzz",
@@ -5734,9 +7011,12 @@ var SETDEX_SV = {
         },
         "Bug Maniac Cale": {
             "level": 68,
+            "ivs": null,
             "item": "Charti Berry",
             "ability": "Levitate",
             "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunderbolt",
                 "Bug Buzz",
@@ -5747,9 +7027,12 @@ var SETDEX_SV = {
         },
         "Pokemon Ranger Shirley": {
             "level": 75,
+            "ivs": null,
             "item": "Charti Berry",
             "ability": "Levitate",
             "nature": "Calm",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunderbolt",
                 "Bug Buzz",
@@ -5762,9 +7045,12 @@ var SETDEX_SV = {
     "Fearow": {
         "Bird Keeper Coby": {
             "level": 38,
+            "ivs": null,
             "item": "Scope Lens",
             "ability": "Sniper",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Drill Peck",
                 "Drill Run",
@@ -5777,9 +7063,12 @@ var SETDEX_SV = {
     "Altaria": {
         "Bird Keeper Coby": {
             "level": 38,
+            "ivs": null,
             "item": "Fairy Feather",
             "ability": "Natural Cure",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hurricane",
                 "Dragon Pulse",
@@ -5792,9 +7081,12 @@ var SETDEX_SV = {
     "Shelgon": {
         "Bird Keeper Coby": {
             "level": 38,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Rock Head",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Double-Edge",
                 "Dragon Claw",
@@ -5807,9 +7099,12 @@ var SETDEX_SV = {
     "Silvally-Flying": {
         "Bird Keeper Coby": {
             "level": 38,
+            "ivs": null,
             "item": "Flying Memory",
             "ability": "Rks System",
             "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Air Slash",
                 "Tri Attack",
@@ -5820,9 +7115,12 @@ var SETDEX_SV = {
         },
         "Expert Jared": {
             "level": 64,
+            "ivs": null,
             "item": "Flying Memory",
             "ability": "Rks System",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Multi-Attack",
                 "Crush Claw",
@@ -5835,9 +7133,14 @@ var SETDEX_SV = {
     "Musharna": {
         "Hex Maniac Madeline": {
             "level": 38,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Covert Cloak",
             "ability": "Telepathy",
             "nature": "Relaxed",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Psychic",
                 "Moonblast",
@@ -5850,9 +7153,14 @@ var SETDEX_SV = {
     "Perrserker": {
         "Hex Maniac Madeline": {
             "level": 38,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Focus Sash",
             "ability": "Battle Armor",
             "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Iron Head",
                 "Close Combat",
@@ -5865,9 +7173,14 @@ var SETDEX_SV = {
     "Huntail": {
         "Hex Maniac Madeline": {
             "level": 38,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Mystic Water",
             "ability": "Water Veil",
             "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Liquidation",
                 "Crunch",
@@ -5880,9 +7193,14 @@ var SETDEX_SV = {
     "Marowak-Alola": {
         "Hex Maniac Madeline": {
             "level": 38,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Clear Amulet",
             "ability": "Cursed Body",
             "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Shadow Bone",
                 "Fire Punch",
@@ -5895,9 +7213,14 @@ var SETDEX_SV = {
     "Maractus": {
         "Hex Maniac Madeline": {
             "level": 38,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Grass Gem",
             "ability": "Storm Drain",
             "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Leaf Storm",
                 "Seed Bomb",
@@ -5910,9 +7233,12 @@ var SETDEX_SV = {
     "Rillaboom": {
         "Picknicker Sophie": {
             "level": 38,
+            "ivs": null,
             "item": "Clear Amulet",
             "ability": "Grassy Surge",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Drum Beating",
                 "Hammer Arm",
@@ -5923,9 +7249,12 @@ var SETDEX_SV = {
         },
         "Ranger Jackson": {
             "level": 62,
+            "ivs": null,
             "item": "Grassy Seed",
             "ability": "Overgrow",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Grassy Glide",
                 "High Horsepower",
@@ -5936,9 +7265,12 @@ var SETDEX_SV = {
         },
         "Bird Keeper Presley": {
             "level": 70,
+            "ivs": null,
             "item": "Assault Vest",
             "ability": "Grassy Surge",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Fake Out",
                 "Grassy Glide",
@@ -5949,9 +7281,14 @@ var SETDEX_SV = {
         },
         "Gentleman Nate": {
             "level": 68,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Terrain Extender",
             "ability": "Grassy Surge",
             "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Grassy Glide",
                 "Hammer Arm",
@@ -5962,9 +7299,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Caroline": {
             "level": 90,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Overgrow",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Grassy Glide",
                 "Fake Out",
@@ -5977,9 +7317,12 @@ var SETDEX_SV = {
     "Slowking-Galar": {
         "Picknicker Sophie": {
             "level": 39,
+            "ivs": null,
             "item": "Leftovers",
             "ability": "Curious Medicine",
             "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Sludge Bomb",
                 "Eerie Spell",
@@ -5990,9 +7333,14 @@ var SETDEX_SV = {
         },
         "Hex Maniac Tammy": {
             "level": 68,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Leftovers",
             "ability": "Own Tempo",
             "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Sludge Bomb",
                 "Eerie Spell",
@@ -6003,9 +7351,12 @@ var SETDEX_SV = {
         },
         "Battle Girl Aisha": {
             "level": 75,
+            "ivs": null,
             "item": "Quick Claw",
             "ability": "Own Tempo",
             "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Sludge Wave",
                 "Future Sight",
@@ -6018,9 +7369,12 @@ var SETDEX_SV = {
     "Hitmontop": {
         "Picknicker Sophie": {
             "level": 39,
+            "ivs": null,
             "item": "Expert Belt",
             "ability": "Intimidate",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Close Combat",
                 "Triple Axel",
@@ -6031,9 +7385,12 @@ var SETDEX_SV = {
         },
         "Pokemon Breeder Myles": {
             "level": 70,
+            "ivs": null,
             "item": "Sitrus Berry",
             "ability": "Intimidate",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Close Combat",
                 "Throat Chop",
@@ -6044,9 +7401,14 @@ var SETDEX_SV = {
         },
         "Psychic Blake": {
             "level": 70,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Wide Lens",
             "ability": "Intimidate",
             "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Close Combat",
                 "Triple Axel",
@@ -6059,9 +7421,12 @@ var SETDEX_SV = {
     "Azumarill": {
         "Fisherman Claude": {
             "level": 38,
+            "ivs": null,
             "item": "Expert Belt",
             "ability": "Huge Power",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Play Rough",
                 "Waterfall",
@@ -6072,9 +7437,12 @@ var SETDEX_SV = {
         },
         "Pokemon Breeder Myles": {
             "level": 70,
+            "ivs": null,
             "item": "Misty Seed",
             "ability": "Huge Power",
             "nature": "Rash",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Misty Explosion",
                 "Aqua Tail",
@@ -6085,9 +7453,12 @@ var SETDEX_SV = {
         },
         "Tuber Roy": {
             "level": 68,
+            "ivs": null,
             "item": "Fairy Feather",
             "ability": "Huge Power",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Play Rough",
                 "Liquidation",
@@ -6098,9 +7469,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Tyler": {
             "level": 74,
+            "ivs": null,
             "item": "Sitrus Berry",
-            "ability": "Huge Power",
+            "ability": "Thick Fat",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Play Rough",
                 "Waterfall",
@@ -6113,9 +7487,12 @@ var SETDEX_SV = {
     "Wugtrio": {
         "Fisherman Claude": {
             "level": 38,
+            "ivs": null,
             "item": "Choice Band",
             "ability": "Gooey",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Triple Dive",
                 "Final Gambit"
@@ -6126,9 +7503,12 @@ var SETDEX_SV = {
     "Qwilfish": {
         "Fisherman Claude": {
             "level": 38,
+            "ivs": null,
             "item": "Poison Gem",
             "ability": "Intimidate",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Waterfall",
                 "Poison Jab",
@@ -6139,9 +7519,12 @@ var SETDEX_SV = {
         },
         "Pokefan Bethany": {
             "level": 39,
+            "ivs": null,
             "item": "Bug Gem",
             "ability": "Intimidate",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Gunk Shot",
                 "Waterfall",
@@ -6154,9 +7537,12 @@ var SETDEX_SV = {
     "Tatsugiri": {
         "Fisherman Claude": {
             "level": 39,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Storm Drain",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Surf",
                 "Dragon Pulse",
@@ -6169,9 +7555,12 @@ var SETDEX_SV = {
     "Torkoal": {
         "Kindler Bernie": {
             "level": 38,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Drought",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Heat Wave",
                 "Solar Beam",
@@ -6182,9 +7571,12 @@ var SETDEX_SV = {
         },
         "Leader Flannery": {
             "level": 77,
+            "ivs": null,
             "item": "Covert Cloak",
             "ability": "Drought",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Weather Ball",
                 "Solar Beam",
@@ -6195,9 +7587,12 @@ var SETDEX_SV = {
         },
         "Aroma Lady Rachel": {
             "level": 90,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Drought",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Heat Wave",
                 "Earth Power",
@@ -6210,9 +7605,12 @@ var SETDEX_SV = {
     "Coalossal": {
         "Kindler Bernie": {
             "level": 38,
+            "ivs": null,
             "item": "Power Herb",
             "ability": "Steam Engine",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Meteor Beam",
                 "Power Gem",
@@ -6225,9 +7623,12 @@ var SETDEX_SV = {
     "Castform": {
         "Kindler Bernie": {
             "level": 39,
+            "ivs": null,
             "item": "Life Orb",
             "ability": "Forecast",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Fire Blast",
                 "Ice Beam",
@@ -6240,9 +7641,12 @@ var SETDEX_SV = {
     "Bellossom": {
         "Kindler Bernie": {
             "level": 39,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Chlorophyll",
             "nature": "Hasty",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Solar Beam",
                 "Moonblast",
@@ -6253,9 +7657,12 @@ var SETDEX_SV = {
         },
         "Swimmer Tanya": {
             "level": 70,
+            "ivs": null,
             "item": "Wise Glasses",
             "ability": "Healer",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Energy Ball",
                 "Moonblast",
@@ -6268,9 +7675,12 @@ var SETDEX_SV = {
     "Overqwil": {
         "Fisherman Nolan": {
             "level": 38,
+            "ivs": null,
             "item": "Sitrus Berry",
             "ability": "Intimidate",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Crunch",
                 "Poison Jab",
@@ -6281,9 +7691,12 @@ var SETDEX_SV = {
         },
         "Guitarist Kendall": {
             "level": 75,
+            "ivs": null,
             "item": "Wide Lens",
             "ability": "Poison Point",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Gunk Shot",
                 "Crunch",
@@ -6296,9 +7709,12 @@ var SETDEX_SV = {
     "Alomomola": {
         "Fisherman Nolan": {
             "level": 38,
+            "ivs": null,
             "item": "Assault Vest",
             "ability": "Regenerator",
             "nature": "Sassy",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Flip Turn",
                 "Whirlpool",
@@ -6310,9 +7726,12 @@ var SETDEX_SV = {
     "Slowking": {
         "Fisherman Nolan": {
             "level": 38,
+            "ivs": null,
             "item": "Leftovers",
             "ability": "Regenerator",
             "nature": "Relaxed",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Psychic",
                 "Scald",
@@ -6325,9 +7744,12 @@ var SETDEX_SV = {
     "Walrein": {
         "Fisherman Nolan": {
             "level": 39,
+            "ivs": null,
             "item": "Expert Belt",
             "ability": "Ice Body",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Liquidation",
                 "Avalanche",
@@ -6340,9 +7762,12 @@ var SETDEX_SV = {
     "Basculin": {
         "Fisherman Kai": {
             "level": 38,
+            "ivs": null,
             "item": "Life Orb",
             "ability": "Adaptability",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Liquidation",
                 "Take Down",
@@ -6355,9 +7780,12 @@ var SETDEX_SV = {
     "Veluza": {
         "Fisherman Kai": {
             "level": 38,
+            "ivs": null,
             "item": "Scope Lens",
             "ability": "Sharpness",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Aqua Cutter",
                 "Psycho Cut",
@@ -6370,9 +7798,12 @@ var SETDEX_SV = {
     "Starmie": {
         "Fisherman Kai": {
             "level": 38,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Analytic",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Surf",
                 "Psychic",
@@ -6383,9 +7814,12 @@ var SETDEX_SV = {
         },
         "Leader Juan": {
             "level": 39,
+            "ivs": null,
             "item": "Wise Glasses",
             "ability": "Natural Cure",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunder",
                 "Surf",
@@ -6396,9 +7830,12 @@ var SETDEX_SV = {
         },
         "Camper Rhett": {
             "level": 55,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Analytic",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Scald",
                 "Psyshock",
@@ -6409,9 +7846,12 @@ var SETDEX_SV = {
         },
         "Swimmer Clarence": {
             "level": 75,
+            "ivs": null,
             "item": "Mystic Water",
             "ability": "Analytic",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Psychic",
                 "Expanding Force",
@@ -6422,9 +7862,12 @@ var SETDEX_SV = {
         },
         "Lady Annie": {
             "level": 75,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Illuminate",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Surf",
                 "Psychic",
@@ -6435,9 +7878,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Owen": {
             "level": 89,
+            "ivs": null,
             "item": "Mystic Water",
             "ability": "Analytic",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Surf",
                 "Psyshock",
@@ -6448,9 +7894,12 @@ var SETDEX_SV = {
         },
         "Elite Four Misty": {
             "level": 90,
+            "ivs": null,
             "item": "Life Orb",
             "ability": "Analytic",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Psychic",
                 "Scald",
@@ -6463,9 +7912,12 @@ var SETDEX_SV = {
     "Dondozo": {
         "Fisherman Kai": {
             "level": 39,
+            "ivs": null,
             "item": "Leftovers",
             "ability": "Unaware",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Liquidation",
                 "Earthquake",
@@ -6478,9 +7930,12 @@ var SETDEX_SV = {
     "Porygon2": {
         "Pokemaniac Steve": {
             "level": 38,
+            "ivs": null,
             "item": "Eviolite",
             "ability": "Analytic",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Tri Attack",
                 "Ice Beam",
@@ -6493,9 +7948,12 @@ var SETDEX_SV = {
     "Espathra": {
         "Pokemaniac Steve": {
             "level": 38,
+            "ivs": null,
             "item": "Fairy Feather",
             "ability": "Speed Boost",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Lumina Crash",
                 "Dazzling Gleam",
@@ -6506,9 +7964,12 @@ var SETDEX_SV = {
         },
         "Aidan": {
             "level": 75,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Speed Boost",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Expanding Force",
                 "Dazzling Gleam",
@@ -6521,9 +7982,12 @@ var SETDEX_SV = {
     "Clefable": {
         "Pokemaniac Steve": {
             "level": 40,
+            "ivs": null,
             "item": "Leftovers",
             "ability": "Unaware",
             "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Moonblast",
                 "Psychic",
@@ -6536,9 +8000,12 @@ var SETDEX_SV = {
     "Roserade": {
         "Teammates Tyra and Ivy": {
             "level": 42,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Poison Point",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Sludge Bomb",
                 "Energy Ball",
@@ -6549,9 +8016,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Quincy": {
             "level": 89,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Natural Cure",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Energy Ball",
                 "Sludge Bomb",
@@ -6564,9 +8034,12 @@ var SETDEX_SV = {
     "Golem": {
         "Teammates Tyra and Ivy": {
             "level": 42,
+            "ivs": null,
             "item": "Covert Cloak",
             "ability": "Sturdy",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Stone Edge",
                 "Stomping Tantrum",
@@ -6577,9 +8050,12 @@ var SETDEX_SV = {
         },
         "Hiker Eric": {
             "level": 75,
+            "ivs": null,
             "item": "Quick Claw",
             "ability": "Sturdy",
             "nature": "Adamant",
+            "teraType": "Flying",
+            "status": "Healthy",
             "moves": [
                 "Tera Blast",
                 "Earthquake",
@@ -6592,9 +8068,12 @@ var SETDEX_SV = {
     "Flygon": {
         "Hiker Lenny": {
             "level": 40,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Levitate",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Earthquake",
                 "Scale Shot",
@@ -6605,9 +8084,12 @@ var SETDEX_SV = {
         },
         "Aroma Lady Mia": {
             "level": 55,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Levitate",
             "nature": "Adamant",
+            "teraType": "Bug",
+            "status": "Healthy",
             "moves": [
                 "Earthquake",
                 "Dragon Darts",
@@ -6618,9 +8100,12 @@ var SETDEX_SV = {
         },
         "Bird Keeper Humberto": {
             "level": 62,
+            "ivs": null,
             "item": "Yache Berry",
             "ability": "Levitate",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Earthquake",
                 "Dragon Claw",
@@ -6631,9 +8116,12 @@ var SETDEX_SV = {
         },
         "Bird Keeper Edwardo": {
             "level": 62,
+            "ivs": null,
             "item": "Normal Gem",
             "ability": "Levitate",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Earth Power",
                 "Dragon Pulse",
@@ -6644,9 +8132,12 @@ var SETDEX_SV = {
         },
         "Siblings Reli And Ian": {
             "level": 75,
+            "ivs": null,
             "item": "Life Orb",
             "ability": "Levitate",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Earth Power",
                 "Dragon Pulse",
@@ -6657,9 +8148,12 @@ var SETDEX_SV = {
         },
         "Pokemon Ranger Tyree": {
             "level": 73,
+            "ivs": null,
             "item": "Yache Berry",
             "ability": "Levitate",
             "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Draco Meteor",
                 "Dragon Darts",
@@ -6670,9 +8164,12 @@ var SETDEX_SV = {
         },
         "Bug Maniac Axle": {
             "level": 75,
+            "ivs": null,
             "item": "Yache Berry",
             "ability": "Levitate",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Earthquake",
                 "Dragon Claw",
@@ -6685,9 +8182,12 @@ var SETDEX_SV = {
     "Gliscor": {
         "Hiker Lucas": {
             "level": 39,
+            "ivs": null,
             "item": "Flying Gem",
             "ability": "Hyper Cutter",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Earthquake",
                 "Acrobatics",
@@ -6698,9 +8198,12 @@ var SETDEX_SV = {
         },
         "Ruin Maniac Bryan": {
             "level": 52,
+            "ivs": null,
             "item": "Flying Gem",
             "ability": "Hyper Cutter",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "High Horsepower",
                 "Acrobatics",
@@ -6711,9 +8214,12 @@ var SETDEX_SV = {
         },
         "Leader Winona": {
             "level": 63,
+            "ivs": null,
             "item": "Flying Gem",
             "ability": "Hyper Cutter",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Earthquake",
                 "Acrobatics",
@@ -6724,9 +8230,12 @@ var SETDEX_SV = {
         },
         "Brendan": {
             "level": 70,
+            "ivs": null,
             "item": "Yache Berry",
             "ability": "Hyper Cutter",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Earthquake",
                 "Dual Wingbeat",
@@ -6737,9 +8246,12 @@ var SETDEX_SV = {
         },
         "Swimmer Talia": {
             "level": 77,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Hyper Cutter",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "High Horsepower",
                 "Dual Wingbeat",
@@ -6750,9 +8262,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Red": {
             "level": 89,
+            "ivs": null,
             "item": "Toxic Orb",
             "ability": "Poison Heal",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Earthquake",
                 "Dual Wingbeat",
@@ -6765,9 +8280,12 @@ var SETDEX_SV = {
     "Crobat": {
         "Hiker Lucas": {
             "level": 39,
+            "ivs": null,
             "item": "Scope Lens",
             "ability": "Inner Focus",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Cross Poison",
                 "Dual Wingbeat",
@@ -6778,9 +8296,12 @@ var SETDEX_SV = {
         },
         "Ninja Boy Riley": {
             "level": 70,
+            "ivs": null,
             "item": "Scope Lens",
             "ability": "Inner Focus",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Cross Poison",
                 "Dual Wingbeat",
@@ -6793,9 +8314,12 @@ var SETDEX_SV = {
     "Braviary-Hisui": {
         "Hiker Lucas": {
             "level": 39,
+            "ivs": null,
             "item": "Covert Cloak",
             "ability": "Tinted Lens",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Esper Wing",
                 "Air Slash",
@@ -6808,9 +8332,12 @@ var SETDEX_SV = {
     "Electabuzz": {
         "Picknicker Nancy": {
             "level": 38,
+            "ivs": null,
             "item": "Eviolite",
             "ability": "Static",
             "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunderbolt",
                 "Psychic",
@@ -6821,9 +8348,12 @@ var SETDEX_SV = {
         },
         "Pokemon Breeder Pat": {
             "level": 70,
+            "ivs": null,
             "item": "Eviolite",
             "ability": "Static",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunder Punch",
                 "Cross Chop",
@@ -6836,9 +8366,12 @@ var SETDEX_SV = {
     "Primarina": {
         "Picknicker Nancy": {
             "level": 38,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Liquid Voice",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hyper Voice",
                 "Alluring Voice",
@@ -6849,9 +8382,12 @@ var SETDEX_SV = {
         },
         "Fisherman Wade": {
             "level": 64,
+            "ivs": null,
             "item": "Throat Spray",
             "ability": "Liquid Voice",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hyper Voice",
                 "Moonblast",
@@ -6862,9 +8398,12 @@ var SETDEX_SV = {
         },
         "Swimmer Jenny": {
             "level": 68,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Torrent",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Sparkling Aria",
                 "Moonblast",
@@ -6877,9 +8416,12 @@ var SETDEX_SV = {
     "Magmar": {
         "Picknicker Nancy": {
             "level": 38,
+            "ivs": null,
             "item": "Eviolite",
             "ability": "Flame Body",
             "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Flamethrower",
                 "Psychic",
@@ -6890,9 +8432,12 @@ var SETDEX_SV = {
         },
         "Pokemon Breeder Pat": {
             "level": 70,
+            "ivs": null,
             "item": "Eviolite",
             "ability": "Flame Body",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Overheat",
                 "Fire Punch",
@@ -6905,9 +8450,12 @@ var SETDEX_SV = {
     "Torterra": {
         "Picknicker Charlotte": {
             "level": 38,
+            "ivs": null,
             "item": "Quick Claw",
             "ability": "Overgrow",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Earthquake",
                 "Seed Bomb",
@@ -6918,9 +8466,14 @@ var SETDEX_SV = {
         },
         "Psychic Hannah": {
             "level": 68,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Yache Berry",
             "ability": "Battle Armor",
             "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "High Horsepower",
                 "Seed Bomb",
@@ -6933,9 +8486,12 @@ var SETDEX_SV = {
     "Golisopod": {
         "Picknicker Charlotte": {
             "level": 38,
+            "ivs": null,
             "item": "Silver Powder",
             "ability": "Emergency Exit",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "First Impression",
                 "X-Scissor",
@@ -6946,9 +8502,12 @@ var SETDEX_SV = {
         },
         "Bug Maniac Jeffrey": {
             "level": 68,
+            "ivs": null,
             "item": "Scope Lens",
             "ability": "Emergency Exit",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "First Impression",
                 "X-Scissor",
@@ -6959,9 +8518,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Dianne": {
             "level": 89,
+            "ivs": null,
             "item": "Leftovers",
             "ability": "Emergency Exit",
             "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Leech Life",
                 "Liquidation",
@@ -6974,9 +8536,12 @@ var SETDEX_SV = {
     "Klinklang": {
         "Picknicker Charlotte": {
             "level": 38,
+            "ivs": null,
             "item": "Steel Gem",
             "ability": "Clear Body",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Gear Grind",
                 "Wild Charge",
@@ -6989,9 +8554,12 @@ var SETDEX_SV = {
     "Infernape": {
         "Camper Shane": {
             "level": 38,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Iron Fist",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Fire Punch",
                 "Drain Punch",
@@ -7002,9 +8570,12 @@ var SETDEX_SV = {
         },
         "Pokefan Vanessa": {
             "level": 68,
+            "ivs": null,
             "item": "Air Balloon",
             "ability": "Iron Fist",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Fire Punch",
                 "Drain Punch",
@@ -7015,9 +8586,12 @@ var SETDEX_SV = {
         },
         "Kindler Jeff": {
             "level": 77,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Blaze",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Fire Punch",
                 "Drain Punch",
@@ -7028,9 +8602,12 @@ var SETDEX_SV = {
         },
         "Expert Magik": {
             "level": 89,
+            "ivs": null,
             "item": "Life Orb",
             "ability": "Blaze",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Close Combat",
                 "Flare Blitz",
@@ -7043,9 +8620,12 @@ var SETDEX_SV = {
     "Vaporeon": {
         "Camper Shane": {
             "level": 38,
+            "ivs": null,
             "item": "Leftovers",
             "ability": "Water Absorb",
             "nature": "Impish",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Scald",
                 "Alluring Voice",
@@ -7058,9 +8638,12 @@ var SETDEX_SV = {
     "Mudsdale": {
         "Camper Shane": {
             "level": 38,
+            "ivs": null,
             "item": "Aguav Berry",
             "ability": "Stamina",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "High Horsepower",
                 "Heavy Slam",
@@ -7073,9 +8656,12 @@ var SETDEX_SV = {
     "Copperajah": {
         "Camper Shane": {
             "level": 38,
+            "ivs": null,
             "item": "Metal Coat",
             "ability": "Heavy Metal",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Iron Head",
                 "High Horsepower",
@@ -7086,9 +8672,12 @@ var SETDEX_SV = {
         },
         "Lass Julia": {
             "level": 53,
+            "ivs": null,
             "item": "Covert Cloak",
             "ability": "Heavy Metal",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Heavy Slam",
                 "Headlong Rush",
@@ -7101,9 +8690,12 @@ var SETDEX_SV = {
     "Empoleon": {
         "Picnicker Angelina": {
             "level": 38,
+            "ivs": null,
             "item": "Leftovers",
             "ability": "Torrent",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Surf",
                 "Flash Cannon",
@@ -7114,9 +8706,12 @@ var SETDEX_SV = {
         },
         "Fisherman Barny": {
             "level": 62,
+            "ivs": null,
             "item": "Chople Berry",
             "ability": "Competitive",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Scald",
                 "Flash Cannon",
@@ -7127,9 +8722,12 @@ var SETDEX_SV = {
         },
         "Expert Magik": {
             "level": 90,
+            "ivs": null,
             "item": "Shuca Berry",
             "ability": "Torrent",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Surf",
                 "Flash Cannon",
@@ -7140,9 +8738,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Caroline": {
             "level": 89,
+            "ivs": null,
             "item": "Life Orb",
             "ability": "Torrent",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hydro Pump",
                 "Ice Beam",
@@ -7155,9 +8756,12 @@ var SETDEX_SV = {
     "Leafeon": {
         "Picnicker Angelina": {
             "level": 38,
+            "ivs": null,
             "item": "Grass Gem",
             "ability": "Sharpness",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Leaf Blade",
                 "X-Scissor",
@@ -7170,9 +8774,12 @@ var SETDEX_SV = {
     "Pyroar": {
         "Picnicker Angelina": {
             "level": 38,
+            "ivs": null,
             "item": "Power Herb",
             "ability": "Unnerve",
             "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Flamethrower",
                 "Hyper Voice",
@@ -7185,9 +8792,12 @@ var SETDEX_SV = {
     "Hariyama": {
         "Picnicker Angelina": {
             "level": 38,
+            "ivs": null,
             "item": "Flame Orb",
             "ability": "Guts",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Brick Break",
                 "Shadow Punch",
@@ -7198,9 +8808,14 @@ var SETDEX_SV = {
         },
         "Hex Maniac Tammy": {
             "level": 68,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Focus Sash",
             "ability": "Thick Fat",
             "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Close Combat",
                 "Headlong Rush",
@@ -7211,9 +8826,14 @@ var SETDEX_SV = {
         },
         "Gentleman Nate": {
             "level": 68,
+            "ivs": {
+                "sp": 0
+            },
             "item": "White Herb",
             "ability": "Thick Fat",
             "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Close Combat",
                 "Headlong Rush",
@@ -7226,9 +8846,12 @@ var SETDEX_SV = {
     "Staraptor": {
         "Picknicker Diana": {
             "level": 38,
+            "ivs": null,
             "item": "Flying Gem",
             "ability": "Intimidate",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Take Down",
                 "Acrobatics",
@@ -7239,9 +8862,12 @@ var SETDEX_SV = {
         },
         "Bird Keeper Humberto": {
             "level": 64,
+            "ivs": null,
             "item": "Clear Amulet",
             "ability": "Intimidate",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Brave Bird",
                 "Close Combat",
@@ -7252,9 +8878,12 @@ var SETDEX_SV = {
         },
         "Elite Four Whitney": {
             "level": 89,
+            "ivs": null,
             "item": "Flying Gem",
             "ability": "Intimidate",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Return",
                 "Acrobatics",
@@ -7267,9 +8896,12 @@ var SETDEX_SV = {
     "Arcanine": {
         "Picknicker Diana": {
             "level": 38,
+            "ivs": null,
             "item": "Fire Gem",
             "ability": "Intimidate",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Temper Flare",
                 "Play Rough",
@@ -7280,9 +8912,12 @@ var SETDEX_SV = {
         },
         "Hiker Marcos": {
             "level": 53,
+            "ivs": null,
             "item": "Charcoal",
             "ability": "Intimidate",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Temper Flare",
                 "Play Rough",
@@ -7293,9 +8928,12 @@ var SETDEX_SV = {
         },
         "Ranger Jenna": {
             "level": 68,
+            "ivs": null,
             "item": "Clear Amulet",
             "ability": "Intimidate",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Temper Flare",
                 "Close Combat",
@@ -7306,9 +8944,12 @@ var SETDEX_SV = {
         },
         "Sr. and Jr. Kate & Joy": {
             "level": 68,
+            "ivs": null,
             "item": "Charcoal",
             "ability": "Justified",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Temper Flare",
                 "Play Rough",
@@ -7319,9 +8960,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Teddy": {
             "level": 75,
+            "ivs": null,
             "item": "Eject Pack",
             "ability": "Intimidate",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Overheat",
                 "Flare Blitz",
@@ -7332,9 +8976,12 @@ var SETDEX_SV = {
         },
         "Expert Keegan": {
             "level": 75,
+            "ivs": null,
             "item": "Sitrus Berry",
             "ability": "Intimidate",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Temper Flare",
                 "Play Rough",
@@ -7345,9 +8992,12 @@ var SETDEX_SV = {
         },
         "Aroma Lady Rachel": {
             "level": 89,
+            "ivs": null,
             "item": "Assault Vest",
             "ability": "Intimidate",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Flare Blitz",
                 "Close Combat",
@@ -7358,9 +9008,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Caroline": {
             "level": 89,
+            "ivs": null,
             "item": "Aguav Berry",
             "ability": "Intimidate",
             "nature": "Mild",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Overheat",
                 "Extreme Speed",
@@ -7373,9 +9026,12 @@ var SETDEX_SV = {
     "Kangaskhan": {
         "Camper Ethan": {
             "level": 38,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Inner Focus",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Headbutt",
                 "Hammer Arm",
@@ -7386,9 +9042,12 @@ var SETDEX_SV = {
         },
         "Parasol Lady Angelica": {
             "level": 68,
+            "ivs": null,
             "item": "Silk Scarf",
             "ability": "Scrappy",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Last Resort",
                 "Fake Out"
@@ -7397,9 +9056,12 @@ var SETDEX_SV = {
         },
         "Swimmer Chad": {
             "level": 68,
+            "ivs": null,
             "item": "Normal Gem",
             "ability": "Scrappy",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Double-Edge",
                 "Body Slam",
@@ -7410,9 +9072,15 @@ var SETDEX_SV = {
         },
         "Psychic Nicholas": {
             "level": 68,
+            "ivs": {
+                "sa": 0,
+                "sp": 0
+            },
             "item": "Iron Ball",
             "ability": "Gluttony",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Body Slam",
                 "Crunch",
@@ -7425,9 +9093,12 @@ var SETDEX_SV = {
     "Meowstic-F": {
         "Camper Ethan": {
             "level": 38,
+            "ivs": null,
             "item": "Wise Glasses",
             "ability": "Mystic Charm",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Psychic",
                 "Energy Ball",
@@ -7440,9 +9111,12 @@ var SETDEX_SV = {
     "Tinkaton": {
         "Camper Ethan": {
             "level": 38,
+            "ivs": null,
             "item": "Covert Cloak",
             "ability": "Own Tempo",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Gigaton Hammer",
                 "Play Rough",
@@ -7453,9 +9127,12 @@ var SETDEX_SV = {
         },
         "Collector Damon": {
             "level": 53,
+            "ivs": null,
             "item": "Fairy Feather",
             "ability": "Own Tempo",
             "nature": "Impish",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Gigaton Hammer",
                 "Play Rough",
@@ -7466,9 +9143,12 @@ var SETDEX_SV = {
         },
         "Sailor Cory": {
             "level": -2,
+            "ivs": null,
             "item": "Steel Gem",
             "ability": "Mold Breaker",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Gigaton Hammer",
                 "Play Rough",
@@ -7479,9 +9159,12 @@ var SETDEX_SV = {
         },
         "Swimmer Jenny": {
             "level": 68,
+            "ivs": null,
             "item": "Muscle Band",
             "ability": "Own Tempo",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Play Rough",
                 "Iron Head",
@@ -7492,9 +9175,12 @@ var SETDEX_SV = {
         },
         "Siblings Reli And Ian": {
             "level": 75,
+            "ivs": null,
             "item": "Expert Belt",
             "ability": "Mold Breaker",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Gigaton Hammer",
                 "Play Rough",
@@ -7505,9 +9191,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Gerald": {
             "level": 75,
+            "ivs": null,
             "item": "Fairy Gem",
             "ability": "Mold Breaker",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Gigaton Hammer",
                 "Play Rough",
@@ -7518,9 +9207,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Quincy": {
             "level": 89,
+            "ivs": null,
             "item": "Metal Coat",
             "ability": "Own Tempo",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Gigaton Hammer",
                 "Play Rough",
@@ -7531,9 +9223,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Terra": {
             "level": 90,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Mold Breaker",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Stealth Rock",
                 "Gigaton Hammer",
@@ -7546,9 +9241,12 @@ var SETDEX_SV = {
     "Feraligatr": {
         "Beauty Connie": {
             "level": 38,
+            "ivs": null,
             "item": "Life Orb",
             "ability": "Sheer Force",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Liquidation",
                 "Crunch",
@@ -7559,9 +9257,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Jennifer": {
             "level": 70,
+            "ivs": null,
             "item": "Never-Melt Ice",
             "ability": "Torrent",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Liquidation",
                 "Earthquake",
@@ -7574,9 +9275,12 @@ var SETDEX_SV = {
     "Gyarados": {
         "Beauty Connie": {
             "level": 38,
+            "ivs": null,
             "item": "Sharp Beak",
             "ability": "Moxie",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Bounce",
                 "Waterfall",
@@ -7587,9 +9291,12 @@ var SETDEX_SV = {
         },
         "Hiker Jay": {
             "level": 55,
+            "ivs": null,
             "item": "Muscle Band",
             "ability": "Intimidate",
             "nature": "Impish",
+            "teraType": "Flying",
+            "status": "Healthy",
             "moves": [
                 "Waterfall",
                 "Tera Blast",
@@ -7602,9 +9309,12 @@ var SETDEX_SV = {
     "Dragonair": {
         "Beauty Connie": {
             "level": 40,
+            "ivs": null,
             "item": "Eviolite",
             "ability": "Marvel Scale",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Burned",
             "moves": [
                 "Surf",
                 "Thunderbolt",
@@ -7617,9 +9327,12 @@ var SETDEX_SV = {
     "Lapras": {
         "Lass Andrea": {
             "level": 38,
+            "ivs": null,
             "item": "Assault Vest",
             "ability": "Water Absorb",
             "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Surf",
                 "Ice Beam",
@@ -7630,9 +9343,12 @@ var SETDEX_SV = {
         },
         "Parasol Lady Angelica": {
             "level": 72,
+            "ivs": null,
             "item": "Ground Gem",
             "ability": "Water Absorb",
             "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Surf",
                 "Freeze-Dry",
@@ -7643,9 +9359,12 @@ var SETDEX_SV = {
         },
         "Swimmer Tanya": {
             "level": 70,
+            "ivs": null,
             "item": "Assault Vest",
             "ability": "Water Absorb",
             "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Blizzard",
                 "Surf",
@@ -7656,9 +9375,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Albert": {
             "level": 89,
+            "ivs": null,
             "item": "Leftovers",
             "ability": "Shell Armor",
             "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Ice Beam",
                 "Liquidation",
@@ -7671,9 +9393,12 @@ var SETDEX_SV = {
     "Cinccino": {
         "Lass Andrea": {
             "level": 38,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Skill Link",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Tail Slap",
                 "Bullet Seed",
@@ -7684,9 +9409,12 @@ var SETDEX_SV = {
         },
         "Psychic Brandi": {
             "level": 75,
+            "ivs": null,
             "item": "Loaded Dice",
             "ability": "Technician",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Tail Slap",
                 "Rock Blast",
@@ -7697,9 +9425,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Shannon": {
             "level": 90,
+            "ivs": null,
             "item": "Wide Lens",
             "ability": "Skill Link",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Tail Slap",
                 "Rock Blast",
@@ -7712,9 +9443,12 @@ var SETDEX_SV = {
     "Virizion": {
         "Lass Andrea": {
             "level": 38,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Justified",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Aura Sphere",
                 "Giga Drain",
@@ -7727,9 +9461,12 @@ var SETDEX_SV = {
     "Greninja": {
         "Lass Andrea": {
             "level": 39,
+            "ivs": null,
             "item": "Loaded Dice",
             "ability": "Torrent",
             "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Water Shuriken",
                 "Night Slash",
@@ -7740,9 +9477,12 @@ var SETDEX_SV = {
         },
         "Ninja Boy Takashi": {
             "level": 62,
+            "ivs": null,
             "item": "Loaded Dice",
             "ability": "Protean",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Water Shuriken",
                 "Dark Pulse",
@@ -7753,9 +9493,12 @@ var SETDEX_SV = {
         },
         "Ninja Boy Hideo": {
             "level": 60,
+            "ivs": null,
             "item": "Loaded Dice",
             "ability": "Torrent",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Water Shuriken",
                 "Dark Pulse",
@@ -7766,9 +9509,12 @@ var SETDEX_SV = {
         },
         "Ninja Boy Riley": {
             "level": 68,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Battle Bond",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Water Shuriken",
                 "Dark Pulse",
@@ -7779,9 +9525,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Terra": {
             "level": 89,
+            "ivs": null,
             "item": "Water Gem",
             "ability": "Battle Bond",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hydro Pump",
                 "Grass Knot",
@@ -7792,9 +9541,12 @@ var SETDEX_SV = {
         },
         "Elite Four Janine": {
             "level": 89,
+            "ivs": null,
             "item": "Loaded Dice",
             "ability": "Torrent",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Water Shuriken",
                 "Dark Pulse",
@@ -7807,9 +9559,12 @@ var SETDEX_SV = {
     "Silvally-Water": {
         "Lady Daphne": {
             "level": 38,
+            "ivs": null,
             "item": "Water Memory",
             "ability": "Rks System",
             "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Multi-Attack",
                 "X-Scissor",
@@ -7822,9 +9577,12 @@ var SETDEX_SV = {
     "Swanna": {
         "Lady Daphne": {
             "level": 38,
+            "ivs": null,
             "item": "Wise Glasses",
             "ability": "No Guard",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hydro Pump",
                 "Hurricane",
@@ -7837,9 +9595,12 @@ var SETDEX_SV = {
     "Kingdra": {
         "Lady Daphne": {
             "level": 40,
+            "ivs": null,
             "item": "Scope Lens",
             "ability": "Sniper",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Draco Meteor",
                 "Liquidation",
@@ -7852,9 +9613,12 @@ var SETDEX_SV = {
     "Dhelmise": {
         "Pokefan Annike": {
             "level": 38,
+            "ivs": null,
             "item": "Quick Claw",
             "ability": "Steelworker",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Power Whip",
                 "Poltergeist",
@@ -7865,9 +9629,12 @@ var SETDEX_SV = {
         },
         "Lady Annie": {
             "level": 75,
+            "ivs": null,
             "item": "Assault Vest",
             "ability": "Steelworker",
             "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Anchor Shot",
                 "Power Whip",
@@ -7880,9 +9647,12 @@ var SETDEX_SV = {
     "Lanturn": {
         "Pokefan Annike": {
             "level": 40,
+            "ivs": null,
             "item": "Air Balloon",
             "ability": "Volt Absorb",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Surf",
                 "Rising Voltage",
@@ -7893,9 +9663,14 @@ var SETDEX_SV = {
         },
         "Psychic Hannah": {
             "level": 68,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Leftovers",
             "ability": "Volt Absorb",
             "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hydro Pump",
                 "Rising Voltage",
@@ -7906,9 +9681,12 @@ var SETDEX_SV = {
         },
         "Guitarist Kendall": {
             "level": 77,
+            "ivs": null,
             "item": "Assault Vest",
             "ability": "Volt Absorb",
             "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Surf",
                 "Thunderbolt",
@@ -7921,9 +9699,12 @@ var SETDEX_SV = {
     "Clawitzer": {
         "Lass Crissy": {
             "level": 38,
+            "ivs": null,
             "item": "Wise Glasses",
             "ability": "Mega Launcher",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Water Pulse",
                 "Dragon Pulse",
@@ -7934,9 +9715,12 @@ var SETDEX_SV = {
         },
         "Bug Maniac Cale": {
             "level": 68,
+            "ivs": null,
             "item": "Wise Glasses",
             "ability": "Mega Launcher",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Water Pulse",
                 "Dark Pulse",
@@ -7947,9 +9731,12 @@ var SETDEX_SV = {
         },
         "Bird Keeper Presley": {
             "level": 68,
+            "ivs": null,
             "item": "Choice Scarf",
             "ability": "Mega Launcher",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Terrain Pulse",
                 "Water Pulse",
@@ -7960,9 +9747,12 @@ var SETDEX_SV = {
         },
         "Swimmer Kevin": {
             "level": 75,
+            "ivs": null,
             "item": "Wise Glasses",
             "ability": "Mega Launcher",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Water Pulse",
                 "Dark Pulse",
@@ -7973,9 +9763,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Mitchell": {
             "level": 90,
+            "ivs": null,
             "item": "Expert Belt",
             "ability": "Mega Launcher",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Terrain Pulse",
                 "Water Pulse",
@@ -7988,9 +9781,12 @@ var SETDEX_SV = {
     "Samurott": {
         "Lass Crissy": {
             "level": 40,
+            "ivs": null,
             "item": "Black Belt",
             "ability": "Torrent",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Liquidation",
                 "Sacred Sword",
@@ -8001,9 +9797,12 @@ var SETDEX_SV = {
         },
         "Sidney": {
             "level": 55,
+            "ivs": null,
             "item": "Assault Vest",
             "ability": "Torrent",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Liquidation",
                 "Sacred Sword",
@@ -8016,9 +9815,12 @@ var SETDEX_SV = {
     "Dewgong": {
         "Beauty Tiffany": {
             "level": 38,
+            "ivs": null,
             "item": "Assault Vest",
             "ability": "Ice Body",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Blizzard",
                 "Hydro Pump",
@@ -8029,9 +9831,12 @@ var SETDEX_SV = {
         },
         "Tuber Roy": {
             "level": 68,
+            "ivs": null,
             "item": "Quick Claw",
             "ability": "Ice Body",
             "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hydro Pump",
                 "Blizzard",
@@ -8042,9 +9847,12 @@ var SETDEX_SV = {
         },
         "Swimmer Allison": {
             "level": 77,
+            "ivs": null,
             "item": "Wide Lens",
             "ability": "Thick Fat",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hydro Pump",
                 "Blizzard",
@@ -8057,9 +9865,12 @@ var SETDEX_SV = {
     "Mamoswine": {
         "Beauty Tiffany": {
             "level": 39,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Thick Fat",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "High Horsepower",
                 "Icicle Crash",
@@ -8070,9 +9881,12 @@ var SETDEX_SV = {
         },
         "Hiker Jay": {
             "level": 53,
+            "ivs": null,
             "item": "Assault Vest",
-            "ability": "Oblivious",
+            "ability": "Thick Fat",
             "nature": "Impish",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "High Horsepower",
                 "Icicle Crash",
@@ -8083,9 +9897,12 @@ var SETDEX_SV = {
         },
         "Swimmer Grace": {
             "level": 68,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Thick Fat",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "High Horsepower",
                 "Icicle Crash",
@@ -8098,9 +9915,12 @@ var SETDEX_SV = {
     "Octillery": {
         "Pokefan Bethany": {
             "level": 39,
+            "ivs": null,
             "item": "Quick Claw",
             "ability": "Sniper",
             "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hydro Pump",
                 "Fire Blast",
@@ -8112,9 +9932,12 @@ var SETDEX_SV = {
     "Eelektross": {
         "Pokefan Bethany": {
             "level": 39,
+            "ivs": null,
             "item": "Leftovers",
             "ability": "Levitate",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunder Punch",
                 "Fire Punch",
@@ -8127,9 +9950,12 @@ var SETDEX_SV = {
     "Milotic": {
         "Beauty Olivia": {
             "level": 38,
+            "ivs": null,
             "item": "Leftovers",
             "ability": "Marvel Scale",
             "nature": "Calm",
+            "teraType": null,
+            "status": "Burned",
             "moves": [
                 "Scald",
                 "Dragon Breath",
@@ -8140,9 +9966,12 @@ var SETDEX_SV = {
         },
         "Black Belt Damien": {
             "level": 75,
+            "ivs": null,
             "item": "Leftovers",
             "ability": "Marvel Scale",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Scald",
                 "Ice Beam",
@@ -8155,9 +9984,12 @@ var SETDEX_SV = {
     "Cradily": {
         "Beauty Olivia": {
             "level": 38,
+            "ivs": null,
             "item": "Chople Berry",
             "ability": "Suction Cups",
             "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Giga Drain",
                 "Ancient Power",
@@ -8170,9 +10002,12 @@ var SETDEX_SV = {
     "Slowbro-Galar": {
         "Beauty Olivia": {
             "level": 39,
+            "ivs": null,
             "item": "Quick Claw",
             "ability": "Quick Draw",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Shell Side Arm",
                 "Psyshock",
@@ -8183,9 +10018,12 @@ var SETDEX_SV = {
         },
         "Parasol Lady Rachel": {
             "level": 62,
+            "ivs": null,
             "item": "Grassy Seed",
             "ability": "Quick Draw",
             "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Shell Side Arm",
                 "Psychic",
@@ -8196,9 +10034,12 @@ var SETDEX_SV = {
         },
         "Swimmer Tanya": {
             "level": 68,
+            "ivs": null,
             "item": "Quick Claw",
             "ability": "Quick Draw",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Sludge Bomb",
                 "Psychic",
@@ -8209,9 +10050,12 @@ var SETDEX_SV = {
         },
         "Hex Maniac Cole": {
             "level": 77,
+            "ivs": null,
             "item": "Wide Lens",
             "ability": "Quick Draw",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Gunk Shot",
                 "Fire Blast",
@@ -8224,9 +10068,12 @@ var SETDEX_SV = {
     "Mesprit": {
         "Lady Brianna": {
             "level": 38,
+            "ivs": null,
             "item": "Light Clay",
             "ability": "Levitate",
             "nature": "Hardy",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Future Sight",
                 "Dazzling Gleam",
@@ -8237,9 +10084,12 @@ var SETDEX_SV = {
         },
         "Parasol Lady Daina": {
             "level": 53,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Levitate",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Zen Headbutt",
                 "Drain Punch",
@@ -8252,9 +10102,12 @@ var SETDEX_SV = {
     "Stunfisk": {
         "Lady Brianna": {
             "level": 38,
+            "ivs": null,
             "item": "Mystic Water",
             "ability": "Static",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunderbolt",
                 "Earth Power",
@@ -8267,9 +10120,12 @@ var SETDEX_SV = {
     "Sharpedo": {
         "Lady Brianna": {
             "level": 40,
+            "ivs": null,
             "item": "Poison Barb",
             "ability": "Strong Jaw",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Liquidation",
                 "Crunch",
@@ -8282,9 +10138,12 @@ var SETDEX_SV = {
     "Pelipper": {
         "Beauty Bridget": {
             "level": 40,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Drizzle",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hurricane",
                 "Weather Ball",
@@ -8295,9 +10154,12 @@ var SETDEX_SV = {
         },
         "Bird Keeper Hugh": {
             "level": 63,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Rain Dish",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hydro Pump",
                 "Hurricane",
@@ -8310,9 +10172,12 @@ var SETDEX_SV = {
     "Gorebyss": {
         "Beauty Bridget": {
             "level": 38,
+            "ivs": null,
             "item": "Throat Spray",
             "ability": "Swift Swim",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Sparkling Aria",
                 "Alluring Voice",
@@ -8323,9 +10188,12 @@ var SETDEX_SV = {
         },
         "Camper Rhett": {
             "level": 53,
+            "ivs": null,
             "item": "Covert Cloak",
             "ability": "Swift Swim",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hydro Pump",
                 "Ice Beam",
@@ -8336,9 +10204,12 @@ var SETDEX_SV = {
         },
         "Swimmer Jenny": {
             "level": 70,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Swift Swim",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Blizzard",
                 "Surf",
@@ -8351,9 +10222,12 @@ var SETDEX_SV = {
     "Phione": {
         "Beauty Bridget": {
             "level": 38,
+            "ivs": null,
             "item": "Leftovers",
             "ability": "Hydration",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Surf",
                 "Alluring Voice",
@@ -8366,9 +10240,12 @@ var SETDEX_SV = {
     "Bellibolt": {
         "Beauty Bridget": {
             "level": 38,
+            "ivs": null,
             "item": "Iapapa Berry",
             "ability": "Electromorphosis",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunder",
                 "Muddy Water",
@@ -8379,9 +10256,12 @@ var SETDEX_SV = {
         },
         "Parasol Lady Angelica": {
             "level": 68,
+            "ivs": null,
             "item": "Leftovers",
             "ability": "Electromorphosis",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Parabolic Charge",
                 "Weather Ball",
@@ -8392,9 +10272,14 @@ var SETDEX_SV = {
         },
         "Psychic Hannah": {
             "level": 68,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Shuca Berry",
             "ability": "Electromorphosis",
             "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Rising Voltage",
                 "Muddy Water",
@@ -8407,9 +10292,12 @@ var SETDEX_SV = {
     "Basculegion-F": {
         "Leader Juan": {
             "level": 38,
+            "ivs": null,
             "item": "Water Gem",
             "ability": "Swift Swim",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Shadow Ball",
                 "Water Pulse",
@@ -8420,9 +10308,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Katelynn": {
             "level": 89,
+            "ivs": null,
             "item": "Life Orb",
             "ability": "Swift Swim",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Shadow Ball",
                 "Water Pulse",
@@ -8435,9 +10326,12 @@ var SETDEX_SV = {
     "Archaludon": {
         "Leader Juan": {
             "level": 40,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Stalwart",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Electro Shot",
                 "Dragon Pulse",
@@ -8448,9 +10342,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Julie": {
             "level": 89,
+            "ivs": null,
             "item": "Power Herb",
             "ability": "Sturdy",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Electro Shot",
                 "Dragon Pulse",
@@ -8461,9 +10358,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Caroline": {
             "level": 89,
+            "ivs": null,
             "item": "White Herb",
             "ability": "Stamina",
             "nature": "Relaxed",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Body Press",
                 "Flash Cannon",
@@ -8476,9 +10376,12 @@ var SETDEX_SV = {
     "Machamp": {
         "Aroma Lady Mia": {
             "level": 53,
+            "ivs": null,
             "item": "Custap Berry",
             "ability": "No Guard",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dynamic Punch",
                 "Stone Edge",
@@ -8489,9 +10392,12 @@ var SETDEX_SV = {
         },
         "Swimmer Reed": {
             "level": 77,
+            "ivs": null,
             "item": "Fire Gem",
             "ability": "No Guard",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dynamic Punch",
                 "High Horsepower",
@@ -8504,9 +10410,12 @@ var SETDEX_SV = {
     "Muk-Alola": {
         "Aroma Lady Mia": {
             "level": 53,
+            "ivs": null,
             "item": "Quick Claw",
             "ability": "Poison Touch",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Poison Jab",
                 "Knock Off",
@@ -8519,9 +10428,12 @@ var SETDEX_SV = {
     "Thundurus": {
         "Parasol Lady Daina": {
             "level": 53,
+            "ivs": null,
             "item": "Flying Gem",
             "ability": "Prankster",
             "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunder Punch",
                 "Hammer Arm",
@@ -8532,9 +10444,12 @@ var SETDEX_SV = {
         },
         "Bird Keeper Phil": {
             "level": 64,
+            "ivs": null,
             "item": "Flying Gem",
             "ability": "Prankster",
             "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Wildbolt Storm",
                 "Acrobatics",
@@ -8547,9 +10462,12 @@ var SETDEX_SV = {
     "Zoroark": {
         "Parasol Lady Daina": {
             "level": 53,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Illusion",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Night Daze",
                 "Extrasensory",
@@ -8560,9 +10478,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Cristin": {
             "level": 68,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Illusion",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Night Daze",
                 "Extrasensory",
@@ -8575,9 +10496,12 @@ var SETDEX_SV = {
     "Excadrill": {
         "Parasol Lady Daina": {
             "level": 53,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Sand Rush",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Iron Head",
                 "Drill Run",
@@ -8588,9 +10512,12 @@ var SETDEX_SV = {
         },
         "Picnicker Heidi": {
             "level": 52,
+            "ivs": null,
             "item": "Covert Cloak",
             "ability": "Sand Rush",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Drill Run",
                 "Iron Head",
@@ -8601,9 +10528,12 @@ var SETDEX_SV = {
         },
         "Collector Hector": {
             "level": 53,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Sand Rush",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Drill Run",
                 "Iron Head",
@@ -8614,9 +10544,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Quincy": {
             "level": 89,
+            "ivs": null,
             "item": "Covert Cloak",
             "ability": "Sand Rush",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Earthquake",
                 "High Horsepower",
@@ -8627,9 +10560,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Edgar": {
             "level": 89,
+            "ivs": null,
             "item": "Steel Gem",
             "ability": "Sand Rush",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Iron Head",
                 "Earthquake",
@@ -8642,9 +10578,12 @@ var SETDEX_SV = {
     "Sinistcha": {
         "Parasol Lady Daina": {
             "level": 55,
+            "ivs": null,
             "item": "Wise Glasses",
             "ability": "Hospitality",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Matcha Gotcha",
                 "Shadow Ball",
@@ -8657,9 +10596,12 @@ var SETDEX_SV = {
     "Scizor": {
         "Parasol Lady Daina": {
             "level": 53,
+            "ivs": null,
             "item": "Bug Gem",
             "ability": "Technician",
             "nature": "Careful",
+            "teraType": "Flying",
+            "status": "Healthy",
             "moves": [
                 "Dual Wingbeat",
                 "Bug Bite",
@@ -8670,9 +10612,12 @@ var SETDEX_SV = {
         },
         "Bug Maniac Brent": {
             "level": 62,
+            "ivs": null,
             "item": "Metal Coat",
             "ability": "Technician",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Bug Bite",
                 "Bullet Punch",
@@ -8683,9 +10628,12 @@ var SETDEX_SV = {
         },
         "Picnicker Ashley": {
             "level": 62,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Technician",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Bug Bite",
                 "Bullet Punch",
@@ -8698,9 +10646,12 @@ var SETDEX_SV = {
     "Noivern": {
         "Ranger Emory": {
             "level": 53,
+            "ivs": null,
             "item": "Life Orb",
             "ability": "Infiltrator",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dragon Pulse",
                 "Air Slash",
@@ -8711,9 +10662,12 @@ var SETDEX_SV = {
         },
         "Bird Keeper Edwardo": {
             "level": 62,
+            "ivs": null,
             "item": "Silk Scarf",
             "ability": "Infiltrator",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dragon Pulse",
                 "Air Slash",
@@ -8726,9 +10680,12 @@ var SETDEX_SV = {
     "Cloyster": {
         "Ranger Emory": {
             "level": 53,
+            "ivs": null,
             "item": "Assault Vest",
             "ability": "Skill Link",
             "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Icicle Spear",
                 "Razor Shell",
@@ -8739,9 +10696,12 @@ var SETDEX_SV = {
         },
         "Siblings Reli And Ian": {
             "level": 75,
+            "ivs": null,
             "item": "Scope Lens",
             "ability": "Skill Link",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Icicle Spear",
                 "Razor Shell",
@@ -8754,9 +10714,12 @@ var SETDEX_SV = {
     "Obstagoon": {
         "Ranger Emory": {
             "level": 53,
+            "ivs": null,
             "item": "Bright Powder",
             "ability": "Defiant",
             "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Knock Off",
                 "Body Slam",
@@ -8769,9 +10732,12 @@ var SETDEX_SV = {
     "Mienshao": {
         "Ranger Emory": {
             "level": 53,
+            "ivs": null,
             "item": "Muscle Band",
             "ability": "Inner Focus",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Drain Punch",
                 "Knock Off",
@@ -8782,9 +10748,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Shannon": {
             "level": 89,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Inner Focus",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Close Combat",
                 "Poison Jab",
@@ -8797,9 +10766,12 @@ var SETDEX_SV = {
     "Venusaur": {
         "Ranger Emory": {
             "level": 55,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Overgrow",
             "nature": "Timid",
+            "teraType": "Fire",
+            "status": "Healthy",
             "moves": [
                 "Sludge Bomb",
                 "Energy Ball",
@@ -8810,9 +10782,12 @@ var SETDEX_SV = {
         },
         "Guitarist Fabian": {
             "level": 63,
+            "ivs": null,
             "item": "Wide Lens",
             "ability": "Overgrow",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Terrain Pulse",
                 "Sludge Bomb",
@@ -8823,9 +10798,12 @@ var SETDEX_SV = {
         },
         "Ranger Lorenzo": {
             "level": 68,
+            "ivs": null,
             "item": "Covert Cloak",
             "ability": "Chlorophyll",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Solar Beam",
                 "Sludge Bomb",
@@ -8836,9 +10814,14 @@ var SETDEX_SV = {
         },
         "Hex Maniac Sylvia": {
             "level": 68,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Room Service",
             "ability": "Overgrow",
             "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Energy Ball",
                 "Sludge Bomb",
@@ -8849,9 +10832,12 @@ var SETDEX_SV = {
         },
         "Aroma Lady Rachel": {
             "level": 89,
+            "ivs": null,
             "item": "Life Orb",
             "ability": "Chlorophyll",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Solar Beam",
                 "Sludge Bomb",
@@ -8864,9 +10850,12 @@ var SETDEX_SV = {
     "Boltund": {
         "Breeder Melinda": {
             "level": 53,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Strong Jaw",
             "nature": "Impish",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunder Fang",
                 "Ice Fang",
@@ -8879,9 +10868,12 @@ var SETDEX_SV = {
     "Glimmora": {
         "Breeder Melinda": {
             "level": 53,
+            "ivs": null,
             "item": "Power Herb",
             "ability": "Toxic Debris",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Meteor Beam",
                 "Power Gem",
@@ -8892,9 +10884,12 @@ var SETDEX_SV = {
         },
         "Picnicker Becky": {
             "level": 55,
+            "ivs": null,
             "item": "Focus Band",
             "ability": "Toxic Debris",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Sludge Wave",
                 "Power Gem",
@@ -8905,9 +10900,12 @@ var SETDEX_SV = {
         },
         "Black Belt Damien": {
             "level": 75,
+            "ivs": null,
             "item": "Air Balloon",
             "ability": "Toxic Debris",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Sludge Bomb",
                 "Earth Power",
@@ -8918,9 +10916,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Julie": {
             "level": 90,
+            "ivs": null,
             "item": "Air Balloon",
             "ability": "Toxic Debris",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Sludge Wave",
                 "Power Gem",
@@ -8931,9 +10932,12 @@ var SETDEX_SV = {
         },
         "Elite Four Janine": {
             "level": 89,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Toxic Debris",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Sludge Bomb",
                 "Power Gem",
@@ -8946,9 +10950,12 @@ var SETDEX_SV = {
     "Sawk": {
         "Breeder Melinda": {
             "level": 53,
+            "ivs": null,
             "item": "Eject Button",
             "ability": "Sturdy",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Drain Punch",
                 "Retaliate",
@@ -8959,9 +10966,12 @@ var SETDEX_SV = {
         },
         "Ruin Maniac Bryan": {
             "level": 52,
+            "ivs": null,
             "item": "Safety Goggles",
             "ability": "Sturdy",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Close Combat",
                 "Stone Edge",
@@ -8974,9 +10984,12 @@ var SETDEX_SV = {
     "Alcremie": {
         "Breeder Melinda": {
             "level": 55,
+            "ivs": null,
             "item": "Choice Specs",
             "ability": "Sweet Veil",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Misty Explosion"
             ],
@@ -8984,9 +10997,12 @@ var SETDEX_SV = {
         },
         "Gentleman Walter": {
             "level": 68,
+            "ivs": null,
             "item": "Quick Claw",
             "ability": "Sweet Veil",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Misty Explosion",
                 "Dazzling Gleam",
@@ -8997,9 +11013,12 @@ var SETDEX_SV = {
         },
         "Aidan": {
             "level": 75,
+            "ivs": null,
             "item": "Quick Claw",
             "ability": "Sweet Veil",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dazzling Gleam",
                 "Draining Kiss",
@@ -9012,9 +11031,12 @@ var SETDEX_SV = {
     "Heracross": {
         "Breeder Melinda": {
             "level": 53,
+            "ivs": null,
             "item": "Loaded Dice",
             "ability": "Swarm",
             "nature": "Adamant",
+            "teraType": "Rock",
+            "status": "Healthy",
             "moves": [
                 "Rock Blast",
                 "Pin Missile",
@@ -9025,9 +11047,12 @@ var SETDEX_SV = {
         },
         "Battle Girl Callie": {
             "level": 68,
+            "ivs": null,
             "item": "Coba Berry",
             "ability": "Moxie",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Megahorn",
                 "Close Combat",
@@ -9038,9 +11063,12 @@ var SETDEX_SV = {
         },
         "Expert Magik": {
             "level": 89,
+            "ivs": null,
             "item": "Choice Scarf",
             "ability": "Guts",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Megahorn",
                 "Close Combat",
@@ -9053,9 +11081,12 @@ var SETDEX_SV = {
     "Cyclizar": {
         "Collector Damon": {
             "level": 55,
+            "ivs": null,
             "item": "Sitrus Berry",
             "ability": "Shed Skin",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Shed Tail",
                 "Dragon Pulse",
@@ -9066,9 +11097,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Terra": {
             "level": 89,
+            "ivs": null,
             "item": "Sitrus Berry",
             "ability": "Regenerator",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Shed Tail",
                 "Dragon Rush",
@@ -9081,9 +11115,12 @@ var SETDEX_SV = {
     "Delphox": {
         "Collector Damon": {
             "level": 53,
+            "ivs": null,
             "item": "Expert Belt",
             "ability": "Blaze",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Psyshock",
                 "Mystical Fire",
@@ -9094,9 +11131,12 @@ var SETDEX_SV = {
         },
         "Beauty Jessica": {
             "level": 68,
+            "ivs": null,
             "item": "Fire Gem",
             "ability": "Magician",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Psychic",
                 "Mystical Fire",
@@ -9109,9 +11149,12 @@ var SETDEX_SV = {
     "Drapion": {
         "Collector Damon": {
             "level": 53,
+            "ivs": null,
             "item": "Scope Lens",
             "ability": "Sniper",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Cross Poison",
                 "Night Slash",
@@ -9122,9 +11165,12 @@ var SETDEX_SV = {
         },
         "Bug Catcher Doug": {
             "level": 62,
+            "ivs": null,
             "item": "Scope Lens",
             "ability": "Sniper",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Night Slash",
                 "Cross Poison",
@@ -9137,9 +11183,12 @@ var SETDEX_SV = {
     "Lycanroc-Dusk": {
         "Ranger Luella": {
             "level": 55,
+            "ivs": null,
             "item": "Red Card",
             "ability": "Tough Claws",
             "nature": "Impish",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Rock Slide",
                 "Play Rough",
@@ -9150,9 +11199,12 @@ var SETDEX_SV = {
         },
         "Pokefan Vanessa": {
             "level": 68,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Tough Claws",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Stone Edge",
                 "High Horsepower",
@@ -9165,9 +11217,12 @@ var SETDEX_SV = {
     "Sigilyph": {
         "Ranger Luella": {
             "level": 53,
+            "ivs": null,
             "item": "Assault Vest",
             "ability": "Wonder Skin",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Psychic",
                 "Air Slash",
@@ -9180,9 +11235,12 @@ var SETDEX_SV = {
     "Houndstone": {
         "Ranger Luella": {
             "level": 53,
+            "ivs": null,
             "item": "Sitrus Berry",
             "ability": "Sand Rush",
             "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Last Respects",
                 "Poltergeist",
@@ -9193,9 +11251,14 @@ var SETDEX_SV = {
         },
         "Psychic Virgil": {
             "level": 68,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Leftovers",
             "ability": "Fluffy",
             "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Last Respects",
                 "Psychic Fangs",
@@ -9208,9 +11271,12 @@ var SETDEX_SV = {
     "Mismagius": {
         "Ranger Luella": {
             "level": 53,
+            "ivs": null,
             "item": "Expert Belt",
             "ability": "Levitate",
             "nature": "Timid",
+            "teraType": "Fairy",
+            "status": "Healthy",
             "moves": [
                 "Shadow Ball",
                 "Psychic",
@@ -9223,9 +11289,12 @@ var SETDEX_SV = {
     "Cobalion": {
         "Hiker Jay": {
             "level": 53,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Justified",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Sacred Sword",
                 "Iron Head",
@@ -9238,9 +11307,12 @@ var SETDEX_SV = {
     "Rhyperior": {
         "Hiker Jay": {
             "level": 53,
+            "ivs": null,
             "item": "Focus Band",
             "ability": "Lightning Rod",
             "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Drill Run",
                 "Rock Slide",
@@ -9251,9 +11323,15 @@ var SETDEX_SV = {
         },
         "Psychic Nicholas": {
             "level": 68,
+            "ivs": {
+                "sa": 0,
+                "sp": 0
+            },
             "item": "Covert Cloak",
             "ability": "Lightning Rod",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Drill Run",
                 "Rock Slide",
@@ -9266,14 +11344,17 @@ var SETDEX_SV = {
     "Tapu Bulu": {
         "Hiker Jay": {
             "level": 53,
+            "ivs": null,
             "item": "Kebia Berry",
             "ability": "Telepathy",
             "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Horn Leech",
                 "High Horsepower",
                 "Darkest Lariat",
-                "Natures Madness"
+                "Nature's Madness"
             ],
             "index": 380
         }
@@ -9281,9 +11362,12 @@ var SETDEX_SV = {
     "Kabutops": {
         "Hiker Jay": {
             "level": 53,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Sharpness",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Razor Shell",
                 "Rock Slide",
@@ -9294,9 +11378,12 @@ var SETDEX_SV = {
         },
         "Bug Maniac Jeffrey": {
             "level": 68,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Swift Swim",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Stone Edge",
                 "Liquidation",
@@ -9307,9 +11394,12 @@ var SETDEX_SV = {
         },
         "Battler Girl Danielle": {
             "level": 75,
+            "ivs": null,
             "item": "Flying Gem",
             "ability": "Sharpness",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Razor Shell",
                 "Rock Slide",
@@ -9322,9 +11412,12 @@ var SETDEX_SV = {
     "Ogerpon": {
         "Sidney": {
             "level": 53,
+            "ivs": null,
             "item": "Scope Lens",
             "ability": "Inner Focus",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Ivy Cudgel",
                 "Superpower",
@@ -9337,9 +11430,12 @@ var SETDEX_SV = {
     "Urshifu": {
         "Sidney": {
             "level": 53,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Unseen Fist",
             "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Wicked Blow",
                 "Close Combat",
@@ -9352,9 +11448,12 @@ var SETDEX_SV = {
     "Hydreigon": {
         "Sidney": {
             "level": 55,
+            "ivs": null,
             "item": "Pecha Berry",
             "ability": "Levitate",
             "nature": "Timid",
+            "teraType": "Poison",
+            "status": "Poisoned",
             "moves": [
                 "Belch",
                 "Dragon Pulse",
@@ -9365,9 +11464,12 @@ var SETDEX_SV = {
         },
         "Battle Girl Aisha": {
             "level": 75,
+            "ivs": null,
             "item": "Roseli Berry",
             "ability": "Levitate",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dragon Pulse",
                 "Dark Pulse",
@@ -9378,9 +11480,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Dianne": {
             "level": 89,
+            "ivs": null,
             "item": "Roseli Berry",
             "ability": "Levitate",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dark Pulse",
                 "Draco Meteor",
@@ -9393,9 +11498,12 @@ var SETDEX_SV = {
     "Gigalith": {
         "Picnicker Becky": {
             "level": 53,
+            "ivs": null,
             "item": "Normal Gem",
             "ability": "Sturdy",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Stone Edge",
                 "Earthquake",
@@ -9408,9 +11516,12 @@ var SETDEX_SV = {
     "Archeops": {
         "Picnicker Becky": {
             "level": 53,
+            "ivs": null,
             "item": "Sitrus Berry",
             "ability": "Defeatist",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Rock Slide",
                 "Dual Wingbeat",
@@ -9421,9 +11532,12 @@ var SETDEX_SV = {
         },
         "Expert Jared": {
             "level": 62,
+            "ivs": null,
             "item": "Flying Gem",
             "ability": "Defeatist",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Rock Slide",
                 "Acrobatics",
@@ -9436,9 +11550,12 @@ var SETDEX_SV = {
     "Lunatone": {
         "Picnicker Becky": {
             "level": 53,
+            "ivs": null,
             "item": "Power Herb",
             "ability": "Levitate",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Meteor Beam",
                 "Weather Ball",
@@ -9451,9 +11568,12 @@ var SETDEX_SV = {
     "Garchomp": {
         "Hiker Devan": {
             "level": 51,
+            "ivs": null,
             "item": "Yache Berry",
             "ability": "Rough Skin",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Earthquake",
                 "Poison Jab",
@@ -9464,9 +11584,12 @@ var SETDEX_SV = {
         },
         "Black Belt Damien": {
             "level": 75,
+            "ivs": null,
             "item": "Rocky Helmet",
             "ability": "Rough Skin",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Earthquake",
                 "Dragon Claw",
@@ -9477,9 +11600,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Edgar": {
             "level": 89,
+            "ivs": null,
             "item": "Life Orb",
             "ability": "Sand Veil",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Scale Shot",
                 "Swords Dance",
@@ -9490,9 +11616,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Mitchell": {
             "level": 89,
+            "ivs": null,
             "item": "Yache Berry",
             "ability": "Rough Skin",
             "nature": "Lonely",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Stealth Rock",
                 "Earthquake",
@@ -9505,9 +11634,12 @@ var SETDEX_SV = {
     "Iron Thorns": {
         "Hiker Devan": {
             "level": 53,
+            "ivs": null,
             "item": "Loaded Dice",
             "ability": "Quark Drive",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Wild Charge",
                 "Rock Blast",
@@ -9520,9 +11652,12 @@ var SETDEX_SV = {
     "Magmortar": {
         "Hiker Devan": {
             "level": 53,
+            "ivs": null,
             "item": "Safety Goggles",
             "ability": "Flame Body",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Flamethrower",
                 "Psychic",
@@ -9533,9 +11668,12 @@ var SETDEX_SV = {
         },
         "Hiker Eric": {
             "level": 75,
+            "ivs": null,
             "item": "Custap Berry",
             "ability": "Flame Body",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Flamethrower",
                 "Belch",
@@ -9548,9 +11686,12 @@ var SETDEX_SV = {
     "Kleavor": {
         "Picnicker Heidi": {
             "level": 55,
+            "ivs": null,
             "item": "Clear Amulet",
             "ability": "Sharpness",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "X-Scissor",
                 "Stone Axe",
@@ -9561,9 +11702,12 @@ var SETDEX_SV = {
         },
         "Hiker Eric": {
             "level": 75,
+            "ivs": null,
             "item": "Focus Band",
             "ability": "Sharpness",
             "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "X-Scissor",
                 "Stone Axe",
@@ -9576,9 +11720,12 @@ var SETDEX_SV = {
     "Samurott-Hisui": {
         "Picnicker Heidi": {
             "level": 52,
+            "ivs": null,
             "item": "Safety Goggles",
             "ability": "Sharpness",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Liquidation",
                 "Ceaseless Edge",
@@ -9589,9 +11736,12 @@ var SETDEX_SV = {
         },
         "Expert Keegan": {
             "level": 75,
+            "ivs": null,
             "item": "Scope Lens",
             "ability": "Sharpness",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Ceaseless Edge",
                 "Razor Shell",
@@ -9604,9 +11754,12 @@ var SETDEX_SV = {
     "Sirfetch\u2019d": {
         "Camper Drew": {
             "level": 52,
+            "ivs": null,
             "item": "Leek",
             "ability": "Scrappy",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Close Combat",
                 "Leaf Blade",
@@ -9617,9 +11770,12 @@ var SETDEX_SV = {
         },
         "Swimmer Chad": {
             "level": 68,
+            "ivs": null,
             "item": "Eject Pack",
             "ability": "Scrappy",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Close Combat",
                 "Leaf Blade",
@@ -9632,9 +11788,12 @@ var SETDEX_SV = {
     "Granbull": {
         "Hiker Marcos": {
             "level": 53,
+            "ivs": null,
             "item": "Clear Amulet",
             "ability": "Intimidate",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Play Rough",
                 "Close Combat",
@@ -9645,9 +11804,12 @@ var SETDEX_SV = {
         },
         "Dragon Tamer Jace": {
             "level": 75,
+            "ivs": null,
             "item": "Aguav Berry",
             "ability": "Quick Feet",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Play Rough",
                 "Crunch",
@@ -9660,9 +11822,12 @@ var SETDEX_SV = {
     "Toedscruel": {
         "Picnicker Daisy": {
             "level": 53,
+            "ivs": null,
             "item": "White Herb",
             "ability": "Mycelium Might",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Leaf Storm",
                 "Energy Ball",
@@ -9675,9 +11840,12 @@ var SETDEX_SV = {
     "Emboar": {
         "Lass Julia": {
             "level": 53,
+            "ivs": null,
             "item": "Expert Belt",
             "ability": "Blaze",
             "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Overheat",
                 "Fire Punch",
@@ -9690,9 +11858,12 @@ var SETDEX_SV = {
     "Revavroom": {
         "Lass Julia": {
             "level": 53,
+            "ivs": null,
             "item": "Air Balloon",
             "ability": "Filter",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Spin Out",
                 "Poison Jab",
@@ -9703,9 +11874,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Marcel": {
             "level": 68,
+            "ivs": null,
             "item": "Air Balloon",
             "ability": "Filter",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Spin Out",
                 "Poison Jab",
@@ -9716,9 +11890,12 @@ var SETDEX_SV = {
         },
         "Hiker Eli": {
             "level": 75,
+            "ivs": null,
             "item": "Air Balloon",
             "ability": "Overcoat",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Spin Out",
                 "Iron Head",
@@ -9731,9 +11908,12 @@ var SETDEX_SV = {
     "Golurk": {
         "Collector Hector": {
             "level": 53,
+            "ivs": null,
             "item": "Punching Glove",
             "ability": "Iron Fist",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "High Horsepower",
                 "Shadow Punch",
@@ -9744,9 +11924,14 @@ var SETDEX_SV = {
         },
         "Hex Maniac Kathleen": {
             "level": 68,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Weakness Policy",
             "ability": "Iron Fist",
             "nature": "Sassy",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "High Horsepower",
                 "Shadow Punch",
@@ -9759,9 +11944,12 @@ var SETDEX_SV = {
     "Tyranitar": {
         "Hex Maniac Nadia": {
             "level": 55,
+            "ivs": null,
             "item": "Clear Amulet",
             "ability": "Sand Stream",
             "nature": "Sassy",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Stone Edge",
                 "Crunch",
@@ -9772,9 +11960,12 @@ var SETDEX_SV = {
         },
         "Hiker Eli": {
             "level": 77,
+            "ivs": null,
             "item": "Chople Berry",
             "ability": "Sand Stream",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Rock Slide",
                 "Knock Off",
@@ -9785,9 +11976,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Edgar": {
             "level": 89,
+            "ivs": null,
             "item": "Focus Band",
             "ability": "Sand Stream",
             "nature": "Impish",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Stone Edge",
                 "Knock Off",
@@ -9800,9 +11994,12 @@ var SETDEX_SV = {
     "Gholdengo": {
         "Hex Maniac Nadia": {
             "level": 53,
+            "ivs": null,
             "item": "White Herb",
             "ability": "Good As Gold",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Make It Rain",
                 "Flash Cannon",
@@ -9813,9 +12010,12 @@ var SETDEX_SV = {
         },
         "Guitarist Dalton": {
             "level": 62,
+            "ivs": null,
             "item": "White Herb",
             "ability": "Good As Gold",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Make It Rain",
                 "Flash Cannon",
@@ -9826,9 +12026,12 @@ var SETDEX_SV = {
         },
         "Challenger Phoebe": {
             "level": 75,
+            "ivs": null,
             "item": "White Herb",
             "ability": "Good As Gold",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Make It Rain",
                 "Flash Cannon",
@@ -9841,9 +12044,12 @@ var SETDEX_SV = {
     "Landorus": {
         "Leader Steven": {
             "level": 53,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Sand Force",
             "nature": "Naive",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Earth Power",
                 "Sludge Bomb",
@@ -9856,9 +12062,12 @@ var SETDEX_SV = {
     "Metagross": {
         "Leader Steven": {
             "level": 53,
+            "ivs": null,
             "item": "Shuca Berry",
             "ability": "Clear Body",
             "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Meteor Mash",
                 "Psychic Fangs",
@@ -9869,9 +12078,12 @@ var SETDEX_SV = {
         },
         "Swimmer Kevin": {
             "level": 75,
+            "ivs": null,
             "item": "Weakness Policy",
             "ability": "Clear Body",
             "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Meteor Mash",
                 "Zen Headbutt",
@@ -9882,9 +12094,12 @@ var SETDEX_SV = {
         },
         "Hiker Eric": {
             "level": 75,
+            "ivs": null,
             "item": "Muscle Band",
             "ability": "Clear Body",
             "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Meteor Mash",
                 "Psychic Fangs",
@@ -9895,9 +12110,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Shannon": {
             "level": 89,
+            "ivs": null,
             "item": "Weakness Policy",
             "ability": "Clear Body",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Meteor Mash",
                 "Psychic Fangs",
@@ -9908,9 +12126,12 @@ var SETDEX_SV = {
         },
         "Elite Four Jasmine": {
             "level": 89,
+            "ivs": null,
             "item": "Air Balloon",
             "ability": "Clear Body",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Meteor Mash",
                 "Psychic Fangs",
@@ -9923,9 +12144,12 @@ var SETDEX_SV = {
     "Goodra-Hisui": {
         "Leader Steven": {
             "level": 53,
+            "ivs": null,
             "item": "Sitrus Berry",
             "ability": "Gooey",
             "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Flash Cannon",
                 "Muddy Water",
@@ -9936,9 +12160,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Katelynn": {
             "level": 89,
+            "ivs": null,
             "item": "Leftovers",
             "ability": "Gooey",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dragon Pulse",
                 "Flash Cannon",
@@ -9951,9 +12178,12 @@ var SETDEX_SV = {
     "Iron Treads": {
         "Leader Steven": {
             "level": 55,
+            "ivs": null,
             "item": "Muscle Band",
             "ability": "Protosynthesis",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Iron Head",
                 "Stomping Tantrum",
@@ -9964,9 +12194,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Marcel": {
             "level": 68,
+            "ivs": null,
             "item": "Misty Seed",
             "ability": "Quark Drive",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Iron Head",
                 "Stomping Tantrum",
@@ -9977,9 +12210,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Teddy": {
             "level": 77,
+            "ivs": null,
             "item": "Chople Berry",
             "ability": "Quark Drive",
             "nature": "Impish",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Earthquake",
                 "Iron Head",
@@ -9990,9 +12226,12 @@ var SETDEX_SV = {
         },
         "Expert Keegan": {
             "level": 75,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Quark Drive",
             "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Iron Head",
                 "Ice Fang",
@@ -10005,9 +12244,12 @@ var SETDEX_SV = {
     "Great Tusk": {
         "Leader Steven": {
             "level": 55,
+            "ivs": null,
             "item": "White Herb",
             "ability": "Protosynthesis",
             "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Headlong Rush",
                 "Close Combat",
@@ -10018,9 +12260,12 @@ var SETDEX_SV = {
         },
         "Ranger Jenna": {
             "level": 68,
+            "ivs": null,
             "item": "Covert Cloak",
             "ability": "Protosynthesis",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Headlong Rush",
                 "Close Combat",
@@ -10031,9 +12276,12 @@ var SETDEX_SV = {
         },
         "Psychic Brandi": {
             "level": 75,
+            "ivs": null,
             "item": "Eject Pack",
             "ability": "Protosynthesis",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Headlong Rush",
                 "Close Combat",
@@ -10046,9 +12294,12 @@ var SETDEX_SV = {
     "Gengar": {
         "Sailor Cory": {
             "level": -2,
+            "ivs": null,
             "item": "Expert Belt",
             "ability": "Cursed Body",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hypnosis",
                 "Sludge Bomb",
@@ -10059,9 +12310,12 @@ var SETDEX_SV = {
         },
         "Swimmer Chad": {
             "level": 70,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Cursed Body",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Sludge Wave",
                 "Shadow Ball",
@@ -10072,9 +12326,12 @@ var SETDEX_SV = {
         },
         "Pokemon Ranger Shirley": {
             "level": 75,
+            "ivs": null,
             "item": "Spell Tag",
             "ability": "Cursed Body",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Sludge Bomb",
                 "Shadow Ball",
@@ -10087,9 +12344,12 @@ var SETDEX_SV = {
     "Swampert": {
         "Cooltrainer Carolina": {
             "level": 0,
+            "ivs": null,
             "item": "Rindo Berry",
             "ability": "Torrent",
             "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Protect",
                 "High Horsepower",
@@ -10100,9 +12360,12 @@ var SETDEX_SV = {
         },
         "Swimmer Reed": {
             "level": 77,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Torrent",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "High Horsepower",
                 "Liquidation",
@@ -10115,9 +12378,12 @@ var SETDEX_SV = {
     "Flamigo": {
         "Cooltrainer Carolina": {
             "level": -2,
+            "ivs": null,
             "item": "Flying Gem",
             "ability": "Scrappy",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Acrobatics",
                 "Close Combat",
@@ -10128,9 +12394,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Jennifer": {
             "level": 68,
+            "ivs": null,
             "item": "Eject Pack",
             "ability": "Scrappy",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Close Combat",
                 "Acrobatics",
@@ -10142,9 +12411,12 @@ var SETDEX_SV = {
     "Avalugg-Hisui": {
         "Cooltrainer Carolina": {
             "level": -2,
+            "ivs": null,
             "item": "Choice Band",
             "ability": "Sturdy",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Mountain Gale",
                 "Rock Slide"
@@ -10155,9 +12427,12 @@ var SETDEX_SV = {
     "Basculin-Blue-Striped": {
         "Fisherman Barny": {
             "level": 62,
+            "ivs": null,
             "item": "Mystic Water",
             "ability": "Rock Head",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Wave Crash",
                 "Double-Edge",
@@ -10169,9 +12444,12 @@ var SETDEX_SV = {
     "Bruxish": {
         "Fisherman Barny": {
             "level": 62,
+            "ivs": null,
             "item": "Expert Belt",
             "ability": "Strong Jaw",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Psychic Fangs",
                 "Liquidation",
@@ -10182,9 +12460,12 @@ var SETDEX_SV = {
         },
         "Beauty Jessica": {
             "level": 68,
+            "ivs": null,
             "item": "Life Orb",
             "ability": "Strong Jaw",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Psychic Fangs",
                 "Aqua Tail",
@@ -10197,9 +12478,12 @@ var SETDEX_SV = {
     "Ursaring": {
         "Aroma Lady Rose": {
             "level": 63,
+            "ivs": null,
             "item": "Chople Berry",
             "ability": "Quick Feet",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Poisoned",
             "moves": [
                 "Facade",
                 "Hammer Arm",
@@ -10212,9 +12496,12 @@ var SETDEX_SV = {
     "Tropius": {
         "Aroma Lady Rose": {
             "level": 65,
+            "ivs": null,
             "item": "Yache Berry",
             "ability": "Harvest",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Leaf Blade",
                 "Dragon Hammer",
@@ -10227,9 +12514,12 @@ var SETDEX_SV = {
     "Ribombee": {
         "Aroma Lady Rose": {
             "level": 65,
+            "ivs": null,
             "item": "Kebia Berry",
             "ability": "Shield Dust",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Pollen Puff",
                 "Moonblast",
@@ -10242,9 +12532,12 @@ var SETDEX_SV = {
     "Grumpig": {
         "Aroma Lady Rose": {
             "level": 65,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Thick Fat",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Psychic",
                 "Power Gem",
@@ -10257,9 +12550,12 @@ var SETDEX_SV = {
     "Iron Hands": {
         "Guitarist Dalton": {
             "level": 64,
+            "ivs": null,
             "item": "Assault Vest",
             "ability": "Quark Drive",
             "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Drain Punch",
                 "Thunder Punch",
@@ -10272,9 +12568,12 @@ var SETDEX_SV = {
     "Baxcalibur": {
         "Guitarist Dalton": {
             "level": 62,
+            "ivs": null,
             "item": "Leftovers",
             "ability": "Thermal Exchange",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dragon Claw",
                 "Ice Punch",
@@ -10285,9 +12584,12 @@ var SETDEX_SV = {
         },
         "Swimmer Nolen": {
             "level": 68,
+            "ivs": null,
             "item": "Covert Cloak",
             "ability": "Thermal Exchange",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dragon Claw",
                 "Ice Punch",
@@ -10298,9 +12600,12 @@ var SETDEX_SV = {
         },
         "Pokemon Ranger Shirley": {
             "level": 75,
+            "ivs": null,
             "item": "Charti Berry",
             "ability": "Thermal Exchange",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Glaive Rush",
                 "Icicle Crash",
@@ -10311,9 +12616,12 @@ var SETDEX_SV = {
         },
         "Champion May": {
             "level": 89,
+            "ivs": null,
             "item": "Weakness Policy",
             "ability": "Thermal Exchange",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Glaive Rush",
                 "Icicle Crash",
@@ -10326,9 +12634,12 @@ var SETDEX_SV = {
     "Ceruledge": {
         "Guitarist Dalton": {
             "level": 62,
+            "ivs": null,
             "item": "Spell Tag",
             "ability": "Weak Armor",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Bitter Blade",
                 "Shadow Claw",
@@ -10339,9 +12650,12 @@ var SETDEX_SV = {
         },
         "Gentleman Walter": {
             "level": 70,
+            "ivs": null,
             "item": "Scope Lens",
             "ability": "Weak Armor",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Bitter Blade",
                 "Shadow Claw",
@@ -10352,9 +12666,12 @@ var SETDEX_SV = {
         },
         "Expert Auron": {
             "level": 68,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Weak Armor",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Bitter Blade",
                 "Poltergeist",
@@ -10365,9 +12682,12 @@ var SETDEX_SV = {
         },
         "Leader Flannery": {
             "level": 77,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Weak Armor",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Bitter Blade",
                 "Poltergeist",
@@ -10380,9 +12700,12 @@ var SETDEX_SV = {
     "Butterfree": {
         "Bug Catcher Doug": {
             "level": 65,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Tinted Lens",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Bug Buzz",
                 "Energy Ball",
@@ -10395,9 +12718,12 @@ var SETDEX_SV = {
     "Volcarona": {
         "Bug Catcher Doug": {
             "level": 62,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Flame Body",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Bug Buzz",
                 "Giga Drain",
@@ -10408,9 +12734,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Tyler": {
             "level": 75,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Flame Body",
             "nature": "Modest",
+            "teraType": "Grass",
+            "status": "Healthy",
             "moves": [
                 "Bug Buzz",
                 "Fiery Dance",
@@ -10423,9 +12752,12 @@ var SETDEX_SV = {
     "Dragonite": {
         "Fisherman Chris": {
             "level": 60,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Multiscale",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunder",
                 "Ice Beam",
@@ -10436,9 +12768,12 @@ var SETDEX_SV = {
         },
         "Swimmer Allison": {
             "level": 75,
+            "ivs": null,
             "item": "Leftovers",
             "ability": "Multiscale",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dragon Claw",
                 "Dual Wingbeat",
@@ -10449,9 +12784,12 @@ var SETDEX_SV = {
         },
         "Elite Four Misty": {
             "level": 89,
+            "ivs": null,
             "item": "Leftovers",
             "ability": "Multiscale",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dragon Claw",
                 "Dual Wingbeat",
@@ -10464,9 +12802,12 @@ var SETDEX_SV = {
     "Palafin": {
         "Fisherman Chris": {
             "level": 62,
+            "ivs": null,
             "item": "Choice Scarf",
             "ability": "Zero To Hero",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Liquidation",
                 "Flip Turn"
@@ -10475,9 +12816,12 @@ var SETDEX_SV = {
         },
         "Psychic Brandi": {
             "level": 75,
+            "ivs": null,
             "item": "Choice Scarf",
             "ability": "Zero To Hero",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Liquidation",
                 "Ice Punch",
@@ -10488,9 +12832,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Red": {
             "level": 90,
+            "ivs": null,
             "item": "Assault Vest",
             "ability": "Zero To Hero",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Liquidation",
                 "Flip Turn",
@@ -10503,9 +12850,12 @@ var SETDEX_SV = {
     "Basculegion": {
         "Fisherman Chris": {
             "level": 62,
+            "ivs": null,
             "item": "Liechi Berry",
             "ability": "Swift Swim",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Phantom Force",
                 "Liquidation",
@@ -10516,9 +12866,12 @@ var SETDEX_SV = {
         },
         "Aqua Leader Archie": {
             "level": 89,
+            "ivs": null,
             "item": "Clear Amulet",
             "ability": "Swift Swim",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Liquidation",
                 "Phantom Force",
@@ -10531,9 +12884,12 @@ var SETDEX_SV = {
     "Miltank": {
         "Ranger Catherine": {
             "level": 62,
+            "ivs": null,
             "item": "Silk Scarf",
             "ability": "Scrappy",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Body Slam",
                 "Play Rough",
@@ -10546,9 +12902,12 @@ var SETDEX_SV = {
     "Okidogi": {
         "Ranger Catherine": {
             "level": 64,
+            "ivs": null,
             "item": "Expert Belt",
             "ability": "Guard Dog",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Poison Jab",
                 "Drain Punch",
@@ -10561,9 +12920,12 @@ var SETDEX_SV = {
     "Tyrantrum": {
         "Ranger Jackson": {
             "level": 63,
+            "ivs": null,
             "item": "Grassy Seed",
             "ability": "Sturdy",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Stone Edge",
                 "Dragon Claw",
@@ -10574,9 +12936,12 @@ var SETDEX_SV = {
         },
         "Dragon Tamer Jace": {
             "level": 75,
+            "ivs": null,
             "item": "Loaded Dice",
             "ability": "Strong Jaw",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Scale Shot",
                 "Rock Slide",
@@ -10589,9 +12954,12 @@ var SETDEX_SV = {
     "Aerodactyl": {
         "Bird Keeper Hugh": {
             "level": 61,
+            "ivs": null,
             "item": "Kings Rock",
             "ability": "Unnerve",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dual Wingbeat",
                 "Rock Blast",
@@ -10602,9 +12970,12 @@ var SETDEX_SV = {
         },
         "Bird Keeper Darius": {
             "level": 62,
+            "ivs": null,
             "item": "Power Herb",
             "ability": "Unnerve",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Sky Attack",
                 "Dual Wingbeat",
@@ -10615,9 +12986,12 @@ var SETDEX_SV = {
         },
         "Swimmer Isabella": {
             "level": 68,
+            "ivs": null,
             "item": "Flying Gem",
             "ability": "Pressure",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Rock Slide",
                 "Dual Wingbeat",
@@ -10630,9 +13004,12 @@ var SETDEX_SV = {
     "Beedrill": {
         "Bug Maniac Brent": {
             "level": 65,
+            "ivs": null,
             "item": "Quick Claw",
             "ability": "Swarm",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Poison Jab",
                 "X-Scissor",
@@ -10645,9 +13022,12 @@ var SETDEX_SV = {
     "Haxorus": {
         "Parasol Lady Rachel": {
             "level": 62,
+            "ivs": null,
             "item": "Grassy Seed",
             "ability": "Rivalry",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dragon Claw",
                 "Crunch",
@@ -10660,9 +13040,12 @@ var SETDEX_SV = {
     "Glaceon": {
         "Parasol Lady Rachel": {
             "level": 64,
+            "ivs": null,
             "item": "Grassy Seed",
             "ability": "Slush Rush",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Ice Beam",
                 "Freeze-Dry",
@@ -10675,9 +13058,12 @@ var SETDEX_SV = {
     "Tornadus": {
         "Bird Keeper Phil": {
             "level": 64,
+            "ivs": null,
             "item": "Covert Cloak",
             "ability": "Prankster",
             "nature": "Calm",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Bleakwind Storm",
                 "Extrasensory",
@@ -10688,9 +13074,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Julie": {
             "level": 89,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Prankster",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Bleakwind Storm",
                 "Extrasensory",
@@ -10703,9 +13092,12 @@ var SETDEX_SV = {
     "Kecleon": {
         "Ninja Boy Takashi": {
             "level": 64,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Protean",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Body Slam",
                 "Drain Punch",
@@ -10718,9 +13110,12 @@ var SETDEX_SV = {
     "Sceptile": {
         "Ninja Boy Takashi": {
             "level": 62,
+            "ivs": null,
             "item": "Grassy Seed",
             "ability": "Unburden",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Leaf Storm",
                 "Leaf Blade",
@@ -10731,9 +13126,12 @@ var SETDEX_SV = {
         },
         "Brendan": {
             "level": 70,
+            "ivs": null,
             "item": "White Herb",
             "ability": "Unburden",
             "nature": "Naive",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Leaf Storm",
                 "Acrobatics",
@@ -10746,9 +13144,12 @@ var SETDEX_SV = {
     "Skeledirge": {
         "Ninja Boy Takashi": {
             "level": 62,
+            "ivs": null,
             "item": "Utility Umbrella",
             "ability": "Blaze",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Torch Song",
                 "Shadow Ball",
@@ -10759,9 +13160,12 @@ var SETDEX_SV = {
         },
         "Athena": {
             "level": 75,
+            "ivs": null,
             "item": "Eject Pack",
             "ability": "Blaze",
             "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Overheat",
                 "Torch Song",
@@ -10774,9 +13178,12 @@ var SETDEX_SV = {
     "Exploud": {
         "Guitarist Fabian": {
             "level": 62,
+            "ivs": null,
             "item": "Normal Gem",
             "ability": "Scrappy",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Boomburst",
                 "Terrain Pulse",
@@ -10788,9 +13195,12 @@ var SETDEX_SV = {
     "Silvally-Electric": {
         "Guitarist Fabian": {
             "level": 63,
+            "ivs": null,
             "item": "Electric Memory",
             "ability": "Rks System",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Multi-Attack",
                 "Tri Attack",
@@ -10803,9 +13213,12 @@ var SETDEX_SV = {
     "Reuniclus": {
         "Ninja Boy Hideo": {
             "level": 64,
+            "ivs": null,
             "item": "Grassy Seed",
             "ability": "Regenerator",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Psychic",
                 "Aura Sphere",
@@ -10818,9 +13231,12 @@ var SETDEX_SV = {
     "Bisharp": {
         "Ninja Boy Hideo": {
             "level": 62,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Defiant",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Iron Head",
                 "Throat Chop",
@@ -10831,9 +13247,12 @@ var SETDEX_SV = {
         },
         "Pokemon Ranger Tyree": {
             "level": 75,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Defiant",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Iron Head",
                 "Sucker Punch",
@@ -10846,9 +13265,12 @@ var SETDEX_SV = {
     "Dusknoir": {
         "Ninja Boy Hideo": {
             "level": 62,
+            "ivs": null,
             "item": "Punching Glove",
             "ability": "Pressure",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Shadow Punch",
                 "Ice Punch",
@@ -10861,9 +13283,12 @@ var SETDEX_SV = {
     "Serperior": {
         "Ninja Boy Hideo": {
             "level": 60,
+            "ivs": null,
             "item": "Focus Band",
             "ability": "Contrary",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Leaf Storm",
                 "Dragon Pulse",
@@ -10874,9 +13299,12 @@ var SETDEX_SV = {
         },
         "Swimmer Susie": {
             "level": 75,
+            "ivs": null,
             "item": "Watmel Berry",
             "ability": "Contrary",
             "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Leaf Storm",
                 "Natural Gift",
@@ -10889,9 +13317,12 @@ var SETDEX_SV = {
     "Solrock": {
         "Bird Keeper Humberto": {
             "level": 62,
+            "ivs": null,
             "item": "Flying Gem",
             "ability": "Levitate",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Stone Edge",
                 "Zen Headbutt",
@@ -10902,9 +13333,12 @@ var SETDEX_SV = {
         },
         "Kindler Jeff": {
             "level": 75,
+            "ivs": null,
             "item": "Blunder Policy",
             "ability": "Levitate",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Zen Headbutt",
                 "Rock Slide",
@@ -10917,9 +13351,12 @@ var SETDEX_SV = {
     "Dodrio": {
         "Bird Keeper Humberto": {
             "level": 62,
+            "ivs": null,
             "item": "Muscle Band",
             "ability": "Quick Feet",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Drill Peck",
                 "Drill Run",
@@ -10932,9 +13369,12 @@ var SETDEX_SV = {
     "Rotom-Fan": {
         "Bird Keeper Humberto": {
             "level": 62,
+            "ivs": null,
             "item": "Sharp Beak",
             "ability": "Levitate",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunderbolt",
                 "Air Slash",
@@ -10945,9 +13385,12 @@ var SETDEX_SV = {
         },
         "Hex Maniac Cole": {
             "level": 75,
+            "ivs": null,
             "item": "Rocky Helmet",
             "ability": "Levitate",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Discharge",
                 "Air Slash",
@@ -10960,9 +13403,12 @@ var SETDEX_SV = {
     "Dragapult": {
         "Picnicker Ashley": {
             "level": 62,
+            "ivs": null,
             "item": "Light Clay",
             "ability": "Clear Body",
             "nature": "Hardy",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dragon Claw",
                 "Shadow Ball",
@@ -10973,9 +13419,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Teddy": {
             "level": 77,
+            "ivs": null,
             "item": "Spell Tag",
             "ability": "Clear Body",
             "nature": "Serious",
+            "teraType": "Ghost",
+            "status": "Healthy",
             "moves": [
                 "Dragon Darts",
                 "Tera Blast",
@@ -10986,9 +13435,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Albert": {
             "level": 90,
+            "ivs": null,
             "item": "Choice Band",
             "ability": "Clear Body",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dragon Darts"
             ],
@@ -10998,9 +13450,12 @@ var SETDEX_SV = {
     "Azelf": {
         "Picnicker Ashley": {
             "level": 62,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Levitate",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Psychic",
                 "Dazzling Gleam",
@@ -11011,9 +13466,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Owen": {
             "level": 89,
+            "ivs": null,
             "item": "Electric Seed",
             "ability": "Levitate",
             "nature": "Hasty",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Acrobatics",
                 "Psychic",
@@ -11026,9 +13484,12 @@ var SETDEX_SV = {
     "Weezing-Galar": {
         "Picnicker Ashley": {
             "level": 62,
+            "ivs": null,
             "item": "Life Orb",
             "ability": "Levitate",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Strange Steam",
                 "Sludge Bomb",
@@ -11039,9 +13500,12 @@ var SETDEX_SV = {
         },
         "Ninja Boy Riley": {
             "level": 70,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Levitate",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Strange Steam",
                 "Sludge Bomb",
@@ -11052,9 +13516,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Halle": {
             "level": 90,
+            "ivs": null,
             "item": "Terrain Extender",
             "ability": "Neutralizing Gas",
             "nature": "Sassy",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Gunk Shot",
                 "Play Rough",
@@ -11067,9 +13534,12 @@ var SETDEX_SV = {
     "Decidueye": {
         "Camper Flint": {
             "level": 64,
+            "ivs": null,
             "item": "Sharp Beak",
             "ability": "Overgrow",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Spirit Shackle",
                 "Leaf Blade",
@@ -11080,9 +13550,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Tyler": {
             "level": 76,
+            "ivs": null,
             "item": "Expert Belt",
             "ability": "Overgrow",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Leaf Blade",
                 "Spirit Shackle",
@@ -11093,9 +13566,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Shannon": {
             "level": 90,
+            "ivs": null,
             "item": "Flying Gem",
             "ability": "Long Reach",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Leaf Storm",
                 "Leaf Blade",
@@ -11108,9 +13584,12 @@ var SETDEX_SV = {
     "Medicham": {
         "Camper Flint": {
             "level": 64,
+            "ivs": null,
             "item": "Expert Belt",
             "ability": "Telepathy",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Close Combat",
                 "Zen Headbutt",
@@ -11121,9 +13600,14 @@ var SETDEX_SV = {
         },
         "Psychic Presont": {
             "level": 70,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Room Service",
             "ability": "Pure Power",
             "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Zen Headbutt",
                 "Drain Punch",
@@ -11134,9 +13618,12 @@ var SETDEX_SV = {
         },
         "Siblings Reli And Ian": {
             "level": 75,
+            "ivs": null,
             "item": "White Herb",
             "ability": "Pure Power",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Close Combat",
                 "Zen Headbutt",
@@ -11149,9 +13636,12 @@ var SETDEX_SV = {
     "Gardevoir": {
         "Camper Flint": {
             "level": 62,
+            "ivs": null,
             "item": "Covert Cloak",
             "ability": "Telepathy",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Moonblast",
                 "Psychic",
@@ -11162,9 +13652,12 @@ var SETDEX_SV = {
         },
         "Parasol Lady Clarissa": {
             "level": 68,
+            "ivs": null,
             "item": "Kebia Berry",
             "ability": "Ethereal Echo",
             "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Psychic",
                 "Dazzling Gleam",
@@ -11175,9 +13668,12 @@ var SETDEX_SV = {
         },
         "Athena": {
             "level": 77,
+            "ivs": null,
             "item": "Throat Spray",
             "ability": "Pixilate",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hyper Voice",
                 "Expanding Force",
@@ -11188,9 +13684,12 @@ var SETDEX_SV = {
         },
         "Pokemon Ranger Tyree": {
             "level": 73,
+            "ivs": null,
             "item": "Focus Band",
             "ability": "Pixilate",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hyper Voice",
                 "Psychic",
@@ -11201,9 +13700,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Albert": {
             "level": 89,
+            "ivs": null,
             "item": "Kebia Berry",
             "ability": "Synchronize",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hyper Voice",
                 "Psychic",
@@ -11214,9 +13716,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Julie": {
             "level": 89,
+            "ivs": null,
             "item": "Fire Gem",
             "ability": "Pixilate",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hyper Voice",
                 "Psychic",
@@ -11229,9 +13734,12 @@ var SETDEX_SV = {
     "Skarmory": {
         "Bird Keeper Darius": {
             "level": 64,
+            "ivs": null,
             "item": "Red Card",
             "ability": "Sturdy",
             "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Body Press",
                 "Drill Peck",
@@ -11242,9 +13750,12 @@ var SETDEX_SV = {
         },
         "Drewd": {
             "level": 90,
+            "ivs": null,
             "item": "Red Card",
             "ability": "Sturdy",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Stealth Rock",
                 "Spikes",
@@ -11257,9 +13768,12 @@ var SETDEX_SV = {
     "Mandibuzz": {
         "Bird Keeper Darius": {
             "level": 64,
+            "ivs": null,
             "item": "Quick Claw",
             "ability": "Big Pecks",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dark Pulse",
                 "Air Slash",
@@ -11272,9 +13786,12 @@ var SETDEX_SV = {
     "Braviary": {
         "Bird Keeper Darius": {
             "level": 62,
+            "ivs": null,
             "item": "White Herb",
             "ability": "Defiant",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Brave Bird",
                 "Close Combat",
@@ -11287,9 +13804,12 @@ var SETDEX_SV = {
     "Drampa": {
         "Expert Jared": {
             "level": 62,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Berserk",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hyper Voice",
                 "Dragon Pulse",
@@ -11300,9 +13820,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Halle": {
             "level": 90,
+            "ivs": null,
             "item": "Custap Berry",
             "ability": "Berserk",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Roost",
                 "Hyper Voice",
@@ -11315,9 +13838,12 @@ var SETDEX_SV = {
     "Naganadel": {
         "Expert Jared": {
             "level": 62,
+            "ivs": null,
             "item": "Wise Glasses",
             "ability": "Beast Boost",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Venoshock",
                 "Dragon Breath",
@@ -11328,9 +13854,12 @@ var SETDEX_SV = {
         },
         "Drewd": {
             "level": 90,
+            "ivs": null,
             "item": "Life Orb",
             "ability": "Beast Boost",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dragon Pulse",
                 "Flamethrower",
@@ -11341,9 +13870,12 @@ var SETDEX_SV = {
         },
         "Elite Four Janine": {
             "level": 90,
+            "ivs": null,
             "item": "Haban Berry",
             "ability": "Beast Boost",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Sludge Wave",
                 "Dragon Pulse",
@@ -11356,9 +13888,12 @@ var SETDEX_SV = {
     "Yanmega": {
         "Expert Jared": {
             "level": 62,
+            "ivs": null,
             "item": "Scope Lens",
             "ability": "Speed Boost",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Bug Buzz",
                 "Air Cutter",
@@ -11371,9 +13906,12 @@ var SETDEX_SV = {
     "Zapdos-Galar": {
         "Leader Winona": {
             "level": 64,
+            "ivs": null,
             "item": "Sharp Beak",
             "ability": "Defiant",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunderous Kick",
                 "Drill Peck",
@@ -11386,9 +13924,12 @@ var SETDEX_SV = {
     "Articuno-Galar": {
         "Leader Winona": {
             "level": 64,
+            "ivs": null,
             "item": "Sharp Beak",
             "ability": "Competitive",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Freezing Glare",
                 "Air Slash",
@@ -11401,9 +13942,12 @@ var SETDEX_SV = {
     "Moltres-Galar": {
         "Leader Winona": {
             "level": 64,
+            "ivs": null,
             "item": "Sharp Beak",
             "ability": "Berserk",
             "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Fiery Wrath",
                 "Dark Pulse",
@@ -11414,9 +13958,12 @@ var SETDEX_SV = {
         },
         "Champion May": {
             "level": 89,
+            "ivs": null,
             "item": "Aguav Berry",
             "ability": "Berserk",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Fiery Wrath",
                 "Air Slash",
@@ -11429,9 +13976,12 @@ var SETDEX_SV = {
     "Corviknight": {
         "Leader Winona": {
             "level": 63,
+            "ivs": null,
             "item": "Expert Belt",
             "ability": "Unnerve",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Iron Head",
                 "Drill Peck",
@@ -11444,9 +13994,12 @@ var SETDEX_SV = {
     "Salamence": {
         "Leader Winona": {
             "level": 63,
+            "ivs": null,
             "item": "Covert Cloak",
             "ability": "Intimidate",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dragon Claw",
                 "Dual Wingbeat",
@@ -11457,9 +14010,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Shannon": {
             "level": 89,
+            "ivs": null,
             "item": "Covert Cloak",
             "ability": "Intimidate",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dragon Claw",
                 "Dual Wingbeat",
@@ -11472,9 +14028,12 @@ var SETDEX_SV = {
     "Omastar": {
         "Parasol Lady Angelica": {
             "level": 68,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Swift Swim",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Surf",
                 "Earth Power",
@@ -11487,9 +14046,12 @@ var SETDEX_SV = {
     "Iron Jugulis": {
         "Ninja Boy Riley": {
             "level": 68,
+            "ivs": null,
             "item": "Flying Gem",
             "ability": "Quark Drive",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Crunch",
                 "Acrobatics",
@@ -11500,9 +14062,12 @@ var SETDEX_SV = {
         },
         "Swimmer Tisha": {
             "level": 75,
+            "ivs": null,
             "item": "Booster Energy",
             "ability": "Quark Drive",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dark Pulse",
                 "Air Slash",
@@ -11513,9 +14078,12 @@ var SETDEX_SV = {
         },
         "Elite Four Janine": {
             "level": 89,
+            "ivs": null,
             "item": "Booster Energy",
             "ability": "Quark Drive",
             "nature": "Calm",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dark Pulse",
                 "Air Slash",
@@ -11528,9 +14096,12 @@ var SETDEX_SV = {
     "Iron Valiant": {
         "Battle Girl Callie": {
             "level": 68,
+            "ivs": null,
             "item": "Fighting Gem",
             "ability": "Quark Drive",
             "nature": "Rash",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Aura Sphere",
                 "Spirit Break",
@@ -11541,9 +14112,12 @@ var SETDEX_SV = {
         },
         "Gym Leader Tate and Liza": {
             "level": 70,
+            "ivs": null,
             "item": "Booster Energy",
             "ability": "Quark Drive",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Spirit Break",
                 "Brick Break",
@@ -11554,9 +14128,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Owen": {
             "level": 89,
+            "ivs": null,
             "item": "Clear Amulet",
             "ability": "Quark Drive",
             "nature": "Rash",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Close Combat",
                 "Moonblast",
@@ -11567,9 +14144,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Dianne": {
             "level": 89,
+            "ivs": null,
             "item": "Life Orb",
             "ability": "Quark Drive",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Close Combat",
                 "Spirit Break",
@@ -11580,9 +14160,12 @@ var SETDEX_SV = {
         },
         "Elite Four Whitney": {
             "level": 90,
+            "ivs": null,
             "item": "Life Orb",
             "ability": "Quark Drive",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Moonblast",
                 "Aura Sphere",
@@ -11595,9 +14178,12 @@ var SETDEX_SV = {
     "Rotom-Wash": {
         "Parasol Lady Clarissa": {
             "level": 68,
+            "ivs": null,
             "item": "Leftovers",
             "ability": "Levitate",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hydro Pump",
                 "Thunder",
@@ -11610,9 +14196,12 @@ var SETDEX_SV = {
     "Seismitoad": {
         "Parasol Lady Clarissa": {
             "level": 68,
+            "ivs": null,
             "item": "Rindo Berry",
             "ability": "Swift Swim",
             "nature": "Mild",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Surf",
                 "Earth Power",
@@ -11625,9 +14214,12 @@ var SETDEX_SV = {
     "Heliolisk": {
         "Parasol Lady Clarissa": {
             "level": 70,
+            "ivs": null,
             "item": "Iapapa Berry",
             "ability": "Dry Skin",
             "nature": "Impish",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunder",
                 "Hyper Voice",
@@ -11638,9 +14230,12 @@ var SETDEX_SV = {
         },
         "Aroma Lady Rachel": {
             "level": 90,
+            "ivs": null,
             "item": "Throat Spray",
             "ability": "Solar Power",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunderbolt",
                 "Overdrive",
@@ -11653,9 +14248,12 @@ var SETDEX_SV = {
     "Goodra": {
         "Cooltrainer Jennifer": {
             "level": 68,
+            "ivs": null,
             "item": "Iapapa Berry",
             "ability": "Hydration",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dragon Pulse",
                 "Sludge Wave",
@@ -11668,9 +14266,12 @@ var SETDEX_SV = {
     "Lurantis": {
         "Cooltrainer Jennifer": {
             "level": 70,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Contrary",
             "nature": "Rash",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Leaf Storm",
                 "Superpower",
@@ -11683,9 +14284,12 @@ var SETDEX_SV = {
     "Shiftry": {
         "Ranger Lorenzo": {
             "level": 68,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Wind Rider",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Leaf Blade",
                 "Foul Play",
@@ -11698,9 +14302,12 @@ var SETDEX_SV = {
     "Regirock": {
         "Ruin Maniac Chip": {
             "level": 70,
+            "ivs": null,
             "item": "Muscle Band",
             "ability": "Clear Body",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Rock Slide",
                 "Stomping Tantrum",
@@ -11713,9 +14320,12 @@ var SETDEX_SV = {
     "Registeel": {
         "Ruin Maniac Chip": {
             "level": 70,
+            "ivs": null,
             "item": "Muscle Band",
             "ability": "Clear Body",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Iron Head",
                 "Earthquake",
@@ -11728,9 +14338,12 @@ var SETDEX_SV = {
     "Regice": {
         "Ruin Maniac Chip": {
             "level": 70,
+            "ivs": null,
             "item": "Chesto Berry",
             "ability": "Clear Body",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Ice Beam",
                 "Thunderbolt",
@@ -11743,9 +14356,14 @@ var SETDEX_SV = {
     "Cresselia": {
         "Hex Maniac Tammy": {
             "level": 68,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Covert Cloak",
             "ability": "Levitate",
             "nature": "Relaxed",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Psychic",
                 "Moonblast",
@@ -11758,9 +14376,12 @@ var SETDEX_SV = {
     "Meowscarada": {
         "Beauty Jessica": {
             "level": 68,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Protean",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Flower Trick",
                 "Knock Off",
@@ -11771,9 +14392,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Red": {
             "level": 89,
+            "ivs": null,
             "item": "Life Orb",
             "ability": "Protean",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Flower Trick",
                 "Knock Off",
@@ -11786,9 +14410,12 @@ var SETDEX_SV = {
     "Sylveon": {
         "Beauty Jessica": {
             "level": 68,
+            "ivs": null,
             "item": "Misty Seed",
             "ability": "Pixilate",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hyper Voice",
                 "Psychic",
@@ -11799,9 +14426,14 @@ var SETDEX_SV = {
         },
         "Psychic Samantha": {
             "level": 68,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Fairy Feather",
             "ability": "Pixilate",
             "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hyper Voice",
                 "Psychic",
@@ -11812,9 +14444,12 @@ var SETDEX_SV = {
         },
         "Elite Four Whitney": {
             "level": 89,
+            "ivs": null,
             "item": "Wise Glasses",
             "ability": "Pixilate",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hyper Voice",
                 "Psychic",
@@ -11827,9 +14462,12 @@ var SETDEX_SV = {
     "Mimikyu": {
         "Bug Maniac Cale": {
             "level": 68,
+            "ivs": null,
             "item": "Custap Berry",
             "ability": "Disguise",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Play Rough",
                 "Shadow Claw",
@@ -11840,9 +14478,12 @@ var SETDEX_SV = {
         },
         "Swimmer Susie": {
             "level": 77,
+            "ivs": null,
             "item": "Spell Tag",
             "ability": "Disguise",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Play Rough",
                 "Shadow Claw",
@@ -11853,9 +14494,12 @@ var SETDEX_SV = {
         },
         "Magma Leader Maxie": {
             "level": 89,
+            "ivs": null,
             "item": "Spell Tag",
             "ability": "Disguise",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Play Rough",
                 "Shadow Claw",
@@ -11868,9 +14512,12 @@ var SETDEX_SV = {
     "Snorlax": {
         "Pokemon Breeder Pat": {
             "level": 70,
+            "ivs": null,
             "item": "Sitrus Berry",
             "ability": "Gluttony",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Body Slam",
                 "Crunch",
@@ -11883,9 +14530,12 @@ var SETDEX_SV = {
     "Chimecho": {
         "Pokemon Breeder Myles": {
             "level": 72,
+            "ivs": null,
             "item": "Sitrus Berry",
             "ability": "Levitate",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Psychic",
                 "Dazzling Gleam",
@@ -11898,9 +14548,12 @@ var SETDEX_SV = {
     "Roselia": {
         "Pokemon Breeder Myles": {
             "level": 72,
+            "ivs": null,
             "item": "Eviolite",
             "ability": "Poison Point",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Sludge Bomb",
                 "Energy Ball",
@@ -11913,9 +14566,14 @@ var SETDEX_SV = {
     "Maushold": {
         "Sr. and Jr. Kate & Joy": {
             "level": 70,
+            "ivs": {
+                "at": 0
+            },
             "item": "Covert Cloak",
             "ability": "Friend Guard",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Population Bomb",
                 "Super Fang",
@@ -11928,9 +14586,12 @@ var SETDEX_SV = {
     "Terrakion": {
         "Sr. and Jr. Kate & Joy": {
             "level": 68,
+            "ivs": null,
             "item": "Normal Gem",
             "ability": "Justified",
             "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Stone Edge",
                 "Sacred Sword",
@@ -11940,9 +14601,12 @@ var SETDEX_SV = {
         },
         "Black Belt Damien": {
             "level": 75,
+            "ivs": null,
             "item": "Eject Button",
             "ability": "Justified",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Sacred Sword",
                 "Rock Slide",
@@ -11955,9 +14619,12 @@ var SETDEX_SV = {
     "Silvally-Fairy": {
         "Pokefan Vanessa": {
             "level": 68,
+            "ivs": null,
             "item": "Fairy Memory",
             "ability": "Rks System",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Multi-Attack",
                 "Psychic Fangs",
@@ -11970,9 +14637,12 @@ var SETDEX_SV = {
     "Gothitelle": {
         "Pokefan Vanessa": {
             "level": 70,
+            "ivs": null,
             "item": "Life Orb",
             "ability": "Shadow Tag",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Future Sight",
                 "Psychic",
@@ -11983,9 +14653,14 @@ var SETDEX_SV = {
         },
         "Psychic Blake": {
             "level": 70,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Wide Lens",
             "ability": "Shadow Tag",
             "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Psychic",
                 "Focus Blast",
@@ -11998,9 +14673,12 @@ var SETDEX_SV = {
     "Wyrdeer": {
         "Gentleman Walter": {
             "level": 68,
+            "ivs": null,
             "item": "Life Orb",
             "ability": "Intimidate",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Double-Edge",
                 "Body Slam",
@@ -12013,9 +14691,12 @@ var SETDEX_SV = {
     "Iron Moth": {
         "Cooltrainer Cristin": {
             "level": 68,
+            "ivs": null,
             "item": "Air Balloon",
             "ability": "Quark Drive",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Sludge Wave",
                 "Fiery Dance",
@@ -12026,9 +14707,12 @@ var SETDEX_SV = {
         },
         "Leader Flannery": {
             "level": 77,
+            "ivs": null,
             "item": "Air Balloon",
             "ability": "Quark Drive",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Heat Wave",
                 "Fiery Dance",
@@ -12039,9 +14723,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Owen": {
             "level": 89,
+            "ivs": null,
             "item": "Air Balloon",
             "ability": "Quark Drive",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Heat Wave",
                 "Energy Ball",
@@ -12052,9 +14739,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Terra": {
             "level": 89,
+            "ivs": null,
             "item": "Booster Energy",
             "ability": "Quark Drive",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Psychic",
                 "Sludge Wave",
@@ -12067,9 +14757,12 @@ var SETDEX_SV = {
     "Slurpuff": {
         "Cooltrainer Cristin": {
             "level": 68,
+            "ivs": null,
             "item": "Misty Seed",
             "ability": "Unburden",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Misty Explosion",
                 "Draining Kiss",
@@ -12082,9 +14775,12 @@ var SETDEX_SV = {
     "Typhlosion": {
         "Cooltrainer Cristin": {
             "level": 70,
+            "ivs": null,
             "item": "Fire Gem",
             "ability": "Blaze",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Flamethrower",
                 "Extrasensory",
@@ -12095,9 +14791,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Mitchell": {
             "level": 89,
+            "ivs": null,
             "item": "Power Herb",
             "ability": "Blaze",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Eruption",
                 "Solar Beam",
@@ -12110,9 +14809,12 @@ var SETDEX_SV = {
     "Incineroar": {
         "Cooltrainer Marcel": {
             "level": 68,
+            "ivs": null,
             "item": "Assault Vest",
             "ability": "Intimidate",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Blaze Kick",
                 "Darkest Lariat",
@@ -12123,9 +14825,14 @@ var SETDEX_SV = {
         },
         "Psychic Presont": {
             "level": 68,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Sitrus Berry",
             "ability": "Healer",
             "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Darkest Lariat",
                 "Blaze Kick",
@@ -12136,9 +14843,12 @@ var SETDEX_SV = {
         },
         "Elite Four Whitney": {
             "level": 89,
+            "ivs": null,
             "item": "Sitrus Berry",
             "ability": "Blaze",
             "nature": "Impish",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Blaze Kick",
                 "Darkest Lariat",
@@ -12151,9 +14861,12 @@ var SETDEX_SV = {
     "Roaring Moon": {
         "Cooltrainer Marcel": {
             "level": 68,
+            "ivs": null,
             "item": "Flying Gem",
             "ability": "Protosynthesis",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dragon Claw",
                 "Crunch",
@@ -12164,9 +14877,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Julie": {
             "level": 89,
+            "ivs": null,
             "item": "Flying Gem",
             "ability": "Protosynthesis",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dragon Claw",
                 "Knock Off",
@@ -12179,9 +14895,12 @@ var SETDEX_SV = {
     "Latios": {
         "Brendan": {
             "level": 68,
+            "ivs": null,
             "item": "Expert Belt",
             "ability": "Levitate",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dragon Pulse",
                 "Luster Purge",
@@ -12194,9 +14913,12 @@ var SETDEX_SV = {
     "Slaking": {
         "Brendan": {
             "level": 68,
+            "ivs": null,
             "item": "Eject Button",
             "ability": "Truant",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Retaliate",
                 "Earthquake",
@@ -12207,9 +14929,12 @@ var SETDEX_SV = {
         },
         "Swimmer Clarence": {
             "level": 75,
+            "ivs": null,
             "item": "Psychic Seed",
             "ability": "Truant",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Body Slam",
                 "High Horsepower",
@@ -12222,22 +14947,31 @@ var SETDEX_SV = {
     "Magnezone": {
         "Brendan": {
             "level": 68,
+            "ivs": {
+                "hp": 30,
+                "sa": 30
+            },
             "item": "Air Balloon",
             "ability": "Magnet Pull",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunderbolt",
                 "Body Press",
-                "Hidden Power",
+                "Hidden Power Grass",
                 "Metal Sound"
             ],
             "index": 624
         },
         "Lady Annie": {
             "level": 75,
+            "ivs": null,
             "item": "Expert Belt",
             "ability": "Sturdy",
             "nature": "Calm",
+            "teraType": "Water",
+            "status": "Healthy",
             "moves": [
                 "Discharge",
                 "Flash Cannon",
@@ -12250,9 +14984,12 @@ var SETDEX_SV = {
     "Mr. Rime": {
         "Swimmer Nolen": {
             "level": 70,
+            "ivs": null,
             "item": "Salac Berry",
             "ability": "Ice Body",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Psyshock",
                 "Freeze-Dry",
@@ -12265,9 +15002,12 @@ var SETDEX_SV = {
     "Cramorant": {
         "Tuber Roy": {
             "level": 70,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Gulp Missile",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Surf",
                 "Weather Ball",
@@ -12280,9 +15020,12 @@ var SETDEX_SV = {
     "Frosmoth": {
         "Swimmer Declan": {
             "level": 68,
+            "ivs": null,
             "item": "Quick Claw",
             "ability": "Ice Scales",
             "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Blizzard",
                 "Bug Buzz",
@@ -12295,9 +15038,12 @@ var SETDEX_SV = {
     "Articuno": {
         "Swimmer Declan": {
             "level": 70,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Snow Cloak",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Air Slash",
                 "Freeze-Dry",
@@ -12310,9 +15056,12 @@ var SETDEX_SV = {
     "Alakazam": {
         "Swimmer Spencer": {
             "level": 68,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Synchronize",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Psychic",
                 "Focus Blast",
@@ -12323,9 +15072,12 @@ var SETDEX_SV = {
         },
         "Psychic Brandi": {
             "level": 75,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Synchronize",
             "nature": "Timid",
+            "teraType": "Fire",
+            "status": "Healthy",
             "moves": [
                 "Psychic",
                 "Dazzling Gleam",
@@ -12338,9 +15090,12 @@ var SETDEX_SV = {
     "Charizard": {
         "Swimmer Spencer": {
             "level": 68,
+            "ivs": null,
             "item": "Focus Band",
             "ability": "Blaze",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Flamethrower",
                 "Air Slash",
@@ -12353,9 +15108,12 @@ var SETDEX_SV = {
     "Cinderace": {
         "Swimmer Grace": {
             "level": 70,
+            "ivs": null,
             "item": "Flying Gem",
             "ability": "Blaze",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Blaze Kick",
                 "Double-Edge",
@@ -12368,9 +15126,12 @@ var SETDEX_SV = {
     "Glalie": {
         "Swimmer Jenny": {
             "level": 68,
+            "ivs": null,
             "item": "Focus Band",
             "ability": "Inner Focus",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Icicle Crash",
                 "Earthquake",
@@ -12383,9 +15144,12 @@ var SETDEX_SV = {
     "Rotom-Frost": {
         "Swimmer Chad": {
             "level": 68,
+            "ivs": null,
             "item": "Salac Berry",
             "ability": "Levitate",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Blizzard",
                 "Thunderbolt",
@@ -12398,9 +15162,12 @@ var SETDEX_SV = {
     "Cryogonal": {
         "Swimmer Isabella": {
             "level": 68,
+            "ivs": null,
             "item": "Light Clay",
             "ability": "Levitate",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Ice Beam",
                 "Freeze-Dry",
@@ -12413,9 +15180,12 @@ var SETDEX_SV = {
     "Kommo-o": {
         "Swimmer Isabella": {
             "level": 68,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Soundproof",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Drain Punch",
                 "Poison Jab",
@@ -12426,9 +15196,12 @@ var SETDEX_SV = {
         },
         "Battle Girl Aisha": {
             "level": 75,
+            "ivs": null,
             "item": "White Herb",
             "ability": "Bulletproof",
             "nature": "Adamant",
+            "teraType": "Steel",
+            "status": "Healthy",
             "moves": [
                 "Close Combat",
                 "Dragon Claw",
@@ -12439,9 +15212,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Red": {
             "level": 89,
+            "ivs": null,
             "item": "Throat Spray",
             "ability": "Overcoat",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Clanging Scales",
                 "Aura Sphere",
@@ -12454,9 +15230,12 @@ var SETDEX_SV = {
     "Cetitan": {
         "Swimmer Isabella": {
             "level": 69,
+            "ivs": null,
             "item": "Sitrus Berry",
             "ability": "Slush Rush",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Ice Spinner",
                 "High Horsepower",
@@ -12467,9 +15246,12 @@ var SETDEX_SV = {
         },
         "Pokemon Ranger Tyree": {
             "level": 73,
+            "ivs": null,
             "item": "Assault Vest",
             "ability": "Thick Fat",
             "nature": "Adamant",
+            "teraType": "Ice",
+            "status": "Healthy",
             "moves": [
                 "Icicle Crash",
                 "High Horsepower",
@@ -12482,9 +15264,12 @@ var SETDEX_SV = {
     "Kingambit": {
         "Bird Keeper Presley": {
             "level": 68,
+            "ivs": null,
             "item": "Life Orb",
             "ability": "Supreme Overlord",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Kowtow Cleave",
                 "Sucker Punch",
@@ -12495,9 +15280,12 @@ var SETDEX_SV = {
         },
         "Lady Annie": {
             "level": 75,
+            "ivs": null,
             "item": "Black Glasses",
             "ability": "Supreme Overlord",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Kowtow Cleave",
                 "Iron Head",
@@ -12508,9 +15296,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer MBF": {
             "level": 90,
+            "ivs": null,
             "item": "Chople Berry",
             "ability": "Supreme Overlord",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Kowtow Cleave",
                 "Iron Head",
@@ -12521,9 +15312,12 @@ var SETDEX_SV = {
         },
         "Drewd": {
             "level": 90,
+            "ivs": null,
             "item": "Quick Claw",
             "ability": "Supreme Overlord",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Kowtow Cleave",
                 "Iron Head",
@@ -12536,9 +15330,12 @@ var SETDEX_SV = {
     "Ogerpon-Cornerstone": {
         "Expert Auron": {
             "level": 68,
+            "ivs": null,
             "item": "Cornerstone Mask",
             "ability": "Sturdy",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Ivy Cudgel",
                 "U-turn",
@@ -12551,9 +15348,14 @@ var SETDEX_SV = {
     "Hatterene": {
         "Psychic Presont": {
             "level": 68,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Fairy Gem",
             "ability": "Magic Bounce",
             "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Expanding Force",
                 "Dazzling Gleam",
@@ -12566,9 +15368,14 @@ var SETDEX_SV = {
     "Indeedee-F": {
         "Psychic Maura": {
             "level": 68,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Terrain Extender",
             "ability": "Psychic Surge",
             "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Expanding Force",
                 "Hyper Voice",
@@ -12579,9 +15386,12 @@ var SETDEX_SV = {
         },
         "Swimmer Tisha": {
             "level": 77,
+            "ivs": null,
             "item": "Psychic Seed",
             "ability": "Psychic Surge",
             "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Expanding Force",
                 "Hyper Voice",
@@ -12594,9 +15404,14 @@ var SETDEX_SV = {
     "Hypno": {
         "Psychic Maura": {
             "level": 70,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Life Orb",
             "ability": "Inner Focus",
             "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Expanding Force",
                 "Focus Blast",
@@ -12609,9 +15424,14 @@ var SETDEX_SV = {
     "Pachirisu": {
         "Psychic Blake": {
             "level": 70,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Assault Vest",
             "ability": "Static",
             "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Super Fang",
                 "Nuzzle",
@@ -12624,9 +15444,14 @@ var SETDEX_SV = {
     "Camerupt": {
         "Psychic Virgil": {
             "level": 70,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Focus Sash",
             "ability": "Magma Armor",
             "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Temper Flare",
                 "Stomping Tantrum",
@@ -12637,9 +15462,12 @@ var SETDEX_SV = {
         },
         "Hiker Eli": {
             "level": 75,
+            "ivs": null,
             "item": "Quick Claw",
             "ability": "Solid Rock",
             "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Eruption",
                 "Heat Wave",
@@ -12652,9 +15480,15 @@ var SETDEX_SV = {
     "Druddigon": {
         "Psychic Nicholas": {
             "level": 68,
+            "ivs": {
+                "sa": 0,
+                "sp": 0
+            },
             "item": "Covert Cloak",
             "ability": "Sheer Force",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dragon Claw",
                 "Poison Jab",
@@ -12665,9 +15499,12 @@ var SETDEX_SV = {
         },
         "Dragon Tamer Jace": {
             "level": 75,
+            "ivs": null,
             "item": "Rocky Helmet",
             "ability": "Rough Skin",
             "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dragon Tail",
                 "Poison Jab",
@@ -12680,9 +15517,14 @@ var SETDEX_SV = {
     "Amoonguss": {
         "Psychic Macey": {
             "level": 68,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Sitrus Berry",
             "ability": "Effect Spore",
             "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Energy Ball",
                 "Sludge Bomb",
@@ -12695,9 +15537,14 @@ var SETDEX_SV = {
     "Bronzong": {
         "Psychic Macey": {
             "level": 68,
+            "ivs": {
+                "sp": 0
+            },
             "item": "Occa Berry",
             "ability": "Levitate",
             "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Gyro Ball",
                 "Body Press",
@@ -12710,9 +15557,12 @@ var SETDEX_SV = {
     "Tapu Lele": {
         "Gym Leader Tate and Liza": {
             "level": 69,
+            "ivs": null,
             "item": "Big Root",
             "ability": "Telepathy",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Moonblast",
                 "Extrasensory",
@@ -12723,9 +15573,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Dianne": {
             "level": 89,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Telepathy",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Psychic",
                 "Moonblast",
@@ -12738,9 +15591,12 @@ var SETDEX_SV = {
     "Iron Leaves": {
         "Gym Leader Tate and Liza": {
             "level": 68,
+            "ivs": null,
             "item": "Power Herb",
             "ability": "Quark Drive",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Solar Blade",
                 "Leaf Blade",
@@ -12753,9 +15609,12 @@ var SETDEX_SV = {
     "Iron Boulder": {
         "Gym Leader Tate and Liza": {
             "level": 68,
+            "ivs": null,
             "item": "Clear Amulet",
             "ability": "Quark Drive",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Mighty Cleave",
                 "Zen Headbutt",
@@ -12766,9 +15625,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Quincy": {
             "level": 89,
+            "ivs": null,
             "item": "Booster Energy",
             "ability": "Quark Drive",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Mighty Cleave",
                 "Zen Headbutt",
@@ -12781,9 +15643,12 @@ var SETDEX_SV = {
     "Iron Crown": {
         "Gym Leader Tate and Liza": {
             "level": 68,
+            "ivs": null,
             "item": "Throat Spray",
             "ability": "Quark Drive",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Psychic Noise",
                 "Tachyon Cutter",
@@ -12794,9 +15659,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Red": {
             "level": 89,
+            "ivs": null,
             "item": "Booster Energy",
             "ability": "Quark Drive",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Expanding Force",
                 "Tachyon Cutter",
@@ -12809,9 +15677,12 @@ var SETDEX_SV = {
     "Blaziken": {
         "Athena": {
             "level": 75,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Speed Boost",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Flamethrower",
                 "Aura Sphere",
@@ -12822,9 +15693,12 @@ var SETDEX_SV = {
         },
         "Champion May": {
             "level": 90,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Speed Boost",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Close Combat",
                 "Blaze Kick",
@@ -12837,9 +15711,12 @@ var SETDEX_SV = {
     "Iron Bundle": {
         "Swimmer Clarence": {
             "level": 75,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Quark Drive",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hydro Pump",
                 "Ice Beam",
@@ -12850,9 +15727,12 @@ var SETDEX_SV = {
         },
         "Elite Four Misty": {
             "level": 89,
+            "ivs": null,
             "item": "Booster Energy",
             "ability": "Quark Drive",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Freeze-Dry",
                 "Water Pulse",
@@ -12865,9 +15745,12 @@ var SETDEX_SV = {
     "Urshifu-Rapid-Strike": {
         "Swimmer Richard": {
             "level": 75,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Unseen Fist",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Close Combat",
                 "Surging Strikes",
@@ -12878,9 +15761,12 @@ var SETDEX_SV = {
         },
         "Drewd": {
             "level": 89,
+            "ivs": null,
             "item": "Assault Vest",
             "ability": "Unseen Fist",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Surging Strikes",
                 "Drain Punch",
@@ -12893,9 +15779,12 @@ var SETDEX_SV = {
     "Dudunsparce": {
         "Siblings Reli And Ian": {
             "level": 75,
+            "ivs": null,
             "item": "Normal Gem",
             "ability": "Serene Grace",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hyper Drill",
                 "Drill Run",
@@ -12908,9 +15797,12 @@ var SETDEX_SV = {
     "Chandelure": {
         "Pokemon Ranger Tyree": {
             "level": 75,
+            "ivs": null,
             "item": "Choice Scarf",
             "ability": "Infiltrator",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Heat Wave",
                 "Energy Ball"
@@ -12921,9 +15813,12 @@ var SETDEX_SV = {
     "Swellow": {
         "Hiker Eric": {
             "level": 75,
+            "ivs": null,
             "item": "Life Orb",
             "ability": "Scrappy",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Boomburst",
                 "Air Slash",
@@ -12936,9 +15831,12 @@ var SETDEX_SV = {
     "Inteleon": {
         "Battle Girl Aisha": {
             "level": 75,
+            "ivs": null,
             "item": "Scope Lens",
             "ability": "Sniper",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Snipe Shot",
                 "Ice Beam",
@@ -12951,9 +15849,12 @@ var SETDEX_SV = {
     "Magneton": {
         "Guitarist Kendall": {
             "level": 75,
+            "ivs": null,
             "item": "Air Balloon",
             "ability": "Magnet Pull",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunderbolt",
                 "Flash Cannon",
@@ -12966,9 +15867,12 @@ var SETDEX_SV = {
     "Dugtrio": {
         "Guitarist Kendall": {
             "level": 75,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Sand Veil",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Earthquake",
                 "Rock Slide",
@@ -12981,9 +15885,12 @@ var SETDEX_SV = {
     "Flutter Mane": {
         "Lady Annie": {
             "level": 75,
+            "ivs": null,
             "item": "Booster Energy",
             "ability": "Protosynthesis",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dazzling Gleam",
                 "Draining Kiss",
@@ -12994,9 +15901,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer MBF": {
             "level": 89,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Protosynthesis",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Shadow Ball",
                 "Dazzling Gleam",
@@ -13007,9 +15917,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Mitchell": {
             "level": 89,
+            "ivs": null,
             "item": "Booster Energy",
             "ability": "Protosynthesis",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Moonblast",
                 "Draining Kiss",
@@ -13020,9 +15933,12 @@ var SETDEX_SV = {
         },
         "Champion May": {
             "level": 89,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Protosynthesis",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Moonblast",
                 "Shadow Ball",
@@ -13035,9 +15951,12 @@ var SETDEX_SV = {
     "Darmanitan": {
         "Lady Annie": {
             "level": 75,
+            "ivs": null,
             "item": "Life Orb",
             "ability": "Sheer Force",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Fire Punch",
                 "Rock Slide",
@@ -13050,9 +15969,12 @@ var SETDEX_SV = {
     "Silvally-Fighting": {
         "Black Belt Damien": {
             "level": 75,
+            "ivs": null,
             "item": "Fighting Memory",
             "ability": "Rks System",
             "nature": "Hardy",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Multi-Attack",
                 "Draco Meteor",
@@ -13065,9 +15987,12 @@ var SETDEX_SV = {
     "Talonflame": {
         "Black Belt Damien": {
             "level": 77,
+            "ivs": null,
             "item": "Life Orb",
             "ability": "Gale Wings",
             "nature": "Adamant",
+            "teraType": "Ground",
+            "status": "Healthy",
             "moves": [
                 "Tera Blast",
                 "Dual Wingbeat",
@@ -13080,9 +16005,12 @@ var SETDEX_SV = {
     "Porygon-Z": {
         "Psychic Brandi": {
             "level": 75,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Adaptability",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Tri Attack",
                 "Thunderbolt",
@@ -13095,9 +16023,12 @@ var SETDEX_SV = {
     "Latias": {
         "Cooltrainer Tyler": {
             "level": 75,
+            "ivs": null,
             "item": "Spell Tag",
             "ability": "Levitate",
             "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Mist Ball",
                 "Shadow Ball",
@@ -13108,9 +16039,12 @@ var SETDEX_SV = {
         },
         "Expert Magik": {
             "level": 89,
+            "ivs": null,
             "item": "Soul Dew",
             "ability": "Levitate",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Mist Ball",
                 "Dragon Pulse",
@@ -13121,9 +16055,12 @@ var SETDEX_SV = {
         },
         "Champion May": {
             "level": 89,
+            "ivs": null,
             "item": "Soul Dew",
             "ability": "Levitate",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Mist Ball",
                 "Dragon Pulse",
@@ -13136,9 +16073,12 @@ var SETDEX_SV = {
     "Nihilego": {
         "Cooltrainer Tyler": {
             "level": 75,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Beast Boost",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Power Gem",
                 "Sludge Bomb",
@@ -13151,9 +16091,12 @@ var SETDEX_SV = {
     "Meganium": {
         "Pokemon Ranger Shirley": {
             "level": 75,
+            "ivs": null,
             "item": "Custap Berry",
             "ability": "Overgrow",
             "nature": "Brave",
+            "teraType": null,
+            "status": "Poisoned",
             "moves": [
                 "Leaf Storm",
                 "Petal Blizzard",
@@ -13166,9 +16109,12 @@ var SETDEX_SV = {
     "Entei": {
         "Pokemon Ranger Shirley": {
             "level": 75,
+            "ivs": null,
             "item": "Aguav Berry",
             "ability": "Pressure",
             "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Sacred Fire",
                 "Stone Edge",
@@ -13179,9 +16125,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Shannon": {
             "level": 89,
+            "ivs": null,
             "item": "Sitrus Berry",
             "ability": "Inner Focus",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Sacred Fire",
                 "Stone Edge",
@@ -13194,9 +16143,12 @@ var SETDEX_SV = {
     "Landorus-Therian": {
         "Pokemon Ranger Shirley": {
             "level": 75,
+            "ivs": null,
             "item": "Wide Lens",
             "ability": "Intimidate",
             "nature": "Rash",
+            "teraType": "Flying",
+            "status": "Healthy",
             "moves": [
                 "Sandsear Storm",
                 "Tera Blast",
@@ -13207,9 +16159,12 @@ var SETDEX_SV = {
         },
         "Elite Four Jasmine": {
             "level": 89,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Intimidate",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Stomping Tantrum",
                 "Hammer Arm",
@@ -13222,9 +16177,12 @@ var SETDEX_SV = {
     "Zapdos": {
         "Cooltrainer Teddy": {
             "level": 77,
+            "ivs": null,
             "item": "Aguav Berry",
             "ability": "Pressure",
             "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunderbolt",
                 "Air Slash",
@@ -13235,9 +16193,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer Quincy": {
             "level": 89,
+            "ivs": null,
             "item": "Safety Goggles",
             "ability": "Pressure",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunderbolt",
                 "Air Slash",
@@ -13250,9 +16211,12 @@ var SETDEX_SV = {
     "Fezandipiti": {
         "Cooltrainer Teddy": {
             "level": 77,
+            "ivs": null,
             "item": "Expert Belt",
             "ability": "Toxic Chain",
             "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Gunk Shot",
                 "Play Rough",
@@ -13265,9 +16229,12 @@ var SETDEX_SV = {
     "Suicune": {
         "Challenger Phoebe": {
             "level": 75,
+            "ivs": null,
             "item": "Sitrus Berry",
             "ability": "Pressure",
             "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Surf",
                 "Ice Beam",
@@ -13280,9 +16247,12 @@ var SETDEX_SV = {
     "Chien-Pao": {
         "Challenger Phoebe": {
             "level": 77,
+            "ivs": null,
             "item": "Choice Band",
             "ability": "Sword Of Ruin",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Ice Spinner",
                 "Lash Out"
@@ -13293,9 +16263,12 @@ var SETDEX_SV = {
     "Terapagos": {
         "Challenger Phoebe": {
             "level": 77,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Tera Shift",
             "nature": "Timid",
+            "teraType": "Stellar",
+            "status": "Healthy",
             "moves": [
                 "Tera Starstorm",
                 "Dazzling Gleam",
@@ -13308,9 +16281,12 @@ var SETDEX_SV = {
     "Orbeetle": {
         "Bug Maniac Axle": {
             "level": 77,
+            "ivs": null,
             "item": "Light Clay",
             "ability": "Swarm",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Psychic",
                 "Bug Buzz",
@@ -13323,9 +16299,12 @@ var SETDEX_SV = {
     "Muk": {
         "Bug Maniac Axle": {
             "level": 75,
+            "ivs": null,
             "item": "Quick Claw",
             "ability": "Poison Touch",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Poison Jab",
                 "Crunch",
@@ -13338,9 +16317,12 @@ var SETDEX_SV = {
     "Aurorus": {
         "Dragon Tamer Jace": {
             "level": 75,
+            "ivs": null,
             "item": "Choice Specs",
             "ability": "Refrigerate",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hyper Voice",
                 "Ancient Power"
@@ -13351,9 +16333,12 @@ var SETDEX_SV = {
     "Mabosstiff": {
         "Cooltrainer Gerald": {
             "level": 75,
+            "ivs": null,
             "item": "Aguav Berry",
             "ability": "Stakeout",
             "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Crunch",
                 "Play Rough",
@@ -13366,9 +16351,12 @@ var SETDEX_SV = {
     "Meowstic": {
         "Cooltrainer Gerald": {
             "level": 75,
+            "ivs": null,
             "item": "Wise Glasses",
             "ability": "Mystic Charm",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Psychic",
                 "Energy Ball",
@@ -13381,9 +16369,12 @@ var SETDEX_SV = {
     "Togekiss": {
         "Hex Maniac Cole": {
             "level": 75,
+            "ivs": null,
             "item": "Blunder Policy",
             "ability": "Serene Grace",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Air Slash",
                 "Fire Blast",
@@ -13394,9 +16385,12 @@ var SETDEX_SV = {
         },
         "Elite Four Misty": {
             "level": 90,
+            "ivs": null,
             "item": "Wide Lens",
             "ability": "Aerilate",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hyper Voice",
                 "Dazzling Gleam",
@@ -13409,9 +16403,12 @@ var SETDEX_SV = {
     "Hitmonchan": {
         "Battler Girl Danielle": {
             "level": 77,
+            "ivs": null,
             "item": "Expert Belt",
             "ability": "Iron Fist",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Drain Punch",
                 "Mach Punch",
@@ -13424,9 +16421,12 @@ var SETDEX_SV = {
     "Pangoro": {
         "Battler Girl Danielle": {
             "level": 75,
+            "ivs": null,
             "item": "Bright Powder",
             "ability": "Iron Fist",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Knock Off",
                 "Circle Throw",
@@ -13439,9 +16439,12 @@ var SETDEX_SV = {
     "Ursaluna": {
         "Expert Keegan": {
             "level": 75,
+            "ivs": null,
             "item": "Eject Pack",
             "ability": "Bulletproof",
             "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Headlong Rush",
                 "Close Combat",
@@ -13454,9 +16457,12 @@ var SETDEX_SV = {
     "Electivire": {
         "Expert Keegan": {
             "level": 75,
+            "ivs": null,
             "item": "Rowap Berry",
             "ability": "Iron Fist",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunder Punch",
                 "Ice Punch",
@@ -13469,9 +16475,12 @@ var SETDEX_SV = {
     "Reshiram": {
         "Expert Keegan": {
             "level": 77,
+            "ivs": null,
             "item": "Haban Berry",
             "ability": "Turboblaze",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Fusion Flare",
                 "Dragon Pulse",
@@ -13484,9 +16493,12 @@ var SETDEX_SV = {
     "Walking Wake": {
         "Leader Flannery": {
             "level": 75,
+            "ivs": null,
             "item": "Charcoal",
             "ability": "Protosynthesis",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hydro Steam",
                 "Dragon Pulse",
@@ -13497,9 +16509,12 @@ var SETDEX_SV = {
         },
         "Aroma Lady Rachel": {
             "level": 89,
+            "ivs": null,
             "item": "White Herb",
             "ability": "Protosynthesis",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hydro Steam",
                 "Draco Meteor",
@@ -13510,9 +16525,12 @@ var SETDEX_SV = {
         },
         "Cooltrainer MBF": {
             "level": 89,
+            "ivs": null,
             "item": "White Herb",
             "ability": "Protosynthesis",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hydro Steam",
                 "Draco Meteor",
@@ -13525,9 +16543,12 @@ var SETDEX_SV = {
     "Raging Bolt": {
         "Leader Flannery": {
             "level": 75,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Protosynthesis",
             "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunderbolt",
                 "Dragon Pulse",
@@ -13538,9 +16559,12 @@ var SETDEX_SV = {
         },
         "Aqua Leader Archie": {
             "level": 89,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Protosynthesis",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunderbolt",
                 "Thunderclap",
@@ -13553,9 +16577,12 @@ var SETDEX_SV = {
     "Gouging Fire": {
         "Leader Flannery": {
             "level": 75,
+            "ivs": null,
             "item": "Leftovers",
             "ability": "Protosynthesis",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dragon Claw",
                 "Temper Flare",
@@ -13566,9 +16593,12 @@ var SETDEX_SV = {
         },
         "Magma Leader Maxie": {
             "level": 89,
+            "ivs": null,
             "item": "Lum Berry",
             "ability": "Protosynthesis",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dragon Claw",
                 "Temper Flare",
@@ -13581,9 +16611,12 @@ var SETDEX_SV = {
     "Enamorus-Therian": {
         "Cooltrainer Edgar": {
             "level": 89,
+            "ivs": null,
             "item": "Leftovers",
             "ability": "Overcoat",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Draining Kiss",
                 "Moonblast",
@@ -13596,9 +16629,12 @@ var SETDEX_SV = {
     "Ferrothorn": {
         "Cooltrainer Edgar": {
             "level": 90,
+            "ivs": null,
             "item": "Quick Claw",
             "ability": "Iron Barbs",
             "nature": "Relaxed",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Power Whip",
                 "Body Press",
@@ -13611,9 +16647,12 @@ var SETDEX_SV = {
     "Dracovish": {
         "Cooltrainer Edgar": {
             "level": 90,
+            "ivs": null,
             "item": "Choice Band",
             "ability": "Sand Rush",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Fishious Rend"
             ],
@@ -13623,9 +16662,12 @@ var SETDEX_SV = {
     "Heatran": {
         "Expert Magik": {
             "level": 89,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Flash Fire",
             "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Magma Storm",
                 "Flash Cannon",
@@ -13638,9 +16680,12 @@ var SETDEX_SV = {
     "Jirachi": {
         "Expert Magik": {
             "level": 89,
+            "ivs": null,
             "item": "Power Herb",
             "ability": "Serene Grace",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Meteor Beam",
                 "Psychic",
@@ -13653,9 +16698,12 @@ var SETDEX_SV = {
     "Comfey": {
         "Cooltrainer Caroline": {
             "level": 89,
+            "ivs": null,
             "item": "Life Orb",
             "ability": "Triage",
             "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Calm Mind",
                 "Draining Kiss",
@@ -13668,9 +16716,12 @@ var SETDEX_SV = {
     "Shaymin-Sky": {
         "Cooltrainer Terra": {
             "level": 89,
+            "ivs": null,
             "item": "Grass Gem",
             "ability": "Serene Grace",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Seed Flare",
                 "Air Slash",
@@ -13683,9 +16734,12 @@ var SETDEX_SV = {
     "Marshadow": {
         "Cooltrainer Terra": {
             "level": 89,
+            "ivs": null,
             "item": "Eject Pack",
             "ability": "Technician",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Close Combat",
                 "Spectral Thief",
@@ -13698,9 +16752,12 @@ var SETDEX_SV = {
     "Magearna": {
         "Cooltrainer Mitchell": {
             "level": 89,
+            "ivs": null,
             "item": "Custap Berry",
             "ability": "Soul Heart",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Aura Sphere",
                 "Misty Explosion",
@@ -13713,9 +16770,12 @@ var SETDEX_SV = {
     "Enamorus": {
         "Cooltrainer Halle": {
             "level": 90,
+            "ivs": null,
             "item": "Choice Specs",
             "ability": "Cute Charm",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Misty Explosion",
                 "Hurricane"
@@ -13726,9 +16786,12 @@ var SETDEX_SV = {
     "Darmanitan-Galar": {
         "Drewd": {
             "level": 90,
+            "ivs": null,
             "item": "Focus Band",
             "ability": "Zen Mode",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Belly Drum",
                 "Fire Punch",
@@ -13741,9 +16804,12 @@ var SETDEX_SV = {
     "Groudon": {
         "Magma Leader Maxie": {
             "level": 89,
+            "ivs": null,
             "item": "Wide Lens",
             "ability": "Drought",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Precipice Blades",
                 "Fire Punch",
@@ -13756,9 +16822,12 @@ var SETDEX_SV = {
     "Honchkrow": {
         "Magma Leader Maxie": {
             "level": 89,
+            "ivs": null,
             "item": "Wise Glasses",
             "ability": "Super Luck",
             "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Dark Pulse",
                 "Air Slash",
@@ -13771,9 +16840,12 @@ var SETDEX_SV = {
     "Scovillain": {
         "Magma Leader Maxie": {
             "level": 89,
+            "ivs": null,
             "item": "Chesto Berry",
             "ability": "Chlorophyll",
             "nature": "Hardy",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Solar Beam",
                 "Flamethrower",
@@ -13786,9 +16858,12 @@ var SETDEX_SV = {
     "Ogerpon-Hearthflame": {
         "Magma Leader Maxie": {
             "level": 90,
+            "ivs": null,
             "item": "Hearthflame Mask",
             "ability": "Mold Breaker",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Ivy Cudgel",
                 "Horn Leech",
@@ -13801,9 +16876,12 @@ var SETDEX_SV = {
     "Kyogre": {
         "Aqua Leader Archie": {
             "level": 89,
+            "ivs": null,
             "item": "Wide Lens",
             "ability": "Drizzle",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Origin Pulse",
                 "Thunder",
@@ -13816,9 +16894,12 @@ var SETDEX_SV = {
     "Eiscue": {
         "Aqua Leader Archie": {
             "level": 89,
+            "ivs": null,
             "item": "Muscle Band",
             "ability": "Ice Face",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Ice Spinner",
                 "Freeze-Dry",
@@ -13831,9 +16912,12 @@ var SETDEX_SV = {
     "Ogerpon-Wellspring": {
         "Aqua Leader Archie": {
             "level": 90,
+            "ivs": null,
             "item": "Wellspring Mask",
             "ability": "Water Absorb",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Ivy Cudgel",
                 "Horn Leech",
@@ -13846,9 +16930,12 @@ var SETDEX_SV = {
     "Raikou": {
         "Elite Four Jasmine": {
             "level": 89,
+            "ivs": null,
             "item": "Clear Amulet",
             "ability": "Inner Focus",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Thunderbolt",
                 "Scald",
@@ -13861,9 +16948,12 @@ var SETDEX_SV = {
     "Melmetal": {
         "Elite Four Jasmine": {
             "level": 90,
+            "ivs": null,
             "item": "White Herb",
             "ability": "Iron Fist",
             "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Double Iron Bash",
                 "Thunder Punch",
@@ -13876,9 +16966,12 @@ var SETDEX_SV = {
     "Bewear": {
         "Elite Four Whitney": {
             "level": 89,
+            "ivs": null,
             "item": "Normal Gem",
             "ability": "Fluffy",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Hammer Arm",
                 "Return",
@@ -13891,9 +16984,12 @@ var SETDEX_SV = {
     "Munkidori": {
         "Elite Four Whitney": {
             "level": 89,
+            "ivs": null,
             "item": "Focus Sash",
             "ability": "Toxic Chain",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Sludge Bomb",
                 "Psychic",
@@ -13906,9 +17002,12 @@ var SETDEX_SV = {
     "Zeraora": {
         "Elite Four Misty": {
             "level": 89,
+            "ivs": null,
             "item": "White Herb",
             "ability": "Volt Absorb",
             "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Plasma Fists",
                 "Close Combat",
@@ -13921,9 +17020,12 @@ var SETDEX_SV = {
     "Manaphy": {
         "Elite Four Misty": {
             "level": 89,
+            "ivs": null,
             "item": "Mystic Water",
             "ability": "Hydration",
             "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Scald",
                 "Energy Ball",
@@ -13936,9 +17038,12 @@ var SETDEX_SV = {
     "Koraidon": {
         "Champion May": {
             "level": 89,
+            "ivs": null,
             "item": "Haban Berry",
             "ability": "Orichalcum Pulse",
             "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
             "moves": [
                 "Collision Course",
                 "Dragon Claw",

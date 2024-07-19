@@ -9651,7 +9651,7 @@ var SV_PATCH = {
     },
     Poltchageist: {
         types: ['Grass', 'Ghost'],
-        bs: { hp: 40, at: 45, df: 45, sd: 54, sp: 50 },
+        bs: { hp: 40, at: 45, df: 45, sa: 74, sd: 54, sp: 50 },
         weightkg: 1.1,
         abilities: { 0: 'Hospitality' },
         nfe: true,
@@ -9660,7 +9660,7 @@ var SV_PATCH = {
     },
     'Poltchageist-Artisan': {
         types: ['Grass', 'Ghost'],
-        bs: { hp: 40, at: 45, df: 45, sd: 54, sp: 50 },
+        bs: { hp: 40, at: 45, df: 45, sa: 74, sd: 54, sp: 50 },
         weightkg: 1.1,
         abilities: { 0: 'Hospitality' },
         nfe: true,

@@ -568,6 +568,7 @@ $(".set-selector").change(function () {
 			pokeObj.find(".hp .evs").val((set.evs && set.evs.hp !== undefined) ? set.evs.hp : 0);
 			pokeObj.find(".hp .ivs").val((set.ivs && set.ivs.hp !== undefined) ? set.ivs.hp : 31);
 			pokeObj.find(".hp .dvs").val((set.dvs && set.dvs.hp !== undefined) ? set.dvs.hp : 15);
+			pokeObj.find(".status").val(set.status);
 			for (i = 0; i < LEGACY_STATS[gen].length; i++) {
 				pokeObj.find("." + LEGACY_STATS[gen][i] + " .evs").val(
 					(set.evs && set.evs[LEGACY_STATS[gen][i]] !== undefined) ?
@@ -1552,7 +1553,7 @@ function resetTrainer() {
 			zone.innerHTML="";
 		}
 	}
-	
+
 }
 
 
@@ -1586,8 +1587,8 @@ function colorCodeUpdate(){
 		else if (ohkoCheck){
 			pMons[i].className = `trainer-pok left-side mon-dmg-${idColor.code}`;
 		}
-		
-		
+
+
 	}
 }
 function showColorCodes(){
@@ -1617,7 +1618,7 @@ function TrashPokemon() {
 	if (maybeMultiple.length == 0){
 		return; //nothing to delete
 	}
-	var numberPKM = maybeMultiple.length > 1 ? `${maybeMultiple.length} Pokemon(s)` : "this Pokemon"; 
+	var numberPKM = maybeMultiple.length > 1 ? `${maybeMultiple.length} Pokemon(s)` : "this Pokemon";
 	var yes = confirm(`do you really want to remove ${numberPKM}?`);
 	if (!yes) {
 		return;
@@ -1633,7 +1634,7 @@ function TrashPokemon() {
 	localStorage.setItem("customsets", JSON.stringify(customSets));
 	$('#box-poke-list')[0].click();
 	//switch to the next pokemon automatically
-	
+
 }
 function RemoveAllPokemon() {
 	document.getEle
@@ -1651,7 +1652,7 @@ function drop(ev) {
 	ev.preventDefault();
 	if (ev.target.classList.contains("dropzone")) {
 		pokeDragged.parentNode.removeChild(pokeDragged);
-		ev.target.appendChild(pokeDragged);	
+		ev.target.appendChild(pokeDragged);
 	}
 	// if it's a pokemon
 	else if(ev.target.classList.contains("left-side")) {
@@ -1797,7 +1798,7 @@ function collapseArrow(arrow){
 	}
 }
 
-/* although those two function could be factorised in one, i may think about more in depth 
+/* although those two function could be factorised in one, i may think about more in depth
 functionality laters that may involve two separate functions, i will remove this comment if i do*/
 function switchIconSingle(){
 	document.getElementById("monDouble").toggleAttribute("hidden")
