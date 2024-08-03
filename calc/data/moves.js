@@ -78,7 +78,7 @@ var RBY = {
     Fly: { bp: 70, type: 'Flying' },
     'Focus Energy': { bp: 0, category: 'Status', type: 'Normal' },
     'Fury Attack': { bp: 20, type: 'Normal', multihit: [2, 5] },
-    'Fury Swipes': { bp: 18, type: 'Normal', multihit: [2, 5] },
+    'Fury Swipes': { bp: 25, type: 'Normal', multihit: [2, 5] },
     Glare: { bp: 0, category: 'Status', type: 'Normal' },
     Growth: { bp: 0, category: 'Status', type: 'Normal' },
     Guillotine: { bp: 0, type: 'Normal' },
