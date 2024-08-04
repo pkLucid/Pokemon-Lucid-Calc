@@ -1603,7 +1603,7 @@ var SETDEX_SV = {
             ],
             "index": 600
         },
-        "Aidan": {
+        "Aidan + Athena": {
             "level": 77,
             "ivs": null,
             "item": "Expert Belt",
@@ -2862,7 +2862,7 @@ var SETDEX_SV = {
         "Fisherman Claude": {
             "level": 38,
             "ivs": null,
-            "item": "Dragon Fang",
+            "item": "Muscle Band",
             "ability": "Lightning Rod",
             "nature": "Adamant",
             "teraType": null,
@@ -3211,7 +3211,7 @@ var SETDEX_SV = {
             "level": 40,
             "ivs": null,
             "item": "Focus Sash",
-            "ability": null,
+            "ability": "Surge Surfer",
             "nature": "Modest",
             "teraType": null,
             "status": "Healthy",
@@ -4943,7 +4943,7 @@ var SETDEX_SV = {
             "level": 75,
             "ivs": null,
             "item": "Muscle Band",
-            "ability": "Volt Absorb",
+            "ability": "Iron Fist",
             "nature": "Jolly",
             "teraType": null,
             "status": "Healthy",
@@ -6413,7 +6413,7 @@ var SETDEX_SV = {
             "level": 38,
             "ivs": null,
             "item": "Life Orb",
-            "ability": "Eclipsate",
+            "ability": "Unnerve",
             "nature": "Adamant",
             "teraType": null,
             "status": "Healthy",
@@ -7407,7 +7407,7 @@ var SETDEX_SV = {
             "level": 74,
             "ivs": null,
             "item": "Sitrus Berry",
-            "ability": "Thick Fat",
+            "ability": "Huge Power",
             "nature": "Adamant",
             "teraType": null,
             "status": "Healthy",
@@ -7943,8 +7943,8 @@ var SETDEX_SV = {
             "status": "Healthy",
             "moves": [
                 "Hyper Voice",
-                "Alluring Voice",
-                "Psychic Noise",
+                "Dazzling Gleam",
+                "Ice Beam",
                 "Sing"
             ],
             "index": 263
@@ -8646,7 +8646,7 @@ var SETDEX_SV = {
                 "sp": 0
             },
             "item": "Iron Ball",
-            "ability": "Gluttony",
+            "ability": "Inner Focus",
             "nature": "Adamant",
             "teraType": null,
             "status": "Healthy",
@@ -8930,7 +8930,7 @@ var SETDEX_SV = {
             "level": 70,
             "ivs": null,
             "item": "Assault Vest",
-            "ability": "Water Absorb",
+            "ability": "Shell Armor",
             "nature": "Bold",
             "teraType": null,
             "status": "Healthy",
@@ -10357,7 +10357,7 @@ var SETDEX_SV = {
             ],
             "index": 583
         },
-        "Aidan": {
+        "Aidan + Athena": {
             "level": 75,
             "ivs": null,
             "item": "Quick Claw",
@@ -12417,7 +12417,7 @@ var SETDEX_SV = {
         "Bird Keeper Hugh": {
             "level": 61,
             "ivs": null,
-            "item": "King's Rock",
+            "item": "King\u2019s Rock",
             "ability": "Unnerve",
             "nature": "Jolly",
             "teraType": null,
@@ -12670,7 +12670,7 @@ var SETDEX_SV = {
             ],
             "index": 474
         },
-        "Athena": {
+        "Aidan + Athena": {
             "level": 75,
             "ivs": null,
             "item": "Eject Pack",
@@ -13178,7 +13178,7 @@ var SETDEX_SV = {
             ],
             "index": 528
         },
-        "Athena": {
+        "Aidan + Athena": {
             "level": 77,
             "ivs": null,
             "item": "Throat Spray",
@@ -13816,7 +13816,7 @@ var SETDEX_SV = {
             "level": 68,
             "ivs": null,
             "item": "Focus Sash",
-            "ability": "Wind Rider",
+            "ability": "Chlorophyll",
             "nature": "Adamant",
             "teraType": null,
             "status": "Healthy",
@@ -14414,7 +14414,7 @@ var SETDEX_SV = {
             "moves": [
                 "Blaze Kick",
                 "Darkest Lariat",
-                "Parting Shot",
+                "Leech Life",
                 "Fake Out"
             ],
             "index": 593
@@ -14425,15 +14425,15 @@ var SETDEX_SV = {
                 "sp": 0
             },
             "item": "Sitrus Berry",
-            "ability": "Healer",
+            "ability": "Intimidate",
             "nature": "Brave",
             "teraType": null,
             "status": "Healthy",
             "moves": [
                 "Darkest Lariat",
                 "Blaze Kick",
-                "U-turn",
-                "Fake Out"
+                "Leech Life",
+                "Drain Punch"
             ],
             "index": 653
         },
@@ -14976,7 +14976,7 @@ var SETDEX_SV = {
             ],
             "index": 648
         },
-        "Athena": {
+        "Aidan + Athena": {
             "level": 75,
             "ivs": null,
             "item": "Focus Sash",
@@ -15127,7 +15127,7 @@ var SETDEX_SV = {
             "ivs": {
                 "sp": 0
             },
-            "item": "Assault Vest",
+            "item": "Sitrus Berry",
             "ability": "Static",
             "nature": "Bold",
             "teraType": null,
@@ -15375,7 +15375,7 @@ var SETDEX_SV = {
         }
     },
     "Espathra": {
-        "Aidan": {
+        "Aidan + Athena": {
             "level": 75,
             "ivs": null,
             "item": "Lum Berry",
