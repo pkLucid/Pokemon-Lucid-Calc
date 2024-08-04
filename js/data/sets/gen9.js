@@ -4927,7 +4927,7 @@ var SETDEX_SV = {
             "level": 32,
             "ivs": null,
             "item": "Focus Sash",
-            "ability": "Volt Absorb",
+            "ability": "Iron Fist",
             "nature": "Adamant",
             "teraType": null,
             "status": "Healthy",
