@@ -13214,7 +13214,7 @@ var SETDEX_SV = {
             "level": 89,
             "ivs": null,
             "item": "Kebia Berry",
-            "ability": "Synchronize",
+            "ability": "Pixilate",
             "nature": "Timid",
             "teraType": null,
             "status": "Healthy",

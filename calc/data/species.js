@@ -9194,7 +9194,7 @@ var SV_PATCH = {
         abilities: { 0: 'Cud Chew' }
     },
     Fezandipiti: {
-        types: ['Poison', 'Psychic'],
+        types: ['Poison', 'Fairy'],
         bs: { hp: 88, at: 91, df: 82, sa: 70, sd: 125, sp: 99 },
         weightkg: 12.2,
         gender: 'M',
