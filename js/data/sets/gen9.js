@@ -619,7 +619,7 @@ var SETDEX_SV = {
                 "X-Scissor",
                 "Swords Dance"
             ],
-            "index": 372
+            "index": 368
         },
         "Swimmer Kevin and Swimmer Talia": {
             "level": 75,
@@ -635,7 +635,7 @@ var SETDEX_SV = {
                 "Crabhammer",
                 "Knock Off"
             ],
-            "index": 709
+            "index": 705
         }
     },
     "Tinkatuff": {
@@ -716,7 +716,7 @@ var SETDEX_SV = {
             "moves": [
                 "Boomburst"
             ],
-            "index": 497
+            "index": 493
         }
     },
     "Rattata-Alola": {
@@ -852,7 +852,7 @@ var SETDEX_SV = {
                 "Energy Ball",
                 "Draining Kiss"
             ],
-            "index": 552
+            "index": 548
         }
     },
     "Tsareena": {
@@ -885,7 +885,7 @@ var SETDEX_SV = {
                 "Triple Axel",
                 "Low Kick"
             ],
-            "index": 265
+            "index": 261
         },
         "Parasol Lady Rachel": {
             "level": 62,
@@ -901,7 +901,7 @@ var SETDEX_SV = {
                 "Triple Axel",
                 "Acrobatics"
             ],
-            "index": 465
+            "index": 461
         },
         "Swimmer Richard and Swimmer Kara": {
             "level": 77,
@@ -917,7 +917,7 @@ var SETDEX_SV = {
                 "Triple Axel",
                 "Low Kick"
             ],
-            "index": 717
+            "index": 713
         }
     },
     "Rockruff": {
@@ -1291,7 +1291,7 @@ var SETDEX_SV = {
                 "Moonblast",
                 "Hypnosis"
             ],
-            "index": 266
+            "index": 262
         },
         "Ranger Luella": {
             "level": 53,
@@ -1307,7 +1307,7 @@ var SETDEX_SV = {
                 "Moonblast",
                 "Tailwind"
             ],
-            "index": 351
+            "index": 347
         }
     },
     "Absol": {
@@ -1341,7 +1341,7 @@ var SETDEX_SV = {
                 "X-Scissor",
                 "Sucker Punch"
             ],
-            "index": 362
+            "index": 358
         },
         "Bug Maniac Cale": {
             "level": 68,
@@ -1357,7 +1357,7 @@ var SETDEX_SV = {
                 "Psycho Cut",
                 "Shadow Claw"
             ],
-            "index": 561
+            "index": 557
         }
     },
     "Venomoth": {
@@ -1585,7 +1585,7 @@ var SETDEX_SV = {
                 "Night Slash",
                 "Aerial Ace"
             ],
-            "index": 410
+            "index": 406
         },
         "Brendan": {
             "level": 68,
@@ -1601,7 +1601,7 @@ var SETDEX_SV = {
                 "Shadow Sneak",
                 "Swords Dance"
             ],
-            "index": 600
+            "index": 596
         },
         "Aidan + Athena": {
             "level": 77,
@@ -1617,7 +1617,7 @@ var SETDEX_SV = {
                 "Night Slash",
                 "Aqua Cutter"
             ],
-            "index": 696
+            "index": 692
         }
     },
     "Poliwrath": {
@@ -1685,7 +1685,7 @@ var SETDEX_SV = {
                 "Ice Punch",
                 "Work Up"
             ],
-            "index": 526
+            "index": 522
         }
     },
     "Timburr": {
@@ -1844,7 +1844,7 @@ var SETDEX_SV = {
                 "Poison Jab",
                 "Ice Spinner"
             ],
-            "index": 274
+            "index": 270
         },
         "Cooltrainer MBF": {
             "level": 89,
@@ -1860,7 +1860,7 @@ var SETDEX_SV = {
                 "Triple Axel",
                 "Victory Dance"
             ],
-            "index": 902
+            "index": 898
         }
     },
     "Hakamo-o": {
@@ -1912,7 +1912,7 @@ var SETDEX_SV = {
                 "Throat Chop",
                 "Bullet Punch"
             ],
-            "index": 525
+            "index": 521
         }
     },
     "Falinks": {
@@ -1946,7 +1946,7 @@ var SETDEX_SV = {
                 "Zen Headbutt",
                 "Smart Strike"
             ],
-            "index": 206
+            "index": 202
         }
     },
     "Flareon": {
@@ -1994,7 +1994,7 @@ var SETDEX_SV = {
                 "Superpower",
                 "Trailblaze"
             ],
-            "index": 268
+            "index": 264
         },
         "Cooltrainer Gerald": {
             "level": 75,
@@ -2010,7 +2010,7 @@ var SETDEX_SV = {
                 "Flame Charge",
                 "Detect"
             ],
-            "index": 812
+            "index": 808
         }
     },
     "Primeape": {
@@ -2044,7 +2044,7 @@ var SETDEX_SV = {
                 "Lash Out",
                 "Counter"
             ],
-            "index": 344
+            "index": 340
         },
         "Swimmer Declan": {
             "level": 68,
@@ -2060,7 +2060,7 @@ var SETDEX_SV = {
                 "Earthquake",
                 "Rage Fist"
             ],
-            "index": 617
+            "index": 613
         }
     },
     "Quilladin": {
@@ -2164,7 +2164,7 @@ var SETDEX_SV = {
                 "Knock Off",
                 "Acrobatics"
             ],
-            "index": 271
+            "index": 267
         }
     },
     "Lucario": {
@@ -2198,7 +2198,7 @@ var SETDEX_SV = {
                 "Dragon Pulse",
                 "Extreme Speed"
             ],
-            "index": 394
+            "index": 390
         },
         "Pokemon Breeder Pat": {
             "level": 68,
@@ -2214,7 +2214,7 @@ var SETDEX_SV = {
                 "Blaze Kick",
                 "Extreme Speed"
             ],
-            "index": 564
+            "index": 560
         },
         "Cooltrainer Tyler": {
             "level": 75,
@@ -2230,7 +2230,7 @@ var SETDEX_SV = {
                 "Psychic",
                 "Vacuum Wave"
             ],
-            "index": 774
+            "index": 770
         }
     },
     "Hawlucha": {
@@ -2263,7 +2263,7 @@ var SETDEX_SV = {
                 "Stone Edge",
                 "Roost"
             ],
-            "index": 457
+            "index": 453
         },
         "Bird Keeper Presley and Expert Auron": {
             "level": 68,
@@ -2279,7 +2279,7 @@ var SETDEX_SV = {
                 "Encore",
                 "Tailwind"
             ],
-            "index": 645
+            "index": 641
         },
         "Cooltrainer Dianne": {
             "level": 90,
@@ -2295,7 +2295,7 @@ var SETDEX_SV = {
                 "Close Combat",
                 "Roost"
             ],
-            "index": 898
+            "index": 894
         }
     },
     "Scrafty": {
@@ -2329,7 +2329,7 @@ var SETDEX_SV = {
                 "Poison Jab",
                 "Reversal"
             ],
-            "index": 624
+            "index": 620
         }
     },
     "Annihilape": {
@@ -2361,7 +2361,7 @@ var SETDEX_SV = {
                 "Stone Edge",
                 "Acrobatics"
             ],
-            "index": 574
+            "index": 570
         },
         "Challenger Phoebe": {
             "level": 75,
@@ -2377,7 +2377,7 @@ var SETDEX_SV = {
                 "Rage Fist",
                 "Poison Jab"
             ],
-            "index": 790
+            "index": 786
         },
         "Cooltrainer Mitchell": {
             "level": 90,
@@ -2393,7 +2393,7 @@ var SETDEX_SV = {
                 "Rage Fist",
                 "Lash Out"
             ],
-            "index": 925
+            "index": 921
         },
         "Drewd": {
             "level": 90,
@@ -2409,7 +2409,7 @@ var SETDEX_SV = {
                 "Ice Punch",
                 "Acrobatics"
             ],
-            "index": 938
+            "index": 934
         }
     },
     "Tauros-Paldea-Aqua": {
@@ -2443,7 +2443,7 @@ var SETDEX_SV = {
                 "Earthquake",
                 "Aqua Jet"
             ],
-            "index": 218
+            "index": 214
         },
         "Cooltrainer Teddy": {
             "level": 75,
@@ -2459,7 +2459,7 @@ var SETDEX_SV = {
                 "High Horsepower",
                 "Bulk Up"
             ],
-            "index": 785
+            "index": 781
         }
     },
     "Tauros-Paldea-Blaze": {
@@ -2493,7 +2493,7 @@ var SETDEX_SV = {
                 "High Horsepower",
                 "Flame Charge"
             ],
-            "index": 542
+            "index": 538
         }
     },
     "Fraxure": {
@@ -2617,7 +2617,7 @@ var SETDEX_SV = {
                 "Giga Drain",
                 "Ancient Power"
             ],
-            "index": 377
+            "index": 373
         }
     },
     "Azurill": {
@@ -2689,7 +2689,7 @@ var SETDEX_SV = {
                 "Thunder Fang",
                 "Protect"
             ],
-            "index": 683
+            "index": 679
         }
     },
     "Wigglytuff": {
@@ -2721,7 +2721,7 @@ var SETDEX_SV = {
                 "Hyper Voice",
                 "Psychic"
             ],
-            "index": 567
+            "index": 563
         },
         "Gentleman Clifford and Psychic Macey": {
             "level": 68,
@@ -2739,7 +2739,7 @@ var SETDEX_SV = {
                 "Hyper Beam",
                 "Sing"
             ],
-            "index": 685
+            "index": 681
         }
     },
     "Tentacruel": {
@@ -2773,7 +2773,7 @@ var SETDEX_SV = {
                 "Hex",
                 "Toxic"
             ],
-            "index": 315
+            "index": 311
         },
         "Hex Maniac Cole": {
             "level": 75,
@@ -2789,7 +2789,7 @@ var SETDEX_SV = {
                 "Hex",
                 "Toxic"
             ],
-            "index": 816
+            "index": 812
         }
     },
     "Golduck": {
@@ -2812,7 +2812,7 @@ var SETDEX_SV = {
         "Camper Travis and Cooltrainer Wilton": {
             "level": 38,
             "ivs": null,
-            "item": "Focus Sash",
+            "item": "Wise Glasses",
             "ability": "Swift Swim",
             "nature": "Modest",
             "teraType": null,
@@ -2839,7 +2839,7 @@ var SETDEX_SV = {
                 "Power Gem",
                 "Calm Mind"
             ],
-            "index": 312
+            "index": 308
         }
     },
     "Seaking": {
@@ -2873,7 +2873,7 @@ var SETDEX_SV = {
                 "Drill Run",
                 "Agility"
             ],
-            "index": 244
+            "index": 240
         }
     },
     "Ludicolo": {
@@ -2923,7 +2923,7 @@ var SETDEX_SV = {
                 "Ice Beam",
                 "Fake Out"
             ],
-            "index": 404
+            "index": 400
         },
         "Pokemon Ranger Tyree": {
             "level": 75,
@@ -2939,7 +2939,7 @@ var SETDEX_SV = {
                 "Ice Beam",
                 "Leech Seed"
             ],
-            "index": 731
+            "index": 727
         },
         "Cooltrainer Katelynn": {
             "level": 90,
@@ -2955,7 +2955,7 @@ var SETDEX_SV = {
                 "Ice Beam",
                 "Fake Out"
             ],
-            "index": 846
+            "index": 842
         }
     },
     "Masquerain": {
@@ -3005,7 +3005,7 @@ var SETDEX_SV = {
                 "Weather Ball",
                 "Quiver Dance"
             ],
-            "index": 461
+            "index": 457
         },
         "Bug Maniac Jeffrey": {
             "level": 72,
@@ -3021,7 +3021,7 @@ var SETDEX_SV = {
                 "Hydro Pump",
                 "Tailwind"
             ],
-            "index": 531
+            "index": 527
         }
     },
     "Sunflora": {
@@ -3073,7 +3073,7 @@ var SETDEX_SV = {
                 "Thunderbolt",
                 "Destiny Bond"
             ],
-            "index": 297
+            "index": 293
         },
         "Hex Maniac Cole": {
             "level": 75,
@@ -3089,7 +3089,7 @@ var SETDEX_SV = {
                 "Icy Wind",
                 "Will-O-Wisp"
             ],
-            "index": 817
+            "index": 813
         }
     },
     "Armaldo": {
@@ -3123,7 +3123,7 @@ var SETDEX_SV = {
                 "Liquidation",
                 "Aqua Jet"
             ],
-            "index": 534
+            "index": 530
         },
         "Cooltrainer Albert": {
             "level": 89,
@@ -3139,7 +3139,7 @@ var SETDEX_SV = {
                 "Earthquake",
                 "Protect"
             ],
-            "index": 844
+            "index": 840
         }
     },
     "Simipour": {
@@ -3171,7 +3171,7 @@ var SETDEX_SV = {
                 "Knock Off",
                 "Acrobatics"
             ],
-            "index": 239
+            "index": 235
         },
         "Fisherman Barny": {
             "level": 64,
@@ -3187,7 +3187,7 @@ var SETDEX_SV = {
                 "Superpower",
                 "Ice Punch"
             ],
-            "index": 423
+            "index": 419
         }
     },
     "Raichu-Alola": {
@@ -3221,7 +3221,7 @@ var SETDEX_SV = {
                 "Surf",
                 "Alluring Voice"
             ],
-            "index": 303
+            "index": 299
         },
         "Dragon Tamer Jace": {
             "level": 77,
@@ -3237,7 +3237,7 @@ var SETDEX_SV = {
                 "Surf",
                 "Fake Out"
             ],
-            "index": 803
+            "index": 799
         },
         "Cooltrainer Owen": {
             "level": 90,
@@ -3253,7 +3253,7 @@ var SETDEX_SV = {
                 "Rising Voltage",
                 "Psychic"
             ],
-            "index": 887
+            "index": 883
         }
     },
     "Nidoqueen": {
@@ -3287,7 +3287,7 @@ var SETDEX_SV = {
                 "Thunderbolt",
                 "Surf"
             ],
-            "index": 281
+            "index": 277
         },
         "Hiker Marcos and Picnicker Daisy": {
             "level": 55,
@@ -3303,7 +3303,7 @@ var SETDEX_SV = {
                 "Flamethrower",
                 "Thunderbolt"
             ],
-            "index": 396
+            "index": 392
         },
         "Hiker Eric": {
             "level": 77,
@@ -3319,7 +3319,7 @@ var SETDEX_SV = {
                 "Ice Beam",
                 "Flamethrower"
             ],
-            "index": 736
+            "index": 732
         }
     },
     "Raichu": {
@@ -3371,7 +3371,7 @@ var SETDEX_SV = {
                 "Thunderbolt",
                 "Flamethrower"
             ],
-            "index": 392
+            "index": 388
         },
         "Guitarist Fabian": {
             "level": 62,
@@ -3387,7 +3387,7 @@ var SETDEX_SV = {
                 "Thunder",
                 "Surf"
             ],
-            "index": 476
+            "index": 472
         },
         "Swimmer Herman and Swimmer Susie": {
             "level": 75,
@@ -3403,7 +3403,7 @@ var SETDEX_SV = {
                 "Flamethrower",
                 "Thunderbolt"
             ],
-            "index": 718
+            "index": 714
         }
     },
     "Toxtricity": {
@@ -3455,7 +3455,7 @@ var SETDEX_SV = {
                 "Low Sweep",
                 "Knock Off"
             ],
-            "index": 204
+            "index": 200
         }
     },
     "Croconaw": {
@@ -3507,7 +3507,7 @@ var SETDEX_SV = {
                 "Dazzling Gleam",
                 "Attract"
             ],
-            "index": 444
+            "index": 440
         }
     },
     "Sawsbuck": {
@@ -3526,22 +3526,6 @@ var SETDEX_SV = {
                 "Stomping Tantrum"
             ],
             "index": 134
-        },
-        "Camper Larry and Picnicker Carol": {
-            "level": 38,
-            "ivs": null,
-            "item": "Focus Sash",
-            "ability": "Leaf Rush",
-            "nature": "Adamant",
-            "teraType": null,
-            "status": "Healthy",
-            "moves": [
-                "Solar Blade",
-                "Body Slam",
-                "Zen Headbutt",
-                "Jump Kick"
-            ],
-            "index": 189
         }
     },
     "Sandslash": {
@@ -3564,7 +3548,7 @@ var SETDEX_SV = {
         "Camper Tyron and Kindler Hayden": {
             "level": 38,
             "ivs": null,
-            "item": "Focus Sash",
+            "item": "Assault Vest",
             "ability": "Sand Rush",
             "nature": "Adamant",
             "teraType": null,
@@ -3591,7 +3575,7 @@ var SETDEX_SV = {
                 "X-Scissor",
                 "Protect"
             ],
-            "index": 240
+            "index": 236
         },
         "Camper Brandan": {
             "level": 52,
@@ -3607,7 +3591,7 @@ var SETDEX_SV = {
                 "X-Scissor",
                 "Swords Dance"
             ],
-            "index": 378
+            "index": 374
         },
         "Gentleman Clifford and Psychic Macey": {
             "level": 70,
@@ -3625,7 +3609,7 @@ var SETDEX_SV = {
                 "X-Scissor",
                 "Protect"
             ],
-            "index": 684
+            "index": 680
         },
         "Battler Girl Danielle": {
             "level": 75,
@@ -3641,7 +3625,7 @@ var SETDEX_SV = {
                 "Poison Jab",
                 "Bulldoze"
             ],
-            "index": 824
+            "index": 820
         }
     },
     "Arctovish": {
@@ -3691,7 +3675,7 @@ var SETDEX_SV = {
                 "Freeze-Dry",
                 "Super Fang"
             ],
-            "index": 427
+            "index": 423
         }
     },
     "Crawdaunt": {
@@ -3699,7 +3683,7 @@ var SETDEX_SV = {
             "level": 30,
             "ivs": null,
             "item": "Mystic Water",
-            "ability": "Hyper Cutter",
+            "ability": "Shell Armor",
             "nature": "Adamant",
             "teraType": null,
             "status": "Healthy",
@@ -3725,7 +3709,7 @@ var SETDEX_SV = {
                 "Superpower",
                 "Aqua Jet"
             ],
-            "index": 253
+            "index": 249
         },
         "Fisherman Wade": {
             "level": 62,
@@ -3741,7 +3725,7 @@ var SETDEX_SV = {
                 "X-Scissor",
                 "Aqua Jet"
             ],
-            "index": 428
+            "index": 424
         },
         "Gentleman Clifford and Psychic Macey": {
             "level": 68,
@@ -3759,7 +3743,7 @@ var SETDEX_SV = {
                 "X-Scissor",
                 "Protect"
             ],
-            "index": 682
+            "index": 678
         }
     },
     "Dragalge": {
@@ -3793,7 +3777,7 @@ var SETDEX_SV = {
                 "Surf",
                 "Flip Turn"
             ],
-            "index": 289
+            "index": 285
         },
         "Ranger Emory": {
             "level": 53,
@@ -3809,7 +3793,7 @@ var SETDEX_SV = {
                 "Icy Wind",
                 "Toxic Spikes"
             ],
-            "index": 331
+            "index": 327
         },
         "Fisherman Wade": {
             "level": 62,
@@ -3825,7 +3809,7 @@ var SETDEX_SV = {
                 "Hydro Pump",
                 "Focus Blast"
             ],
-            "index": 429
+            "index": 425
         },
         "Cooltrainer Caroline": {
             "level": 89,
@@ -3841,7 +3825,7 @@ var SETDEX_SV = {
                 "Focus Blast",
                 "Flip Turn"
             ],
-            "index": 909
+            "index": 905
         }
     },
     "Brionne": {
@@ -3893,7 +3877,7 @@ var SETDEX_SV = {
                 "Aqua Jet",
                 "Bulk Up"
             ],
-            "index": 340
+            "index": 336
         }
     },
     "Jynx": {
@@ -3927,7 +3911,7 @@ var SETDEX_SV = {
                 "Energy Ball",
                 "Fake Out"
             ],
-            "index": 398
+            "index": 394
         },
         "Swimmer Sharon and Swimmer Nolen": {
             "level": 68,
@@ -3943,7 +3927,7 @@ var SETDEX_SV = {
                 "Icy Wind",
                 "Fake Out"
             ],
-            "index": 603
+            "index": 599
         }
     },
     "Dewott": {
@@ -4015,7 +3999,7 @@ var SETDEX_SV = {
                 "Beat Up",
                 "Tailwind"
             ],
-            "index": 576
+            "index": 572
         },
         "Cooltrainer MBF": {
             "level": 90,
@@ -4031,7 +4015,7 @@ var SETDEX_SV = {
                 "Sunny Day",
                 "Tailwind"
             ],
-            "index": 899
+            "index": 895
         },
         "Cooltrainer Halle": {
             "level": 90,
@@ -4047,7 +4031,7 @@ var SETDEX_SV = {
                 "Knock Off",
                 "Misty Terrain"
             ],
-            "index": 932
+            "index": 928
         }
     },
     "Drakloak": {
@@ -4117,7 +4101,7 @@ var SETDEX_SV = {
                 "Energy Ball",
                 "Electroweb"
             ],
-            "index": 441
+            "index": 437
         },
         "Guitarist Kendall": {
             "level": 75,
@@ -4133,7 +4117,7 @@ var SETDEX_SV = {
                 "Volt Switch",
                 "Sticky Web"
             ],
-            "index": 746
+            "index": 742
         }
     },
     "Crustle": {
@@ -4167,7 +4151,7 @@ var SETDEX_SV = {
                 "Rock Slide",
                 "Knock Off"
             ],
-            "index": 386
+            "index": 382
         }
     },
     "Rabsca": {
@@ -4219,7 +4203,7 @@ var SETDEX_SV = {
                 "Poison Jab",
                 "Thunder Wave"
             ],
-            "index": 300
+            "index": 296
         },
         "Hex Maniac Sylvia and Psychic Hannah": {
             "level": 70,
@@ -4237,7 +4221,7 @@ var SETDEX_SV = {
                 "Reversal",
                 "Toxic Spikes"
             ],
-            "index": 670
+            "index": 666
         }
     },
     "Dedenne": {
@@ -4289,7 +4273,7 @@ var SETDEX_SV = {
                 "Super Fang",
                 "Fake Out"
             ],
-            "index": 955
+            "index": 951
         }
     },
     "Rotom": {
@@ -4359,7 +4343,7 @@ var SETDEX_SV = {
                 "Volt Switch",
                 "Ice Fang"
             ],
-            "index": 796
+            "index": 792
         }
     },
     "Crabominable": {
@@ -4413,7 +4397,7 @@ var SETDEX_SV = {
                 "Hammer Arm",
                 "Zen Headbutt"
             ],
-            "index": 663
+            "index": 659
         }
     },
     "Toxtricity-Low-Key": {
@@ -4447,7 +4431,7 @@ var SETDEX_SV = {
                 "Sludge Wave",
                 "Scary Face"
             ],
-            "index": 563
+            "index": 559
         }
     },
     "Victreebel": {
@@ -4501,7 +4485,7 @@ var SETDEX_SV = {
                 "Rock Slide",
                 "Fire Punch"
             ],
-            "index": 672
+            "index": 668
         }
     },
     "Armarouge": {
@@ -4535,7 +4519,7 @@ var SETDEX_SV = {
                 "Aura Sphere",
                 "Dark Pulse"
             ],
-            "index": 363
+            "index": 359
         },
         "Swimmer Declan": {
             "level": 68,
@@ -4551,7 +4535,7 @@ var SETDEX_SV = {
                 "Weather Ball",
                 "Calm Mind"
             ],
-            "index": 616
+            "index": 612
         },
         "Gym Leader Tate and Liza": {
             "level": 70,
@@ -4567,7 +4551,7 @@ var SETDEX_SV = {
                 "Aura Sphere",
                 "Protect"
             ],
-            "index": 688
+            "index": 684
         },
         "Battler Girl Danielle": {
             "level": 75,
@@ -4583,7 +4567,7 @@ var SETDEX_SV = {
                 "Aura Sphere",
                 "Flame Charge"
             ],
-            "index": 826
+            "index": 822
         }
     },
     "Jolteon": {
@@ -4617,7 +4601,7 @@ var SETDEX_SV = {
                 "Shadow Ball",
                 "Substitute"
             ],
-            "index": 348
+            "index": 344
         },
         "Swimmer Isabella": {
             "level": 68,
@@ -4633,7 +4617,7 @@ var SETDEX_SV = {
                 "Alluring Voice",
                 "Calm Mind"
             ],
-            "index": 639
+            "index": 635
         },
         "Cooltrainer Katelynn": {
             "level": 89,
@@ -4649,7 +4633,7 @@ var SETDEX_SV = {
                 "Alluring Voice",
                 "Electroweb"
             ],
-            "index": 848
+            "index": 844
         }
     },
     "Persian": {
@@ -4701,7 +4685,7 @@ var SETDEX_SV = {
                 "Energy Ball",
                 "Volt Switch"
             ],
-            "index": 592
+            "index": 588
         },
         "Cooltrainer Gerald": {
             "level": 77,
@@ -4717,7 +4701,7 @@ var SETDEX_SV = {
                 "Energy Ball",
                 "Thunder Wave"
             ],
-            "index": 808
+            "index": 804
         }
     },
     "Sandy Shocks": {
@@ -4751,7 +4735,7 @@ var SETDEX_SV = {
                 "Tri Attack",
                 "Flash Cannon"
             ],
-            "index": 791
+            "index": 787
         },
         "Elite Four Jasmine": {
             "level": 90,
@@ -4767,7 +4751,7 @@ var SETDEX_SV = {
                 "Flash Cannon",
                 "Tri Attack"
             ],
-            "index": 954
+            "index": 950
         }
     },
     "Luxray": {
@@ -4801,7 +4785,7 @@ var SETDEX_SV = {
                 "Crunch",
                 "Howl"
             ],
-            "index": 284
+            "index": 280
         },
         "Beauty Jessica": {
             "level": 70,
@@ -4817,7 +4801,7 @@ var SETDEX_SV = {
                 "Crunch",
                 "Ice Fang"
             ],
-            "index": 558
+            "index": 554
         },
         "Psychic Virgil and Gentleman Nate": {
             "level": 68,
@@ -4835,7 +4819,7 @@ var SETDEX_SV = {
                 "Ice Fang",
                 "Howl"
             ],
-            "index": 664
+            "index": 660
         }
     },
     "Arctozolt": {
@@ -4869,7 +4853,7 @@ var SETDEX_SV = {
                 "Freeze-Dry",
                 "Stone Edge"
             ],
-            "index": 602
+            "index": 598
         }
     },
     "Dracozolt": {
@@ -4903,7 +4887,7 @@ var SETDEX_SV = {
                 "Earthquake",
                 "Stone Edge"
             ],
-            "index": 382
+            "index": 378
         },
         "Swimmer Richard and Swimmer Kara": {
             "level": 75,
@@ -4919,7 +4903,7 @@ var SETDEX_SV = {
                 "Stone Edge",
                 "High Horsepower"
             ],
-            "index": 715
+            "index": 711
         }
     },
     "Pawmot": {
@@ -4953,7 +4937,7 @@ var SETDEX_SV = {
                 "Play Rough",
                 "Ice Punch"
             ],
-            "index": 743
+            "index": 739
         },
         "Cooltrainer Owen": {
             "level": 89,
@@ -4969,14 +4953,14 @@ var SETDEX_SV = {
                 "Ice Punch",
                 "Thunder Punch"
             ],
-            "index": 889
+            "index": 885
         }
     },
     "Lycanroc": {
         "Camper Tyron and Kindler Hayden": {
             "level": 38,
             "ivs": null,
-            "item": "Focus Sash",
+            "item": "Life Orb",
             "ability": "Sand Rush",
             "nature": "Adamant",
             "teraType": null,
@@ -5003,7 +4987,7 @@ var SETDEX_SV = {
                 "Psychic Fangs",
                 "Ice Fang"
             ],
-            "index": 384
+            "index": 380
         },
         "Collector Hector and Hex Maniac Nadia": {
             "level": 53,
@@ -5019,7 +5003,7 @@ var SETDEX_SV = {
                 "Play Rough",
                 "Crunch"
             ],
-            "index": 406
+            "index": 402
         }
     },
     "Stoutland": {
@@ -5053,7 +5037,7 @@ var SETDEX_SV = {
                 "Brick Break",
                 "Work Up"
             ],
-            "index": 389
+            "index": 385
         },
         "Hiker Eli": {
             "level": 75,
@@ -5069,7 +5053,7 @@ var SETDEX_SV = {
                 "Rock Tomb",
                 "Attract"
             ],
-            "index": 821
+            "index": 817
         },
         "Cooltrainer Dianne": {
             "level": 90,
@@ -5085,7 +5069,7 @@ var SETDEX_SV = {
                 "Crunch",
                 "Return"
             ],
-            "index": 896
+            "index": 892
         }
     },
     "Hippowdon": {
@@ -5119,7 +5103,7 @@ var SETDEX_SV = {
                 "Substitute",
                 "Slack Off"
             ],
-            "index": 391
+            "index": 387
         },
         "Cooltrainer Quincy": {
             "level": 90,
@@ -5135,7 +5119,7 @@ var SETDEX_SV = {
                 "Recover",
                 "Protect"
             ],
-            "index": 851
+            "index": 847
         }
     },
     "Ninetales-Alola": {
@@ -5169,7 +5153,7 @@ var SETDEX_SV = {
                 "Freeze-Dry",
                 "Aurora Veil"
             ],
-            "index": 304
+            "index": 300
         },
         "Cooltrainer Albert": {
             "level": 89,
@@ -5185,14 +5169,14 @@ var SETDEX_SV = {
                 "Freeze-Dry",
                 "Aurora Veil"
             ],
-            "index": 839
+            "index": 835
         }
     },
     "Sandslash-Alola": {
         "Aroma Lady Celina and Picnicker Bianca": {
             "level": 38,
             "ivs": null,
-            "item": "Focus Sash",
+            "item": "Rowap Berry",
             "ability": "Slush Rush",
             "nature": "Adamant",
             "teraType": null,
@@ -5219,7 +5203,7 @@ var SETDEX_SV = {
                 "Rock Slide",
                 "Aerial Ace"
             ],
-            "index": 622
+            "index": 618
         },
         "Cooltrainer Albert": {
             "level": 89,
@@ -5235,14 +5219,14 @@ var SETDEX_SV = {
                 "Rock Slide",
                 "Spiky Shield"
             ],
-            "index": 840
+            "index": 836
         }
     },
     "Beartic": {
         "Aroma Lady Celina and Picnicker Bianca": {
             "level": 38,
             "ivs": null,
-            "item": "Focus Sash",
+            "item": "Muscle Band",
             "ability": "Slush Rush",
             "nature": "Adamant",
             "teraType": null,
@@ -5269,14 +5253,14 @@ var SETDEX_SV = {
                 "Throat Chop",
                 "Reversal"
             ],
-            "index": 306
+            "index": 302
         }
     },
     "Mantine": {
         "Camper Travis and Cooltrainer Wilton": {
             "level": 38,
             "ivs": null,
-            "item": "Focus Sash",
+            "item": "Wacan Berry",
             "ability": "Swift Swim",
             "nature": "Modest",
             "teraType": null,
@@ -5303,7 +5287,7 @@ var SETDEX_SV = {
                 "Ice Beam",
                 "Bulldoze"
             ],
-            "index": 712
+            "index": 708
         }
     },
     "Drednaw": {
@@ -5328,7 +5312,7 @@ var SETDEX_SV = {
         "Camper Travis and Cooltrainer Wilton": {
             "level": 40,
             "ivs": null,
-            "item": "Focus Sash",
+            "item": "Iapapa Berry",
             "ability": "Drizzle",
             "nature": "Calm",
             "teraType": null,
@@ -5355,7 +5339,7 @@ var SETDEX_SV = {
                 "Earth Power",
                 "Hypnosis"
             ],
-            "index": 313
+            "index": 309
         },
         "Cooltrainer Katelynn": {
             "level": 90,
@@ -5371,109 +5355,7 @@ var SETDEX_SV = {
                 "Sleep Talk",
                 "Rest"
             ],
-            "index": 845
-        }
-    },
-    "Ninetales": {
-        "Camper Larry and Picnicker Carol": {
-            "level": 40,
-            "ivs": null,
-            "item": "Focus Sash",
-            "ability": "Drought",
-            "nature": "Modest",
-            "teraType": null,
-            "status": "Healthy",
-            "moves": [
-                "Flamethrower",
-                "Solar Beam",
-                "Extrasensory",
-                "Scorching Sands"
-            ],
-            "index": 187
-        },
-        "Ranger Lorenzo and Ranger Jenna": {
-            "level": 70,
-            "ivs": null,
-            "item": "Wide Lens",
-            "ability": "Drought",
-            "nature": "Modest",
-            "teraType": null,
-            "status": "Healthy",
-            "moves": [
-                "Fire Blast",
-                "Solar Beam",
-                "Hex",
-                "Will-O-Wisp"
-            ],
-            "index": 543
-        },
-        "Tuber Roy": {
-            "level": 70,
-            "ivs": null,
-            "item": "Ice Gem",
-            "ability": "Flash Fire",
-            "nature": "Timid",
-            "teraType": null,
-            "status": "Healthy",
-            "moves": [
-                "Heat Wave",
-                "Weather Ball",
-                "Extrasensory",
-                "Nasty Plot"
-            ],
-            "index": 609
-        },
-        "Kindler Jeff": {
-            "level": 75,
-            "ivs": null,
-            "item": "Eject Pack",
-            "ability": "Flash Fire",
-            "nature": "Timid",
-            "teraType": null,
-            "status": "Healthy",
-            "moves": [
-                "Overheat",
-                "Extrasensory",
-                "Hex",
-                "Will-O-Wisp"
-            ],
-            "index": 795
-        }
-    },
-    "Salazzle": {
-        "Camper Larry and Picnicker Carol": {
-            "level": 38,
-            "ivs": null,
-            "item": "Focus Sash",
-            "ability": "Oblivious",
-            "nature": "Serious",
-            "teraType": null,
-            "status": "Healthy",
-            "moves": [
-                "Flamethrower",
-                "Sludge Bomb",
-                "Hyper Voice",
-                "Fake Out"
-            ],
-            "index": 188
-        }
-    },
-    "Leavanny": {
-        "Camper Larry and Picnicker Carol": {
-            "level": 38,
-            "ivs": null,
-            "item": "Covert Cloak",
-            "ability": "Chlorophyll",
-            "nature": "Adamant",
-            "teraType": null,
-            "status": "Healthy",
-            "moves": [
-                "Solar Blade",
-                "X-Scissor",
-                "Poison Jab",
-                "Throat Chop"
-            ],
-            "index": 190
+            "index": 841
         }
     },
     "Conkeldurr": {
@@ -5491,7 +5373,7 @@ var SETDEX_SV = {
                 "Poison Jab",
                 "Mach Punch"
             ],
-            "index": 191
+            "index": 187
         },
         "Psychic Brandi": {
             "level": 75,
@@ -5507,7 +5389,7 @@ var SETDEX_SV = {
                 "Ice Punch",
                 "Knock Off"
             ],
-            "index": 767
+            "index": 763
         }
     },
     "Duraludon": {
@@ -5525,7 +5407,7 @@ var SETDEX_SV = {
                 "Stone Edge",
                 "Thunder Wave"
             ],
-            "index": 192
+            "index": 188
         },
         "Cooltrainer Jennifer": {
             "level": 68,
@@ -5541,7 +5423,7 @@ var SETDEX_SV = {
                 "Thunderbolt",
                 "Body Press"
             ],
-            "index": 535
+            "index": 531
         }
     },
     "Bombirdier": {
@@ -5559,7 +5441,7 @@ var SETDEX_SV = {
                 "Stone Edge",
                 "Roost"
             ],
-            "index": 193
+            "index": 189
         },
         "Bird Keeper Hugh": {
             "level": 63,
@@ -5575,7 +5457,7 @@ var SETDEX_SV = {
                 "Stone Edge",
                 "Sucker Punch"
             ],
-            "index": 458
+            "index": 454
         },
         "Picnicker Ashley": {
             "level": 64,
@@ -5591,7 +5473,7 @@ var SETDEX_SV = {
                 "Stone Edge",
                 "Hone Claws"
             ],
-            "index": 493
+            "index": 489
         },
         "Guitarist Kendall": {
             "level": 77,
@@ -5607,7 +5489,7 @@ var SETDEX_SV = {
                 "Knock Off",
                 "Foul Play"
             ],
-            "index": 751
+            "index": 747
         }
     },
     "Donphan": {
@@ -5625,7 +5507,7 @@ var SETDEX_SV = {
                 "Ice Spinner",
                 "Ice Shard"
             ],
-            "index": 194
+            "index": 190
         },
         "Leader Steven": {
             "level": 53,
@@ -5641,7 +5523,7 @@ var SETDEX_SV = {
                 "Seed Bomb",
                 "Ice Shard"
             ],
-            "index": 414
+            "index": 410
         },
         "Ranger Jackson": {
             "level": 63,
@@ -5657,7 +5539,7 @@ var SETDEX_SV = {
                 "Seed Bomb",
                 "Ice Shard"
             ],
-            "index": 454
+            "index": 450
         },
         "Psychic Presont and Psychic Maura": {
             "level": 68,
@@ -5675,7 +5557,7 @@ var SETDEX_SV = {
                 "Ice Spinner",
                 "Protect"
             ],
-            "index": 656
+            "index": 652
         }
     },
     "Turtonator": {
@@ -5693,7 +5575,7 @@ var SETDEX_SV = {
                 "Scorching Sands",
                 "Scale Shot"
             ],
-            "index": 195
+            "index": 191
         },
         "Ruin Maniac Bryan": {
             "level": 55,
@@ -5707,7 +5589,7 @@ var SETDEX_SV = {
                 "Draco Meteor",
                 "Overheat"
             ],
-            "index": 379
+            "index": 375
         },
         "Cooltrainer Halle": {
             "level": 90,
@@ -5723,7 +5605,7 @@ var SETDEX_SV = {
                 "Dragon Pulse",
                 "Flash Cannon"
             ],
-            "index": 931
+            "index": 927
         }
     },
     "Heatmor": {
@@ -5741,7 +5623,7 @@ var SETDEX_SV = {
                 "Stomping Tantrum",
                 "Rock Slide"
             ],
-            "index": 196
+            "index": 192
         },
         "Hex Maniac Kathleen and Psychic Nicholas": {
             "level": 68,
@@ -5759,7 +5641,7 @@ var SETDEX_SV = {
                 "Giga Drain",
                 "Drain Punch"
             ],
-            "index": 677
+            "index": 673
         },
         "Bug Maniac Axle": {
             "level": 75,
@@ -5775,7 +5657,7 @@ var SETDEX_SV = {
                 "Thunder Punch",
                 "Drain Punch"
             ],
-            "index": 800
+            "index": 796
         }
     },
     "Weezing": {
@@ -5793,7 +5675,7 @@ var SETDEX_SV = {
                 "Shadow Ball",
                 "Explosion"
             ],
-            "index": 197
+            "index": 193
         },
         "Ninja Boy Takashi": {
             "level": 64,
@@ -5809,7 +5691,7 @@ var SETDEX_SV = {
                 "Dark Pulse",
                 "Destiny Bond"
             ],
-            "index": 471
+            "index": 467
         }
     },
     "Rotom-Heat": {
@@ -5827,7 +5709,7 @@ var SETDEX_SV = {
                 "Volt Switch",
                 "Thunder Wave"
             ],
-            "index": 198
+            "index": 194
         }
     },
     "Vileplume": {
@@ -5845,7 +5727,7 @@ var SETDEX_SV = {
                 "Moonblast",
                 "Moonlight"
             ],
-            "index": 199
+            "index": 195
         },
         "Ranger Luella": {
             "level": 53,
@@ -5861,7 +5743,7 @@ var SETDEX_SV = {
                 "Moonblast",
                 "Moonlight"
             ],
-            "index": 352
+            "index": 348
         }
     },
     "Appletun": {
@@ -5879,7 +5761,7 @@ var SETDEX_SV = {
                 "Heavy Slam",
                 "Growth"
             ],
-            "index": 200
+            "index": 196
         }
     },
     "Arboliva": {
@@ -5897,7 +5779,7 @@ var SETDEX_SV = {
                 "Earth Power",
                 "Mirror Coat"
             ],
-            "index": 201
+            "index": 197
         }
     },
     "Rotom-Mow": {
@@ -5915,7 +5797,7 @@ var SETDEX_SV = {
                 "Volt Switch",
                 "Thunder Wave"
             ],
-            "index": 202
+            "index": 198
         },
         "Aroma Lady Mia": {
             "level": 53,
@@ -5931,7 +5813,7 @@ var SETDEX_SV = {
                 "Volt Switch",
                 "Shadow Ball"
             ],
-            "index": 320
+            "index": 316
         }
     },
     "Farigiraf": {
@@ -5949,7 +5831,7 @@ var SETDEX_SV = {
                 "Energy Ball",
                 "Nasty Plot"
             ],
-            "index": 203
+            "index": 199
         },
         "Aroma Lady Mia": {
             "level": 53,
@@ -5965,7 +5847,7 @@ var SETDEX_SV = {
                 "Thunderbolt",
                 "Agility"
             ],
-            "index": 321
+            "index": 317
         },
         "Sailor Cory and Cooltrainer Carolina": {
             "level": 0,
@@ -5981,7 +5863,7 @@ var SETDEX_SV = {
                 "Expanding Force",
                 "Energy Ball"
             ],
-            "index": 417
+            "index": 413
         },
         "Psychic Blake and Psychic Samantha": {
             "level": 68,
@@ -5999,7 +5881,7 @@ var SETDEX_SV = {
                 "Energy Ball",
                 "Shadow Ball"
             ],
-            "index": 661
+            "index": 657
         },
         "Swimmer Richard and Swimmer Kara": {
             "level": 77,
@@ -6015,7 +5897,7 @@ var SETDEX_SV = {
                 "Light Screen",
                 "Reflect"
             ],
-            "index": 716
+            "index": 712
         }
     },
     "Sudowoodo": {
@@ -6033,7 +5915,7 @@ var SETDEX_SV = {
                 "Drain Punch",
                 "Trailblaze"
             ],
-            "index": 205
+            "index": 201
         },
         "Camper Brandan": {
             "level": 55,
@@ -6049,7 +5931,7 @@ var SETDEX_SV = {
                 "Ice Punch",
                 "Stealth Rock"
             ],
-            "index": 375
+            "index": 371
         },
         "Pokemon Breeder Myles": {
             "level": 70,
@@ -6065,7 +5947,7 @@ var SETDEX_SV = {
                 "High Horsepower",
                 "Ice Punch"
             ],
-            "index": 571
+            "index": 567
         }
     },
     "Blastoise": {
@@ -6083,7 +5965,7 @@ var SETDEX_SV = {
                 "Zen Headbutt",
                 "Skull Bash"
             ],
-            "index": 207
+            "index": 203
         },
         "Ranger Jackson": {
             "level": 62,
@@ -6099,7 +5981,7 @@ var SETDEX_SV = {
                 "Zen Headbutt",
                 "Shell Smash"
             ],
-            "index": 452
+            "index": 448
         },
         "Psychic Virgil and Gentleman Nate": {
             "level": 70,
@@ -6117,7 +5999,7 @@ var SETDEX_SV = {
                 "Rock Slide",
                 "Fake Out"
             ],
-            "index": 669
+            "index": 665
         },
         "Swimmer Herman and Swimmer Susie": {
             "level": 75,
@@ -6133,7 +6015,7 @@ var SETDEX_SV = {
                 "Rock Slide",
                 "Fake Out"
             ],
-            "index": 719
+            "index": 715
         }
     },
     "Scolipede": {
@@ -6151,7 +6033,7 @@ var SETDEX_SV = {
                 "Earthquake",
                 "Throat Chop"
             ],
-            "index": 208
+            "index": 204
         },
         "Swimmer Spencer": {
             "level": 68,
@@ -6167,7 +6049,7 @@ var SETDEX_SV = {
                 "Smart Strike",
                 "Swords Dance"
             ],
-            "index": 621
+            "index": 617
         }
     },
     "Gogoat": {
@@ -6185,7 +6067,7 @@ var SETDEX_SV = {
                 "Rock Slide",
                 "Milk Drink"
             ],
-            "index": 209
+            "index": 205
         },
         "Ranger Catherine": {
             "level": 62,
@@ -6201,7 +6083,7 @@ var SETDEX_SV = {
                 "Stomping Tantrum",
                 "Synthesis"
             ],
-            "index": 447
+            "index": 443
         }
     },
     "Krookodile": {
@@ -6219,7 +6101,7 @@ var SETDEX_SV = {
                 "Low Sweep",
                 "Dragon Tail"
             ],
-            "index": 210
+            "index": 206
         },
         "Battle Girl Aisha": {
             "level": 75,
@@ -6235,7 +6117,7 @@ var SETDEX_SV = {
                 "Stone Edge",
                 "Dragon Claw"
             ],
-            "index": 744
+            "index": 740
         },
         "Cooltrainer MBF": {
             "level": 90,
@@ -6251,7 +6133,7 @@ var SETDEX_SV = {
                 "Gunk Shot",
                 "Hone Claws"
             ],
-            "index": 900
+            "index": 896
         }
     },
     "Dubwool": {
@@ -6269,7 +6151,7 @@ var SETDEX_SV = {
                 "Payback",
                 "Reversal"
             ],
-            "index": 211
+            "index": 207
         },
         "Ranger Catherine": {
             "level": 62,
@@ -6285,7 +6167,7 @@ var SETDEX_SV = {
                 "Wild Charge",
                 "Swords Dance"
             ],
-            "index": 448
+            "index": 444
         }
     },
     "Aggron": {
@@ -6303,7 +6185,7 @@ var SETDEX_SV = {
                 "Ice Punch",
                 "Stealth Rock"
             ],
-            "index": 212
+            "index": 208
         }
     },
     "Carnivine": {
@@ -6321,7 +6203,7 @@ var SETDEX_SV = {
                 "Sludge Bomb",
                 "Growth"
             ],
-            "index": 213
+            "index": 209
         }
     },
     "Quaquaval": {
@@ -6339,7 +6221,7 @@ var SETDEX_SV = {
                 "Acrobatics",
                 "Aqua Jet"
             ],
-            "index": 214
+            "index": 210
         },
         "Leader Juan": {
             "level": 39,
@@ -6355,7 +6237,7 @@ var SETDEX_SV = {
                 "Acrobatics",
                 "Roost"
             ],
-            "index": 316
+            "index": 312
         },
         "Cooltrainer Julie": {
             "level": 89,
@@ -6371,7 +6253,7 @@ var SETDEX_SV = {
                 "Acrobatics",
                 "Aqua Jet"
             ],
-            "index": 884
+            "index": 880
         },
         "Aqua Leader Archie": {
             "level": 89,
@@ -6387,7 +6269,7 @@ var SETDEX_SV = {
                 "Aqua Jet",
                 "Acrobatics"
             ],
-            "index": 948
+            "index": 944
         }
     },
     "Durant": {
@@ -6405,7 +6287,7 @@ var SETDEX_SV = {
                 "Iron Head",
                 "Stomping Tantrum"
             ],
-            "index": 215
+            "index": 211
         }
     },
     "Houndoom": {
@@ -6423,7 +6305,7 @@ var SETDEX_SV = {
                 "Psychic Fangs",
                 "Thunder Fang"
             ],
-            "index": 216
+            "index": 212
         },
         "Siblings Reli And Ian": {
             "level": 75,
@@ -6439,7 +6321,7 @@ var SETDEX_SV = {
                 "Dark Pulse",
                 "Sludge Bomb"
             ],
-            "index": 723
+            "index": 719
         }
     },
     "Ampharos": {
@@ -6457,7 +6339,7 @@ var SETDEX_SV = {
                 "Power Gem",
                 "Thunder Wave"
             ],
-            "index": 217
+            "index": 213
         },
         "Ranger Catherine": {
             "level": 62,
@@ -6473,7 +6355,7 @@ var SETDEX_SV = {
                 "Dragon Pulse",
                 "Thunder Wave"
             ],
-            "index": 449
+            "index": 445
         }
     },
     "Pinsir": {
@@ -6491,7 +6373,7 @@ var SETDEX_SV = {
                 "Stone Edge",
                 "Swords Dance"
             ],
-            "index": 219
+            "index": 215
         }
     },
     "Grimmsnarl": {
@@ -6509,7 +6391,7 @@ var SETDEX_SV = {
                 "Light Screen",
                 "Reflect"
             ],
-            "index": 220
+            "index": 216
         },
         "Camper Drew": {
             "level": 55,
@@ -6525,7 +6407,7 @@ var SETDEX_SV = {
                 "Light Screen",
                 "Reflect"
             ],
-            "index": 388
+            "index": 384
         },
         "Swimmer Jenny": {
             "level": 68,
@@ -6541,7 +6423,7 @@ var SETDEX_SV = {
                 "Light Screen",
                 "Reflect"
             ],
-            "index": 627
+            "index": 623
         },
         "Hex Maniac Kathleen and Psychic Nicholas": {
             "level": 70,
@@ -6559,7 +6441,7 @@ var SETDEX_SV = {
                 "Hammer Arm",
                 "Fake Out"
             ],
-            "index": 678
+            "index": 674
         },
         "Cooltrainer Red": {
             "level": 90,
@@ -6575,7 +6457,7 @@ var SETDEX_SV = {
                 "Light Screen",
                 "Reflect"
             ],
-            "index": 917
+            "index": 913
         }
     },
     "Typhlosion-Hisui": {
@@ -6593,7 +6475,7 @@ var SETDEX_SV = {
                 "Thunder Punch",
                 "Will-O-Wisp"
             ],
-            "index": 221
+            "index": 217
         },
         "Swimmer Tanya": {
             "level": 68,
@@ -6609,7 +6491,7 @@ var SETDEX_SV = {
                 "Shadow Ball",
                 "Extrasensory"
             ],
-            "index": 611
+            "index": 607
         },
         "Elite Four Janine": {
             "level": 89,
@@ -6625,7 +6507,7 @@ var SETDEX_SV = {
                 "Extrasensory",
                 "Infernal Parade"
             ],
-            "index": 969
+            "index": 965
         }
     },
     "Banette": {
@@ -6643,7 +6525,7 @@ var SETDEX_SV = {
                 "Will-O-Wisp",
                 "Destiny Bond"
             ],
-            "index": 222
+            "index": 218
         },
         "Hex Maniac Tammy": {
             "level": 70,
@@ -6661,7 +6543,7 @@ var SETDEX_SV = {
                 "Gunk Shot",
                 "Protect"
             ],
-            "index": 553
+            "index": 549
         }
     },
     "Cacturne": {
@@ -6679,7 +6561,7 @@ var SETDEX_SV = {
                 "Focus Blast",
                 "Destiny Bond"
             ],
-            "index": 223
+            "index": 219
         },
         "Camper Brandan": {
             "level": 52,
@@ -6695,7 +6577,7 @@ var SETDEX_SV = {
                 "Poison Jab",
                 "Spiky Shield"
             ],
-            "index": 376
+            "index": 372
         }
     },
     "Rapidash": {
@@ -6713,7 +6595,7 @@ var SETDEX_SV = {
                 "High Horsepower",
                 "Morning Sun"
             ],
-            "index": 224
+            "index": 220
         },
         "Aroma Lady Mia": {
             "level": 53,
@@ -6729,7 +6611,7 @@ var SETDEX_SV = {
                 "High Horsepower",
                 "Flame Charge"
             ],
-            "index": 319
+            "index": 315
         }
     },
     "Rapidash-Galar": {
@@ -6747,7 +6629,7 @@ var SETDEX_SV = {
                 "High Horsepower",
                 "Morning Sun"
             ],
-            "index": 225
+            "index": 221
         },
         "Kindler Jeff": {
             "level": 75,
@@ -6763,7 +6645,7 @@ var SETDEX_SV = {
                 "High Horsepower",
                 "Will-O-Wisp"
             ],
-            "index": 797
+            "index": 793
         }
     },
     "Weavile": {
@@ -6781,7 +6663,7 @@ var SETDEX_SV = {
                 "X-Scissor",
                 "Fake Out"
             ],
-            "index": 226
+            "index": 222
         },
         "Tuber Roy": {
             "level": 68,
@@ -6797,7 +6679,7 @@ var SETDEX_SV = {
                 "Low Kick",
                 "Ice Shard"
             ],
-            "index": 606
+            "index": 602
         },
         "Swimmer Grace": {
             "level": 70,
@@ -6811,7 +6693,7 @@ var SETDEX_SV = {
                 "Icicle Crash",
                 "Throat Chop"
             ],
-            "index": 625
+            "index": 621
         },
         "Cooltrainer Katelynn": {
             "level": 89,
@@ -6827,7 +6709,7 @@ var SETDEX_SV = {
                 "Poison Jab",
                 "Fake Out"
             ],
-            "index": 849
+            "index": 845
         }
     },
     "Sneasler": {
@@ -6845,7 +6727,7 @@ var SETDEX_SV = {
                 "X-Scissor",
                 "Fake Out"
             ],
-            "index": 227
+            "index": 223
         },
         "Gentleman Walter": {
             "level": 68,
@@ -6861,7 +6743,7 @@ var SETDEX_SV = {
                 "Brick Break",
                 "Acrobatics"
             ],
-            "index": 584
+            "index": 580
         },
         "Aroma Lady Rachel": {
             "level": 89,
@@ -6877,7 +6759,7 @@ var SETDEX_SV = {
                 "Acrobatics",
                 "Fake Out"
             ],
-            "index": 866
+            "index": 862
         },
         "Cooltrainer Halle": {
             "level": 90,
@@ -6893,7 +6775,7 @@ var SETDEX_SV = {
                 "Close Combat",
                 "Dire Claw"
             ],
-            "index": 934
+            "index": 930
         },
         "Elite Four Janine": {
             "level": 89,
@@ -6909,7 +6791,7 @@ var SETDEX_SV = {
                 "Rock Slide",
                 "Fake Out"
             ],
-            "index": 968
+            "index": 964
         }
     },
     "Vikavolt": {
@@ -6927,7 +6809,7 @@ var SETDEX_SV = {
                 "Air Slash",
                 "Roost"
             ],
-            "index": 228
+            "index": 224
         },
         "Bug Maniac Brent": {
             "level": 62,
@@ -6943,7 +6825,7 @@ var SETDEX_SV = {
                 "Air Slash",
                 "Roost"
             ],
-            "index": 462
+            "index": 458
         },
         "Bug Maniac Cale": {
             "level": 68,
@@ -6959,7 +6841,7 @@ var SETDEX_SV = {
                 "Air Slash",
                 "Sticky Web"
             ],
-            "index": 559
+            "index": 555
         },
         "Pokemon Ranger Shirley": {
             "level": 75,
@@ -6975,7 +6857,7 @@ var SETDEX_SV = {
                 "Energy Ball",
                 "Sticky Web"
             ],
-            "index": 777
+            "index": 773
         }
     },
     "Fearow": {
@@ -6993,7 +6875,7 @@ var SETDEX_SV = {
                 "Steel Wing",
                 "Roost"
             ],
-            "index": 229
+            "index": 225
         }
     },
     "Altaria": {
@@ -7011,7 +6893,7 @@ var SETDEX_SV = {
                 "Moonblast",
                 "Roost"
             ],
-            "index": 230
+            "index": 226
         }
     },
     "Shelgon": {
@@ -7029,7 +6911,7 @@ var SETDEX_SV = {
                 "Zen Headbutt",
                 "Dragon Dance"
             ],
-            "index": 231
+            "index": 227
         }
     },
     "Silvally-Flying": {
@@ -7047,7 +6929,7 @@ var SETDEX_SV = {
                 "Reversal",
                 "Substitute"
             ],
-            "index": 232
+            "index": 228
         },
         "Expert Jared": {
             "level": 64,
@@ -7063,7 +6945,7 @@ var SETDEX_SV = {
                 "X-Scissor",
                 "Parting Shot"
             ],
-            "index": 504
+            "index": 500
         }
     },
     "Musharna": {
@@ -7083,7 +6965,7 @@ var SETDEX_SV = {
                 "Recover",
                 "Trick Room"
             ],
-            "index": 233
+            "index": 229
         }
     },
     "Perrserker": {
@@ -7103,7 +6985,7 @@ var SETDEX_SV = {
                 "Play Rough",
                 "Fake Out"
             ],
-            "index": 234
+            "index": 230
         }
     },
     "Huntail": {
@@ -7123,7 +7005,7 @@ var SETDEX_SV = {
                 "Ice Fang",
                 "Super Fang"
             ],
-            "index": 235
+            "index": 231
         }
     },
     "Marowak-Alola": {
@@ -7143,7 +7025,7 @@ var SETDEX_SV = {
                 "Bonemerang",
                 "Thunder Punch"
             ],
-            "index": 236
+            "index": 232
         }
     },
     "Maractus": {
@@ -7163,7 +7045,7 @@ var SETDEX_SV = {
                 "Drain Punch",
                 "Spiky Shield"
             ],
-            "index": 237
+            "index": 233
         }
     },
     "Rillaboom": {
@@ -7181,7 +7063,7 @@ var SETDEX_SV = {
                 "High Horsepower",
                 "Fake Out"
             ],
-            "index": 238
+            "index": 234
         },
         "Ranger Jackson": {
             "level": 62,
@@ -7197,7 +7079,7 @@ var SETDEX_SV = {
                 "Hammer Arm",
                 "Acrobatics"
             ],
-            "index": 453
+            "index": 449
         },
         "Bird Keeper Presley and Expert Auron": {
             "level": 70,
@@ -7213,7 +7095,7 @@ var SETDEX_SV = {
                 "Knock Off",
                 "High Horsepower"
             ],
-            "index": 641
+            "index": 637
         },
         "Psychic Virgil and Gentleman Nate": {
             "level": 68,
@@ -7231,7 +7113,7 @@ var SETDEX_SV = {
                 "High Horsepower",
                 "Fake Out"
             ],
-            "index": 667
+            "index": 663
         },
         "Cooltrainer Caroline": {
             "level": 90,
@@ -7247,7 +7129,7 @@ var SETDEX_SV = {
                 "Earthquake",
                 "U-turn"
             ],
-            "index": 905
+            "index": 901
         }
     },
     "Slowking-Galar": {
@@ -7265,7 +7147,7 @@ var SETDEX_SV = {
                 "Scald",
                 "Yawn"
             ],
-            "index": 241
+            "index": 237
         },
         "Hex Maniac Tammy": {
             "level": 68,
@@ -7283,7 +7165,7 @@ var SETDEX_SV = {
                 "Chilling Water",
                 "Slack Off"
             ],
-            "index": 551
+            "index": 547
         },
         "Battle Girl Aisha": {
             "level": 75,
@@ -7299,7 +7181,7 @@ var SETDEX_SV = {
                 "Surf",
                 "Slack Off"
             ],
-            "index": 742
+            "index": 738
         }
     },
     "Hitmontop": {
@@ -7317,7 +7199,7 @@ var SETDEX_SV = {
                 "Drill Run",
                 "Fake Out"
             ],
-            "index": 242
+            "index": 238
         },
         "Pokemon Breeder Myles": {
             "level": 70,
@@ -7333,7 +7215,7 @@ var SETDEX_SV = {
                 "Rock Slide",
                 "Bullet Punch"
             ],
-            "index": 569
+            "index": 565
         },
         "Psychic Blake and Psychic Samantha": {
             "level": 70,
@@ -7351,7 +7233,7 @@ var SETDEX_SV = {
                 "Protect",
                 "Fake Out"
             ],
-            "index": 660
+            "index": 656
         }
     },
     "Azumarill": {
@@ -7369,7 +7251,7 @@ var SETDEX_SV = {
                 "Ice Spinner",
                 "Aqua Jet"
             ],
-            "index": 243
+            "index": 239
         },
         "Pokemon Breeder Myles": {
             "level": 70,
@@ -7385,7 +7267,7 @@ var SETDEX_SV = {
                 "Play Rough",
                 "Ice Punch"
             ],
-            "index": 570
+            "index": 566
         },
         "Tuber Roy": {
             "level": 68,
@@ -7401,7 +7283,7 @@ var SETDEX_SV = {
                 "Ice Spinner",
                 "Aqua Jet"
             ],
-            "index": 607
+            "index": 603
         },
         "Cooltrainer Tyler": {
             "level": 74,
@@ -7417,7 +7299,7 @@ var SETDEX_SV = {
                 "Aqua Jet",
                 "Belly Drum"
             ],
-            "index": 773
+            "index": 769
         }
     },
     "Wugtrio": {
@@ -7433,7 +7315,7 @@ var SETDEX_SV = {
                 "Triple Dive",
                 "Final Gambit"
             ],
-            "index": 245
+            "index": 241
         }
     },
     "Qwilfish": {
@@ -7451,7 +7333,7 @@ var SETDEX_SV = {
                 "Fell Stinger",
                 "Aqua Jet"
             ],
-            "index": 246
+            "index": 242
         }
     },
     "Tatsugiri": {
@@ -7469,7 +7351,7 @@ var SETDEX_SV = {
                 "Icy Wind",
                 "Mirror Coat"
             ],
-            "index": 247
+            "index": 243
         }
     },
     "Torkoal": {
@@ -7487,7 +7369,7 @@ var SETDEX_SV = {
                 "Earth Power",
                 "Stealth Rock"
             ],
-            "index": 248
+            "index": 244
         },
         "Leader Flannery": {
             "level": 77,
@@ -7503,7 +7385,7 @@ var SETDEX_SV = {
                 "Earth Power",
                 "Protect"
             ],
-            "index": 834
+            "index": 830
         },
         "Aroma Lady Rachel": {
             "level": 90,
@@ -7519,7 +7401,7 @@ var SETDEX_SV = {
                 "Body Press",
                 "Stealth Rock"
             ],
-            "index": 863
+            "index": 859
         }
     },
     "Coalossal": {
@@ -7537,7 +7419,7 @@ var SETDEX_SV = {
                 "Incinerate",
                 "Solar Beam"
             ],
-            "index": 249
+            "index": 245
         }
     },
     "Castform": {
@@ -7555,7 +7437,7 @@ var SETDEX_SV = {
                 "Thunderbolt",
                 "Energy Ball"
             ],
-            "index": 250
+            "index": 246
         }
     },
     "Bellossom": {
@@ -7573,7 +7455,7 @@ var SETDEX_SV = {
                 "Weather Ball",
                 "Growth"
             ],
-            "index": 251
+            "index": 247
         },
         "Swimmer Tanya": {
             "level": 70,
@@ -7589,7 +7471,7 @@ var SETDEX_SV = {
                 "Weather Ball",
                 "Quiver Dance"
             ],
-            "index": 614
+            "index": 610
         }
     },
     "Overqwil": {
@@ -7607,7 +7489,7 @@ var SETDEX_SV = {
                 "Barb Barrage",
                 "Toxic Spikes"
             ],
-            "index": 252
+            "index": 248
         },
         "Guitarist Kendall": {
             "level": 75,
@@ -7623,7 +7505,7 @@ var SETDEX_SV = {
                 "Liquidation",
                 "Destiny Bond"
             ],
-            "index": 749
+            "index": 745
         }
     },
     "Slowking": {
@@ -7641,7 +7523,7 @@ var SETDEX_SV = {
                 "Chilly Reception",
                 "Slack Off"
             ],
-            "index": 254
+            "index": 250
         }
     },
     "Walrein": {
@@ -7659,7 +7541,7 @@ var SETDEX_SV = {
                 "Earthquake",
                 "Attract"
             ],
-            "index": 255
+            "index": 251
         }
     },
     "Basculin": {
@@ -7677,7 +7559,7 @@ var SETDEX_SV = {
                 "Crunch",
                 "Aqua Jet"
             ],
-            "index": 256
+            "index": 252
         }
     },
     "Veluza": {
@@ -7695,7 +7577,7 @@ var SETDEX_SV = {
                 "Night Slash",
                 "Slash"
             ],
-            "index": 257
+            "index": 253
         }
     },
     "Starmie": {
@@ -7713,7 +7595,7 @@ var SETDEX_SV = {
                 "Power Gem",
                 "Confuse Ray"
             ],
-            "index": 258
+            "index": 254
         },
         "Leader Juan": {
             "level": 39,
@@ -7729,7 +7611,7 @@ var SETDEX_SV = {
                 "Psychic",
                 "Icy Wind"
             ],
-            "index": 317
+            "index": 313
         },
         "Lass Julia and Camper Rhett": {
             "level": 55,
@@ -7745,7 +7627,7 @@ var SETDEX_SV = {
                 "Thunderbolt",
                 "Ice Beam"
             ],
-            "index": 402
+            "index": 398
         },
         "Swimmer Tisha and Swimmer Clarence": {
             "level": 75,
@@ -7761,7 +7643,7 @@ var SETDEX_SV = {
                 "Hydro Pump",
                 "Ice Beam"
             ],
-            "index": 708
+            "index": 704
         },
         "Lady Annie": {
             "level": 75,
@@ -7777,7 +7659,7 @@ var SETDEX_SV = {
                 "Power Gem",
                 "Reflect"
             ],
-            "index": 753
+            "index": 749
         },
         "Cooltrainer Owen": {
             "level": 89,
@@ -7793,7 +7675,7 @@ var SETDEX_SV = {
                 "Ice Beam",
                 "Thunderbolt"
             ],
-            "index": 890
+            "index": 886
         },
         "Elite Four Misty": {
             "level": 90,
@@ -7809,7 +7691,7 @@ var SETDEX_SV = {
                 "Thunderbolt",
                 "Rapid Spin"
             ],
-            "index": 975
+            "index": 971
         }
     },
     "Dondozo": {
@@ -7827,7 +7709,7 @@ var SETDEX_SV = {
                 "Zen Headbutt",
                 "Ice Fang"
             ],
-            "index": 259
+            "index": 255
         }
     },
     "Roserade": {
@@ -7845,7 +7727,7 @@ var SETDEX_SV = {
                 "Extrasensory",
                 "Dazzling Gleam"
             ],
-            "index": 260
+            "index": 256
         },
         "Cooltrainer Quincy": {
             "level": 89,
@@ -7861,7 +7743,7 @@ var SETDEX_SV = {
                 "Weather Ball",
                 "Sleep Powder"
             ],
-            "index": 854
+            "index": 850
         }
     },
     "Golem": {
@@ -7879,7 +7761,7 @@ var SETDEX_SV = {
                 "Hammer Arm",
                 "Fire Punch"
             ],
-            "index": 261
+            "index": 257
         },
         "Hiker Eric": {
             "level": 75,
@@ -7895,7 +7777,7 @@ var SETDEX_SV = {
                 "Stone Edge",
                 "Thunder Punch"
             ],
-            "index": 739
+            "index": 735
         }
     },
     "Electabuzz": {
@@ -7913,7 +7795,7 @@ var SETDEX_SV = {
                 "Charge Beam",
                 "Follow Me"
             ],
-            "index": 262
+            "index": 258
         },
         "Pokemon Breeder Pat": {
             "level": 70,
@@ -7929,7 +7811,7 @@ var SETDEX_SV = {
                 "Fire Punch",
                 "Ice Punch"
             ],
-            "index": 565
+            "index": 561
         }
     },
     "Primarina": {
@@ -7947,7 +7829,7 @@ var SETDEX_SV = {
                 "Ice Beam",
                 "Sing"
             ],
-            "index": 263
+            "index": 259
         },
         "Fisherman Wade": {
             "level": 64,
@@ -7963,7 +7845,7 @@ var SETDEX_SV = {
                 "Ice Beam",
                 "Sing"
             ],
-            "index": 430
+            "index": 426
         },
         "Swimmer Jenny": {
             "level": 68,
@@ -7979,7 +7861,7 @@ var SETDEX_SV = {
                 "Weather Ball",
                 "Flip Turn"
             ],
-            "index": 629
+            "index": 625
         }
     },
     "Magmar": {
@@ -7997,7 +7879,7 @@ var SETDEX_SV = {
                 "Scorching Sands",
                 "Follow Me"
             ],
-            "index": 264
+            "index": 260
         },
         "Pokemon Breeder Pat": {
             "level": 70,
@@ -8013,7 +7895,7 @@ var SETDEX_SV = {
                 "Cross Chop",
                 "Thunder Punch"
             ],
-            "index": 566
+            "index": 562
         }
     },
     "Torterra": {
@@ -8031,7 +7913,7 @@ var SETDEX_SV = {
                 "Stone Edge",
                 "Stealth Rock"
             ],
-            "index": 267
+            "index": 263
         },
         "Hex Maniac Sylvia and Psychic Hannah": {
             "level": 68,
@@ -8049,7 +7931,7 @@ var SETDEX_SV = {
                 "Rock Slide",
                 "Giga Drain"
             ],
-            "index": 675
+            "index": 671
         }
     },
     "Golisopod": {
@@ -8067,7 +7949,7 @@ var SETDEX_SV = {
                 "Razor Shell",
                 "Aqua Jet"
             ],
-            "index": 269
+            "index": 265
         },
         "Bug Maniac Jeffrey": {
             "level": 68,
@@ -8083,7 +7965,7 @@ var SETDEX_SV = {
                 "Razor Shell",
                 "Aqua Jet"
             ],
-            "index": 533
+            "index": 529
         },
         "Cooltrainer Dianne": {
             "level": 89,
@@ -8099,7 +7981,7 @@ var SETDEX_SV = {
                 "Swords Dance",
                 "Iron Head"
             ],
-            "index": 895
+            "index": 891
         }
     },
     "Klinklang": {
@@ -8117,7 +7999,7 @@ var SETDEX_SV = {
                 "Assurance",
                 "Shift Gear"
             ],
-            "index": 270
+            "index": 266
         }
     },
     "Infernape": {
@@ -8135,7 +8017,7 @@ var SETDEX_SV = {
                 "Thunder Punch",
                 "Stealth Rock"
             ],
-            "index": 272
+            "index": 268
         },
         "Pokefan Vanessa": {
             "level": 68,
@@ -8151,7 +8033,7 @@ var SETDEX_SV = {
                 "Thunder Punch",
                 "Bulk Up"
             ],
-            "index": 581
+            "index": 577
         },
         "Kindler Jeff": {
             "level": 77,
@@ -8167,7 +8049,7 @@ var SETDEX_SV = {
                 "Fake Out",
                 "Stealth Rock"
             ],
-            "index": 794
+            "index": 790
         },
         "Expert Magik": {
             "level": 89,
@@ -8183,7 +8065,7 @@ var SETDEX_SV = {
                 "Poison Jab",
                 "U-turn"
             ],
-            "index": 871
+            "index": 867
         }
     },
     "Vaporeon": {
@@ -8201,7 +8083,7 @@ var SETDEX_SV = {
                 "Shadow Ball",
                 "Trailblaze"
             ],
-            "index": 273
+            "index": 269
         }
     },
     "Mudsdale": {
@@ -8219,7 +8101,7 @@ var SETDEX_SV = {
                 "Body Press",
                 "Low Kick"
             ],
-            "index": 275
+            "index": 271
         }
     },
     "Copperajah": {
@@ -8237,7 +8119,7 @@ var SETDEX_SV = {
                 "Play Rough",
                 "Zen Headbutt"
             ],
-            "index": 276
+            "index": 272
         },
         "Lass Julia and Camper Rhett": {
             "level": 53,
@@ -8253,7 +8135,7 @@ var SETDEX_SV = {
                 "Double-Edge",
                 "Power Whip"
             ],
-            "index": 400
+            "index": 396
         }
     },
     "Empoleon": {
@@ -8271,7 +8153,7 @@ var SETDEX_SV = {
                 "Roost",
                 "Stealth Rock"
             ],
-            "index": 277
+            "index": 273
         },
         "Fisherman Barny": {
             "level": 62,
@@ -8287,7 +8169,7 @@ var SETDEX_SV = {
                 "Air Slash",
                 "Roost"
             ],
-            "index": 424
+            "index": 420
         },
         "Expert Magik": {
             "level": 90,
@@ -8303,7 +8185,7 @@ var SETDEX_SV = {
                 "Ice Beam",
                 "Stealth Rock"
             ],
-            "index": 870
+            "index": 866
         },
         "Cooltrainer Caroline": {
             "level": 89,
@@ -8319,7 +8201,7 @@ var SETDEX_SV = {
                 "Stealth Rock",
                 "Flash Cannon"
             ],
-            "index": 906
+            "index": 902
         }
     },
     "Leafeon": {
@@ -8337,7 +8219,7 @@ var SETDEX_SV = {
                 "Trailblaze",
                 "Yawn"
             ],
-            "index": 278
+            "index": 274
         }
     },
     "Pyroar": {
@@ -8355,7 +8237,7 @@ var SETDEX_SV = {
                 "Solar Beam",
                 "Will-O-Wisp"
             ],
-            "index": 279
+            "index": 275
         }
     },
     "Hariyama": {
@@ -8373,7 +8255,7 @@ var SETDEX_SV = {
                 "Bullet Punch",
                 "Fake Out"
             ],
-            "index": 280
+            "index": 276
         },
         "Hex Maniac Tammy": {
             "level": 68,
@@ -8391,7 +8273,7 @@ var SETDEX_SV = {
                 "Heavy Slam",
                 "Fake Out"
             ],
-            "index": 550
+            "index": 546
         },
         "Psychic Virgil and Gentleman Nate": {
             "level": 68,
@@ -8409,7 +8291,7 @@ var SETDEX_SV = {
                 "Ice Punch",
                 "Fake Out"
             ],
-            "index": 668
+            "index": 664
         }
     },
     "Staraptor": {
@@ -8427,7 +8309,7 @@ var SETDEX_SV = {
                 "Close Combat",
                 "U-turn"
             ],
-            "index": 282
+            "index": 278
         },
         "Bird Keeper Humberto": {
             "level": 64,
@@ -8443,7 +8325,7 @@ var SETDEX_SV = {
                 "Steel Wing",
                 "Roost"
             ],
-            "index": 484
+            "index": 480
         },
         "Elite Four Whitney": {
             "level": 89,
@@ -8459,7 +8341,7 @@ var SETDEX_SV = {
                 "Close Combat",
                 "Tailwind"
             ],
-            "index": 960
+            "index": 956
         }
     },
     "Arcanine": {
@@ -8477,7 +8359,7 @@ var SETDEX_SV = {
                 "Extreme Speed",
                 "Howl"
             ],
-            "index": 283
+            "index": 279
         },
         "Hiker Marcos and Picnicker Daisy": {
             "level": 53,
@@ -8493,7 +8375,7 @@ var SETDEX_SV = {
                 "Iron Head",
                 "Extreme Speed"
             ],
-            "index": 395
+            "index": 391
         },
         "Ranger Lorenzo and Ranger Jenna": {
             "level": 68,
@@ -8509,7 +8391,7 @@ var SETDEX_SV = {
                 "Play Rough",
                 "Extreme Speed"
             ],
-            "index": 544
+            "index": 540
         },
         "Sr. and Jr. Kate & Joy": {
             "level": 68,
@@ -8525,7 +8407,7 @@ var SETDEX_SV = {
                 "Crunch",
                 "Extreme Speed"
             ],
-            "index": 577
+            "index": 573
         },
         "Cooltrainer Teddy": {
             "level": 75,
@@ -8541,7 +8423,7 @@ var SETDEX_SV = {
                 "Play Rough",
                 "Extreme Speed"
             ],
-            "index": 786
+            "index": 782
         },
         "Expert Keegan": {
             "level": 75,
@@ -8557,7 +8439,7 @@ var SETDEX_SV = {
                 "Extreme Speed",
                 "Morning Sun"
             ],
-            "index": 831
+            "index": 827
         },
         "Aroma Lady Rachel": {
             "level": 89,
@@ -8573,7 +8455,7 @@ var SETDEX_SV = {
                 "Extreme Speed",
                 "Play Rough"
             ],
-            "index": 868
+            "index": 864
         },
         "Cooltrainer Caroline": {
             "level": 89,
@@ -8589,7 +8471,7 @@ var SETDEX_SV = {
                 "Play Rough",
                 "Flare Blitz"
             ],
-            "index": 907
+            "index": 903
         }
     },
     "Kangaskhan": {
@@ -8607,7 +8489,7 @@ var SETDEX_SV = {
                 "Rock Tomb",
                 "Fake Out"
             ],
-            "index": 285
+            "index": 281
         },
         "Parasol Lady Angelica": {
             "level": 68,
@@ -8621,7 +8503,7 @@ var SETDEX_SV = {
                 "Last Resort",
                 "Fake Out"
             ],
-            "index": 518
+            "index": 514
         },
         "Swimmer Chad": {
             "level": 68,
@@ -8637,7 +8519,7 @@ var SETDEX_SV = {
                 "Hammer Arm",
                 "Crunch"
             ],
-            "index": 634
+            "index": 630
         },
         "Hex Maniac Kathleen and Psychic Nicholas": {
             "level": 68,
@@ -8656,7 +8538,7 @@ var SETDEX_SV = {
                 "Fake Out",
                 "Surf"
             ],
-            "index": 681
+            "index": 677
         }
     },
     "Meowstic-F": {
@@ -8674,7 +8556,7 @@ var SETDEX_SV = {
                 "Future Sight",
                 "Fake Out"
             ],
-            "index": 286
+            "index": 282
         }
     },
     "Tinkaton": {
@@ -8692,7 +8574,7 @@ var SETDEX_SV = {
                 "Ice Hammer",
                 "Fake Out"
             ],
-            "index": 287
+            "index": 283
         },
         "Collector Damon": {
             "level": 53,
@@ -8708,7 +8590,7 @@ var SETDEX_SV = {
                 "Ice Hammer",
                 "Stealth Rock"
             ],
-            "index": 346
+            "index": 342
         },
         "Sailor Cory and Cooltrainer Carolina": {
             "level": -2,
@@ -8724,7 +8606,7 @@ var SETDEX_SV = {
                 "Knock Off",
                 "Swords Dance"
             ],
-            "index": 419
+            "index": 415
         },
         "Swimmer Jenny": {
             "level": 68,
@@ -8740,7 +8622,7 @@ var SETDEX_SV = {
                 "Ice Hammer",
                 "Stone Edge"
             ],
-            "index": 630
+            "index": 626
         },
         "Siblings Reli And Ian": {
             "level": 75,
@@ -8756,7 +8638,7 @@ var SETDEX_SV = {
                 "Knock Off",
                 "Fake Out"
             ],
-            "index": 725
+            "index": 721
         },
         "Cooltrainer Gerald": {
             "level": 75,
@@ -8772,7 +8654,7 @@ var SETDEX_SV = {
                 "Fake Out",
                 "Stealth Rock"
             ],
-            "index": 809
+            "index": 805
         },
         "Cooltrainer Quincy": {
             "level": 89,
@@ -8788,7 +8670,7 @@ var SETDEX_SV = {
                 "Ice Hammer",
                 "Fake Out"
             ],
-            "index": 853
+            "index": 849
         },
         "Cooltrainer Terra": {
             "level": 90,
@@ -8804,7 +8686,7 @@ var SETDEX_SV = {
                 "Play Rough",
                 "Knock Off"
             ],
-            "index": 911
+            "index": 907
         }
     },
     "Feraligatr": {
@@ -8822,7 +8704,7 @@ var SETDEX_SV = {
                 "Ice Fang",
                 "Aqua Jet"
             ],
-            "index": 288
+            "index": 284
         },
         "Cooltrainer Jennifer": {
             "level": 70,
@@ -8838,7 +8720,7 @@ var SETDEX_SV = {
                 "Crunch",
                 "Ice Punch"
             ],
-            "index": 538
+            "index": 534
         }
     },
     "Gyarados": {
@@ -8856,7 +8738,7 @@ var SETDEX_SV = {
                 "Ice Fang",
                 "Dragon Dance"
             ],
-            "index": 290
+            "index": 286
         },
         "Hiker Jay": {
             "level": 55,
@@ -8872,7 +8754,7 @@ var SETDEX_SV = {
                 "Earthquake",
                 "Dragon Dance"
             ],
-            "index": 360
+            "index": 356
         }
     },
     "Dragonair": {
@@ -8890,7 +8772,7 @@ var SETDEX_SV = {
                 "Ice Beam",
                 "Thunder Wave"
             ],
-            "index": 291
+            "index": 287
         }
     },
     "Lapras": {
@@ -8908,7 +8790,7 @@ var SETDEX_SV = {
                 "Thunderbolt",
                 "Sing"
             ],
-            "index": 292
+            "index": 288
         },
         "Parasol Lady Angelica": {
             "level": 72,
@@ -8924,7 +8806,7 @@ var SETDEX_SV = {
                 "Thunderbolt",
                 "Drill Run"
             ],
-            "index": 515
+            "index": 511
         },
         "Swimmer Tanya": {
             "level": 70,
@@ -8940,7 +8822,7 @@ var SETDEX_SV = {
                 "Thunderbolt",
                 "Freeze-Dry"
             ],
-            "index": 613
+            "index": 609
         },
         "Cooltrainer Albert": {
             "level": 89,
@@ -8956,7 +8838,7 @@ var SETDEX_SV = {
                 "Thunderbolt",
                 "Ancient Power"
             ],
-            "index": 843
+            "index": 839
         }
     },
     "Cinccino": {
@@ -8974,7 +8856,7 @@ var SETDEX_SV = {
                 "Rock Blast",
                 "Triple Axel"
             ],
-            "index": 293
+            "index": 289
         },
         "Psychic Brandi": {
             "level": 75,
@@ -8990,7 +8872,7 @@ var SETDEX_SV = {
                 "Bullet Seed",
                 "Triple Axel"
             ],
-            "index": 766
+            "index": 762
         },
         "Cooltrainer Shannon": {
             "level": 90,
@@ -9006,7 +8888,7 @@ var SETDEX_SV = {
                 "Bullet Seed",
                 "Triple Axel"
             ],
-            "index": 879
+            "index": 875
         }
     },
     "Virizion": {
@@ -9024,7 +8906,7 @@ var SETDEX_SV = {
                 "Air Slash",
                 "Calm Mind"
             ],
-            "index": 294
+            "index": 290
         }
     },
     "Greninja": {
@@ -9042,7 +8924,7 @@ var SETDEX_SV = {
                 "Extrasensory",
                 "U-turn"
             ],
-            "index": 295
+            "index": 291
         },
         "Ninja Boy Takashi": {
             "level": 62,
@@ -9058,7 +8940,7 @@ var SETDEX_SV = {
                 "Ice Beam",
                 "Extrasensory"
             ],
-            "index": 473
+            "index": 469
         },
         "Ninja Boy Hideo": {
             "level": 60,
@@ -9074,7 +8956,7 @@ var SETDEX_SV = {
                 "Extrasensory",
                 "Mud Shot"
             ],
-            "index": 483
+            "index": 479
         },
         "Ninja Boy Riley": {
             "level": 68,
@@ -9090,7 +8972,7 @@ var SETDEX_SV = {
                 "Extrasensory",
                 "Shadow Sneak"
             ],
-            "index": 519
+            "index": 515
         },
         "Cooltrainer Terra": {
             "level": 89,
@@ -9106,7 +8988,7 @@ var SETDEX_SV = {
                 "Ice Beam",
                 "Dark Pulse"
             ],
-            "index": 916
+            "index": 912
         },
         "Elite Four Janine": {
             "level": 89,
@@ -9122,7 +9004,7 @@ var SETDEX_SV = {
                 "U-turn",
                 "Stealth Rock"
             ],
-            "index": 965
+            "index": 961
         }
     },
     "Silvally-Water": {
@@ -9140,7 +9022,7 @@ var SETDEX_SV = {
                 "Rock Slide",
                 "Tri Attack"
             ],
-            "index": 296
+            "index": 292
         }
     },
     "Swanna": {
@@ -9158,7 +9040,7 @@ var SETDEX_SV = {
                 "Blizzard",
                 "U-turn"
             ],
-            "index": 298
+            "index": 294
         }
     },
     "Kingdra": {
@@ -9176,7 +9058,7 @@ var SETDEX_SV = {
                 "Breaking Swipe",
                 "Focus Energy"
             ],
-            "index": 299
+            "index": 295
         }
     },
     "Dhelmise": {
@@ -9194,7 +9076,7 @@ var SETDEX_SV = {
                 "Shadow Claw",
                 "Anchor Shot"
             ],
-            "index": 301
+            "index": 297
         },
         "Lady Annie": {
             "level": 75,
@@ -9210,7 +9092,7 @@ var SETDEX_SV = {
                 "Poltergeist",
                 "Shadow Claw"
             ],
-            "index": 754
+            "index": 750
         }
     },
     "Lanturn": {
@@ -9228,7 +9110,7 @@ var SETDEX_SV = {
                 "Ice Beam",
                 "Volt Switch"
             ],
-            "index": 302
+            "index": 298
         },
         "Hex Maniac Sylvia and Psychic Hannah": {
             "level": 68,
@@ -9246,7 +9128,7 @@ var SETDEX_SV = {
                 "Volt Switch",
                 "Ice Beam"
             ],
-            "index": 674
+            "index": 670
         },
         "Guitarist Kendall": {
             "level": 77,
@@ -9262,7 +9144,7 @@ var SETDEX_SV = {
                 "Ice Beam",
                 "Electroweb"
             ],
-            "index": 750
+            "index": 746
         }
     },
     "Dewgong": {
@@ -9280,7 +9162,7 @@ var SETDEX_SV = {
                 "Alluring Voice",
                 "Flip Turn"
             ],
-            "index": 305
+            "index": 301
         },
         "Tuber Roy": {
             "level": 68,
@@ -9296,7 +9178,7 @@ var SETDEX_SV = {
                 "Alluring Voice",
                 "Knock Off"
             ],
-            "index": 608
+            "index": 604
         },
         "Swimmer Allison and Swimmer Reed": {
             "level": 77,
@@ -9312,7 +9194,7 @@ var SETDEX_SV = {
                 "Alluring Voice",
                 "Fake Out"
             ],
-            "index": 701
+            "index": 697
         }
     },
     "Mamoswine": {
@@ -9330,7 +9212,7 @@ var SETDEX_SV = {
                 "Knock Off",
                 "Ice Shard"
             ],
-            "index": 307
+            "index": 303
         },
         "Hiker Jay": {
             "level": 53,
@@ -9346,7 +9228,7 @@ var SETDEX_SV = {
                 "Ice Shard",
                 "Trailblaze"
             ],
-            "index": 358
+            "index": 354
         },
         "Swimmer Grace": {
             "level": 68,
@@ -9362,7 +9244,7 @@ var SETDEX_SV = {
                 "Trailblaze",
                 "Stealth Rock"
             ],
-            "index": 623
+            "index": 619
         }
     },
     "Pelipper": {
@@ -9380,7 +9262,7 @@ var SETDEX_SV = {
                 "Tailwind",
                 "U-turn"
             ],
-            "index": 308
+            "index": 304
         },
         "Bird Keeper Hugh": {
             "level": 63,
@@ -9396,7 +9278,7 @@ var SETDEX_SV = {
                 "Ice Beam",
                 "Roost"
             ],
-            "index": 459
+            "index": 455
         }
     },
     "Gorebyss": {
@@ -9414,7 +9296,7 @@ var SETDEX_SV = {
                 "Psychic Noise",
                 "Attract"
             ],
-            "index": 309
+            "index": 305
         },
         "Lass Julia and Camper Rhett": {
             "level": 53,
@@ -9430,7 +9312,7 @@ var SETDEX_SV = {
                 "Psychic",
                 "Icy Wind"
             ],
-            "index": 403
+            "index": 399
         },
         "Swimmer Jenny": {
             "level": 70,
@@ -9446,7 +9328,7 @@ var SETDEX_SV = {
                 "Psychic",
                 "Shell Smash"
             ],
-            "index": 631
+            "index": 627
         }
     },
     "Phione": {
@@ -9464,7 +9346,7 @@ var SETDEX_SV = {
                 "Grass Knot",
                 "Flip Turn"
             ],
-            "index": 310
+            "index": 306
         }
     },
     "Bellibolt": {
@@ -9482,7 +9364,7 @@ var SETDEX_SV = {
                 "Mud Shot",
                 "Slack Off"
             ],
-            "index": 311
+            "index": 307
         },
         "Parasol Lady Angelica": {
             "level": 68,
@@ -9498,7 +9380,7 @@ var SETDEX_SV = {
                 "Hyper Voice",
                 "Thunder Wave"
             ],
-            "index": 517
+            "index": 513
         },
         "Hex Maniac Sylvia and Psychic Hannah": {
             "level": 68,
@@ -9516,7 +9398,7 @@ var SETDEX_SV = {
                 "Slack Off",
                 "Reflect"
             ],
-            "index": 673
+            "index": 669
         }
     },
     "Basculegion-F": {
@@ -9534,7 +9416,7 @@ var SETDEX_SV = {
                 "Ice Beam",
                 "Flip Turn"
             ],
-            "index": 314
+            "index": 310
         },
         "Cooltrainer Katelynn": {
             "level": 89,
@@ -9550,7 +9432,7 @@ var SETDEX_SV = {
                 "Ice Beam",
                 "Pain Split"
             ],
-            "index": 847
+            "index": 843
         }
     },
     "Archaludon": {
@@ -9568,7 +9450,7 @@ var SETDEX_SV = {
                 "Flash Cannon",
                 "Aura Sphere"
             ],
-            "index": 318
+            "index": 314
         },
         "Cooltrainer Julie": {
             "level": 89,
@@ -9584,7 +9466,7 @@ var SETDEX_SV = {
                 "Flash Cannon",
                 "Thunderbolt"
             ],
-            "index": 886
+            "index": 882
         },
         "Cooltrainer Caroline": {
             "level": 89,
@@ -9600,7 +9482,7 @@ var SETDEX_SV = {
                 "Draco Meteor",
                 "Foul Play"
             ],
-            "index": 908
+            "index": 904
         }
     },
     "Machamp": {
@@ -9618,7 +9500,7 @@ var SETDEX_SV = {
                 "Poison Jab",
                 "Seismic Toss"
             ],
-            "index": 322
+            "index": 318
         },
         "Swimmer Allison and Swimmer Reed": {
             "level": 77,
@@ -9634,7 +9516,7 @@ var SETDEX_SV = {
                 "Fire Punch",
                 "Low Kick"
             ],
-            "index": 702
+            "index": 698
         }
     },
     "Muk-Alola": {
@@ -9652,7 +9534,7 @@ var SETDEX_SV = {
                 "Ice Punch",
                 "Shadow Sneak"
             ],
-            "index": 323
+            "index": 319
         }
     },
     "Flygon": {
@@ -9670,7 +9552,7 @@ var SETDEX_SV = {
                 "Tera Blast",
                 "Dragon Dance"
             ],
-            "index": 324
+            "index": 320
         },
         "Bird Keeper Humberto": {
             "level": 62,
@@ -9686,7 +9568,7 @@ var SETDEX_SV = {
                 "First Impression",
                 "Dual Wingbeat"
             ],
-            "index": 485
+            "index": 481
         },
         "Camper Flint and Bird Keeper Edwardo": {
             "level": 62,
@@ -9702,7 +9584,7 @@ var SETDEX_SV = {
                 "Boomburst",
                 "Roost"
             ],
-            "index": 499
+            "index": 495
         },
         "Siblings Reli And Ian": {
             "level": 75,
@@ -9718,7 +9600,7 @@ var SETDEX_SV = {
                 "Bug Buzz",
                 "Air Slash"
             ],
-            "index": 726
+            "index": 722
         },
         "Pokemon Ranger Tyree": {
             "level": 73,
@@ -9734,7 +9616,7 @@ var SETDEX_SV = {
                 "Earthquake",
                 "First Impression"
             ],
-            "index": 732
+            "index": 728
         },
         "Bug Maniac Axle": {
             "level": 75,
@@ -9750,7 +9632,7 @@ var SETDEX_SV = {
                 "Fire Punch",
                 "Protect"
             ],
-            "index": 802
+            "index": 798
         }
     },
     "Thundurus": {
@@ -9768,7 +9650,7 @@ var SETDEX_SV = {
                 "Acrobatics",
                 "U-turn"
             ],
-            "index": 325
+            "index": 321
         },
         "Bird Keeper Phil": {
             "level": 64,
@@ -9784,7 +9666,7 @@ var SETDEX_SV = {
                 "Weather Ball",
                 "Electroweb"
             ],
-            "index": 469
+            "index": 465
         }
     },
     "Zoroark": {
@@ -9802,7 +9684,7 @@ var SETDEX_SV = {
                 "Flamethrower",
                 "Calm Mind"
             ],
-            "index": 326
+            "index": 322
         },
         "Cooltrainer Cristin": {
             "level": 68,
@@ -9818,7 +9700,7 @@ var SETDEX_SV = {
                 "Burning Jealousy",
                 "Nasty Plot"
             ],
-            "index": 588
+            "index": 584
         }
     },
     "Mesprit": {
@@ -9836,7 +9718,7 @@ var SETDEX_SV = {
                 "Light Screen",
                 "Reflect"
             ],
-            "index": 327
+            "index": 323
         }
     },
     "Excadrill": {
@@ -9854,7 +9736,7 @@ var SETDEX_SV = {
                 "Brick Break",
                 "Rapid Spin"
             ],
-            "index": 328
+            "index": 324
         },
         "Picnicker Heidi": {
             "level": 52,
@@ -9870,7 +9752,7 @@ var SETDEX_SV = {
                 "Rock Slide",
                 "Substitute"
             ],
-            "index": 387
+            "index": 383
         },
         "Collector Hector and Hex Maniac Nadia": {
             "level": 53,
@@ -9886,7 +9768,7 @@ var SETDEX_SV = {
                 "Stone Edge",
                 "Poison Jab"
             ],
-            "index": 405
+            "index": 401
         },
         "Cooltrainer Quincy": {
             "level": 89,
@@ -9902,7 +9784,7 @@ var SETDEX_SV = {
                 "Iron Head",
                 "Rock Slide"
             ],
-            "index": 856
+            "index": 852
         },
         "Cooltrainer Edgar": {
             "level": 89,
@@ -9918,7 +9800,7 @@ var SETDEX_SV = {
                 "Swords Dance",
                 "X-Scissor"
             ],
-            "index": 862
+            "index": 858
         }
     },
     "Sinistcha": {
@@ -9936,7 +9818,7 @@ var SETDEX_SV = {
                 "Scald",
                 "Giga Drain"
             ],
-            "index": 329
+            "index": 325
         }
     },
     "Scizor": {
@@ -9954,7 +9836,7 @@ var SETDEX_SV = {
                 "Bullet Punch",
                 "Double Hit"
             ],
-            "index": 330
+            "index": 326
         },
         "Bug Maniac Brent": {
             "level": 62,
@@ -9970,7 +9852,7 @@ var SETDEX_SV = {
                 "Dual Wingbeat",
                 "Trailblaze"
             ],
-            "index": 463
+            "index": 459
         },
         "Picnicker Ashley": {
             "level": 62,
@@ -9986,7 +9868,7 @@ var SETDEX_SV = {
                 "Dual Wingbeat",
                 "U-turn"
             ],
-            "index": 492
+            "index": 488
         }
     },
     "Noivern": {
@@ -10004,7 +9886,7 @@ var SETDEX_SV = {
                 "Hyper Voice",
                 "U-turn"
             ],
-            "index": 332
+            "index": 328
         },
         "Camper Flint and Bird Keeper Edwardo": {
             "level": 62,
@@ -10020,7 +9902,7 @@ var SETDEX_SV = {
                 "Boomburst",
                 "Flamethrower"
             ],
-            "index": 498
+            "index": 494
         }
     },
     "Cloyster": {
@@ -10038,7 +9920,7 @@ var SETDEX_SV = {
                 "Rock Blast",
                 "Toxic Spikes"
             ],
-            "index": 333
+            "index": 329
         },
         "Siblings Reli And Ian": {
             "level": 75,
@@ -10054,7 +9936,7 @@ var SETDEX_SV = {
                 "Rock Blast",
                 "Smart Strike"
             ],
-            "index": 727
+            "index": 723
         }
     },
     "Obstagoon": {
@@ -10072,7 +9954,7 @@ var SETDEX_SV = {
                 "Revenge",
                 "Obstruct"
             ],
-            "index": 334
+            "index": 330
         }
     },
     "Mienshao": {
@@ -10090,7 +9972,7 @@ var SETDEX_SV = {
                 "Poison Jab",
                 "Ice Spinner"
             ],
-            "index": 335
+            "index": 331
         },
         "Cooltrainer Shannon": {
             "level": 89,
@@ -10106,7 +9988,7 @@ var SETDEX_SV = {
                 "Ice Spinner",
                 "Fake Out"
             ],
-            "index": 877
+            "index": 873
         }
     },
     "Venusaur": {
@@ -10124,7 +10006,7 @@ var SETDEX_SV = {
                 "Tera Blast",
                 "Venoshock"
             ],
-            "index": 336
+            "index": 332
         },
         "Guitarist Fabian": {
             "level": 63,
@@ -10140,7 +10022,7 @@ var SETDEX_SV = {
                 "Earth Power",
                 "Sleep Powder"
             ],
-            "index": 477
+            "index": 473
         },
         "Ranger Lorenzo and Ranger Jenna": {
             "level": 68,
@@ -10156,7 +10038,7 @@ var SETDEX_SV = {
                 "Weather Ball",
                 "Sleep Powder"
             ],
-            "index": 540
+            "index": 536
         },
         "Hex Maniac Sylvia and Psychic Hannah": {
             "level": 68,
@@ -10174,7 +10056,7 @@ var SETDEX_SV = {
                 "Terrain Pulse",
                 "Sleep Powder"
             ],
-            "index": 671
+            "index": 667
         },
         "Aroma Lady Rachel": {
             "level": 89,
@@ -10190,7 +10072,7 @@ var SETDEX_SV = {
                 "Weather Ball",
                 "Growth"
             ],
-            "index": 865
+            "index": 861
         }
     },
     "Boltund": {
@@ -10208,7 +10090,7 @@ var SETDEX_SV = {
                 "Play Rough",
                 "Thunder Wave"
             ],
-            "index": 337
+            "index": 333
         }
     },
     "Glimmora": {
@@ -10226,7 +10108,7 @@ var SETDEX_SV = {
                 "Sludge Bomb",
                 "Earth Power"
             ],
-            "index": 338
+            "index": 334
         },
         "Picnicker Becky": {
             "level": 55,
@@ -10242,7 +10124,7 @@ var SETDEX_SV = {
                 "Energy Ball",
                 "Stealth Rock"
             ],
-            "index": 367
+            "index": 363
         },
         "Black Belt Damien": {
             "level": 75,
@@ -10258,7 +10140,7 @@ var SETDEX_SV = {
                 "Energy Ball",
                 "Stealth Rock"
             ],
-            "index": 759
+            "index": 755
         },
         "Cooltrainer Julie": {
             "level": 90,
@@ -10274,7 +10156,7 @@ var SETDEX_SV = {
                 "Energy Ball",
                 "Stealth Rock"
             ],
-            "index": 882
+            "index": 878
         },
         "Elite Four Janine": {
             "level": 89,
@@ -10290,7 +10172,7 @@ var SETDEX_SV = {
                 "Energy Ball",
                 "Toxic Spikes"
             ],
-            "index": 966
+            "index": 962
         }
     },
     "Sawk": {
@@ -10308,7 +10190,7 @@ var SETDEX_SV = {
                 "Poison Jab",
                 "Low Sweep"
             ],
-            "index": 339
+            "index": 335
         },
         "Ruin Maniac Bryan": {
             "level": 52,
@@ -10324,7 +10206,7 @@ var SETDEX_SV = {
                 "Throat Chop",
                 "Counter"
             ],
-            "index": 381
+            "index": 377
         }
     },
     "Alcremie": {
@@ -10339,7 +10221,7 @@ var SETDEX_SV = {
             "moves": [
                 "Misty Explosion"
             ],
-            "index": 341
+            "index": 337
         },
         "Gentleman Walter": {
             "level": 68,
@@ -10355,7 +10237,7 @@ var SETDEX_SV = {
                 "Psychic",
                 "Energy Ball"
             ],
-            "index": 583
+            "index": 579
         },
         "Aidan + Athena": {
             "level": 75,
@@ -10371,7 +10253,7 @@ var SETDEX_SV = {
                 "Psychic",
                 "Decorate"
             ],
-            "index": 695
+            "index": 691
         }
     },
     "Heracross": {
@@ -10389,7 +10271,7 @@ var SETDEX_SV = {
                 "Arm Thrust",
                 "Bullet Seed"
             ],
-            "index": 342
+            "index": 338
         },
         "Battle Girl Callie": {
             "level": 68,
@@ -10405,7 +10287,7 @@ var SETDEX_SV = {
                 "Stone Edge",
                 "Smart Strike"
             ],
-            "index": 524
+            "index": 520
         },
         "Expert Magik": {
             "level": 89,
@@ -10421,7 +10303,7 @@ var SETDEX_SV = {
                 "Stone Edge",
                 "High Horsepower"
             ],
-            "index": 873
+            "index": 869
         }
     },
     "Cyclizar": {
@@ -10439,7 +10321,7 @@ var SETDEX_SV = {
                 "Hyper Voice",
                 "U-turn"
             ],
-            "index": 343
+            "index": 339
         },
         "Cooltrainer Terra": {
             "level": 89,
@@ -10455,7 +10337,7 @@ var SETDEX_SV = {
                 "Iron Head",
                 "Rain Dance"
             ],
-            "index": 914
+            "index": 910
         }
     },
     "Delphox": {
@@ -10473,7 +10355,7 @@ var SETDEX_SV = {
                 "Dazzling Gleam",
                 "Will-O-Wisp"
             ],
-            "index": 345
+            "index": 341
         },
         "Beauty Jessica": {
             "level": 68,
@@ -10489,7 +10371,7 @@ var SETDEX_SV = {
                 "Shadow Ball",
                 "Future Sight"
             ],
-            "index": 557
+            "index": 553
         }
     },
     "Drapion": {
@@ -10507,7 +10389,7 @@ var SETDEX_SV = {
                 "Bug Bite",
                 "Toxic Spikes"
             ],
-            "index": 347
+            "index": 343
         },
         "Bug Catcher Doug": {
             "level": 62,
@@ -10523,7 +10405,7 @@ var SETDEX_SV = {
                 "X-Scissor",
                 "Fell Stinger"
             ],
-            "index": 440
+            "index": 436
         }
     },
     "Lycanroc-Dusk": {
@@ -10541,7 +10423,7 @@ var SETDEX_SV = {
                 "Drill Run",
                 "Stealth Rock"
             ],
-            "index": 349
+            "index": 345
         },
         "Pokefan Vanessa": {
             "level": 68,
@@ -10557,7 +10439,7 @@ var SETDEX_SV = {
                 "Play Rough",
                 "Reversal"
             ],
-            "index": 580
+            "index": 576
         }
     },
     "Sigilyph": {
@@ -10575,7 +10457,7 @@ var SETDEX_SV = {
                 "Alluring Voice",
                 "Tailwind"
             ],
-            "index": 350
+            "index": 346
         }
     },
     "Houndstone": {
@@ -10593,7 +10475,7 @@ var SETDEX_SV = {
                 "Psychic Fangs",
                 "Body Press"
             ],
-            "index": 353
+            "index": 349
         },
         "Psychic Virgil and Gentleman Nate": {
             "level": 68,
@@ -10611,7 +10493,7 @@ var SETDEX_SV = {
                 "Play Rough",
                 "Howl"
             ],
-            "index": 665
+            "index": 661
         }
     },
     "Mismagius": {
@@ -10629,7 +10511,7 @@ var SETDEX_SV = {
                 "Dazzling Gleam",
                 "Mystical Fire"
             ],
-            "index": 354
+            "index": 350
         }
     },
     "Cobalion": {
@@ -10647,7 +10529,7 @@ var SETDEX_SV = {
                 "Megahorn",
                 "Stealth Rock"
             ],
-            "index": 355
+            "index": 351
         },
         "Expert Timothy": {
             "level": 0,
@@ -10663,7 +10545,7 @@ var SETDEX_SV = {
                 "Retaliate",
                 "Swords Dance"
             ],
-            "index": 651
+            "index": 647
         }
     },
     "Rhyperior": {
@@ -10681,7 +10563,7 @@ var SETDEX_SV = {
                 "Ice Punch",
                 "Body Press"
             ],
-            "index": 356
+            "index": 352
         },
         "Hex Maniac Kathleen and Psychic Nicholas": {
             "level": 68,
@@ -10700,7 +10582,7 @@ var SETDEX_SV = {
                 "Fire Punch",
                 "Surf"
             ],
-            "index": 679
+            "index": 675
         }
     },
     "Tapu Bulu": {
@@ -10718,7 +10600,7 @@ var SETDEX_SV = {
                 "Darkest Lariat",
                 "Nature's Madness"
             ],
-            "index": 357
+            "index": 353
         }
     },
     "Kabutops": {
@@ -10736,7 +10618,7 @@ var SETDEX_SV = {
                 "X-Scissor",
                 "Rapid Spin"
             ],
-            "index": 359
+            "index": 355
         },
         "Bug Maniac Jeffrey": {
             "level": 68,
@@ -10752,7 +10634,7 @@ var SETDEX_SV = {
                 "Leech Life",
                 "Aqua Jet"
             ],
-            "index": 532
+            "index": 528
         },
         "Battler Girl Danielle": {
             "level": 75,
@@ -10768,7 +10650,7 @@ var SETDEX_SV = {
                 "Aerial Ace",
                 "Protect"
             ],
-            "index": 823
+            "index": 819
         }
     },
     "Ogerpon": {
@@ -10786,7 +10668,7 @@ var SETDEX_SV = {
                 "Knock Off",
                 "Spiky Shield"
             ],
-            "index": 361
+            "index": 357
         }
     },
     "Samurott": {
@@ -10804,7 +10686,7 @@ var SETDEX_SV = {
                 "Knock Off",
                 "X-Scissor"
             ],
-            "index": 364
+            "index": 360
         }
     },
     "Urshifu": {
@@ -10822,7 +10704,7 @@ var SETDEX_SV = {
                 "Poison Jab",
                 "Bulk Up"
             ],
-            "index": 365
+            "index": 361
         }
     },
     "Hydreigon": {
@@ -10840,7 +10722,7 @@ var SETDEX_SV = {
                 "Dark Pulse",
                 "Tailwind"
             ],
-            "index": 366
+            "index": 362
         },
         "Battle Girl Aisha": {
             "level": 75,
@@ -10856,7 +10738,7 @@ var SETDEX_SV = {
                 "Fire Blast",
                 "Tailwind"
             ],
-            "index": 740
+            "index": 736
         },
         "Cooltrainer Dianne": {
             "level": 89,
@@ -10872,7 +10754,7 @@ var SETDEX_SV = {
                 "Flamethrower",
                 "Flash Cannon"
             ],
-            "index": 897
+            "index": 893
         }
     },
     "Gigalith": {
@@ -10890,7 +10772,7 @@ var SETDEX_SV = {
                 "Body Press",
                 "Explosion"
             ],
-            "index": 368
+            "index": 364
         }
     },
     "Archeops": {
@@ -10908,7 +10790,7 @@ var SETDEX_SV = {
                 "Dragon Claw",
                 "U-turn"
             ],
-            "index": 369
+            "index": 365
         },
         "Expert Jared": {
             "level": 62,
@@ -10924,7 +10806,7 @@ var SETDEX_SV = {
                 "Dragon Claw",
                 "Substitute"
             ],
-            "index": 506
+            "index": 502
         }
     },
     "Lunatone": {
@@ -10942,7 +10824,7 @@ var SETDEX_SV = {
                 "Psychic",
                 "Ice Beam"
             ],
-            "index": 370
+            "index": 366
         }
     },
     "Garchomp": {
@@ -10960,7 +10842,7 @@ var SETDEX_SV = {
                 "Rock Slide",
                 "Stealth Rock"
             ],
-            "index": 371
+            "index": 367
         },
         "Black Belt Damien": {
             "level": 75,
@@ -10976,7 +10858,7 @@ var SETDEX_SV = {
                 "Fire Fang",
                 "Stealth Rock"
             ],
-            "index": 760
+            "index": 756
         },
         "Cooltrainer Edgar": {
             "level": 89,
@@ -10992,7 +10874,7 @@ var SETDEX_SV = {
                 "Earthquake",
                 "Stone Edge"
             ],
-            "index": 860
+            "index": 856
         },
         "Cooltrainer Mitchell": {
             "level": 89,
@@ -11008,7 +10890,7 @@ var SETDEX_SV = {
                 "Stone Edge",
                 "Draco Meteor"
             ],
-            "index": 923
+            "index": 919
         }
     },
     "Iron Thorns": {
@@ -11026,7 +10908,7 @@ var SETDEX_SV = {
                 "Pin Missile",
                 "Thunder Wave"
             ],
-            "index": 373
+            "index": 369
         }
     },
     "Magmortar": {
@@ -11044,7 +10926,7 @@ var SETDEX_SV = {
                 "Aura Sphere",
                 "Weather Ball"
             ],
-            "index": 374
+            "index": 370
         },
         "Hiker Eric": {
             "level": 75,
@@ -11060,7 +10942,7 @@ var SETDEX_SV = {
                 "Psychic",
                 "Scorching Sands"
             ],
-            "index": 735
+            "index": 731
         }
     },
     "Gliscor": {
@@ -11078,7 +10960,7 @@ var SETDEX_SV = {
                 "Rock Slide",
                 "U-turn"
             ],
-            "index": 380
+            "index": 376
         },
         "Leader Winona": {
             "level": 63,
@@ -11094,7 +10976,7 @@ var SETDEX_SV = {
                 "Crabhammer",
                 "U-turn"
             ],
-            "index": 510
+            "index": 506
         },
         "Brendan": {
             "level": 70,
@@ -11110,7 +10992,7 @@ var SETDEX_SV = {
                 "Knock Off",
                 "Stealth Rock"
             ],
-            "index": 596
+            "index": 592
         },
         "Swimmer Kevin and Swimmer Talia": {
             "level": 77,
@@ -11126,7 +11008,7 @@ var SETDEX_SV = {
                 "Acrobatics",
                 "Bulldoze"
             ],
-            "index": 713
+            "index": 709
         },
         "Cooltrainer Red": {
             "level": 89,
@@ -11142,7 +11024,7 @@ var SETDEX_SV = {
                 "Stealth Rock",
                 "Protect"
             ],
-            "index": 919
+            "index": 915
         }
     },
     "Kleavor": {
@@ -11160,7 +11042,7 @@ var SETDEX_SV = {
                 "Night Slash",
                 "Aerial Ace"
             ],
-            "index": 383
+            "index": 379
         },
         "Hiker Eric": {
             "level": 75,
@@ -11176,7 +11058,7 @@ var SETDEX_SV = {
                 "Dual Wingbeat",
                 "Tailwind"
             ],
-            "index": 734
+            "index": 730
         }
     },
     "Samurott-Hisui": {
@@ -11194,7 +11076,7 @@ var SETDEX_SV = {
                 "Sacred Sword",
                 "Aqua Jet"
             ],
-            "index": 385
+            "index": 381
         },
         "Expert Keegan": {
             "level": 75,
@@ -11210,7 +11092,7 @@ var SETDEX_SV = {
                 "Retaliate",
                 "Detect"
             ],
-            "index": 828
+            "index": 824
         }
     },
     "Sirfetch\u2019d": {
@@ -11228,7 +11110,7 @@ var SETDEX_SV = {
                 "Dual Wingbeat",
                 "Focus Energy"
             ],
-            "index": 390
+            "index": 386
         },
         "Swimmer Chad": {
             "level": 68,
@@ -11244,7 +11126,7 @@ var SETDEX_SV = {
                 "Dual Wingbeat",
                 "Knock Off"
             ],
-            "index": 633
+            "index": 629
         }
     },
     "Granbull": {
@@ -11262,7 +11144,7 @@ var SETDEX_SV = {
                 "Iron Tail",
                 "Super Fang"
             ],
-            "index": 393
+            "index": 389
         },
         "Dragon Tamer Jace": {
             "level": 75,
@@ -11278,7 +11160,7 @@ var SETDEX_SV = {
                 "Facade",
                 "Ice Punch"
             ],
-            "index": 806
+            "index": 802
         }
     },
     "Toedscruel": {
@@ -11296,7 +11178,7 @@ var SETDEX_SV = {
                 "Earth Power",
                 "Sludge Bomb"
             ],
-            "index": 397
+            "index": 393
         }
     },
     "Emboar": {
@@ -11314,7 +11196,7 @@ var SETDEX_SV = {
                 "Drain Punch",
                 "High Horsepower"
             ],
-            "index": 399
+            "index": 395
         }
     },
     "Revavroom": {
@@ -11332,7 +11214,7 @@ var SETDEX_SV = {
                 "Zen Headbutt",
                 "Shift Gear"
             ],
-            "index": 401
+            "index": 397
         },
         "Cooltrainer Marcel": {
             "level": 68,
@@ -11348,7 +11230,7 @@ var SETDEX_SV = {
                 "High Horsepower",
                 "Swagger"
             ],
-            "index": 594
+            "index": 590
         },
         "Hiker Eli": {
             "level": 75,
@@ -11364,7 +11246,7 @@ var SETDEX_SV = {
                 "Poison Jab",
                 "Shift Gear"
             ],
-            "index": 820
+            "index": 816
         }
     },
     "Golurk": {
@@ -11382,7 +11264,7 @@ var SETDEX_SV = {
                 "Drain Punch",
                 "Ice Punch"
             ],
-            "index": 407
+            "index": 403
         },
         "Hex Maniac Kathleen and Psychic Nicholas": {
             "level": 68,
@@ -11400,7 +11282,7 @@ var SETDEX_SV = {
                 "Hammer Arm",
                 "Thunder Punch"
             ],
-            "index": 676
+            "index": 672
         }
     },
     "Tyranitar": {
@@ -11418,7 +11300,7 @@ var SETDEX_SV = {
                 "High Horsepower",
                 "Ice Punch"
             ],
-            "index": 408
+            "index": 404
         },
         "Hiker Eli": {
             "level": 77,
@@ -11434,7 +11316,7 @@ var SETDEX_SV = {
                 "Fire Fang",
                 "Stealth Rock"
             ],
-            "index": 818
+            "index": 814
         },
         "Cooltrainer Edgar": {
             "level": 89,
@@ -11450,7 +11332,7 @@ var SETDEX_SV = {
                 "Counter",
                 "Stealth Rock"
             ],
-            "index": 857
+            "index": 853
         }
     },
     "Gholdengo": {
@@ -11468,7 +11350,7 @@ var SETDEX_SV = {
                 "Shadow Ball",
                 "Thunderbolt"
             ],
-            "index": 409
+            "index": 405
         },
         "Guitarist Dalton": {
             "level": 62,
@@ -11484,7 +11366,7 @@ var SETDEX_SV = {
                 "Shadow Ball",
                 "Thunderbolt"
             ],
-            "index": 438
+            "index": 434
         },
         "Challenger Phoebe": {
             "level": 75,
@@ -11500,7 +11382,7 @@ var SETDEX_SV = {
                 "Shadow Ball",
                 "Nasty Plot"
             ],
-            "index": 792
+            "index": 788
         }
     },
     "Landorus": {
@@ -11518,7 +11400,7 @@ var SETDEX_SV = {
                 "Extrasensory",
                 "Stealth Rock"
             ],
-            "index": 411
+            "index": 407
         }
     },
     "Metagross": {
@@ -11536,7 +11418,7 @@ var SETDEX_SV = {
                 "Earthquake",
                 "Agility"
             ],
-            "index": 412
+            "index": 408
         },
         "Swimmer Kevin and Swimmer Talia": {
             "level": 75,
@@ -11552,7 +11434,7 @@ var SETDEX_SV = {
                 "Earthquake",
                 "Rock Slide"
             ],
-            "index": 710
+            "index": 706
         },
         "Hiker Eric": {
             "level": 75,
@@ -11568,7 +11450,7 @@ var SETDEX_SV = {
                 "Earthquake",
                 "Agility"
             ],
-            "index": 737
+            "index": 733
         },
         "Cooltrainer Shannon": {
             "level": 89,
@@ -11584,7 +11466,7 @@ var SETDEX_SV = {
                 "Ice Punch",
                 "Rock Slide"
             ],
-            "index": 876
+            "index": 872
         },
         "Elite Four Jasmine": {
             "level": 89,
@@ -11600,7 +11482,7 @@ var SETDEX_SV = {
                 "Ice Punch",
                 "Trailblaze"
             ],
-            "index": 957
+            "index": 953
         }
     },
     "Goodra-Hisui": {
@@ -11618,7 +11500,7 @@ var SETDEX_SV = {
                 "Sludge Bomb",
                 "Acid Spray"
             ],
-            "index": 413
+            "index": 409
         },
         "Cooltrainer Katelynn": {
             "level": 89,
@@ -11634,7 +11516,7 @@ var SETDEX_SV = {
                 "Sludge Bomb",
                 "Protect"
             ],
-            "index": 850
+            "index": 846
         }
     },
     "Iron Treads": {
@@ -11652,7 +11534,7 @@ var SETDEX_SV = {
                 "Rock Slide",
                 "Knock Off"
             ],
-            "index": 415
+            "index": 411
         },
         "Cooltrainer Marcel": {
             "level": 68,
@@ -11668,7 +11550,7 @@ var SETDEX_SV = {
                 "Ice Spinner",
                 "Knock Off"
             ],
-            "index": 591
+            "index": 587
         },
         "Cooltrainer Teddy": {
             "level": 77,
@@ -11684,7 +11566,7 @@ var SETDEX_SV = {
                 "Ice Spinner",
                 "Stealth Rock"
             ],
-            "index": 783
+            "index": 779
         },
         "Expert Keegan": {
             "level": 75,
@@ -11700,7 +11582,7 @@ var SETDEX_SV = {
                 "Rock Slide",
                 "Stealth Rock"
             ],
-            "index": 827
+            "index": 823
         }
     },
     "Great Tusk": {
@@ -11718,7 +11600,7 @@ var SETDEX_SV = {
                 "Stone Edge",
                 "Rapid Spin"
             ],
-            "index": 416
+            "index": 412
         },
         "Ranger Lorenzo and Ranger Jenna": {
             "level": 68,
@@ -11734,7 +11616,7 @@ var SETDEX_SV = {
                 "Ice Spinner",
                 "Rapid Spin"
             ],
-            "index": 545
+            "index": 541
         },
         "Psychic Brandi": {
             "level": 75,
@@ -11750,7 +11632,7 @@ var SETDEX_SV = {
                 "Ice Spinner",
                 "Stealth Rock"
             ],
-            "index": 765
+            "index": 761
         }
     },
     "Gengar": {
@@ -11768,7 +11650,7 @@ var SETDEX_SV = {
                 "Shadow Ball",
                 "Focus Blast"
             ],
-            "index": 418
+            "index": 414
         },
         "Swimmer Chad": {
             "level": 70,
@@ -11784,7 +11666,7 @@ var SETDEX_SV = {
                 "Destiny Bond",
                 "Hypnosis"
             ],
-            "index": 635
+            "index": 631
         },
         "Pokemon Ranger Shirley": {
             "level": 75,
@@ -11800,7 +11682,7 @@ var SETDEX_SV = {
                 "Energy Ball",
                 "Destiny Bond"
             ],
-            "index": 776
+            "index": 772
         }
     },
     "Swampert": {
@@ -11818,7 +11700,7 @@ var SETDEX_SV = {
                 "Liquidation",
                 "Stone Edge"
             ],
-            "index": 420
+            "index": 416
         },
         "Swimmer Allison and Swimmer Reed": {
             "level": 77,
@@ -11834,7 +11716,7 @@ var SETDEX_SV = {
                 "Ice Punch",
                 "Stone Edge"
             ],
-            "index": 703
+            "index": 699
         }
     },
     "Flamigo": {
@@ -11852,7 +11734,7 @@ var SETDEX_SV = {
                 "Tailwind",
                 "Throat Chop"
             ],
-            "index": 421
+            "index": 417
         },
         "Cooltrainer Jennifer": {
             "level": 68,
@@ -11867,7 +11749,7 @@ var SETDEX_SV = {
                 "Acrobatics",
                 "Dual Wingbeat"
             ],
-            "index": 537
+            "index": 533
         }
     },
     "Avalugg-Hisui": {
@@ -11883,7 +11765,7 @@ var SETDEX_SV = {
                 "Mountain Gale",
                 "Rock Slide"
             ],
-            "index": 422
+            "index": 418
         }
     },
     "Basculin-Blue-Striped": {
@@ -11900,7 +11782,7 @@ var SETDEX_SV = {
                 "Double-Edge",
                 "Aqua Jet"
             ],
-            "index": 425
+            "index": 421
         }
     },
     "Bruxish": {
@@ -11918,7 +11800,7 @@ var SETDEX_SV = {
                 "Crunch",
                 "Ice Fang"
             ],
-            "index": 426
+            "index": 422
         },
         "Beauty Jessica": {
             "level": 68,
@@ -11934,7 +11816,7 @@ var SETDEX_SV = {
                 "Crunch",
                 "Aqua Jet"
             ],
-            "index": 555
+            "index": 551
         }
     },
     "Ursaring": {
@@ -11952,7 +11834,7 @@ var SETDEX_SV = {
                 "High Horsepower",
                 "Play Rough"
             ],
-            "index": 431
+            "index": 427
         }
     },
     "Tropius": {
@@ -11970,7 +11852,7 @@ var SETDEX_SV = {
                 "Zen Headbutt",
                 "Dragon Dance"
             ],
-            "index": 432
+            "index": 428
         }
     },
     "Ribombee": {
@@ -11988,7 +11870,7 @@ var SETDEX_SV = {
                 "Energy Ball",
                 "Quiver Dance"
             ],
-            "index": 433
+            "index": 429
         }
     },
     "Grumpig": {
@@ -12006,7 +11888,7 @@ var SETDEX_SV = {
                 "Dazzling Gleam",
                 "Nasty Plot"
             ],
-            "index": 434
+            "index": 430
         }
     },
     "Iron Hands": {
@@ -12024,7 +11906,7 @@ var SETDEX_SV = {
                 "Ice Punch",
                 "Seismic Toss"
             ],
-            "index": 435
+            "index": 431
         }
     },
     "Baxcalibur": {
@@ -12042,7 +11924,7 @@ var SETDEX_SV = {
                 "Stomping Tantrum",
                 "Breaking Swipe"
             ],
-            "index": 436
+            "index": 432
         },
         "Swimmer Sharon and Swimmer Nolen": {
             "level": 68,
@@ -12058,7 +11940,7 @@ var SETDEX_SV = {
                 "Dragon Tail",
                 "High Horsepower"
             ],
-            "index": 605
+            "index": 601
         },
         "Pokemon Ranger Shirley": {
             "level": 75,
@@ -12074,7 +11956,7 @@ var SETDEX_SV = {
                 "Ice Shard",
                 "Dragon Dance"
             ],
-            "index": 779
+            "index": 775
         },
         "Champion May": {
             "level": 89,
@@ -12090,7 +11972,7 @@ var SETDEX_SV = {
                 "Earthquake",
                 "Ice Shard"
             ],
-            "index": 981
+            "index": 977
         }
     },
     "Ceruledge": {
@@ -12108,7 +11990,7 @@ var SETDEX_SV = {
                 "Dragon Claw",
                 "Shadow Sneak"
             ],
-            "index": 437
+            "index": 433
         },
         "Gentleman Walter": {
             "level": 70,
@@ -12124,7 +12006,7 @@ var SETDEX_SV = {
                 "Psycho Cut",
                 "Shadow Sneak"
             ],
-            "index": 586
+            "index": 582
         },
         "Bird Keeper Presley and Expert Auron": {
             "level": 68,
@@ -12140,7 +12022,7 @@ var SETDEX_SV = {
                 "Close Combat",
                 "Will-O-Wisp"
             ],
-            "index": 646
+            "index": 642
         },
         "Leader Flannery": {
             "level": 77,
@@ -12156,7 +12038,7 @@ var SETDEX_SV = {
                 "Solar Blade",
                 "Flame Charge"
             ],
-            "index": 833
+            "index": 829
         }
     },
     "Butterfree": {
@@ -12174,7 +12056,7 @@ var SETDEX_SV = {
                 "Tailwind",
                 "Sleep Powder"
             ],
-            "index": 439
+            "index": 435
         }
     },
     "Volcarona": {
@@ -12192,7 +12074,7 @@ var SETDEX_SV = {
                 "Air Slash",
                 "Quiver Dance"
             ],
-            "index": 442
+            "index": 438
         },
         "Cooltrainer Tyler": {
             "level": 75,
@@ -12208,7 +12090,7 @@ var SETDEX_SV = {
                 "Giga Drain",
                 "Quiver Dance"
             ],
-            "index": 775
+            "index": 771
         }
     },
     "Dragonite": {
@@ -12226,7 +12108,7 @@ var SETDEX_SV = {
                 "Weather Ball",
                 "Extreme Speed"
             ],
-            "index": 443
+            "index": 439
         },
         "Swimmer Allison and Swimmer Reed": {
             "level": 75,
@@ -12242,7 +12124,7 @@ var SETDEX_SV = {
                 "Aqua Tail",
                 "Thunder Punch"
             ],
-            "index": 700
+            "index": 696
         },
         "Elite Four Misty": {
             "level": 89,
@@ -12258,7 +12140,7 @@ var SETDEX_SV = {
                 "Aqua Tail",
                 "Extreme Speed"
             ],
-            "index": 971
+            "index": 967
         }
     },
     "Palafin": {
@@ -12274,7 +12156,7 @@ var SETDEX_SV = {
                 "Liquidation",
                 "Flip Turn"
             ],
-            "index": 445
+            "index": 441
         },
         "Psychic Brandi": {
             "level": 75,
@@ -12290,7 +12172,7 @@ var SETDEX_SV = {
                 "Drain Punch",
                 "Flip Turn"
             ],
-            "index": 764
+            "index": 760
         },
         "Cooltrainer Red": {
             "level": 90,
@@ -12306,7 +12188,7 @@ var SETDEX_SV = {
                 "Drain Punch",
                 "Ice Punch"
             ],
-            "index": 918
+            "index": 914
         }
     },
     "Basculegion": {
@@ -12324,7 +12206,7 @@ var SETDEX_SV = {
                 "Crunch",
                 "Whirlpool"
             ],
-            "index": 446
+            "index": 442
         },
         "Aqua Leader Archie": {
             "level": 89,
@@ -12340,7 +12222,7 @@ var SETDEX_SV = {
                 "Psychic Fangs",
                 "Flip Turn"
             ],
-            "index": 951
+            "index": 947
         }
     },
     "Miltank": {
@@ -12358,7 +12240,7 @@ var SETDEX_SV = {
                 "Body Press",
                 "Milk Drink"
             ],
-            "index": 450
+            "index": 446
         }
     },
     "Okidogi": {
@@ -12376,7 +12258,7 @@ var SETDEX_SV = {
                 "Crunch",
                 "Scary Face"
             ],
-            "index": 451
+            "index": 447
         }
     },
     "Tyrantrum": {
@@ -12394,7 +12276,7 @@ var SETDEX_SV = {
                 "High Horsepower",
                 "Psychic Fangs"
             ],
-            "index": 455
+            "index": 451
         },
         "Dragon Tamer Jace": {
             "level": 75,
@@ -12410,7 +12292,7 @@ var SETDEX_SV = {
                 "Fire Fang",
                 "Ice Fang"
             ],
-            "index": 807
+            "index": 803
         }
     },
     "Aerodactyl": {
@@ -12428,7 +12310,7 @@ var SETDEX_SV = {
                 "Iron Head",
                 "Thunder Fang"
             ],
-            "index": 456
+            "index": 452
         },
         "Bird Keeper Darius": {
             "level": 62,
@@ -12444,7 +12326,7 @@ var SETDEX_SV = {
                 "Rock Slide",
                 "Iron Head"
             ],
-            "index": 503
+            "index": 499
         },
         "Swimmer Isabella": {
             "level": 68,
@@ -12460,7 +12342,7 @@ var SETDEX_SV = {
                 "Steel Wing",
                 "Attract"
             ],
-            "index": 637
+            "index": 633
         }
     },
     "Beedrill": {
@@ -12478,7 +12360,7 @@ var SETDEX_SV = {
                 "Drill Run",
                 "Toxic Spikes"
             ],
-            "index": 460
+            "index": 456
         }
     },
     "Haxorus": {
@@ -12496,7 +12378,7 @@ var SETDEX_SV = {
                 "X-Scissor",
                 "Acrobatics"
             ],
-            "index": 464
+            "index": 460
         }
     },
     "Slowbro-Galar": {
@@ -12514,7 +12396,7 @@ var SETDEX_SV = {
                 "Surf",
                 "Slack Off"
             ],
-            "index": 466
+            "index": 462
         },
         "Swimmer Tanya": {
             "level": 68,
@@ -12530,7 +12412,7 @@ var SETDEX_SV = {
                 "Blizzard",
                 "Slack Off"
             ],
-            "index": 612
+            "index": 608
         },
         "Hex Maniac Cole": {
             "level": 77,
@@ -12546,7 +12428,7 @@ var SETDEX_SV = {
                 "Scald",
                 "Slack Off"
             ],
-            "index": 813
+            "index": 809
         }
     },
     "Glaceon": {
@@ -12564,7 +12446,7 @@ var SETDEX_SV = {
                 "Shadow Ball",
                 "Mud Shot"
             ],
-            "index": 467
+            "index": 463
         }
     },
     "Tornadus": {
@@ -12582,7 +12464,7 @@ var SETDEX_SV = {
                 "Weather Ball",
                 "Icy Wind"
             ],
-            "index": 468
+            "index": 464
         },
         "Cooltrainer Julie": {
             "level": 89,
@@ -12598,7 +12480,7 @@ var SETDEX_SV = {
                 "Grass Knot",
                 "Tailwind"
             ],
-            "index": 881
+            "index": 877
         }
     },
     "Kecleon": {
@@ -12616,7 +12498,7 @@ var SETDEX_SV = {
                 "Shadow Claw",
                 "Fake Out"
             ],
-            "index": 470
+            "index": 466
         }
     },
     "Sceptile": {
@@ -12634,7 +12516,7 @@ var SETDEX_SV = {
                 "X-Scissor",
                 "Acrobatics"
             ],
-            "index": 472
+            "index": 468
         },
         "Brendan": {
             "level": 70,
@@ -12650,7 +12532,7 @@ var SETDEX_SV = {
                 "Earthquake",
                 "Focus Blast"
             ],
-            "index": 598
+            "index": 594
         }
     },
     "Skeledirge": {
@@ -12668,7 +12550,7 @@ var SETDEX_SV = {
                 "Alluring Voice",
                 "Substitute"
             ],
-            "index": 474
+            "index": 470
         },
         "Aidan + Athena": {
             "level": 75,
@@ -12684,7 +12566,7 @@ var SETDEX_SV = {
                 "Shadow Ball",
                 "Alluring Voice"
             ],
-            "index": 697
+            "index": 693
         }
     },
     "Exploud": {
@@ -12701,7 +12583,7 @@ var SETDEX_SV = {
                 "Terrain Pulse",
                 "Extrasensory"
             ],
-            "index": 475
+            "index": 471
         }
     },
     "Silvally-Electric": {
@@ -12719,7 +12601,7 @@ var SETDEX_SV = {
                 "Flash Cannon",
                 "Air Slash"
             ],
-            "index": 478
+            "index": 474
         }
     },
     "Reuniclus": {
@@ -12737,7 +12619,7 @@ var SETDEX_SV = {
                 "Energy Ball",
                 "Shadow Ball"
             ],
-            "index": 479
+            "index": 475
         }
     },
     "Bisharp": {
@@ -12755,7 +12637,7 @@ var SETDEX_SV = {
                 "X-Scissor",
                 "Scary Face"
             ],
-            "index": 480
+            "index": 476
         },
         "Pokemon Ranger Tyree": {
             "level": 75,
@@ -12771,7 +12653,7 @@ var SETDEX_SV = {
                 "Metal Burst",
                 "Stealth Rock"
             ],
-            "index": 728
+            "index": 724
         }
     },
     "Dusknoir": {
@@ -12789,7 +12671,7 @@ var SETDEX_SV = {
                 "Thunder Punch",
                 "Destiny Bond"
             ],
-            "index": 481
+            "index": 477
         }
     },
     "Serperior": {
@@ -12807,7 +12689,7 @@ var SETDEX_SV = {
                 "Knock Off",
                 "Glare"
             ],
-            "index": 482
+            "index": 478
         },
         "Swimmer Herman and Swimmer Susie": {
             "level": 75,
@@ -12823,7 +12705,7 @@ var SETDEX_SV = {
                 "Dragon Tail",
                 "Knock Off"
             ],
-            "index": 721
+            "index": 717
         }
     },
     "Solrock": {
@@ -12841,7 +12723,7 @@ var SETDEX_SV = {
                 "Flare Blitz",
                 "Acrobatics"
             ],
-            "index": 486
+            "index": 482
         },
         "Kindler Jeff": {
             "level": 75,
@@ -12857,7 +12739,7 @@ var SETDEX_SV = {
                 "Flare Blitz",
                 "Hypnosis"
             ],
-            "index": 798
+            "index": 794
         }
     },
     "Dodrio": {
@@ -12875,7 +12757,7 @@ var SETDEX_SV = {
                 "Double Hit",
                 "Swords Dance"
             ],
-            "index": 487
+            "index": 483
         }
     },
     "Rotom-Fan": {
@@ -12893,7 +12775,7 @@ var SETDEX_SV = {
                 "Shadow Ball",
                 "Thunder Wave"
             ],
-            "index": 488
+            "index": 484
         },
         "Hex Maniac Cole": {
             "level": 75,
@@ -12909,7 +12791,7 @@ var SETDEX_SV = {
                 "Hex",
                 "Thunder Wave"
             ],
-            "index": 815
+            "index": 811
         }
     },
     "Dragapult": {
@@ -12927,7 +12809,7 @@ var SETDEX_SV = {
                 "Reflect",
                 "Light Screen"
             ],
-            "index": 489
+            "index": 485
         },
         "Cooltrainer Teddy": {
             "level": 77,
@@ -12943,7 +12825,7 @@ var SETDEX_SV = {
                 "Flamethrower",
                 "U-turn"
             ],
-            "index": 787
+            "index": 783
         },
         "Cooltrainer Albert": {
             "level": 90,
@@ -12956,7 +12838,7 @@ var SETDEX_SV = {
             "moves": [
                 "Dragon Darts"
             ],
-            "index": 841
+            "index": 837
         }
     },
     "Azelf": {
@@ -12974,7 +12856,7 @@ var SETDEX_SV = {
                 "Future Sight",
                 "Stealth Rock"
             ],
-            "index": 490
+            "index": 486
         },
         "Cooltrainer Owen": {
             "level": 89,
@@ -12990,7 +12872,7 @@ var SETDEX_SV = {
                 "Dazzling Gleam",
                 "Stealth Rock"
             ],
-            "index": 888
+            "index": 884
         }
     },
     "Weezing-Galar": {
@@ -13008,7 +12890,7 @@ var SETDEX_SV = {
                 "Heat Wave",
                 "Destiny Bond"
             ],
-            "index": 491
+            "index": 487
         },
         "Ninja Boy Riley": {
             "level": 70,
@@ -13024,7 +12906,7 @@ var SETDEX_SV = {
                 "Thunderbolt",
                 "Dark Pulse"
             ],
-            "index": 522
+            "index": 518
         },
         "Cooltrainer Halle": {
             "level": 90,
@@ -13040,7 +12922,7 @@ var SETDEX_SV = {
                 "Toxic Spikes",
                 "Misty Explosion"
             ],
-            "index": 929
+            "index": 925
         }
     },
     "Decidueye": {
@@ -13058,7 +12940,7 @@ var SETDEX_SV = {
                 "Dual Wingbeat",
                 "Roost"
             ],
-            "index": 494
+            "index": 490
         },
         "Cooltrainer Tyler": {
             "level": 76,
@@ -13074,7 +12956,7 @@ var SETDEX_SV = {
                 "Dual Wingbeat",
                 "Shadow Sneak"
             ],
-            "index": 772
+            "index": 768
         },
         "Cooltrainer Shannon": {
             "level": 90,
@@ -13090,7 +12972,7 @@ var SETDEX_SV = {
                 "Spirit Shackle",
                 "Acrobatics"
             ],
-            "index": 878
+            "index": 874
         }
     },
     "Medicham": {
@@ -13108,7 +12990,7 @@ var SETDEX_SV = {
                 "Stone Edge",
                 "Fake Out"
             ],
-            "index": 495
+            "index": 491
         },
         "Psychic Presont and Psychic Maura": {
             "level": 70,
@@ -13126,7 +13008,7 @@ var SETDEX_SV = {
                 "Thunder Punch",
                 "Fake Out"
             ],
-            "index": 654
+            "index": 650
         },
         "Siblings Reli And Ian": {
             "level": 75,
@@ -13142,7 +13024,7 @@ var SETDEX_SV = {
                 "Thunder Punch",
                 "Fake Out"
             ],
-            "index": 724
+            "index": 720
         }
     },
     "Gardevoir": {
@@ -13160,7 +13042,7 @@ var SETDEX_SV = {
                 "Hyper Voice",
                 "Thunderbolt"
             ],
-            "index": 496
+            "index": 492
         },
         "Parasol Lady Clarissa": {
             "level": 68,
@@ -13176,7 +13058,7 @@ var SETDEX_SV = {
                 "Shadow Ball",
                 "Calm Mind"
             ],
-            "index": 528
+            "index": 524
         },
         "Aidan + Athena": {
             "level": 77,
@@ -13192,7 +13074,7 @@ var SETDEX_SV = {
                 "Psyshock",
                 "Mystical Fire"
             ],
-            "index": 699
+            "index": 695
         },
         "Pokemon Ranger Tyree": {
             "level": 73,
@@ -13208,7 +13090,7 @@ var SETDEX_SV = {
                 "Draining Kiss",
                 "Calm Mind"
             ],
-            "index": 729
+            "index": 725
         },
         "Cooltrainer Albert": {
             "level": 89,
@@ -13224,7 +13106,7 @@ var SETDEX_SV = {
                 "Draining Kiss",
                 "Destiny Bond"
             ],
-            "index": 842
+            "index": 838
         },
         "Cooltrainer Julie": {
             "level": 89,
@@ -13240,7 +13122,7 @@ var SETDEX_SV = {
                 "Mystical Fire",
                 "Misty Explosion"
             ],
-            "index": 883
+            "index": 879
         }
     },
     "Skarmory": {
@@ -13258,7 +13140,7 @@ var SETDEX_SV = {
                 "Spikes",
                 "Stealth Rock"
             ],
-            "index": 500
+            "index": 496
         },
         "Drewd": {
             "level": 90,
@@ -13274,7 +13156,7 @@ var SETDEX_SV = {
                 "Roost",
                 "Brave Bird"
             ],
-            "index": 935
+            "index": 931
         }
     },
     "Mandibuzz": {
@@ -13292,7 +13174,7 @@ var SETDEX_SV = {
                 "Toxic",
                 "Roost"
             ],
-            "index": 501
+            "index": 497
         }
     },
     "Braviary": {
@@ -13310,7 +13192,7 @@ var SETDEX_SV = {
                 "Crush Claw",
                 "Bulk Up"
             ],
-            "index": 502
+            "index": 498
         }
     },
     "Drampa": {
@@ -13328,7 +13210,7 @@ var SETDEX_SV = {
                 "Extrasensory",
                 "Icy Wind"
             ],
-            "index": 505
+            "index": 501
         },
         "Cooltrainer Halle": {
             "level": 90,
@@ -13344,7 +13226,7 @@ var SETDEX_SV = {
                 "Ice Beam",
                 "Flamethrower"
             ],
-            "index": 930
+            "index": 926
         }
     },
     "Naganadel": {
@@ -13362,7 +13244,7 @@ var SETDEX_SV = {
                 "Air Slash",
                 "Toxic"
             ],
-            "index": 507
+            "index": 503
         },
         "Drewd": {
             "level": 90,
@@ -13378,7 +13260,7 @@ var SETDEX_SV = {
                 "Sludge Wave",
                 "Dark Pulse"
             ],
-            "index": 936
+            "index": 932
         },
         "Elite Four Janine": {
             "level": 90,
@@ -13394,7 +13276,7 @@ var SETDEX_SV = {
                 "Venoshock",
                 "U-turn"
             ],
-            "index": 970
+            "index": 966
         }
     },
     "Yanmega": {
@@ -13412,7 +13294,7 @@ var SETDEX_SV = {
                 "Giga Drain",
                 "U-turn"
             ],
-            "index": 508
+            "index": 504
         }
     },
     "Zapdos-Galar": {
@@ -13430,7 +13312,7 @@ var SETDEX_SV = {
                 "Stomping Tantrum",
                 "Detect"
             ],
-            "index": 509
+            "index": 505
         }
     },
     "Articuno-Galar": {
@@ -13448,7 +13330,7 @@ var SETDEX_SV = {
                 "Shadow Ball",
                 "Hypnosis"
             ],
-            "index": 511
+            "index": 507
         }
     },
     "Moltres-Galar": {
@@ -13466,7 +13348,7 @@ var SETDEX_SV = {
                 "Air Slash",
                 "Roost"
             ],
-            "index": 512
+            "index": 508
         },
         "Champion May": {
             "level": 89,
@@ -13482,7 +13364,7 @@ var SETDEX_SV = {
                 "Ancient Power",
                 "Roost"
             ],
-            "index": 980
+            "index": 976
         }
     },
     "Corviknight": {
@@ -13500,7 +13382,7 @@ var SETDEX_SV = {
                 "Body Press",
                 "Tailwind"
             ],
-            "index": 513
+            "index": 509
         }
     },
     "Salamence": {
@@ -13518,7 +13400,7 @@ var SETDEX_SV = {
                 "Earthquake",
                 "Fire Fang"
             ],
-            "index": 514
+            "index": 510
         },
         "Cooltrainer Shannon": {
             "level": 89,
@@ -13534,7 +13416,7 @@ var SETDEX_SV = {
                 "Bulldoze",
                 "Tailwind"
             ],
-            "index": 875
+            "index": 871
         }
     },
     "Omastar": {
@@ -13552,7 +13434,7 @@ var SETDEX_SV = {
                 "Ice Beam",
                 "Shell Smash"
             ],
-            "index": 516
+            "index": 512
         }
     },
     "Iron Jugulis": {
@@ -13570,7 +13452,7 @@ var SETDEX_SV = {
                 "Iron Head",
                 "Knock Off"
             ],
-            "index": 520
+            "index": 516
         },
         "Swimmer Tisha and Swimmer Clarence": {
             "level": 75,
@@ -13586,7 +13468,7 @@ var SETDEX_SV = {
                 "Fire Blast",
                 "Air Cutter"
             ],
-            "index": 705
+            "index": 701
         },
         "Elite Four Janine": {
             "level": 89,
@@ -13602,7 +13484,7 @@ var SETDEX_SV = {
                 "Heat Wave",
                 "Substitute"
             ],
-            "index": 967
+            "index": 963
         }
     },
     "Crobat": {
@@ -13620,7 +13502,7 @@ var SETDEX_SV = {
                 "Leech Life",
                 "Steel Wing"
             ],
-            "index": 521
+            "index": 517
         }
     },
     "Iron Valiant": {
@@ -13638,7 +13520,7 @@ var SETDEX_SV = {
                 "Leaf Blade",
                 "Liquidation"
             ],
-            "index": 523
+            "index": 519
         },
         "Gym Leader Tate and Liza": {
             "level": 70,
@@ -13654,7 +13536,7 @@ var SETDEX_SV = {
                 "Psycho Cut",
                 "Fire Punch"
             ],
-            "index": 693
+            "index": 689
         },
         "Cooltrainer Owen": {
             "level": 89,
@@ -13670,7 +13552,7 @@ var SETDEX_SV = {
                 "Thunderbolt",
                 "Liquidation"
             ],
-            "index": 892
+            "index": 888
         },
         "Cooltrainer Dianne": {
             "level": 89,
@@ -13686,7 +13568,7 @@ var SETDEX_SV = {
                 "Shadow Sneak",
                 "Knock Off"
             ],
-            "index": 894
+            "index": 890
         },
         "Elite Four Whitney": {
             "level": 90,
@@ -13702,7 +13584,7 @@ var SETDEX_SV = {
                 "Psychic",
                 "Thunderbolt"
             ],
-            "index": 964
+            "index": 960
         }
     },
     "Rotom-Wash": {
@@ -13720,7 +13602,7 @@ var SETDEX_SV = {
                 "Volt Switch",
                 "Thunder Wave"
             ],
-            "index": 527
+            "index": 523
         }
     },
     "Seismitoad": {
@@ -13738,7 +13620,7 @@ var SETDEX_SV = {
                 "Ice Punch",
                 "Mud Shot"
             ],
-            "index": 529
+            "index": 525
         }
     },
     "Heliolisk": {
@@ -13756,7 +13638,7 @@ var SETDEX_SV = {
                 "Weather Ball",
                 "Thunder Wave"
             ],
-            "index": 530
+            "index": 526
         },
         "Aroma Lady Rachel": {
             "level": 90,
@@ -13772,7 +13654,7 @@ var SETDEX_SV = {
                 "Solar Beam",
                 "Weather Ball"
             ],
-            "index": 864
+            "index": 860
         }
     },
     "Goodra": {
@@ -13790,7 +13672,7 @@ var SETDEX_SV = {
                 "Weather Ball",
                 "Mud Shot"
             ],
-            "index": 536
+            "index": 532
         }
     },
     "Lurantis": {
@@ -13808,7 +13690,7 @@ var SETDEX_SV = {
                 "Weather Ball",
                 "X-Scissor"
             ],
-            "index": 539
+            "index": 535
         }
     },
     "Shiftry": {
@@ -13826,7 +13708,57 @@ var SETDEX_SV = {
                 "Night Slash",
                 "Fake Out"
             ],
-            "index": 541
+            "index": 537
+        }
+    },
+    "Ninetales": {
+        "Ranger Lorenzo and Ranger Jenna": {
+            "level": 70,
+            "ivs": null,
+            "item": "Wide Lens",
+            "ability": "Drought",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Fire Blast",
+                "Solar Beam",
+                "Hex",
+                "Will-O-Wisp"
+            ],
+            "index": 539
+        },
+        "Tuber Roy": {
+            "level": 70,
+            "ivs": null,
+            "item": "Ice Gem",
+            "ability": "Flash Fire",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Heat Wave",
+                "Weather Ball",
+                "Extrasensory",
+                "Nasty Plot"
+            ],
+            "index": 605
+        },
+        "Kindler Jeff": {
+            "level": 75,
+            "ivs": null,
+            "item": "Eject Pack",
+            "ability": "Flash Fire",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Overheat",
+                "Extrasensory",
+                "Hex",
+                "Will-O-Wisp"
+            ],
+            "index": 791
         }
     },
     "Regirock": {
@@ -13844,7 +13776,7 @@ var SETDEX_SV = {
                 "Drain Punch",
                 "Stealth Rock"
             ],
-            "index": 546
+            "index": 542
         }
     },
     "Registeel": {
@@ -13862,7 +13794,7 @@ var SETDEX_SV = {
                 "Hammer Arm",
                 "Counter"
             ],
-            "index": 547
+            "index": 543
         }
     },
     "Regice": {
@@ -13880,7 +13812,7 @@ var SETDEX_SV = {
                 "Rest",
                 "Sleep Talk"
             ],
-            "index": 548
+            "index": 544
         }
     },
     "Cresselia": {
@@ -13900,7 +13832,7 @@ var SETDEX_SV = {
                 "Moonlight",
                 "Trick Room"
             ],
-            "index": 549
+            "index": 545
         }
     },
     "Meowscarada": {
@@ -13918,7 +13850,7 @@ var SETDEX_SV = {
                 "Play Rough",
                 "U-turn"
             ],
-            "index": 554
+            "index": 550
         },
         "Cooltrainer Red": {
             "level": 89,
@@ -13934,7 +13866,7 @@ var SETDEX_SV = {
                 "Play Rough",
                 "U-turn"
             ],
-            "index": 921
+            "index": 917
         }
     },
     "Sylveon": {
@@ -13952,7 +13884,7 @@ var SETDEX_SV = {
                 "Mystical Fire",
                 "Misty Explosion"
             ],
-            "index": 556
+            "index": 552
         },
         "Psychic Blake and Psychic Samantha": {
             "level": 68,
@@ -13970,7 +13902,7 @@ var SETDEX_SV = {
                 "Draining Kiss",
                 "Light Screen"
             ],
-            "index": 662
+            "index": 658
         },
         "Elite Four Whitney": {
             "level": 89,
@@ -13986,7 +13918,7 @@ var SETDEX_SV = {
                 "Mystical Fire",
                 "Protect"
             ],
-            "index": 959
+            "index": 955
         }
     },
     "Clawitzer": {
@@ -14004,7 +13936,7 @@ var SETDEX_SV = {
                 "Aura Sphere",
                 "Terrain Pulse"
             ],
-            "index": 560
+            "index": 556
         },
         "Bird Keeper Presley and Expert Auron": {
             "level": 68,
@@ -14020,7 +13952,7 @@ var SETDEX_SV = {
                 "Dark Pulse",
                 "Aura Sphere"
             ],
-            "index": 642
+            "index": 638
         },
         "Swimmer Kevin and Swimmer Talia": {
             "level": 75,
@@ -14036,7 +13968,7 @@ var SETDEX_SV = {
                 "Aura Sphere",
                 "Sludge Bomb"
             ],
-            "index": 711
+            "index": 707
         },
         "Cooltrainer Mitchell": {
             "level": 90,
@@ -14052,7 +13984,7 @@ var SETDEX_SV = {
                 "Aura Sphere",
                 "Ice Beam"
             ],
-            "index": 926
+            "index": 922
         }
     },
     "Mimikyu": {
@@ -14070,7 +14002,7 @@ var SETDEX_SV = {
                 "Wood Hammer",
                 "Destiny Bond"
             ],
-            "index": 562
+            "index": 558
         },
         "Swimmer Herman and Swimmer Susie": {
             "level": 77,
@@ -14086,7 +14018,7 @@ var SETDEX_SV = {
                 "Leech Life",
                 "Phantom Force"
             ],
-            "index": 720
+            "index": 716
         },
         "Magma Leader Maxie": {
             "level": 89,
@@ -14102,7 +14034,7 @@ var SETDEX_SV = {
                 "Wood Hammer",
                 "Dazzling Gleam"
             ],
-            "index": 943
+            "index": 939
         }
     },
     "Snorlax": {
@@ -14120,7 +14052,7 @@ var SETDEX_SV = {
                 "Heavy Slam",
                 "High Horsepower"
             ],
-            "index": 568
+            "index": 564
         }
     },
     "Chimecho": {
@@ -14138,7 +14070,7 @@ var SETDEX_SV = {
                 "Charge Beam",
                 "Recover"
             ],
-            "index": 572
+            "index": 568
         }
     },
     "Roselia": {
@@ -14156,7 +14088,7 @@ var SETDEX_SV = {
                 "Extrasensory",
                 "Round"
             ],
-            "index": 573
+            "index": 569
         }
     },
     "Maushold": {
@@ -14176,7 +14108,7 @@ var SETDEX_SV = {
                 "Beat Up",
                 "Tickle"
             ],
-            "index": 575
+            "index": 571
         }
     },
     "Terrakion": {
@@ -14193,7 +14125,7 @@ var SETDEX_SV = {
                 "Sacred Sword",
                 "Retaliate"
             ],
-            "index": 578
+            "index": 574
         },
         "Black Belt Damien": {
             "level": 75,
@@ -14209,7 +14141,7 @@ var SETDEX_SV = {
                 "Retaliate",
                 "Quick Attack"
             ],
-            "index": 761
+            "index": 757
         }
     },
     "Silvally-Fairy": {
@@ -14227,7 +14159,7 @@ var SETDEX_SV = {
                 "X-Scissor",
                 "Parting Shot"
             ],
-            "index": 579
+            "index": 575
         }
     },
     "Gothitelle": {
@@ -14245,7 +14177,7 @@ var SETDEX_SV = {
                 "Energy Ball",
                 "Dark Pulse"
             ],
-            "index": 582
+            "index": 578
         },
         "Psychic Blake and Psychic Samantha": {
             "level": 70,
@@ -14263,7 +14195,7 @@ var SETDEX_SV = {
                 "Hypnosis",
                 "Fake Out"
             ],
-            "index": 659
+            "index": 655
         }
     },
     "Wyrdeer": {
@@ -14281,7 +14213,7 @@ var SETDEX_SV = {
                 "Psyshield Bash",
                 "Trailblaze"
             ],
-            "index": 585
+            "index": 581
         }
     },
     "Iron Moth": {
@@ -14299,7 +14231,7 @@ var SETDEX_SV = {
                 "Bug Buzz",
                 "Discharge"
             ],
-            "index": 587
+            "index": 583
         },
         "Leader Flannery": {
             "level": 77,
@@ -14315,7 +14247,7 @@ var SETDEX_SV = {
                 "Bug Buzz",
                 "Energy Ball"
             ],
-            "index": 838
+            "index": 834
         },
         "Cooltrainer Owen": {
             "level": 89,
@@ -14331,7 +14263,7 @@ var SETDEX_SV = {
                 "Sludge Wave",
                 "U-turn"
             ],
-            "index": 891
+            "index": 887
         },
         "Cooltrainer Terra": {
             "level": 89,
@@ -14347,7 +14279,7 @@ var SETDEX_SV = {
                 "Energy Ball",
                 "Fiery Dance"
             ],
-            "index": 912
+            "index": 908
         }
     },
     "Slurpuff": {
@@ -14365,7 +14297,7 @@ var SETDEX_SV = {
                 "Flamethrower",
                 "Calm Mind"
             ],
-            "index": 589
+            "index": 585
         }
     },
     "Typhlosion": {
@@ -14383,7 +14315,7 @@ var SETDEX_SV = {
                 "Shadow Ball",
                 "Scorching Sands"
             ],
-            "index": 590
+            "index": 586
         },
         "Cooltrainer Mitchell": {
             "level": 89,
@@ -14399,7 +14331,7 @@ var SETDEX_SV = {
                 "Nature Power",
                 "Flamethrower"
             ],
-            "index": 927
+            "index": 923
         }
     },
     "Incineroar": {
@@ -14417,7 +14349,7 @@ var SETDEX_SV = {
                 "Leech Life",
                 "Fake Out"
             ],
-            "index": 593
+            "index": 589
         },
         "Psychic Presont and Psychic Maura": {
             "level": 68,
@@ -14435,7 +14367,7 @@ var SETDEX_SV = {
                 "Leech Life",
                 "Drain Punch"
             ],
-            "index": 653
+            "index": 649
         },
         "Elite Four Whitney": {
             "level": 89,
@@ -14451,7 +14383,7 @@ var SETDEX_SV = {
                 "Fire Spin",
                 "Fake Out"
             ],
-            "index": 963
+            "index": 959
         }
     },
     "Roaring Moon": {
@@ -14469,7 +14401,7 @@ var SETDEX_SV = {
                 "Acrobatics",
                 "Dragon Dance"
             ],
-            "index": 595
+            "index": 591
         },
         "Cooltrainer Julie": {
             "level": 89,
@@ -14485,7 +14417,7 @@ var SETDEX_SV = {
                 "Acrobatics",
                 "Dragon Dance"
             ],
-            "index": 885
+            "index": 881
         }
     },
     "Latios": {
@@ -14503,7 +14435,7 @@ var SETDEX_SV = {
                 "Aura Sphere",
                 "Calm Mind"
             ],
-            "index": 597
+            "index": 593
         }
     },
     "Slaking": {
@@ -14521,7 +14453,7 @@ var SETDEX_SV = {
                 "Knock Off",
                 "Return"
             ],
-            "index": 599
+            "index": 595
         },
         "Swimmer Tisha and Swimmer Clarence": {
             "level": 75,
@@ -14537,7 +14469,7 @@ var SETDEX_SV = {
                 "Play Rough",
                 "Drain Punch"
             ],
-            "index": 706
+            "index": 702
         }
     },
     "Magnezone": {
@@ -14558,7 +14490,7 @@ var SETDEX_SV = {
                 "Hidden Power Grass",
                 "Metal Sound"
             ],
-            "index": 601
+            "index": 597
         },
         "Lady Annie": {
             "level": 75,
@@ -14574,7 +14506,7 @@ var SETDEX_SV = {
                 "Tera Blast",
                 "Light Screen"
             ],
-            "index": 757
+            "index": 753
         }
     },
     "Mr. Rime": {
@@ -14592,7 +14524,7 @@ var SETDEX_SV = {
                 "Shadow Ball",
                 "Fake Out"
             ],
-            "index": 604
+            "index": 600
         }
     },
     "Cramorant": {
@@ -14610,7 +14542,7 @@ var SETDEX_SV = {
                 "Air Slash",
                 "Agility"
             ],
-            "index": 610
+            "index": 606
         }
     },
     "Frosmoth": {
@@ -14628,7 +14560,7 @@ var SETDEX_SV = {
                 "Air Slash",
                 "Aurora Veil"
             ],
-            "index": 615
+            "index": 611
         }
     },
     "Articuno": {
@@ -14646,7 +14578,7 @@ var SETDEX_SV = {
                 "Extrasensory",
                 "U-turn"
             ],
-            "index": 618
+            "index": 614
         }
     },
     "Alakazam": {
@@ -14664,7 +14596,7 @@ var SETDEX_SV = {
                 "Dazzling Gleam",
                 "Reflect"
             ],
-            "index": 619
+            "index": 615
         },
         "Psychic Brandi": {
             "level": 75,
@@ -14680,7 +14612,7 @@ var SETDEX_SV = {
                 "Tera Blast",
                 "Future Sight"
             ],
-            "index": 769
+            "index": 765
         }
     },
     "Charizard": {
@@ -14698,7 +14630,7 @@ var SETDEX_SV = {
                 "Weather Ball",
                 "Counter"
             ],
-            "index": 620
+            "index": 616
         }
     },
     "Cinderace": {
@@ -14716,7 +14648,7 @@ var SETDEX_SV = {
                 "Acrobatics",
                 "Bulk Up"
             ],
-            "index": 626
+            "index": 622
         }
     },
     "Glalie": {
@@ -14734,7 +14666,7 @@ var SETDEX_SV = {
                 "Crunch",
                 "Explosion"
             ],
-            "index": 628
+            "index": 624
         }
     },
     "Rotom-Frost": {
@@ -14752,7 +14684,7 @@ var SETDEX_SV = {
                 "Hex",
                 "Volt Switch"
             ],
-            "index": 632
+            "index": 628
         }
     },
     "Cryogonal": {
@@ -14770,7 +14702,7 @@ var SETDEX_SV = {
                 "Ancient Power",
                 "Aurora Veil"
             ],
-            "index": 636
+            "index": 632
         }
     },
     "Kommo-o": {
@@ -14788,7 +14720,7 @@ var SETDEX_SV = {
                 "Thunder Punch",
                 "Dragon Dance"
             ],
-            "index": 638
+            "index": 634
         },
         "Battle Girl Aisha": {
             "level": 75,
@@ -14804,7 +14736,7 @@ var SETDEX_SV = {
                 "Iron Head",
                 "Dragon Dance"
             ],
-            "index": 745
+            "index": 741
         },
         "Cooltrainer Red": {
             "level": 89,
@@ -14820,7 +14752,7 @@ var SETDEX_SV = {
                 "Boomburst",
                 "Flash Cannon"
             ],
-            "index": 920
+            "index": 916
         }
     },
     "Cetitan": {
@@ -14838,7 +14770,7 @@ var SETDEX_SV = {
                 "Ice Shard",
                 "Belly Drum"
             ],
-            "index": 640
+            "index": 636
         },
         "Pokemon Ranger Tyree": {
             "level": 73,
@@ -14854,7 +14786,7 @@ var SETDEX_SV = {
                 "Knock Off",
                 "Ice Shard"
             ],
-            "index": 733
+            "index": 729
         }
     },
     "Kingambit": {
@@ -14872,7 +14804,7 @@ var SETDEX_SV = {
                 "Iron Head",
                 "Brick Break"
             ],
-            "index": 643
+            "index": 639
         },
         "Lady Annie": {
             "level": 75,
@@ -14888,7 +14820,7 @@ var SETDEX_SV = {
                 "Sucker Punch",
                 "Zen Headbutt"
             ],
-            "index": 756
+            "index": 752
         },
         "Cooltrainer MBF": {
             "level": 90,
@@ -14904,7 +14836,7 @@ var SETDEX_SV = {
                 "Sucker Punch",
                 "Swords Dance"
             ],
-            "index": 904
+            "index": 900
         },
         "Drewd": {
             "level": 90,
@@ -14920,7 +14852,7 @@ var SETDEX_SV = {
                 "Zen Headbutt",
                 "Low Kick"
             ],
-            "index": 940
+            "index": 936
         }
     },
     "Ogerpon-Cornerstone": {
@@ -14938,7 +14870,7 @@ var SETDEX_SV = {
                 "Spiky Shield",
                 "Horn Leech"
             ],
-            "index": 644
+            "index": 640
         }
     },
     "Kyurem": {
@@ -14956,7 +14888,7 @@ var SETDEX_SV = {
                 "Flash Cannon",
                 "Icy Wind"
             ],
-            "index": 647
+            "index": 643
         }
     },
     "Blaziken": {
@@ -14974,7 +14906,7 @@ var SETDEX_SV = {
                 "Blaze Kick",
                 "Protect"
             ],
-            "index": 648
+            "index": 644
         },
         "Aidan + Athena": {
             "level": 75,
@@ -14990,7 +14922,7 @@ var SETDEX_SV = {
                 "Scorching Sands",
                 "Protect"
             ],
-            "index": 698
+            "index": 694
         },
         "Champion May": {
             "level": 90,
@@ -15006,7 +14938,7 @@ var SETDEX_SV = {
                 "Thunder Punch",
                 "Swords Dance"
             ],
-            "index": 982
+            "index": 978
         }
     },
     "Zoroark-Hisui": {
@@ -15024,7 +14956,7 @@ var SETDEX_SV = {
                 "Dark Pulse",
                 "Extrasensory"
             ],
-            "index": 649
+            "index": 645
         }
     },
     "Braviary-Hisui": {
@@ -15042,7 +14974,7 @@ var SETDEX_SV = {
                 "Heat Wave",
                 "Future Sight"
             ],
-            "index": 650
+            "index": 646
         }
     },
     "Hatterene": {
@@ -15062,7 +14994,7 @@ var SETDEX_SV = {
                 "Draining Kiss",
                 "Mystical Fire"
             ],
-            "index": 652
+            "index": 648
         }
     },
     "Indeedee-F": {
@@ -15082,7 +15014,7 @@ var SETDEX_SV = {
                 "Alluring Voice",
                 "Psychic Terrain"
             ],
-            "index": 655
+            "index": 651
         },
         "Swimmer Tisha and Swimmer Clarence": {
             "level": 77,
@@ -15098,7 +15030,7 @@ var SETDEX_SV = {
                 "Dazzling Gleam",
                 "Skill Swap"
             ],
-            "index": 704
+            "index": 700
         }
     },
     "Hypno": {
@@ -15118,7 +15050,7 @@ var SETDEX_SV = {
                 "Dazzling Gleam",
                 "Hypnosis"
             ],
-            "index": 657
+            "index": 653
         }
     },
     "Pachirisu": {
@@ -15138,7 +15070,7 @@ var SETDEX_SV = {
                 "Follow Me",
                 "Light Screen"
             ],
-            "index": 658
+            "index": 654
         }
     },
     "Camerupt": {
@@ -15158,7 +15090,7 @@ var SETDEX_SV = {
                 "Zen Headbutt",
                 "Howl"
             ],
-            "index": 666
+            "index": 662
         },
         "Hiker Eli": {
             "level": 75,
@@ -15174,7 +15106,7 @@ var SETDEX_SV = {
                 "Earth Power",
                 "Ancient Power"
             ],
-            "index": 819
+            "index": 815
         }
     },
     "Druddigon": {
@@ -15195,7 +15127,7 @@ var SETDEX_SV = {
                 "Crunch",
                 "Surf"
             ],
-            "index": 680
+            "index": 676
         },
         "Dragon Tamer Jace": {
             "level": 75,
@@ -15211,7 +15143,7 @@ var SETDEX_SV = {
                 "Protect",
                 "Toxic"
             ],
-            "index": 805
+            "index": 801
         }
     },
     "Amoonguss": {
@@ -15231,7 +15163,7 @@ var SETDEX_SV = {
                 "Pollen Puff",
                 "Spore"
             ],
-            "index": 686
+            "index": 682
         }
     },
     "Bronzong": {
@@ -15251,7 +15183,7 @@ var SETDEX_SV = {
                 "Future Sight",
                 "Hypnosis"
             ],
-            "index": 687
+            "index": 683
         }
     },
     "Tapu Lele": {
@@ -15269,7 +15201,7 @@ var SETDEX_SV = {
                 "Shadow Ball",
                 "Draining Kiss"
             ],
-            "index": 689
+            "index": 685
         },
         "Cooltrainer Dianne": {
             "level": 89,
@@ -15285,7 +15217,7 @@ var SETDEX_SV = {
                 "Focus Blast",
                 "Thunderbolt"
             ],
-            "index": 893
+            "index": 889
         }
     },
     "Iron Leaves": {
@@ -15303,7 +15235,7 @@ var SETDEX_SV = {
                 "Psyblade",
                 "X-Scissor"
             ],
-            "index": 690
+            "index": 686
         }
     },
     "Iron Boulder": {
@@ -15321,7 +15253,7 @@ var SETDEX_SV = {
                 "Sacred Sword",
                 "Rock Tomb"
             ],
-            "index": 691
+            "index": 687
         },
         "Cooltrainer Quincy": {
             "level": 89,
@@ -15337,7 +15269,7 @@ var SETDEX_SV = {
                 "Sacred Sword",
                 "X-Scissor"
             ],
-            "index": 852
+            "index": 848
         }
     },
     "Iron Crown": {
@@ -15355,7 +15287,7 @@ var SETDEX_SV = {
                 "Air Slash",
                 "Future Sight"
             ],
-            "index": 692
+            "index": 688
         },
         "Cooltrainer Red": {
             "level": 89,
@@ -15371,7 +15303,7 @@ var SETDEX_SV = {
                 "Focus Blast",
                 "Volt Switch"
             ],
-            "index": 922
+            "index": 918
         }
     },
     "Espathra": {
@@ -15389,7 +15321,7 @@ var SETDEX_SV = {
                 "Lumina Crash",
                 "Protect"
             ],
-            "index": 694
+            "index": 690
         }
     },
     "Iron Bundle": {
@@ -15407,7 +15339,7 @@ var SETDEX_SV = {
                 "Freeze-Dry",
                 "Chilling Water"
             ],
-            "index": 707
+            "index": 703
         },
         "Elite Four Misty": {
             "level": 89,
@@ -15423,7 +15355,7 @@ var SETDEX_SV = {
                 "Flip Turn",
                 "Agility"
             ],
-            "index": 972
+            "index": 968
         }
     },
     "Urshifu-Rapid-Strike": {
@@ -15441,7 +15373,7 @@ var SETDEX_SV = {
                 "Ice Spinner",
                 "Poison Jab"
             ],
-            "index": 714
+            "index": 710
         },
         "Drewd": {
             "level": 89,
@@ -15457,7 +15389,7 @@ var SETDEX_SV = {
                 "Ice Spinner",
                 "Thunder Punch"
             ],
-            "index": 937
+            "index": 933
         }
     },
     "Dudunsparce": {
@@ -15475,7 +15407,7 @@ var SETDEX_SV = {
                 "Zen Headbutt",
                 "Poison Jab"
             ],
-            "index": 722
+            "index": 718
         }
     },
     "Chandelure": {
@@ -15491,7 +15423,7 @@ var SETDEX_SV = {
                 "Heat Wave",
                 "Energy Ball"
             ],
-            "index": 730
+            "index": 726
         }
     },
     "Swellow": {
@@ -15509,7 +15441,7 @@ var SETDEX_SV = {
                 "Heat Wave",
                 "U-turn"
             ],
-            "index": 738
+            "index": 734
         }
     },
     "Inteleon": {
@@ -15527,7 +15459,7 @@ var SETDEX_SV = {
                 "Light Screen",
                 "Reflect"
             ],
-            "index": 741
+            "index": 737
         }
     },
     "Magneton": {
@@ -15545,7 +15477,7 @@ var SETDEX_SV = {
                 "Light Screen",
                 "Reflect"
             ],
-            "index": 747
+            "index": 743
         }
     },
     "Dugtrio": {
@@ -15563,7 +15495,7 @@ var SETDEX_SV = {
                 "Sucker Punch",
                 "Stealth Rock"
             ],
-            "index": 748
+            "index": 744
         }
     },
     "Flutter Mane": {
@@ -15581,7 +15513,7 @@ var SETDEX_SV = {
                 "Shadow Ball",
                 "Mystical Fire"
             ],
-            "index": 752
+            "index": 748
         },
         "Cooltrainer MBF": {
             "level": 89,
@@ -15597,7 +15529,7 @@ var SETDEX_SV = {
                 "Mystical Fire",
                 "Protect"
             ],
-            "index": 901
+            "index": 897
         },
         "Cooltrainer Mitchell": {
             "level": 89,
@@ -15613,7 +15545,7 @@ var SETDEX_SV = {
                 "Shadow Ball",
                 "Mystical Fire"
             ],
-            "index": 928
+            "index": 924
         },
         "Champion May": {
             "level": 89,
@@ -15629,7 +15561,7 @@ var SETDEX_SV = {
                 "Thunderbolt",
                 "Mystical Fire"
             ],
-            "index": 978
+            "index": 974
         }
     },
     "Darmanitan": {
@@ -15647,7 +15579,7 @@ var SETDEX_SV = {
                 "Earthquake",
                 "U-turn"
             ],
-            "index": 755
+            "index": 751
         }
     },
     "Silvally-Fighting": {
@@ -15665,7 +15597,7 @@ var SETDEX_SV = {
                 "Psychic Fangs",
                 "Crunch"
             ],
-            "index": 758
+            "index": 754
         }
     },
     "Milotic": {
@@ -15683,7 +15615,7 @@ var SETDEX_SV = {
                 "Alluring Voice",
                 "Recover"
             ],
-            "index": 762
+            "index": 758
         }
     },
     "Talonflame": {
@@ -15701,7 +15633,7 @@ var SETDEX_SV = {
                 "Overheat",
                 "U-turn"
             ],
-            "index": 763
+            "index": 759
         }
     },
     "Porygon-Z": {
@@ -15719,7 +15651,7 @@ var SETDEX_SV = {
                 "Ice Beam",
                 "Nasty Plot"
             ],
-            "index": 768
+            "index": 764
         }
     },
     "Latias": {
@@ -15737,7 +15669,7 @@ var SETDEX_SV = {
                 "Light Screen",
                 "Reflect"
             ],
-            "index": 770
+            "index": 766
         },
         "Expert Magik": {
             "level": 89,
@@ -15753,7 +15685,7 @@ var SETDEX_SV = {
                 "Aura Sphere",
                 "Alluring Voice"
             ],
-            "index": 872
+            "index": 868
         },
         "Champion May": {
             "level": 89,
@@ -15769,7 +15701,7 @@ var SETDEX_SV = {
                 "Alluring Voice",
                 "Calm Mind"
             ],
-            "index": 979
+            "index": 975
         }
     },
     "Nihilego": {
@@ -15787,7 +15719,7 @@ var SETDEX_SV = {
                 "Grass Knot",
                 "Stealth Rock"
             ],
-            "index": 771
+            "index": 767
         }
     },
     "Meganium": {
@@ -15805,7 +15737,7 @@ var SETDEX_SV = {
                 "Earthquake",
                 "Facade"
             ],
-            "index": 778
+            "index": 774
         }
     },
     "Entei": {
@@ -15823,7 +15755,7 @@ var SETDEX_SV = {
                 "Extreme Speed",
                 "Trailblaze"
             ],
-            "index": 780
+            "index": 776
         },
         "Cooltrainer Shannon": {
             "level": 89,
@@ -15839,7 +15771,7 @@ var SETDEX_SV = {
                 "Extreme Speed",
                 "Flame Charge"
             ],
-            "index": 880
+            "index": 876
         }
     },
     "Landorus-Therian": {
@@ -15857,7 +15789,7 @@ var SETDEX_SV = {
                 "Extrasensory",
                 "U-turn"
             ],
-            "index": 781
+            "index": 777
         },
         "Elite Four Jasmine": {
             "level": 89,
@@ -15873,7 +15805,7 @@ var SETDEX_SV = {
                 "Rock Slide",
                 "U-turn"
             ],
-            "index": 953
+            "index": 949
         }
     },
     "Zapdos": {
@@ -15891,7 +15823,7 @@ var SETDEX_SV = {
                 "Heat Wave",
                 "Roost"
             ],
-            "index": 782
+            "index": 778
         },
         "Cooltrainer Quincy": {
             "level": 89,
@@ -15907,7 +15839,7 @@ var SETDEX_SV = {
                 "Weather Ball",
                 "Heat Wave"
             ],
-            "index": 855
+            "index": 851
         }
     },
     "Fezandipiti": {
@@ -15925,7 +15857,7 @@ var SETDEX_SV = {
                 "Heat Wave",
                 "Roost"
             ],
-            "index": 784
+            "index": 780
         }
     },
     "Suicune": {
@@ -15943,7 +15875,7 @@ var SETDEX_SV = {
                 "Recover",
                 "Tailwind"
             ],
-            "index": 788
+            "index": 784
         }
     },
     "Chien-Pao": {
@@ -15959,7 +15891,7 @@ var SETDEX_SV = {
                 "Ice Spinner",
                 "Lash Out"
             ],
-            "index": 789
+            "index": 785
         }
     },
     "Terapagos": {
@@ -15977,7 +15909,7 @@ var SETDEX_SV = {
                 "Earth Power",
                 "Energy Ball"
             ],
-            "index": 793
+            "index": 789
         }
     },
     "Orbeetle": {
@@ -15995,7 +15927,7 @@ var SETDEX_SV = {
                 "Light Screen",
                 "Reflect"
             ],
-            "index": 799
+            "index": 795
         }
     },
     "Muk": {
@@ -16013,7 +15945,7 @@ var SETDEX_SV = {
                 "Drain Punch",
                 "Ice Punch"
             ],
-            "index": 801
+            "index": 797
         }
     },
     "Aurorus": {
@@ -16029,7 +15961,7 @@ var SETDEX_SV = {
                 "Hyper Voice",
                 "Ancient Power"
             ],
-            "index": 804
+            "index": 800
         }
     },
     "Mabosstiff": {
@@ -16047,7 +15979,7 @@ var SETDEX_SV = {
                 "Body Slam",
                 "Hone Claws"
             ],
-            "index": 810
+            "index": 806
         }
     },
     "Meowstic": {
@@ -16065,7 +15997,7 @@ var SETDEX_SV = {
                 "Dark Pulse",
                 "Alluring Voice"
             ],
-            "index": 811
+            "index": 807
         }
     },
     "Togekiss": {
@@ -16083,7 +16015,7 @@ var SETDEX_SV = {
                 "Extrasensory",
                 "Ancient Power"
             ],
-            "index": 814
+            "index": 810
         },
         "Elite Four Misty": {
             "level": 90,
@@ -16099,7 +16031,7 @@ var SETDEX_SV = {
                 "Fire Blast",
                 "Tri Attack"
             ],
-            "index": 976
+            "index": 972
         }
     },
     "Hitmonchan": {
@@ -16117,7 +16049,7 @@ var SETDEX_SV = {
                 "Bullet Punch",
                 "Fake Out"
             ],
-            "index": 822
+            "index": 818
         }
     },
     "Pangoro": {
@@ -16135,7 +16067,7 @@ var SETDEX_SV = {
                 "Poison Jab",
                 "Bullet Punch"
             ],
-            "index": 825
+            "index": 821
         }
     },
     "Ursaluna": {
@@ -16153,7 +16085,7 @@ var SETDEX_SV = {
                 "Ice Punch",
                 "Trailblaze"
             ],
-            "index": 829
+            "index": 825
         }
     },
     "Electivire": {
@@ -16171,7 +16103,7 @@ var SETDEX_SV = {
                 "Hammer Arm",
                 "Reflect"
             ],
-            "index": 830
+            "index": 826
         }
     },
     "Reshiram": {
@@ -16189,7 +16121,7 @@ var SETDEX_SV = {
                 "Earth Power",
                 "Dragon Tail"
             ],
-            "index": 832
+            "index": 828
         }
     },
     "Walking Wake": {
@@ -16207,7 +16139,7 @@ var SETDEX_SV = {
                 "Flamethrower",
                 "Sleep Talk"
             ],
-            "index": 835
+            "index": 831
         },
         "Aroma Lady Rachel": {
             "level": 89,
@@ -16223,7 +16155,7 @@ var SETDEX_SV = {
                 "Flamethrower",
                 "Protect"
             ],
-            "index": 867
+            "index": 863
         },
         "Cooltrainer MBF": {
             "level": 89,
@@ -16239,7 +16171,7 @@ var SETDEX_SV = {
                 "Flamethrower",
                 "Protect"
             ],
-            "index": 903
+            "index": 899
         }
     },
     "Raging Bolt": {
@@ -16257,7 +16189,7 @@ var SETDEX_SV = {
                 "Solar Beam",
                 "Ancient Power"
             ],
-            "index": 836
+            "index": 832
         },
         "Aqua Leader Archie": {
             "level": 89,
@@ -16273,7 +16205,7 @@ var SETDEX_SV = {
                 "Dragon Pulse",
                 "Calm Mind"
             ],
-            "index": 950
+            "index": 946
         }
     },
     "Gouging Fire": {
@@ -16291,7 +16223,7 @@ var SETDEX_SV = {
                 "Stomping Tantrum",
                 "Burning Bulwark"
             ],
-            "index": 837
+            "index": 833
         },
         "Magma Leader Maxie": {
             "level": 89,
@@ -16307,7 +16239,7 @@ var SETDEX_SV = {
                 "Earthquake",
                 "Howl"
             ],
-            "index": 944
+            "index": 940
         }
     },
     "Enamorus-Therian": {
@@ -16325,7 +16257,7 @@ var SETDEX_SV = {
                 "Calm Mind",
                 "Mystical Fire"
             ],
-            "index": 858
+            "index": 854
         }
     },
     "Ferrothorn": {
@@ -16343,7 +16275,7 @@ var SETDEX_SV = {
                 "Gyro Ball",
                 "Curse"
             ],
-            "index": 859
+            "index": 855
         }
     },
     "Dracovish": {
@@ -16358,7 +16290,7 @@ var SETDEX_SV = {
             "moves": [
                 "Fishious Rend"
             ],
-            "index": 861
+            "index": 857
         }
     },
     "Heatran": {
@@ -16376,7 +16308,7 @@ var SETDEX_SV = {
                 "Earth Power",
                 "Flame Charge"
             ],
-            "index": 869
+            "index": 865
         }
     },
     "Jirachi": {
@@ -16394,7 +16326,7 @@ var SETDEX_SV = {
                 "Flash Cannon",
                 "Calm Mind"
             ],
-            "index": 874
+            "index": 870
         }
     },
     "Comfey": {
@@ -16412,7 +16344,7 @@ var SETDEX_SV = {
                 "Knock Off",
                 "U-turn"
             ],
-            "index": 910
+            "index": 906
         }
     },
     "Shaymin-Sky": {
@@ -16430,7 +16362,7 @@ var SETDEX_SV = {
                 "Earth Power",
                 "Grass Whistle"
             ],
-            "index": 913
+            "index": 909
         }
     },
     "Marshadow": {
@@ -16448,7 +16380,7 @@ var SETDEX_SV = {
                 "Shadow Sneak",
                 "Knock Off"
             ],
-            "index": 915
+            "index": 911
         }
     },
     "Magearna": {
@@ -16466,7 +16398,7 @@ var SETDEX_SV = {
                 "Psychic",
                 "Substitute"
             ],
-            "index": 924
+            "index": 920
         }
     },
     "Enamorus": {
@@ -16482,7 +16414,7 @@ var SETDEX_SV = {
                 "Misty Explosion",
                 "Hurricane"
             ],
-            "index": 933
+            "index": 929
         }
     },
     "Darmanitan-Galar": {
@@ -16500,7 +16432,7 @@ var SETDEX_SV = {
                 "Icicle Crash",
                 "Stone Edge"
             ],
-            "index": 939
+            "index": 935
         }
     },
     "Groudon": {
@@ -16518,7 +16450,7 @@ var SETDEX_SV = {
                 "Thunder Punch",
                 "Hammer Arm"
             ],
-            "index": 941
+            "index": 937
         }
     },
     "Honchkrow": {
@@ -16536,7 +16468,7 @@ var SETDEX_SV = {
                 "Heat Wave",
                 "U-turn"
             ],
-            "index": 942
+            "index": 938
         }
     },
     "Scovillain": {
@@ -16554,7 +16486,7 @@ var SETDEX_SV = {
                 "Zen Headbutt",
                 "Rest"
             ],
-            "index": 945
+            "index": 941
         }
     },
     "Ogerpon-Hearthflame": {
@@ -16572,7 +16504,7 @@ var SETDEX_SV = {
                 "Superpower",
                 "Spiky Shield"
             ],
-            "index": 946
+            "index": 942
         }
     },
     "Kyogre": {
@@ -16590,7 +16522,7 @@ var SETDEX_SV = {
                 "Ice Beam",
                 "Ancient Power"
             ],
-            "index": 947
+            "index": 943
         }
     },
     "Eiscue": {
@@ -16608,7 +16540,7 @@ var SETDEX_SV = {
                 "Head Smash",
                 "Liquidation"
             ],
-            "index": 949
+            "index": 945
         }
     },
     "Ogerpon-Wellspring": {
@@ -16626,7 +16558,7 @@ var SETDEX_SV = {
                 "Superpower",
                 "Spiky Shield"
             ],
-            "index": 952
+            "index": 948
         }
     },
     "Raikou": {
@@ -16644,7 +16576,7 @@ var SETDEX_SV = {
                 "Aura Sphere",
                 "Electroweb"
             ],
-            "index": 956
+            "index": 952
         }
     },
     "Melmetal": {
@@ -16662,7 +16594,7 @@ var SETDEX_SV = {
                 "Superpower",
                 "Protect"
             ],
-            "index": 958
+            "index": 954
         }
     },
     "Bewear": {
@@ -16680,7 +16612,7 @@ var SETDEX_SV = {
                 "High Horsepower",
                 "Iron Head"
             ],
-            "index": 961
+            "index": 957
         }
     },
     "Munkidori": {
@@ -16698,7 +16630,7 @@ var SETDEX_SV = {
                 "Future Sight",
                 "Fake Out"
             ],
-            "index": 962
+            "index": 958
         }
     },
     "Zeraora": {
@@ -16716,7 +16648,7 @@ var SETDEX_SV = {
                 "Ice Punch",
                 "Fake Out"
             ],
-            "index": 973
+            "index": 969
         }
     },
     "Manaphy": {
@@ -16734,7 +16666,7 @@ var SETDEX_SV = {
                 "Ice Beam",
                 "Protect"
             ],
-            "index": 974
+            "index": 970
         }
     },
     "Koraidon": {
@@ -16752,7 +16684,7 @@ var SETDEX_SV = {
                 "Flare Blitz",
                 "Iron Head"
             ],
-            "index": 977
+            "index": 973
         }
     }
 }
