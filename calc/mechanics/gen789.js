@@ -41,6 +41,11 @@ function calculateSMSSSV(gen, attacker, defender, move, field) {
         isDefenderDynamaxed: defender.isDynamaxed,
         isWonderRoom: field.isWonderRoom
     };
+
+    if (move.named('Photon Geyser', 'Light That Burns The Sky') ||
+       (move.named('Tera Blast') && attacker.teraType)) {
+        move.category = attacker.stats.atk > attacker.stats.spa ? 'Physical' : 'Special';
+    }
     var result = new result_1.Result(gen, attacker, defender, move, field, 0, desc);
     if (move.category === 'Status' && !move.named('Nature Power')) {
         return result;
@@ -333,11 +338,7 @@ function calculateSMSSSV(gen, attacker, defender, move, field) {
         return result;
     }
     var attack = calculateAttackSMSSSV(gen, attacker, defender, move, field, desc, isCritical);
-    var attackSource = move.named('Foul Play') ? defender : attacker;
-    if (move.named('Photon Geyser', 'Light That Burns The Sky') ||
-        (move.named('Tera Blast') && attackSource.teraType)) {
-        move.category = attackSource.stats.atk > attackSource.stats.spa ? 'Physical' : 'Special';
-    }
+
     var attackStat = move.named('Shell Side Arm') &&
         (0, util_2.getShellSideArmCategory)(attacker, defender) === 'Physical'
         ? 'atk'
