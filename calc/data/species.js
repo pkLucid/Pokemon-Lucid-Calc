@@ -8884,7 +8884,7 @@ var PLA_PATCH = {
     },
     Kleavor: {
         types: ['Bug', 'Rock'],
-        bs: { hp: 70, at: 130, df: 95, sa: 45, sd: 75, sp: 85 },
+        bs: { hp: 70, at: 135, df: 95, sa: 45, sd: 70, sp: 85 },
         weightkg: 89,
         abilities: { 0: 'Swarm' }
     },
