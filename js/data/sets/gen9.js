@@ -3683,7 +3683,7 @@ var SETDEX_SV = {
             "level": 30,
             "ivs": null,
             "item": "Mystic Water",
-            "ability": "Shell Armor",
+            "ability": "Hyper Cutter",
             "nature": "Adamant",
             "teraType": null,
             "status": "Healthy",
@@ -4706,9 +4706,9 @@ var SETDEX_SV = {
     },
     "Sandy Shocks": {
         "Leader Wattson": {
-            "level": 31,
+            "level": 30,
             "ivs": null,
-            "item": "Leftovers",
+            "item": "Lum Berry",
             "ability": "Protosynthesis",
             "nature": "Timid",
             "teraType": null,
@@ -4716,8 +4716,8 @@ var SETDEX_SV = {
             "moves": [
                 "Discharge",
                 "Scorching Sands",
-                "Tri Attack",
-                "Charge Beam"
+                "Power Gem",
+                "Hidden Power Grass"
             ],
             "index": 170
         },
@@ -8780,7 +8780,7 @@ var SETDEX_SV = {
             "level": 38,
             "ivs": null,
             "item": "Assault Vest",
-            "ability": "Water Absorb",
+            "ability": "Shell Armor",
             "nature": "Bold",
             "teraType": null,
             "status": "Healthy",
@@ -8788,7 +8788,7 @@ var SETDEX_SV = {
                 "Surf",
                 "Ice Beam",
                 "Thunderbolt",
-                "Sing"
+                "Icy Wind"
             ],
             "index": 288
         },
@@ -13006,7 +13006,7 @@ var SETDEX_SV = {
                 "Zen Headbutt",
                 "Drain Punch",
                 "Thunder Punch",
-                "Fake Out"
+                "Ice Punch"
             ],
             "index": 650
         },
@@ -15053,24 +15053,56 @@ var SETDEX_SV = {
             "index": 653
         }
     },
-    "Pachirisu": {
+    "Togekiss": {
         "Psychic Blake and Psychic Samantha": {
             "level": 70,
             "ivs": {
                 "sp": 0
             },
-            "item": "Sitrus Berry",
-            "ability": "Static",
+            "item": "Fairy Feather",
+            "ability": "Aerilate",
             "nature": "Bold",
             "teraType": null,
             "status": "Healthy",
             "moves": [
-                "Super Fang",
-                "Nuzzle",
-                "Follow Me",
-                "Light Screen"
+                "Alluring Voice",
+                "Tera Blast",
+                "Flamethrower",
+                "Follow Me"
             ],
             "index": 654
+        },
+        "Hex Maniac Cole": {
+            "level": 75,
+            "ivs": null,
+            "item": "Blunder Policy",
+            "ability": "Serene Grace",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Air Slash",
+                "Fire Blast",
+                "Extrasensory",
+                "Ancient Power"
+            ],
+            "index": 810
+        },
+        "Elite Four Misty": {
+            "level": 90,
+            "ivs": null,
+            "item": "Wide Lens",
+            "ability": "Aerilate",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hyper Voice",
+                "Dazzling Gleam",
+                "Fire Blast",
+                "Tri Attack"
+            ],
+            "index": 972
         }
     },
     "Camerupt": {
@@ -15096,7 +15128,7 @@ var SETDEX_SV = {
             "level": 75,
             "ivs": null,
             "item": "Quick Claw",
-            "ability": "Solid Rock",
+            "ability": "Magma Armor",
             "nature": "Quiet",
             "teraType": null,
             "status": "Healthy",
@@ -15998,40 +16030,6 @@ var SETDEX_SV = {
                 "Alluring Voice"
             ],
             "index": 807
-        }
-    },
-    "Togekiss": {
-        "Hex Maniac Cole": {
-            "level": 75,
-            "ivs": null,
-            "item": "Blunder Policy",
-            "ability": "Serene Grace",
-            "nature": "Timid",
-            "teraType": null,
-            "status": "Healthy",
-            "moves": [
-                "Air Slash",
-                "Fire Blast",
-                "Extrasensory",
-                "Ancient Power"
-            ],
-            "index": 810
-        },
-        "Elite Four Misty": {
-            "level": 90,
-            "ivs": null,
-            "item": "Wide Lens",
-            "ability": "Aerilate",
-            "nature": "Modest",
-            "teraType": null,
-            "status": "Healthy",
-            "moves": [
-                "Hyper Voice",
-                "Dazzling Gleam",
-                "Fire Blast",
-                "Tri Attack"
-            ],
-            "index": 972
         }
     },
     "Hitmonchan": {
