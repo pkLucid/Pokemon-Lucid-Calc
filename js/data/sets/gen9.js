@@ -4707,7 +4707,11 @@ var SETDEX_SV = {
     "Sandy Shocks": {
         "Leader Wattson": {
             "level": 30,
-            "ivs": null,
+            "ivs": {
+                "at": 30,
+                "sa": 30,
+                "sp": 30
+            },
             "item": "Lum Berry",
             "ability": "Protosynthesis",
             "nature": "Timid",
