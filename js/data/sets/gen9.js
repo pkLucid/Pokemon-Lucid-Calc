@@ -4717,7 +4717,7 @@ var SETDEX_SV = {
                 "Discharge",
                 "Scorching Sands",
                 "Power Gem",
-                "Hidden Power Grass"
+                "Hidden Power Fire"
             ],
             "index": 170
         },
