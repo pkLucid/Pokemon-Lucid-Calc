@@ -8212,13 +8212,13 @@ var SETDEX_SV = {
         "Picnicker Angelina": {
             "level": 38,
             "ivs": null,
-            "item": "Grass Gem",
-            "ability": "Sharpness",
+            "item": "Loaded Dice",
+            "ability": "Technician",
             "nature": "Adamant",
             "teraType": null,
             "status": "Healthy",
             "moves": [
-                "Leaf Blade",
+                "Bullet Seed",
                 "X-Scissor",
                 "Trailblaze",
                 "Yawn"
