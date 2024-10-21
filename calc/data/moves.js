@@ -4267,7 +4267,7 @@ var SV_PATCH = {
         isWind: true,
         target: 'allAdjacentFoes'
     },
-    'Blood Moon': { bp: 120, category: 'Special', type: 'Normal' },
+    'Blood Moon': { bp: 140, category: 'Special', type: 'Normal' },
     'Burning Bulwark': { bp: 0, type: 'Fire', priority: 4 },
     'Ceaseless Edge': {
         bp: 65,
