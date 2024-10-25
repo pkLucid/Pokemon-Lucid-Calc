@@ -974,9 +974,12 @@ function calculateAtModsSMSSSV(gen, attacker, defender, move, field, desc) {
     }
     else if ((attacker.hasAbility('Steelworker') && move.hasType('Steel')) ||
         (attacker.hasAbility('Dragon\'s Maw') && move.hasType('Dragon')) ||
-        (attacker.hasAbility('Transistor') && move.hasType('Electric')) ||
         (attacker.hasAbility('Rocky Payload') && move.hasType('Rock'))) {
-        atMods.push(6144);
+            atMods.push(6144);
+            desc.attackerAbility = attacker.ability;
+        }
+    else if (attacker.hasAbility('Transistor') && move.hasType('Electric')) {
+        atMods.push(5325);
         desc.attackerAbility = attacker.ability;
     }
     else if (attacker.hasAbility('Stakeout') && attacker.abilityOn) {
