@@ -11013,7 +11013,7 @@ var SETDEX_SV = {
             "level": 55,
             "ivs": null,
             "item": "Air Balloon",
-            "ability": "Flash Fire",
+            "ability": "Flame Body",
             "nature": "Timid",
             "teraType": "Steel",
             "status": "Healthy",
