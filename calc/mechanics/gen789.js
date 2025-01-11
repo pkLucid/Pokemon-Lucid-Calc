@@ -577,6 +577,10 @@ function calculateBasePowerSMSSSV(gen, attacker, defender, move, field, hasAteAb
             basePower = move.bp * (((0, util_2.isGrounded)(defender, field) && field.hasTerrain('Electric')) ? 2 : 1);
             desc.moveBP = basePower;
             break;
+        case 'Psyblade':
+            basePower = move.bp * ((field.hasTerrain('Electric')) ? 1.5 : 1);
+            desc.moveBP = basePower;
+            break;
         case 'Fling':
             basePower = (0, items_1.getFlingPower)(attacker.item);
             desc.moveBP = basePower;
