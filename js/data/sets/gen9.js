@@ -3376,9 +3376,9 @@ var SETDEX_SV = {
             "index": 299
         },
         "Brian and Bazzo": {
-            "level": 70,
+            "level": 68,
             "ivs": null,
-            "item": "Colbur Berry",
+            "item": "Electric Gem",
             "ability": "Surge Surfer",
             "nature": "Naive",
             "teraType": null,
@@ -3387,7 +3387,7 @@ var SETDEX_SV = {
                 "Fake Out",
                 "Thunder",
                 "Volt Switch",
-                "Expanding Force"
+                "Psychic"
             ],
             "index": 573
         },
@@ -11061,7 +11061,7 @@ var SETDEX_SV = {
             "level": 75,
             "ivs": null,
             "item": "Choice Scarf",
-            "ability": "Infiltrator",
+            "ability": "Flame Body",
             "nature": "Modest",
             "teraType": null,
             "status": "Healthy",
@@ -11332,9 +11332,9 @@ var SETDEX_SV = {
             "index": 370
         },
         "Brian and Bazzo": {
-            "level": 70,
+            "level": 68,
             "ivs": null,
-            "item": "Focus Sash",
+            "item": "Covert Cloak",
             "ability": "Lightning Rod",
             "nature": "Careful",
             "teraType": null,
@@ -11342,8 +11342,8 @@ var SETDEX_SV = {
             "moves": [
                 "Rock Wrecker",
                 "Earthquake",
-                "Supercell Slam",
-                "Reversal"
+                "Hammer Arm",
+                "Fire Punch"
             ],
             "index": 572
         },
@@ -14628,109 +14628,27 @@ var SETDEX_SV = {
             "index": 568
         }
     },
-    "Togekiss": {
+    "Slowbro": {
         "Brian and Bazzo": {
-            "level": 70,
+            "level": 68,
             "ivs": null,
-            "item": "Power Herb",
-            "ability": "Aerilate",
-            "nature": "Bold",
+            "item": "Leftovers",
+            "ability": "Own Tempo",
+            "nature": "Calm",
             "teraType": null,
             "status": "Healthy",
             "moves": [
-                "Hyper Voice",
+                "Psychic",
+                "Scald",
                 "Fire Blast",
-                "Solar Beam",
-                "Follow Me"
+                "Future Sight"
             ],
             "index": 569
-        },
-        "Psychic Blake and Psychic Samantha": {
-            "level": 70,
-            "ivs": {
-                "sp": 0
-            },
-            "item": "Fairy Feather",
-            "ability": "Aerilate",
-            "nature": "Bold",
-            "teraType": null,
-            "status": "Healthy",
-            "moves": [
-                "Alluring Voice",
-                "Tera Blast",
-                "Flamethrower",
-                "Follow Me"
-            ],
-            "index": 690
-        },
-        "Swimmer Kelly": {
-            "level": 77,
-            "ivs": null,
-            "item": "Throat Spray",
-            "ability": "Aerilate",
-            "nature": "Modest",
-            "teraType": null,
-            "status": "Healthy",
-            "moves": [
-                "Alluring Voice",
-                "Hyper Voice",
-                "Flamethrower",
-                "Aura Sphere"
-            ],
-            "index": 779
-        },
-        "Hex Maniac Cole": {
-            "level": 75,
-            "ivs": null,
-            "item": "Blunder Policy",
-            "ability": "Serene Grace",
-            "nature": "Timid",
-            "teraType": null,
-            "status": "Healthy",
-            "moves": [
-                "Air Slash",
-                "Fire Blast",
-                "Extrasensory",
-                "Ancient Power"
-            ],
-            "index": 885
-        },
-        "Cooltrainer Dianne": {
-            "level": 90,
-            "ivs": null,
-            "item": "Flying Gem",
-            "ability": "Serene Grace",
-            "nature": "Timid",
-            "teraType": null,
-            "status": "Healthy",
-            "moves": [
-                "Air Slash",
-                "Draining Kiss",
-                "Psyshock",
-                "Nasty Plot"
-            ],
-            "index": 975
-        },
-        "Elite Four Misty": {
-            "level": 90,
-            "ivs": null,
-            "item": "Fairy Feather",
-            "ability": "Aerilate",
-            "nature": "Modest",
-            "teraType": null,
-            "status": "Healthy",
-            "moves": [
-                "Hyper Voice",
-                "Dazzling Gleam",
-                "Fire Blast",
-                "Tri Attack"
-            ],
-            "index": 1053
         }
     },
     "Breloom": {
         "Brian and Bazzo": {
-            "level": 70,
+            "level": 68,
             "ivs": null,
             "item": "King\u2019s Rock",
             "ability": "Technician",
@@ -14739,7 +14657,7 @@ var SETDEX_SV = {
             "status": "Healthy",
             "moves": [
                 "Spore",
-                "Protect",
+                "Rock Tomb",
                 "Mach Punch",
                 "Bullet Seed"
             ],
@@ -14748,9 +14666,9 @@ var SETDEX_SV = {
     },
     "Snorlax": {
         "Brian and Bazzo": {
-            "level": 70,
+            "level": 68,
             "ivs": null,
-            "item": "Chople Berry",
+            "item": "Mental Herb",
             "ability": "Thick Fat",
             "nature": "Impish",
             "teraType": null,
@@ -15993,6 +15911,90 @@ var SETDEX_SV = {
                 "Hypnosis"
             ],
             "index": 689
+        }
+    },
+    "Togekiss": {
+        "Psychic Blake and Psychic Samantha": {
+            "level": 70,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Fairy Feather",
+            "ability": "Aerilate",
+            "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Alluring Voice",
+                "Tera Blast",
+                "Flamethrower",
+                "Follow Me"
+            ],
+            "index": 690
+        },
+        "Swimmer Kelly": {
+            "level": 77,
+            "ivs": null,
+            "item": "Throat Spray",
+            "ability": "Aerilate",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Alluring Voice",
+                "Hyper Voice",
+                "Flamethrower",
+                "Aura Sphere"
+            ],
+            "index": 779
+        },
+        "Hex Maniac Cole": {
+            "level": 75,
+            "ivs": null,
+            "item": "Blunder Policy",
+            "ability": "Serene Grace",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Air Slash",
+                "Fire Blast",
+                "Extrasensory",
+                "Ancient Power"
+            ],
+            "index": 885
+        },
+        "Cooltrainer Dianne": {
+            "level": 90,
+            "ivs": null,
+            "item": "Flying Gem",
+            "ability": "Serene Grace",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Air Slash",
+                "Draining Kiss",
+                "Psyshock",
+                "Nasty Plot"
+            ],
+            "index": 975
+        },
+        "Elite Four Misty": {
+            "level": 90,
+            "ivs": null,
+            "item": "Fairy Feather",
+            "ability": "Aerilate",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hyper Voice",
+                "Dazzling Gleam",
+                "Fire Blast",
+                "Tri Attack"
+            ],
+            "index": 1053
         }
     },
     "Sylveon": {
