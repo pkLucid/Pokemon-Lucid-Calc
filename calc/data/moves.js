@@ -1947,7 +1947,7 @@ var XY_PATCH = {
         secondaries: true
     },
     'Power-Up Punch': {
-        bp: 40,
+        bp: 60,
         type: 'Fighting',
         makesContact: true,
         isPunch: true,
