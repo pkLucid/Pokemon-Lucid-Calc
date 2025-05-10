@@ -42,6 +42,12 @@ function calculateSMSSSV(gen, attacker, defender, move, field) {
         isWonderRoom: field.isWonderRoom
     };
 
+    if (!attacker.name) {
+        attacker.name = ""
+    } else if (!defender.name) {
+        defender.name = ""
+    }
+
     if (move.named('Photon Geyser', 'Light That Burns The Sky') ||
        (move.named('Tera Blast') && attacker.teraType)) {
         move.category = attacker.stats.atk > attacker.stats.spa ? 'Physical' : 'Special';
