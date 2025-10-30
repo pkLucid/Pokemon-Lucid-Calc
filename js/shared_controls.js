@@ -1809,6 +1809,7 @@ function switchIconDouble(){
 }
 
 $(document).ready(function () {
+	fillBattleNotes();
 	var params = new URLSearchParams(window.location.search);
 	var g = GENERATION[params.get('gen')] || 9;
 	$("#gen" + g).prop("checked", true);
@@ -1863,4 +1864,17 @@ $("#mainResult").click(function () {
 			document.getElementById('tooltipText').style.visibility = 'hidden';
 		}, 2000);
 	});
+});
+
+function fillBattleNotes(){
+	let lastNotes = localStorage.getItem("pklucid_battlenotes");
+	if (lastNotes != ""){
+		lastNotes = JSON.parse(lastNotes);
+		$(".battle-notes-text").val(lastNotes);
+	}
+}
+
+$(".battle-notes-text").on("blur", function(){
+	let notes = JSON.stringify($(this).val());
+	localStorage.setItem("pklucid_battlenotes", notes);
 });

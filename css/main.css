@@ -476,6 +476,12 @@ table.field {
     resize: vertical;
 }
 
+.battle-notes-text {
+    min-width: 27em;
+    min-height: 10em;
+    resize: vertical;
+}
+
 .import-name-text {
 	min-width: 26.3em;
     min-height: 1em;
